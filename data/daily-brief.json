@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-28T08:30:00Z",
-  "fetchCount": 1,
+  "lastUpdated": "2026-05-28T03:24:01.029559+00:00",
+  "fetchCount": 2,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -58,59 +58,169 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
-      "id": "brief-20260528-006",
+      "id": "brief-20260528-43c780a1",
       "priority": "watch",
-      "icon": "📱",
-      "title": "Honor of Kings: World 封測玩家數突破 50 萬",
-      "detail": "TiMi Studio 開放世界新作封測擴大，手機端佔比 72%。",
-      "action": "持續追蹤手機端留存數據。",
-      "platform": "mobile",
-      "source": "遊戲葡萄",
-      "fetchedAt": "2026-05-28T06:45:00Z"
-    },
-    {
-      "id": "brief-20260528-007",
-      "priority": "info",
-      "icon": "💰",
-      "title": "Krafton 完成 1.2 億美金收購",
-      "detail": "收購印度工作室 Mayhem Studios，計劃面向南亞 Battle Royale。今年第三筆收購。",
-      "action": "標記為東南亞市場動態。",
+      "icon": "👁",
+      "title": "Steam Workshop now looks like it was designed in this decade",
+      "detail": "Workshop just got a fancy UI update, fresh out of the beta branch.",
+      "action": "待人工審核確認影響程度。",
       "platform": "console",
-      "source": "Reuters",
-      "fetchedAt": "2026-05-28T06:30:00Z"
+      "source": "PC Gamer",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
     },
     {
-      "id": "brief-20260527-001",
+      "id": "brief-20260528-f8715152",
       "priority": "watch",
-      "icon": "🔥",
-      "title": "Chrono Shift 預告片觀看破千萬",
-      "detail": "Square Enix HD-2D 新作預告片在 YouTube 累計突破 1000 萬觀看，社群情緒極正面。",
-      "action": "JRPG 品類關注度持續上升，納入趨勢報告。",
-      "platform": "mobile",
-      "source": "YouTube",
-      "fetchedAt": "2026-05-27T08:30:00Z"
-    },
-    {
-      "id": "brief-20260527-002",
-      "priority": "info",
-      "icon": "📈",
-      "title": "Roguelike 品類 Steam 新增 47 款",
-      "detail": "Google Trends 亞太區 Roguelike 搜索連續 3 個月雙位數成長。Steam 本月新增 47 款。",
-      "action": "飽和度 1.56 仍健康但需觀察。",
+      "icon": "👁",
+      "title": "No Man’s Sky’s Latest Threat Seems Like A Star Wars Homage",
+      "detail": "This week marks the 49th anniversary of the original Star Wars movie, and Hello Games appears to be paying homage to the seminal flick with its “mysterious Death Star-like construct” that will debut i",
+      "action": "待人工審核確認影響程度。",
       "platform": "console",
-      "source": "SteamDB / Google Trends",
-      "fetchedAt": "2026-05-27T08:00:00Z"
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
     },
     {
-      "id": "brief-20260527-003",
+      "id": "brief-20260528-997d9b0e",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "Playing 007 First Light? Send us gameplay videos galore and you could win a $500",
+      "detail": "Your best clip could win big.",
+      "action": "待人工審核確認影響程度。",
+      "platform": "console",
+      "source": "PC Gamer",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
+    },
+    {
+      "id": "brief-20260528-cd922eb8",
       "priority": "info",
-      "icon": "🎯",
-      "title": "Nikke: Blade 公佈首支遊玩影片",
-      "detail": "Shift Up 釋出 3 分鐘實機影片，動作系統獲正面評價。預註冊兩日增加 30 萬。",
-      "action": "加入手機端競品重點追蹤清單。",
-      "platform": "mobile",
-      "source": "Level Infinite 官方",
-      "fetchedAt": "2026-05-27T07:30:00Z"
+      "icon": "ℹ️",
+      "title": "River City Saga: Journey to the West official trailer",
+      "detail": "Publisher Arc System Works and developer UnitePlus have released the official trailer for roguelite action &#8230;\nSource",
+      "action": "待人工審核確認影響程度。",
+      "platform": "console",
+      "source": "Gematsu",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
+    },
+    {
+      "id": "brief-20260528-b48b5509",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "Saya no Uta gets horrifying “tupperware” merch ahead of stage play, Gen Urobuchi",
+      "detail": "Saya no Uta will be getting an official stage play adaptation starting June, and the commemorative merch for it is grotesquely on-brand.",
+      "action": "待人工審核確認影響程度。",
+      "platform": "console",
+      "source": "Automaton",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
+    },
+    {
+      "id": "brief-20260528-2eee0f9b",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "Nintendo 64 – Nintendo Classics adds Donkey Kong 64 on June 3",
+      "detail": "Nintendo 64 &#8211; Nintendo Classics, which is available as part of Nintendo Switch Online + &#8230;\nSource",
+      "action": "待人工審核確認影響程度。",
+      "platform": "console",
+      "source": "Gematsu",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
+    },
+    {
+      "id": "brief-20260528-29a6b3df",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "Can you identify these 15 console games that found their way to PC after years o",
+      "detail": "Even if I had to heavily mod a few of these, they still count.",
+      "action": "待人工審核確認影響程度。",
+      "platform": "console",
+      "source": "PC Gamer",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
+    },
+    {
+      "id": "brief-20260528-29762c4d",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "Indie dev earns Reddit love after telling people not to buy their game because i",
+      "detail": "The maker of the typing game battle royale Final Sentence reckons you can save a couple bucks for something else.",
+      "action": "待人工審核確認影響程度。",
+      "platform": "console",
+      "source": "PC Gamer",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
+    },
+    {
+      "id": "brief-20260528-d903a989",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "Diablo 4 Is Celebrating Its Birthday With Goblins, XP, And Free Cosmetics",
+      "detail": "Diablo 4 is celebrating three years of demon slaying with increased XP rewards, the return of the game's March of the Goblins event, and daily free cosmetics, but players won't have long to take advan",
+      "action": "待人工審核確認影響程度。",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
+    },
+    {
+      "id": "brief-20260528-ee316a69",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "Zenless Zone Zero 'copied my puzzle game,' indie dev says, posts a pretty convin",
+      "detail": "This is the second time over the past month that MiHoYo has been accused of ripping off an indie project for one of its games.",
+      "action": "待人工審核確認影響程度。",
+      "platform": "console",
+      "source": "PC Gamer",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
+    },
+    {
+      "id": "brief-20260528-9e21434f",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "You Can Unlock Three 007 First Light Outfits For Free With Almost No Effort",
+      "detail": "Looking sharp is an important part of being a super-spy, and developer IO Interactive is giving players a free way to unlock some killer looks in 007 First Light with its now-live Twitch Drop campaign",
+      "action": "待人工審核確認影響程度。",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
+    },
+    {
+      "id": "brief-20260528-619f3948",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "Rayman Legends Remake Reportedly Coming, And Part Of It May Look Much Different",
+      "detail": "Rayman Legends wasn't exactly the smash-hit blockbuster Ubisoft was hoping for when it launched back in 2013, but commercial success be damned--it was one of the best platformers ever made. Now, it ap",
+      "action": "待人工審核確認影響程度。",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
+    },
+    {
+      "id": "brief-20260528-3137455d",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "Steam may have just thrown its weight behind bullet heaven, but last week's stan",
+      "detail": "Luna Abyss was a long time coming, but I'm already hoping for more of its kind.",
+      "action": "待人工審核確認影響程度。",
+      "platform": "console",
+      "source": "PC Gamer",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
+    },
+    {
+      "id": "brief-20260528-6b075ba3",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "New Lord Of The Rings RPG – Here’s Everything We Know About The “Deeply Immersiv",
+      "detail": "The Lord of the Rings is one of the biggest and best-known entertainment franchises, but recent entries in the game series have left much to be desired. The series is continuing with at least one new ",
+      "action": "待人工審核確認影響程度。",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
+    },
+    {
+      "id": "brief-20260528-a3509bdf",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "As its retirement looms, Destiny 2 is still the gold standard for joyous gunplay",
+      "detail": "Even now, shotgun wizards remain unbeatable.",
+      "action": "待人工審核確認影響程度。",
+      "platform": "console",
+      "source": "PC Gamer",
+      "fetchedAt": "2026-05-28T03:24:01.029559+00:00"
     }
   ]
 }
