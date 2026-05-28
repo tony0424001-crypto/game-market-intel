@@ -1,0 +1,116 @@
+{
+  "lastUpdated": "2026-05-28T08:30:00Z",
+  "fetchCount": 1,
+  "items": [
+    {
+      "id": "brief-20260528-001",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Project Mugen 釋出 15 分鐘實機演示",
+      "detail": "NetEase 在直播活動中釋出完整實機演示，展示城市破壞系統和載具戰鬥。YouTube 2 小時內突破 200 萬觀看。預註冊暴漲 40 萬。",
+      "action": "建議立即召開競品分析會議，評估對我方 Q4 產品的影響。",
+      "platform": "mobile",
+      "source": "YouTube / 遊戲媒體",
+      "fetchedAt": "2026-05-28T08:30:00Z"
+    },
+    {
+      "id": "brief-20260528-002",
+      "priority": "urgent",
+      "icon": "⚡",
+      "title": "Starfall Tactics 封測 NDA 解除",
+      "detail": "HoYoverse 新作封測 NDA 今日解除。TapTap 評分 8.9/10，戰棋系統深度獲高評價，抽卡機率遭批評。",
+      "action": "已自動生成封測輿情報告，建議重點關注戰棋系統設計。",
+      "platform": "mobile",
+      "source": "TapTap / Twitch",
+      "fetchedAt": "2026-05-28T08:30:00Z"
+    },
+    {
+      "id": "brief-20260528-003",
+      "priority": "urgent",
+      "icon": "🎮",
+      "title": "GTA VI 第三支預告片發布，確認 10/27 發售",
+      "detail": "Rockstar 發布新預告，確認 10 月 27 日全球發售。PS5/Xbox 獨佔，PC 延後至 2027。預購破歷史紀錄。",
+      "action": "Q4 主機市場將被嚴重擠壓，建議所有主機端產品重新評估上線時間。",
+      "platform": "console",
+      "source": "Rockstar Games 官方",
+      "fetchedAt": "2026-05-28T08:30:00Z"
+    },
+    {
+      "id": "brief-20260528-004",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "Blade & Throne 封測延期兩週",
+      "detail": "Amazon Games 宣布因品質打磨延期至 6 月中旬。社群反應兩極。",
+      "action": "威脅等級暫時下調，持續追蹤。",
+      "platform": "console",
+      "source": "Amazon Games 官方",
+      "fetchedAt": "2026-05-28T07:15:00Z"
+    },
+    {
+      "id": "brief-20260528-005",
+      "priority": "watch",
+      "icon": "📊",
+      "title": "Arena Legends 軟啟動擴展至東南亞",
+      "detail": "Supercell MOBA 在菲律賓和印尼開放下載，暗示全球發行可能提前。",
+      "action": "上線預估從 Q3 調整為 Q2 末。",
+      "platform": "mobile",
+      "source": "App Store / Google Play",
+      "fetchedAt": "2026-05-28T07:00:00Z"
+    },
+    {
+      "id": "brief-20260528-006",
+      "priority": "watch",
+      "icon": "📱",
+      "title": "Honor of Kings: World 封測玩家數突破 50 萬",
+      "detail": "TiMi Studio 開放世界新作封測擴大，手機端佔比 72%。",
+      "action": "持續追蹤手機端留存數據。",
+      "platform": "mobile",
+      "source": "遊戲葡萄",
+      "fetchedAt": "2026-05-28T06:45:00Z"
+    },
+    {
+      "id": "brief-20260528-007",
+      "priority": "info",
+      "icon": "💰",
+      "title": "Krafton 完成 1.2 億美金收購",
+      "detail": "收購印度工作室 Mayhem Studios，計劃面向南亞 Battle Royale。今年第三筆收購。",
+      "action": "標記為東南亞市場動態。",
+      "platform": "console",
+      "source": "Reuters",
+      "fetchedAt": "2026-05-28T06:30:00Z"
+    },
+    {
+      "id": "brief-20260527-001",
+      "priority": "watch",
+      "icon": "🔥",
+      "title": "Chrono Shift 預告片觀看破千萬",
+      "detail": "Square Enix HD-2D 新作預告片在 YouTube 累計突破 1000 萬觀看，社群情緒極正面。",
+      "action": "JRPG 品類關注度持續上升，納入趨勢報告。",
+      "platform": "mobile",
+      "source": "YouTube",
+      "fetchedAt": "2026-05-27T08:30:00Z"
+    },
+    {
+      "id": "brief-20260527-002",
+      "priority": "info",
+      "icon": "📈",
+      "title": "Roguelike 品類 Steam 新增 47 款",
+      "detail": "Google Trends 亞太區 Roguelike 搜索連續 3 個月雙位數成長。Steam 本月新增 47 款。",
+      "action": "飽和度 1.56 仍健康但需觀察。",
+      "platform": "console",
+      "source": "SteamDB / Google Trends",
+      "fetchedAt": "2026-05-27T08:00:00Z"
+    },
+    {
+      "id": "brief-20260527-003",
+      "priority": "info",
+      "icon": "🎯",
+      "title": "Nikke: Blade 公佈首支遊玩影片",
+      "detail": "Shift Up 釋出 3 分鐘實機影片，動作系統獲正面評價。預註冊兩日增加 30 萬。",
+      "action": "加入手機端競品重點追蹤清單。",
+      "platform": "mobile",
+      "source": "Level Infinite 官方",
+      "fetchedAt": "2026-05-27T07:30:00Z"
+    }
+  ]
+}

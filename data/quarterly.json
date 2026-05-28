@@ -1,0 +1,53 @@
+{
+  "year": 2026,
+  "resetAt": "2026-01-01T00:00:00Z",
+  "lastUpdated": "2026-05-28T08:30:00Z",
+  "quarters": {
+    "Q1": {
+      "label": "2026 Q1 (1月-3月)",
+      "events": [
+        { "date": "2026-01-15", "product": "Chrono Shift", "type": "pre-reg", "detail": "Square Enix 開啟全球預註冊", "platform": "mobile" },
+        { "date": "2026-01-22", "product": "Mythic Saga Mobile", "type": "announced", "detail": "Lilith Games 正式公佈新作", "platform": "mobile" },
+        { "date": "2026-02-10", "product": "Arena Legends", "type": "soft-launch", "detail": "Supercell 在加拿大/北歐開放軟啟動", "platform": "mobile" },
+        { "date": "2026-02-18", "product": "Zenith: Shattered Realms", "type": "announced", "detail": "Krafton 正式公佈新作", "platform": "console" },
+        { "date": "2026-03-05", "product": "Phantom Circuit", "type": "announced", "detail": "Riot Games 公佈賽車新作", "platform": "console" },
+        { "date": "2026-03-12", "product": "Aetheris Online", "type": "soft-launch", "detail": "東南亞地區軟啟動", "platform": "mobile" },
+        { "date": "2026-03-20", "product": "Honor of Kings: World", "type": "cbt", "detail": "開啟首輪限量封測", "platform": "mobile" }
+      ]
+    },
+    "Q2": {
+      "label": "2026 Q2 (4月-6月)",
+      "events": [
+        { "date": "2026-04-02", "product": "Starfall Tactics", "type": "cbt", "detail": "HoYoverse 開啟全球封測", "platform": "mobile" },
+        { "date": "2026-04-10", "product": "Mythic Saga Mobile", "type": "pre-reg", "detail": "全球預註冊開啟", "platform": "mobile" },
+        { "date": "2026-04-18", "product": "Nikke: Blade", "type": "announced", "detail": "Shift Up 正式公佈", "platform": "mobile" },
+        { "date": "2026-05-05", "product": "Blade & Throne: Rebirth", "type": "cbt", "detail": "全球封測開啟", "platform": "console" },
+        { "date": "2026-05-12", "product": "Dungeon Eternal", "type": "cbt", "detail": "FromSoftware 開啟封測", "platform": "console" },
+        { "date": "2026-05-20", "product": "Wild Hearts 2", "type": "announced", "detail": "EA / Koei Tecmo 正式公佈", "platform": "console" },
+        { "date": "2026-05-28", "product": "Project Mugen", "type": "media", "detail": "NetEase 釋出 15 分鐘實機演示", "platform": "mobile" },
+        { "date": "2026-05-28", "product": "Starfall Tactics", "type": "media", "detail": "封測 NDA 解除", "platform": "mobile" }
+      ]
+    },
+    "Q3": {
+      "label": "2026 Q3 (7月-9月)",
+      "events": [
+        { "date": "2026-07-01", "product": "Aetheris Online", "type": "launch", "detail": "預計全球正式上線 (估)", "platform": "mobile" },
+        { "date": "2026-08-01", "product": "Arena Legends", "type": "launch", "detail": "預計全球上線 (估)", "platform": "mobile" },
+        { "date": "2026-08-01", "product": "Mythic Saga Mobile", "type": "launch", "detail": "預計上線 (估)", "platform": "mobile" },
+        { "date": "2026-09-01", "product": "Blade & Throne: Rebirth", "type": "launch", "detail": "預計上線 (估)", "platform": "console" },
+        { "date": "2026-09-01", "product": "Chrono Shift", "type": "launch", "detail": "預計三端同發 (估)", "platform": "mobile" }
+      ]
+    },
+    "Q4": {
+      "label": "2026 Q4 (10月-12月)",
+      "events": [
+        { "date": "2026-10-01", "product": "Starfall Tactics", "type": "launch", "detail": "預計上線 (估)", "platform": "mobile" },
+        { "date": "2026-10-27", "product": "GTA VI", "type": "launch", "detail": "確認全球發售日", "platform": "console" },
+        { "date": "2026-11-01", "product": "Dungeon Eternal", "type": "launch", "detail": "預計上線 (估)", "platform": "console" },
+        { "date": "2026-12-01", "product": "Project Mugen", "type": "launch", "detail": "預計上線 Q4 (估)", "platform": "mobile" },
+        { "date": "2026-12-01", "product": "Honor of Kings: World", "type": "launch", "detail": "預計上線 Q4 (估)", "platform": "mobile" },
+        { "date": "2026-12-01", "product": "Nikke: Blade", "type": "launch", "detail": "預計上線 (估)", "platform": "mobile" }
+      ]
+    }
+  }
+}
