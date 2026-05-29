@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-29T03:55:31.561362+00:00",
-  "fetchCount": 5,
+  "lastUpdated": "2026-05-29T04:50:34.449669+00:00",
+  "fetchCount": 6,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -89,6 +89,17 @@
       "platform": "mobile",
       "source": "App Store / Google Play",
       "fetchedAt": "2026-05-28T07:00:00Z"
+    },
+    {
+      "id": "brief-20260529-910bcdf7",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "GTA 6 Boss Says High Review Scores Reflect Rockstar’s “Commitment To Quality”",
+      "detail": "Grand Theft Auto 6 is still on-track to release in just under six months. And while it’s too soon to claim the title will receive the same critical acclaim that Grand Theft Auto 5 received in 2013, St",
+      "action": "待人工審核。",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-29T04:50:34.449669+00:00"
     },
     {
       "id": "brief-20260529-c346ae1e",
@@ -206,17 +217,6 @@
       "icon": "ℹ️",
       "title": "Infinite Alliance adds CrossCode, Seed of Nostalgia, and Cosmic Star Heroine cha",
       "detail": "Infinite Alliance, the crossover turn-based RPG featuring characters from independent Japanese-style RPGs, will feature Lea &#8230;\nSource",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "Gematsu",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
-    },
-    {
-      "id": "brief-20260529-3d5cd603",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "Story-driven Japanese-inspired RPG Full Circle announced for consoles, PC",
-      "detail": "Publisher Deck13 Spotlight and Peru-based developer 2nd Player Games have announced Full Circle, a pixel &#8230;\nSource",
       "action": "待人工審核確認影響程度。",
       "platform": "console",
       "source": "Gematsu",
