@@ -430,7 +430,8 @@ function App(){
   if(pLd)return<div className="app"><div className="loading"><div className="spinner"/><div>載入資料中...</div></div></div>;
   return(<div className="app">
     <div className="hdr"><div className="hdr-in"><div className="logo"><div className="logo-ic">🎮</div><div><h1>Game Market Intelligence</h1><small>AI-Powered · GitHub Pages · 資料已驗證</small></div></div>
-    <div className="status"><span className="dot"/>追蹤 {all.length} 款 · 📱{mob.length} · 🎮{con.length}</div></div></div>
+    <div className="status"><span className="dot"/>追蹤 {all.length} 款 · 📱{mob.length} · 🎮{con.length}
+            <button onClick={()=>{const u=new URL(window.location.href);u.searchParams.set('v',Date.now());window.location.href=u.toString()}} style={{marginLeft:8,padding:"4px 12px",borderRadius:6,fontSize:10,fontWeight:700,background:"var(--cyan)",color:"#000",border:"none",cursor:"pointer",fontFamily:"inherit"}}>🔄 重新載入</button></div></div></div>
     <div className="ptabs">
       <button className={`ptab ${plat==="mobile"?"am":""}`} onClick={()=>{setPlat("mobile");setSf("all");setTf("all");setSearch("")}}>📱 手機遊戲<span className="badge">{mob.length}</span></button>
       <button className={`ptab ${plat==="console"?"ac":""}`} onClick={()=>{setPlat("console");setSf("all");setTf("all");setSearch("")}}>🎮 主機/PC<span className="badge">{con.length}</span></button>
@@ -470,7 +471,7 @@ function App(){
         <div style={{flex:1,minWidth:240}}>所有產品均經過至少 2 個獨立來源交叉驗證。每款產品標注驗證來源。</div>
       </div>
     </div></div>
-    <div className="footer">Game Market Intelligence · v6.0 · 地區追蹤+自動審計版 · 所有產品資訊均來自公開可查證來源</div>
+    <div className="footer">Game Market Intelligence · v6.1 · 驗證標準版 · 所有產品資訊均來自公開可查證來源</div>
     {sel&&<Modal game={sel} onClose={()=>setSel(null)}/>}
   </div>);
 }
