@@ -128,6 +128,8 @@ const MZH=["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月
 function useJson(p,fb){const[d,setD]=useState(null);const[l,setL]=useState(true);
 useEffect(()=>{let c=false;fetch(p).then(r=>{if(!r.ok)throw r.status;return r.json()}).then(j=>{if(!c){setD(j);setL(false)}}).catch(()=>{if(!c){setD(fb);setL(false)}});return()=>{c=true}},[]);return[d,l]}
 
+const FLAG={"CN":"🇨🇳","TW/HK/MO":"🇹🇼","JP":"🇯🇵","KR":"🇰🇷","Global":"🌏","TW":"🇹🇼"};
+const daysUntil=(ds)=>{if(!ds)return null;const m=ds.match(/^(\d{4})-(\d{2})-(\d{2})$/);if(!m)return null;const t=new Date(+m[1],+m[2]-1,+m[3]);const n=new Date();n.setHours(0,0,0,0);return Math.ceil((t-n)/(86400000));};
 const Pill=({c,ch})=><span className="pill" style={{background:`${c}22`,color:c,border:`1px solid ${c}44`}}>{ch}</span>;
 function parseD(s){if(!s)return null;const m=s.match(/^(\d{4})-(\d{2})$/);if(m)return{y:+m[1],m:+m[2]};const q=s.match(/^(\d{4})-Q(\d)$/);if(q){return{y:+q[1],m:{"1":2,"2":5,"3":8,"4":11}[q[2]]};}return null;}
 function getQ(s){const d=parseD(s);if(!d)return null;if(d.m<=3)return"Q1";if(d.m<=6)return"Q2";if(d.m<=9)return"Q3";return"Q4";}
@@ -137,7 +139,8 @@ return(<div className={`gcard ${tc}`} onClick={()=>onClick(g)}>
   <div className="gcard-h"><div className="gcard-t">{g.name}</div><Pill c={TC[g.threat]} ch={`威脅:${TM[g.threat]}`}/></div>
   <div className="gcard-s">{g.developer||g.studio} · {g.region}{g.testType&&g.testType!=="未知"&&<span style={{color:"var(--cyan)"}}> · {g.testType}</span>}</div>
   <div className="gcard-tags"><Pill c={SC[g.stage]} ch={SM[g.stage]}/><Pill c={ac} ch={g.genre}/>{g.platform.map(p=><Pill key={p} c="var(--muted)" ch={p}/>)}</div>
-  <div className="gcard-d">{g.desc}</div>
+  {(()=>{const d=daysUntil(g.testDateStart);return d!==null&&d>=0&&d<=30?<div style={{fontSize:10,fontWeight:700,padding:"3px 8px",borderRadius:4,marginBottom:4,display:"inline-block",background:d===0?"var(--red)":d<=3?"var(--orange)":d<=7?"var(--yellow)":"rgba(0,212,255,.1)",color:d<=3?"#000":d<=7?"#000":"var(--cyan)"}}>{d===0?"📢 今日開測":d===1?"⏰ 明日開測":`⏳ ${d} 天後開測`}</div>:null})()}
+    <div className="gcard-d">{g.desc}</div>
   <div style={{borderTop:"1px solid var(--border)",paddingTop:6,marginTop:2}}>
     {g.sourceLinks&&g.sourceLinks.length>0&&<div style={{display:"flex",gap:4,marginBottom:5}}>{g.sourceLinks.slice(0,3).map((l,i)=><a key={i} href={l.url} target="_blank" rel="noopener" onClick={e=>e.stopPropagation()} style={{fontSize:9,color:"var(--cyan)",textDecoration:"none",padding:"2px 6px",borderRadius:4,background:"rgba(0,212,255,.06)",border:"1px solid rgba(0,212,255,.1)"}}>{l.label} ↗</a>)}</div>}
     <div style={{display:"flex",justifyContent:"space-between",fontSize:10,color:"var(--muted)"}}><span>{g.testDateStart&&g.testDateStart!=="待確認"?g.testDateStart:g.launchEst||"未定"}</span>{g.prereg?<span style={{color:"var(--green)"}}>預註冊:{(g.prereg/10000).toFixed(0)}萬</span>:null}<span style={{color:g.sentiment>80?"var(--green)":g.sentiment>60?"var(--yellow)":"var(--red)"}}>{g.sentiment}/100</span></div>
@@ -180,7 +183,7 @@ return(<div className="modal-bg" onClick={onClose}><div className="modal" onClic
     <div style={{display:"flex",flexDirection:"column",gap:3}}>
       {g.launchRegions.map((r,i)=>{const sc=r.status.includes("已上線")?"var(--green)":r.status.includes("封測")?"var(--cyan)":r.status.includes("預註冊")?"var(--orange)":"var(--muted)";
         return<div key={i} style={{display:"flex",alignItems:"center",gap:8,padding:"4px 8px",borderRadius:5,background:"var(--card)",fontSize:11}}>
-          <span style={{fontWeight:700,minWidth:70,color:"var(--text)"}}>{r.region}</span>
+          <span style={{fontWeight:700,minWidth:80,color:"var(--text)"}}>{FLAG[r.region]||"📍"} {r.region}</span>
           <Pill c={sc} ch={r.status}/>
           <span style={{color:"var(--muted)",fontSize:10}}>{r.date||""}</span>
         </div>})}
@@ -231,7 +234,10 @@ function GanttView({games,onSelect}){
   let lastY=null;
   return(<div>
     <div style={{display:"flex",gap:14,marginBottom:12,flexWrap:"wrap",fontSize:10,color:"var(--dim)"}}>
-      {[["#ff6b6b","極高"],["#ffaa33","高"],["#ffe066","中"],["#2dd4a8","低"]].map(([c,l])=><div key={l} style={{display:"flex",alignItems:"center",gap:4}}><span style={{width:12,height:8,borderRadius:2,background:c,display:"inline-block"}}/>{l}</div>)}
+      <span style={{fontWeight:600,color:"var(--text)"}}>測試類型：</span>
+      {[["var(--red)","不刪檔公測"],["var(--orange)","刪檔計費"],["var(--green)","刪檔不計費"],["var(--cyan)","限量測試"],["var(--muted)","未知/其他"]].map(([c,l])=><div key={l} style={{display:"flex",alignItems:"center",gap:4}}><span style={{width:12,height:8,borderRadius:2,background:c,display:"inline-block"}}/>{l}</div>)}
+      <span style={{marginLeft:8,fontWeight:600,color:"var(--text)"}}>邊框=威脅：</span>
+      {[["#ff6b6b","極高"],["#ffaa33","高"],["#ffe066","中"],["#2dd4a8","低"]].map(([c,l])=><div key={l} style={{display:"flex",alignItems:"center",gap:4}}><span style={{width:12,height:8,borderRadius:2,border:`2px solid ${c}`,display:"inline-block"}}/>{l}</div>)}
       <div style={{display:"flex",alignItems:"center",gap:4,color:"var(--cyan)"}}><span style={{width:2,height:12,background:"var(--cyan)",display:"inline-block"}}/>今天</div>
     </div>
     <div className="gantt-wrap"><div className="gantt">
@@ -243,10 +249,11 @@ function GanttView({games,onSelect}){
         {months.map((t,i)=><div key={i} className={`gantt-mh${t.y===ny&&t.m===nm?" now":""}${t.qs?" qs":""}`}>{t.lb}</div>)}
       </div></div>
       {sorted.map(g=>{const{si,ei}=barInfo(g);const l=`${(si/months.length)*100}%`;const w=`${(Math.max(1,ei-si+1)/months.length)*100}%`;
+      const tt=g.testType||"";const barClr=tt.includes("不刪檔")?"var(--red)":tt.includes("刪檔計費")?"var(--orange)":tt.includes("刪檔不計費")?"var(--green)":tt.includes("限量")?"var(--cyan)":"var(--muted)";
       return(<div key={g.id} className="gantt-row">
         <div className="gantt-row-lbl"><div style={{width:3,height:16,borderRadius:1,background:TC[g.threat],flexShrink:0}}/><div className="gantt-row-nm" title={g.name}>{g.name}</div></div>
         <div className="gantt-row-chart">{months.map((_,i)=><div key={i} className={`gantt-cell${months[i].qs?" qs":""}`}/>)}{ni>=0&&<div className="gantt-today" style={{left:`${(ni/months.length)*100}%`}}/>}
-          <div className="gantt-bar" style={{left:l,width:w,background:TC[g.threat]}} onClick={()=>onSelect(g)} title={`${g.name} — ${g.launchEst}`}><span className="gantt-bar-t">{g.launchEst}</span></div>
+          <div className="gantt-bar" style={{left:l,width:w,background:barClr,border:`1px solid ${TC[g.threat]}`}} onClick={()=>onSelect(g)} title={`${g.name} — ${g.testType||""} — ${g.launchEst}`}><span className="gantt-bar-t">{g.launchEst}</span></div>
         </div>
       </div>);})}
     </div></div>
@@ -428,6 +435,32 @@ function AuditView(){
   </div>);
 }
 
+
+function IndustryView(){
+  const[data]=useJson("data/industry-trends.json",null);
+  const catIcons={"財報":"💰","版號":"📜","市場":"📊","收購":"🤝","技術":"🔬","全球化":"🌏"};
+  const catClr={"財報":"var(--orange)","版號":"var(--red)","市場":"var(--cyan)","收購":"var(--pink)","技術":"var(--green)","全球化":"var(--console)"};
+  if(!data||!data.trends||!data.trends.length)return(<div className="empty"><div className="ic">🏢</div><div>產業趨勢資料尚未載入。設定 Gemini API Key 後，Agent 3 每天會自動抓取產業動態。</div></div>);
+  return(<div>
+    <div style={{fontSize:12,color:"var(--dim)",marginBottom:14,padding:"8px 12px",borderRadius:8,background:"var(--surface)",border:"1px solid var(--border)"}}>
+      🏢 <strong>產業趨勢動態</strong> — AI 自動搜索整理 · 更新: {data.lastUpdated?new Date(data.lastUpdated).toLocaleString("zh-TW"):"N/A"}</div>
+    <div style={{display:"flex",gap:8,marginBottom:16,flexWrap:"wrap"}}>
+      {Object.entries(catIcons).map(([cat,icon])=>{const n=data.trends.filter(t=>t.category===cat).length;return n?<div key={cat} className="sbox" style={{minWidth:100}}><div className="lb">{icon} {cat}</div><div className="vl" style={{color:catClr[cat]||"var(--text)",fontSize:18}}>{n}</div></div>:null})}
+    </div>
+    {data.trends.map((t,i)=>{const clr=catClr[t.category]||"var(--cyan)";return(
+      <div key={i} style={{background:"var(--surface)",borderRadius:10,padding:16,border:"1px solid var(--border)",marginBottom:10,borderLeft:`4px solid ${clr}`}}>
+        <div style={{display:"flex",justifyContent:"space-between",alignItems:"center",marginBottom:6,flexWrap:"wrap",gap:6}}>
+          <span style={{fontSize:14,fontWeight:700}}>{catIcons[t.category]||"📰"} {t.title}</span>
+          <div style={{display:"flex",gap:4}}><Pill c={clr} ch={t.category}/>{t.date&&<span style={{fontSize:10,color:"var(--muted)"}}>{t.date}</span>}</div>
+        </div>
+        <div style={{fontSize:12,color:"var(--dim)",lineHeight:1.7,marginBottom:8}}>{t.detail}</div>
+        {t.pmInsight&&<div style={{padding:"8px 10px",borderRadius:6,background:"rgba(0,212,255,.05)",border:"1px solid rgba(0,212,255,.1)",fontSize:11,color:"var(--cyan)"}}>💡 PM 觀點：{t.pmInsight}</div>}
+        {t.source&&<div style={{fontSize:10,color:"var(--muted)",marginTop:4}}>📰 {t.source}</div>}
+      </div>
+    )})}
+  </div>);
+}
+
 /* ══ MAIN APP ══ */
 function App(){
   const[plat,setPlat]=useState("mobile");const[mod,setMod]=useState("list");
@@ -442,13 +475,13 @@ function App(){
     {id:"list",l:"產品總覽",i:"📋"},{id:"kanban",l:"階段看板",i:"🛰"},{id:"threat",l:"威脅分析",i:"⚠️"},{id:"tracking",l:"追蹤項目",i:"📡"},
     {id:"gantt",l:"甘特圖",i:"📊"},{id:"qprod",l:"季度產品",i:"📦"},
     {id:"trend",l:"趨勢預測",i:"📈"},{id:"launch",l:"上線時機",i:"🚀"},
-    {id:"brief",l:"每日簡報",i:"☀️"},{id:"quarterly",l:"季度事件",i:"📅"},{id:"audit",l:"審計報告",i:"🔍"},
+    {id:"brief",l:"每日簡報",i:"☀️"},{id:"quarterly",l:"季度事件",i:"📅"},{id:"industry",l:"產業動態",i:"🏢"},{id:"audit",l:"審計報告",i:"🔍"},
   ];
   const showFilters=["list","kanban"].includes(mod);
   if(pLd)return<div className="app"><div className="loading"><div className="spinner"/><div>載入資料中...</div></div></div>;
   return(<div className="app">
     <div className="hdr"><div className="hdr-in"><div className="logo"><div className="logo-ic">🎮</div><div><h1>Game Market Intelligence</h1><small>AI-Powered · GitHub Pages · 資料已驗證</small></div></div>
-    <div className="status"><span className="dot"/>追蹤 {all.length} 款 · 📱{mob.length} · 🎮{con.length}
+    <div className="status"><span className="dot"/>追蹤 {all.length} 款 · 📱{mob.length} · 🎮{con.length} · 資料區間: {new Date(Date.now()-7*86400000).toLocaleDateString("zh-TW")}~{new Date().toLocaleDateString("zh-TW")}
             <button onClick={()=>{const u=new URL(window.location.href);u.searchParams.set('v',Date.now());window.location.href=u.toString()}} style={{marginLeft:8,padding:"4px 12px",borderRadius:6,fontSize:10,fontWeight:700,background:"var(--cyan)",color:"#000",border:"none",cursor:"pointer",fontFamily:"inherit"}}>🔄 重新載入</button></div></div></div>
     <div className="ptabs">
       <button className={`ptab ${plat==="mobile"?"am":""}`} onClick={()=>{setPlat("mobile");setSf("all");setTf("all");setSearch("")}}>📱 手機遊戲<span className="badge">{mob.length}</span></button>
@@ -486,6 +519,7 @@ function App(){
       {mod==="launch"&&<LaunchView games={base.filter(g=>g.category!=="tracking")}/>}
       {mod==="brief"&&<BriefView plat={plat} data={brief}/>}
       {mod==="quarterly"&&<QuarterlyView plat={plat} data={qdata}/>}
+      {mod==="industry"&&<IndustryView/>}
       {mod==="audit"&&<AuditView/>}
     </div>
     <div className="legend"><div className="legend-box">
@@ -496,7 +530,7 @@ function App(){
         <div style={{flex:1,minWidth:240}}>所有產品均經過至少 2 個獨立來源交叉驗證。每款產品標注驗證來源。</div>
       </div>
     </div></div>
-    <div className="footer">Game Market Intelligence · v8.0 · PM分析+連結版 · 所有產品資訊均來自公開可查證來源</div>
+    <div className="footer">Game Market Intelligence · v9.0 · 全功能版 · 所有產品資訊均來自公開可查證來源</div>
     {sel&&<Modal game={sel} onClose={()=>setSel(null)}/>}
   </div>);
 }
