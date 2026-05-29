@@ -138,7 +138,7 @@ return(<div className={`gcard ${tc}`} onClick={()=>onClick(g)}>
   <div className="gcard-s">{g.studio} · {g.publisher} · {g.region}</div>
   <div className="gcard-tags"><Pill c={SC[g.stage]} ch={SM[g.stage]}/><Pill c={ac} ch={g.genre}/>{g.platform.map(p=><Pill key={p} c="var(--muted)" ch={p}/>)}</div>
   <div className="gcard-d">{g.desc}</div>
-  <div className="gcard-f"><span>上線: {g.launchEst||"未定"}</span>{g.prereg?<span style={{color:"var(--green)"}}>預註冊:{(g.prereg/10000).toFixed(0)}萬</span>:<span/>}<span style={{color:g.sentiment>80?"var(--green)":g.sentiment>60?"var(--yellow)":"var(--red)"}}>{g.sentiment}/100</span></div>
+  <div className="gcard-f"><span>上線: {g.launchEst||"未定"}{g.launchRegions&&g.launchRegions.length>0&&<span style={{color:"var(--muted)"}}> ({g.launchRegions.filter(r=>r.status.includes("已上線")).length}/{g.launchRegions.length}區)</span>}</span>{g.prereg?<span style={{color:"var(--green)"}}>預註冊:{(g.prereg/10000).toFixed(0)}萬</span>:<span/>}<span style={{color:g.sentiment>80?"var(--green)":g.sentiment>60?"var(--yellow)":"var(--red)"}}>{g.sentiment}/100</span></div>
 </div>);}
 
 function Modal({game:g,onClose}){if(!g)return null;const cat=g.platform.includes("Mobile")?"mobile":"console";const ac=cat==="mobile"?"var(--mobile)":"var(--console)";
@@ -159,6 +159,17 @@ return(<div className="modal-bg" onClick={onClose}><div className="modal" onClic
   {g.threatAnalysis&&<div style={{marginBottom:14}}>
     <div style={{fontSize:11,fontWeight:700,color:"var(--red)",marginBottom:6}}>⚠️ 威脅分析</div>
     <div style={{padding:"10px 12px",borderRadius:8,background:"rgba(255,107,107,.05)",border:"1px solid rgba(255,107,107,.15)",fontSize:12,color:"var(--dim)",lineHeight:1.7}}>{g.threatAnalysis}</div>
+  </div>}
+  {g.launchRegions&&g.launchRegions.length>0&&<div style={{marginBottom:14}}>
+    <div style={{fontSize:11,fontWeight:700,color:"var(--muted)",textTransform:"uppercase",letterSpacing:1,marginBottom:6}}>各地區上線狀態</div>
+    <div style={{display:"flex",flexDirection:"column",gap:3}}>
+      {g.launchRegions.map((r,i)=>{const sc=r.status.includes("已上線")?"var(--green)":r.status.includes("封測")?"var(--cyan)":r.status.includes("預註冊")?"var(--orange)":"var(--muted)";
+        return<div key={i} style={{display:"flex",alignItems:"center",gap:8,padding:"4px 8px",borderRadius:5,background:"var(--card)",fontSize:11}}>
+          <span style={{fontWeight:700,minWidth:70,color:"var(--text)"}}>{r.region}</span>
+          <Pill c={sc} ch={r.status}/>
+          <span style={{color:"var(--muted)",fontSize:10}}>{r.date||""}</span>
+        </div>})}
+    </div>
   </div>}
   {g.verified&&<div style={{fontSize:10,color:"var(--muted)",marginBottom:10}}>✅ 驗證來源: {g.verified}</div>}
   {g.history&&g.history.length>0&&<><div style={{fontSize:10,fontWeight:700,color:"var(--muted)",textTransform:"uppercase",letterSpacing:1,margin:"10px 0 6px"}}>開發時間軸</div>
@@ -374,6 +385,31 @@ function TrackingView({games}){
   </div>);
 }
 
+
+/* ══ NEW: Audit Report View ══ */
+function AuditView(){
+  const[audit]=useJson("data/audit-report.json",null);
+  if(!audit)return(<div className="empty"><div className="ic">🔍</div><div>尚無審計報告。審計每週一自動執行，或到 GitHub Actions 手動觸發（加 --audit 參數）。</div></div>);
+  const stClr={"error":"var(--red)","warning":"var(--orange)","ok":"var(--green)"};
+  const stLb={"error":"❌ 錯誤","warning":"⚠️ 警告","ok":"✅ 正常"};
+  return(<div>
+    <div style={{fontSize:12,color:"var(--dim)",marginBottom:14,padding:"8px 12px",borderRadius:8,background:"var(--surface)",border:"1px solid var(--border)"}}>
+      🔍 <strong>產品資料審計報告</strong> — 上次審計: {audit.lastAudit?new Date(audit.lastAudit).toLocaleString("zh-TW"):"從未執行"}
+      {" · "}審計 {audit.totalProducts||0} 款產品 · 發現 {audit.issuesFound||0} 項問題
+      {" · "}下次審計: {audit.nextAudit||"下週一"}</div>
+    {audit.issuesFound===0&&<div style={{textAlign:"center",padding:30,color:"var(--green)",fontSize:14,fontWeight:700}}>✅ 所有產品資料通過審計，無異常</div>}
+    {(audit.findings||[]).map((f,i)=>(<div key={i} style={{background:"var(--surface)",borderRadius:8,padding:14,border:"1px solid var(--border)",marginBottom:8,borderLeft:`4px solid ${stClr[f.status]||"var(--muted)"}`}}>
+      <div style={{display:"flex",justifyContent:"space-between",alignItems:"center",marginBottom:6}}>
+        <span style={{fontSize:14,fontWeight:800}}>{f.name}</span>
+        <Pill c={stClr[f.status]||"var(--muted)"} ch={stLb[f.status]||f.status}/>
+      </div>
+      {f.issue&&<div style={{fontSize:12,color:"var(--dim)",marginBottom:4}}>問題: {f.issue}</div>}
+      {f.suggestion&&<div style={{fontSize:12,color:"var(--cyan)"}}>建議: {f.suggestion}</div>}
+      <div style={{fontSize:10,color:"var(--muted)",marginTop:4}}>信心度: {f.confidence||"N/A"}</div>
+    </div>))}
+  </div>);
+}
+
 /* ══ MAIN APP ══ */
 function App(){
   const[plat,setPlat]=useState("mobile");const[mod,setMod]=useState("list");
@@ -388,7 +424,7 @@ function App(){
     {id:"list",l:"產品總覽",i:"📋"},{id:"kanban",l:"階段看板",i:"🛰"},{id:"threat",l:"威脅分析",i:"⚠️"},{id:"tracking",l:"追蹤項目",i:"📡"},
     {id:"gantt",l:"甘特圖",i:"📊"},{id:"qprod",l:"季度產品",i:"📦"},
     {id:"trend",l:"趨勢預測",i:"📈"},{id:"launch",l:"上線時機",i:"🚀"},
-    {id:"brief",l:"每日簡報",i:"☀️"},{id:"quarterly",l:"季度事件",i:"📅"},
+    {id:"brief",l:"每日簡報",i:"☀️"},{id:"quarterly",l:"季度事件",i:"📅"},{id:"audit",l:"審計報告",i:"🔍"},
   ];
   const showFilters=["list","kanban"].includes(mod);
   if(pLd)return<div className="app"><div className="loading"><div className="spinner"/><div>載入資料中...</div></div></div>;
@@ -424,6 +460,7 @@ function App(){
       {mod==="launch"&&<LaunchView games={base.filter(g=>g.category!=="tracking")}/>}
       {mod==="brief"&&<BriefView plat={plat} data={brief}/>}
       {mod==="quarterly"&&<QuarterlyView plat={plat} data={qdata}/>}
+      {mod==="audit"&&<AuditView/>}
     </div>
     <div className="legend"><div className="legend-box">
       <div style={{fontSize:12,fontWeight:700,marginBottom:8}}>📐 平台說明</div>
@@ -433,7 +470,7 @@ function App(){
         <div style={{flex:1,minWidth:240}}>所有產品均經過至少 2 個獨立來源交叉驗證。每款產品標注驗證來源。</div>
       </div>
     </div></div>
-    <div className="footer">Game Market Intelligence · v5.1 · 追蹤分類版 · 所有產品資訊均來自公開可查證來源</div>
+    <div className="footer">Game Market Intelligence · v6.0 · 地區追蹤+自動審計版 · 所有產品資訊均來自公開可查證來源</div>
     {sel&&<Modal game={sel} onClose={()=>setSel(null)}/>}
   </div>);
 }
