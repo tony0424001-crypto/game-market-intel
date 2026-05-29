@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-29T02:39:52.192371+00:00",
-  "fetchCount": 4,
+  "lastUpdated": "2026-05-29T03:55:31.561362+00:00",
+  "fetchCount": 5,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -34,6 +34,17 @@
       "platform": "console",
       "source": "Rockstar Games 官方",
       "fetchedAt": "2026-05-28T08:30:00Z"
+    },
+    {
+      "id": "brief-20260529-c8ada21a",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "Granblue Fantasy: Relink – Endless Ragnarok ‘Meet the Crew: Fraux’ trailer",
+      "detail": "Publisher Cygames and developer Cygames Osaka have released a new &#8220;Meet the Crew&#8221; trailer for &#8230;\nSource",
+      "action": "待人工審核。",
+      "platform": "console",
+      "source": "Gematsu",
+      "fetchedAt": "2026-05-29T03:55:31.561362+00:00"
     },
     {
       "id": "brief-20260529-f9b6f1d3",
@@ -78,6 +89,17 @@
       "platform": "mobile",
       "source": "App Store / Google Play",
       "fetchedAt": "2026-05-28T07:00:00Z"
+    },
+    {
+      "id": "brief-20260529-c346ae1e",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "6 months before the launch of Grand Theft Auto 6, Rockstar employees in the UK h",
+      "detail": "The Rockstar Game Workers Union is a subsidiary of the Independent Workers of Great Britain union that's been fighting Rockstar over the 2025 firing of 31 employees.",
+      "action": "待人工審核。",
+      "platform": "console",
+      "source": "PC Gamer",
+      "fetchedAt": "2026-05-29T03:55:31.561362+00:00"
     },
     {
       "id": "brief-20260529-a083c851",
@@ -198,28 +220,6 @@
       "action": "待人工審核確認影響程度。",
       "platform": "console",
       "source": "Gematsu",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
-    },
-    {
-      "id": "brief-20260529-069088d6",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "Where to find the Minamino region Treasure Hunt in Forza Horizon 6",
-      "detail": "Search the golf course for this week's Festival Playlist Treasure Hunt challenge.",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "PC Gamer",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
-    },
-    {
-      "id": "brief-20260529-910bcdf7",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "GTA 6 Boss Says High Review Scores Reflect Rockstar’s “Commitment To Quality”",
-      "detail": "Grand Theft Auto 6 is still on-track to release in just under six months. And while it’s too soon to claim the title will receive the same critical acclaim that Grand Theft Auto 5 received in 2013, St",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "GameSpot",
       "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
     }
   ]
