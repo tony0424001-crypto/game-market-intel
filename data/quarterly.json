@@ -1,7 +1,7 @@
 {
   "year": 2026,
   "resetAt": "2026-01-01T00:00:00Z",
-  "lastUpdated": "2026-05-29T04:50:37.424865+00:00",
+  "lastUpdated": "2026-05-29T14:00:00Z",
   "quarters": {
     "Q1": {
       "label": "2026 Q1 (1月-3月)",
@@ -124,24 +124,10 @@
           "platform": "mobile"
         },
         {
-          "date": "2026-06-17",
-          "product": "地牢獵手 6",
-          "type": "cbt",
-          "detail": "開測",
-          "platform": "mobile"
-        },
-        {
           "date": "2026-06-18",
           "product": "締造者：放逐之境",
           "type": "cbt",
           "detail": "CBT 測試開始",
-          "platform": "mobile"
-        },
-        {
-          "date": "2026-06-01",
-          "product": "盜墓筆記",
-          "type": "cbt",
-          "detail": "6月下旬不刪檔內測",
           "platform": "mobile"
         },
         {
