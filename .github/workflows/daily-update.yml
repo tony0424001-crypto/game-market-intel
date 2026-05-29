@@ -1,4 +1,4 @@
-name: Daily Game Intel Update
+name: Daily Game Intel Update (3-Agent)
 
 on:
   schedule:
@@ -6,8 +6,8 @@ on:
     - cron: '30 0 * * *'
   workflow_dispatch:
     inputs:
-      run_audit:
-        description: 'Force run product audit'
+      run_all:
+        description: 'Force run all 3 agents (including product discovery)'
         type: boolean
         default: false
 
@@ -29,12 +29,12 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser requests
 
-      - name: Run update script
+      - name: Run 3-Agent system
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: |
-          if [ "${{ github.event.inputs.run_audit }}" = "true" ]; then
-            python scripts/update_data.py --audit
+          if [ "${{ github.event.inputs.run_all }}" = "true" ]; then
+            python scripts/update_data.py --all
           else
             python scripts/update_data.py
           fi
@@ -44,5 +44,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "Game Intel Bot"
           git add data/
-          git diff --staged --quiet || git commit -m "📊 Update $(date -u +'%Y-%m-%d %H:%M')"
+          git diff --staged --quiet || git commit -m "🤖 3-Agent update $(date -u +'%Y-%m-%d %H:%M')"
           git push
