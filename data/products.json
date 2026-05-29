@@ -38,7 +38,34 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "預註冊",
+        "date": "2026-07（預計）"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "預註冊",
+        "date": "2026-07（預計）"
+      },
+      {
+        "region": "JP",
+        "status": "預註冊",
+        "date": "待定"
+      },
+      {
+        "region": "KR",
+        "status": "預註冊",
+        "date": "待定"
+      },
+      {
+        "region": "Global",
+        "status": "預註冊",
+        "date": "2026-07（預計）"
+      }
+    ]
   },
   {
     "id": 2,
@@ -67,7 +94,7 @@
       "幻塔團隊"
     ],
     "threatAnalysis": "幻塔成熟團隊打造，都市題材差異化。公測後首月表現超預期，已進入穩定營運。",
-    "verified": "蘋果仁、巴哈姆特、Yahoo 遊戲",
+    "verified": "蘋果仁、巴哈姆特、Yahoo 遊戲 - 三個以上來源",
     "history": [
       {
         "date": "2025-09",
@@ -83,7 +110,29 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2026-04-23"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2026-04-29"
+      },
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2026-04-23"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-04-23"
+      }
+    ]
   },
   {
     "id": 3,
@@ -128,15 +177,42 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2026-01-22"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2026-01-22"
+      },
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2026-01-22"
+      },
+      {
+        "region": "KR",
+        "status": "已上線",
+        "date": "2026-01-22"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-01-22"
+      }
+    ]
   },
   {
     "id": 4,
     "name": "失控進化",
     "nameEn": "Out of Control",
-    "studio": "TiMi Studio",
+    "studio": "騰訊（Rust 正版授權）",
     "publisher": "騰訊",
-    "genre": "射擊",
+    "genre": "生存對抗",
     "platform": [
       "PC",
       "Mobile"
@@ -148,15 +224,17 @@
     "prereg": 32000000,
     "sentiment": 80,
     "launchEst": "2026-07",
-    "desc": "騰訊旗艦射擊遊戲，鴻蒙版技術測試中（5/11 起）。預約破 3200 萬，7 月全平台正式上線。",
+    "desc": "Rust 正版授權生存對抗大作，4x4km 海陸空無接縫開放世界。預約破 3200 萬，7 月全平台上線（PC/iOS/Android/鴻蒙/平板）。",
     "tags": [
-      "射擊",
-      "多端",
-      "騰訊",
-      "軍事"
+      "生存",
+      "開放世界",
+      "PVP",
+      "建造",
+      "Rust授權",
+      "多端互通"
     ],
-    "threatAnalysis": "騰訊旗艦射擊產品，預約量極高（3200 萬）。7 月全平台上線將直接衝擊同期所有產品市場。",
-    "verified": "VNG 情報站、遊戲葡萄",
+    "threatAnalysis": "Rust 正版授權+騰訊發行，預約 3200 萬。生存對抗品類在中國手遊市場的大規模嘗試，7 月上線將搶佔大量玩家時間。",
+    "verified": "快科技（4/29報導）、VNG 情報站",
     "history": [
       {
         "date": "2025-06",
@@ -168,7 +246,24 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "軟啟動（鴻蒙版測試）",
+        "date": "2026-05-11"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "未上線",
+        "date": "2026-07（預計）"
+      },
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "2026-07（預計）"
+      }
+    ]
   },
   {
     "id": 5,
@@ -209,7 +304,24 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "封測中（PC 限號）",
+        "date": "2026-04-10"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "未上線",
+        "date": "待定"
+      },
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "待定"
+      }
+    ]
   },
   {
     "id": 6,
@@ -251,7 +363,29 @@
     "updatedAt": "2026-05-29",
     "category": "tracking",
     "currentEvent": "3.3 二週年慶典",
-    "eventNote": "⚡ 二週年慶典進行中（至 6/7），大量活動與新角色，需特別關注"
+    "eventNote": "⚡ 二週年慶典進行中（至 6/7），大量活動與新角色，需特別關注",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2024-05-22"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2024-05-22"
+      },
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2024-05-22"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2024-05-22"
+      }
+    ]
   },
   {
     "id": 7,
@@ -289,7 +423,24 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "封測中（三測）",
+        "date": "2026-05"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "未上線",
+        "date": "待定"
+      },
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "待定"
+      }
+    ]
   },
   {
     "id": 8,
@@ -303,12 +454,12 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "pre-reg",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": 3500000,
     "sentiment": 72,
     "launchEst": "2026-05",
-    "desc": "克蘇魯二次元 RPG，騰訊代理。5/28 國服公測。TGS 2025 首度亮相。",
+    "desc": "克蘇魯二次元 RPG，騰訊代理。5/28 國服公測已上線。",
     "tags": [
       "克蘇魯",
       "二次元",
@@ -324,41 +475,6 @@
       {
         "date": "2026-05",
         "s": "pre-reg"
-      }
-    ],
-    "updatedAt": "2026-05-29",
-    "category": "active"
-  },
-  {
-    "id": 9,
-    "name": "鎮明閃擊",
-    "nameEn": "Dawn Strike",
-    "studio": "朝夕光年",
-    "publisher": "朝夕光年",
-    "genre": "動作 RPG",
-    "platform": [
-      "PC",
-      "Mobile"
-    ],
-    "region": "CN/Global",
-    "model": "F2P",
-    "stage": "live-ops",
-    "threat": "medium",
-    "prereg": 5000000,
-    "sentiment": 74,
-    "launchEst": "2026-05",
-    "desc": "朝夕光年出品，PC+手遊多端互通。5/15 正式公測上線。",
-    "tags": [
-      "動作",
-      "多端互通",
-      "朝夕光年"
-    ],
-    "threatAnalysis": "字節跳動遊戲業務轉型作品，多端互通為賣點。需觀察長期營運投入。",
-    "verified": "VNG 情報站",
-    "history": [
-      {
-        "date": "2026-02",
-        "s": "announced"
       },
       {
         "date": "2026-05",
@@ -366,7 +482,29 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2026-05-28"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "未上線",
+        "date": "待定"
+      },
+      {
+        "region": "JP",
+        "status": "未上線",
+        "date": "待定"
+      },
+      {
+        "region": "KR",
+        "status": "已上線",
+        "date": "先於國服"
+      }
+    ]
   },
   {
     "id": 10,
@@ -406,7 +544,29 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "封測中",
+        "date": "2026-Q3（預計）"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "封測中（限量刪檔）",
+        "date": "2026-05 招募中"
+      },
+      {
+        "region": "JP",
+        "status": "未上線",
+        "date": "待定"
+      },
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "待定"
+      }
+    ]
   },
   {
     "id": 11,
@@ -445,7 +605,24 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "封測中",
+        "date": "2026-06-11"
+      },
+      {
+        "region": "Global",
+        "status": "封測中（Steam）",
+        "date": "2026-06-11"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "未上線",
+        "date": "待定"
+      }
+    ]
   },
   {
     "id": 12,
@@ -484,7 +661,19 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "封測中",
+        "date": "2026-06-18"
+      },
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "待定"
+      }
+    ]
   },
   {
     "id": 13,
@@ -523,7 +712,34 @@
     "updatedAt": "2026-05-29",
     "category": "tracking",
     "currentEvent": "5.x 版本持續更新",
-    "eventNote": "目前無重大節慶，持續追蹤版本更新"
+    "eventNote": "目前無重大節慶，持續追蹤版本更新",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2020-09-28"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2020-09-28"
+      },
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2020-09-28"
+      },
+      {
+        "region": "KR",
+        "status": "已上線",
+        "date": "2020-09-28"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2020-09-28"
+      }
+    ]
   },
   {
     "id": 14,
@@ -562,7 +778,29 @@
     "updatedAt": "2026-05-29",
     "category": "tracking",
     "currentEvent": "版本持續更新中",
-    "eventNote": "目前無重大節慶"
+    "eventNote": "目前無重大節慶",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2024-07-04"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2024-07-04"
+      },
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2024-07-04"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2024-07-04"
+      }
+    ]
   },
   {
     "id": 15,
@@ -601,7 +839,29 @@
     "updatedAt": "2026-05-29",
     "category": "tracking",
     "currentEvent": "3.x 版本更新",
-    "eventNote": "目前無重大節慶，持續追蹤版本更新"
+    "eventNote": "目前無重大節慶，持續追蹤版本更新",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2023-04-26"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2023-04-26"
+      },
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2023-04-26"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2023-04-26"
+      }
+    ]
   },
   {
     "id": 16,
@@ -628,7 +888,7 @@
       "美術"
     ],
     "threatAnalysis": "美術品質極高是差異化優勢，二遊大年中的中堅競品。",
-    "verified": "36kr 二遊大年報導",
+    "verified": "36kr 二遊大年報導、TGS 2025 - 兩個來源但細節有限",
     "history": [
       {
         "date": "2025-08",
@@ -640,47 +900,88 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "封測中",
+        "date": "2026-Q3（預計）"
+      },
+      {
+        "region": "JP",
+        "status": "封測中",
+        "date": "待定"
+      }
+    ]
   },
   {
     "id": 17,
     "name": "二重螺旋",
     "nameEn": "Double Helix",
-    "studio": "散爆網絡",
-    "publisher": "散爆網絡",
-    "genre": "策略 RPG",
+    "studio": "潘神工作室",
+    "publisher": "英雄游戲",
+    "genre": "動作 RPG",
     "platform": [
       "PC",
       "Mobile"
     ],
     "region": "CN/Global",
     "model": "F2P",
-    "stage": "cbt",
+    "stage": "live-ops",
     "threat": "high",
-    "prereg": 8000000,
-    "sentiment": 82,
-    "launchEst": "2026-Q4",
-    "desc": "少女前線團隊新作，獨特雙螺旋敘事結構。TGS 2025 曝光。",
+    "prereg": null,
+    "sentiment": 79,
+    "launchEst": "2025-10",
+    "desc": "雙線幻想多維戰鬥 RPG，2025/10/28 全球公測。全角色與武器免費取得，商業化以外觀為主。目前「銀星奔流」新版本 6/2 上線。",
     "tags": [
-      "策略",
+      "動作",
       "二次元",
-      "少前團隊",
-      "創新敘事"
+      "免費角色",
+      "雙線敘事",
+      "外觀商城"
     ],
-    "threatAnalysis": "少前團隊口碑+創新雙線敘事，硬核二遊玩家高度期待。可能成為黑馬。",
-    "verified": "36kr、TGS 2025 報導",
+    "threatAnalysis": "免費角色模式的先行者之一（與無限大類似策略），已驗證可行性。持續更新中，社群活躍。",
+    "verified": "TapTap、GNN 巴哈、Paradaily",
     "history": [
       {
-        "date": "2025-08",
+        "date": "2024-09",
         "s": "announced"
       },
       {
-        "date": "2026-04",
+        "date": "2025-06",
         "s": "cbt"
+      },
+      {
+        "date": "2025-10",
+        "s": "launched"
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "tracking",
+    "currentEvent": "「銀星奔流」新版本 6/2 上線",
+    "eventNote": "⚡ 新版本帶來全新主線、新區域「百花車站」與海量福利（角色+武器自選箱），需關注其活動對玩家時間的搶佔",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2025-10-28"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2025-10-28"
+      },
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2025-10-28"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2025-10-28"
+      }
+    ]
   },
   {
     "id": 18,
@@ -696,18 +997,18 @@
     "region": "CN/Global",
     "model": "F2P",
     "stage": "announced",
-    "threat": "medium",
+    "threat": "low",
     "prereg": 5000000,
     "sentiment": 70,
     "launchEst": "2026-Q4",
-    "desc": "騰訊二次元射擊新作，TGS 2025 首度曝光。",
+    "desc": "騰訊二次元射擊新作，TGS 2025 首度曝光。目前僅有概念階段資訊，無具體開測計劃。",
     "tags": [
       "二次元",
       "射擊",
       "騰訊"
     ],
-    "threatAnalysis": "騰訊在二遊領域積極佈局，射擊+二次元組合差異化。但騰訊二遊歷史戰績不佳。",
-    "verified": "36kr、TGS 2025 報導",
+    "threatAnalysis": "僅概念階段，無實機演示或測試計劃。騰訊二遊歷史戰績不佳，持續觀察即可。",
+    "verified": "36kr（TGS 報導）- 僅單一來源，資訊有限",
     "history": [
       {
         "date": "2025-09",
@@ -715,7 +1016,14 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已公佈",
+        "date": "待定"
+      }
+    ]
   },
   {
     "id": 19,
@@ -741,7 +1049,7 @@
       "騰訊"
     ],
     "threatAnalysis": "資訊有限，僅概念階段。騰訊二遊新嘗試。",
-    "verified": "36kr、TGS 2025 報導",
+    "verified": "36kr（TGS 報導）- 僅單一來源，資訊有限",
     "history": [
       {
         "date": "2025-09",
@@ -749,7 +1057,14 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已公佈",
+        "date": "待定"
+      }
+    ]
   },
   {
     "id": 20,
@@ -776,7 +1091,7 @@
       "創新"
     ],
     "threatAnalysis": "國風差異化+新商業模式探索，但小廠資源有限。",
-    "verified": "36kr 二遊報導",
+    "verified": "36kr 報導 - 僅單一來源，資訊有限",
     "history": [
       {
         "date": "2025-10",
@@ -784,7 +1099,14 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已公佈",
+        "date": "待定"
+      }
+    ]
   },
   {
     "id": 21,
@@ -819,7 +1141,19 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "預註冊",
+        "date": "2026 年內"
+      },
+      {
+        "region": "Global",
+        "status": "預註冊",
+        "date": "2026 年內"
+      }
+    ]
   },
   {
     "id": 22,
@@ -857,7 +1191,19 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2026-04-21"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-04-21"
+      }
+    ]
   },
   {
     "id": 23,
@@ -896,7 +1242,24 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "已上線",
+        "date": "2026-04-15"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-04-15"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2026-04-15"
+      }
+    ]
   },
   {
     "id": 24,
@@ -934,7 +1297,14 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2026-05-08"
+      }
+    ]
   },
   {
     "id": 25,
@@ -973,7 +1343,19 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2026-04"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-04"
+      }
+    ]
   },
   {
     "id": 26,
@@ -1011,7 +1393,14 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-05-28"
+      }
+    ]
   },
   {
     "id": 27,
@@ -1050,7 +1439,14 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "預註冊",
+        "date": "2026-11-19（PS5/Xbox）"
+      }
+    ]
   },
   {
     "id": 28,
@@ -1091,7 +1487,19 @@
     "updatedAt": "2026-05-29",
     "category": "tracking",
     "currentEvent": "持續大型更新",
-    "eventNote": "持續推出 DLC 與免費更新"
+    "eventNote": "持續推出 DLC 與免費更新",
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2025-02"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2025-02"
+      }
+    ]
   },
   {
     "id": 29,
@@ -1117,7 +1525,7 @@
       "盜墓"
     ],
     "threatAnalysis": "IP 知名度極高但遊戲改編品質為最大風險。",
-    "verified": "VNG 情報站（九遊開測表）",
+    "verified": "VNG（九遊開測表）- 僅單一來源",
     "history": [
       {
         "date": "2026-04",
@@ -1129,7 +1537,14 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "封測中",
+        "date": "2026-06（預計）"
+      }
+    ]
   },
   {
     "id": 30,
@@ -1155,7 +1570,7 @@
       "IP"
     ],
     "threatAnalysis": "老牌 IP 回歸，但 Gameloft 近年品質下降。",
-    "verified": "VNG 情報站（九遊開測表）",
+    "verified": "VNG（九遊開測表）- 僅單一來源",
     "history": [
       {
         "date": "2026-03",
@@ -1167,6 +1582,13 @@
       }
     ],
     "updatedAt": "2026-05-29",
-    "category": "active"
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "預註冊",
+        "date": "2026-06-17（預計）"
+      }
+    ]
   }
 ]
