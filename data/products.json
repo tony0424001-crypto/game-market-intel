@@ -1,306 +1,1132 @@
 [
   {
     "id": 1,
-    "name": "Aetheris Online",
-    "studio": "NetDragon",
-    "publisher": "Tencent",
-    "genre": "MMORPG",
-    "platform": ["PC","Mobile"],
+    "name": "無限大",
+    "nameEn": "Project Mugen",
+    "studio": "NetEase",
+    "publisher": "NetEase",
+    "genre": "開放世界 RPG",
+    "platform": [
+      "PC",
+      "Mobile",
+      "Console"
+    ],
     "region": "CN/Global",
     "model": "F2P",
-    "stage": "soft-launch",
-    "threat": "high",
-    "prereg": 2800000,
-    "sentiment": 78,
+    "stage": "pre-reg",
+    "threat": "critical",
+    "prereg": 52000000,
+    "sentiment": 91,
     "launchEst": "2026-07",
-    "desc": "開放世界 MMORPG，UE5 打造，AI 驅動動態劇情。手機端針對 Snapdragon 8 Gen 3 優化。",
-    "tags": ["開放世界","AI NPC","UE5","跨平台"],
-    "history": [{"date":"2025-06","s":"announced"},{"date":"2025-11","s":"cbt"},{"date":"2026-03","s":"soft-launch"}],
-    "updatedAt": "2026-05-28"
+    "desc": "現代都市開放世界 RPG，所有角色免費取得，挑戰傳統抽卡模式。7 月全平台公測定檔。",
+    "tags": [
+      "都市",
+      "開放世界",
+      "二次元",
+      "免費角色"
+    ],
+    "threatAnalysis": "顛覆傳統抽卡商業模式（角色全免費），預註冊超 5200 萬。對所有二遊構成結構性威脅，網易旗艦級資源投入。",
+    "verified": "網易 520 發布會、蘋果仁、VNG 情報站",
+    "history": [
+      {
+        "date": "2025-08",
+        "s": "announced"
+      },
+      {
+        "date": "2026-03",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   },
   {
     "id": 2,
-    "name": "Blade & Throne: Rebirth",
-    "studio": "Smilegate RPG",
-    "publisher": "Amazon Games",
-    "genre": "Action RPG",
-    "platform": ["PC","Console"],
-    "region": "KR/Global",
+    "name": "異環",
+    "nameEn": "Anomaly Loop",
+    "studio": "Hotta Studio",
+    "publisher": "艾玩天地",
+    "genre": "開放世界 RPG",
+    "platform": [
+      "PC",
+      "Mobile",
+      "PS5"
+    ],
+    "region": "CN/TW/Global",
     "model": "F2P",
-    "stage": "cbt",
+    "stage": "live-ops",
     "threat": "high",
-    "prereg": 1500000,
+    "prereg": 18000000,
     "sentiment": 82,
-    "launchEst": "2026-09",
-    "desc": "Lost Ark 團隊新作，暗黑風格 ARPG，強調公會戰和 Raid。僅 PC 及 PS5/Xbox。",
-    "tags": ["暗黑風格","公會戰","Raid","端遊"],
-    "history": [{"date":"2025-09","s":"announced"},{"date":"2026-05","s":"cbt"}],
-    "updatedAt": "2026-05-28"
+    "launchEst": "2026-04",
+    "desc": "幻塔團隊新作，超自然都市開放世界 RPG。4/23 全平台公測，結合都市生活與超自然冒險。",
+    "tags": [
+      "都市",
+      "開放世界",
+      "二次元",
+      "幻塔團隊"
+    ],
+    "threatAnalysis": "幻塔成熟團隊打造，都市題材差異化。公測後首月表現超預期，已進入穩定營運。",
+    "verified": "蘋果仁、巴哈姆特、Yahoo 遊戲",
+    "history": [
+      {
+        "date": "2025-09",
+        "s": "announced"
+      },
+      {
+        "date": "2026-01",
+        "s": "cbt"
+      },
+      {
+        "date": "2026-04",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   },
   {
     "id": 3,
-    "name": "Project Mugen",
-    "studio": "NetEase",
-    "publisher": "NetEase",
-    "genre": "Open World RPG",
-    "platform": ["PC","Mobile","Console"],
+    "name": "明日方舟：終末地",
+    "nameEn": "Arknights: Endfield",
+    "studio": "鷹角網絡",
+    "publisher": "獅鷲邊境",
+    "genre": "即時策略 RPG",
+    "platform": [
+      "PC",
+      "Mobile",
+      "PS5"
+    ],
     "region": "CN/Global",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "critical",
-    "prereg": 5200000,
-    "sentiment": 91,
-    "launchEst": "2026-Q4",
-    "desc": "現代都市開放世界，GTA 式自由度結合二次元美術。三端同步，極高市場關注度。",
-    "tags": ["都市","開放世界","二次元","GTA","三端"],
-    "history": [{"date":"2025-08","s":"announced"}],
-    "updatedAt": "2026-05-28"
+    "stage": "live-ops",
+    "threat": "high",
+    "prereg": 35000000,
+    "sentiment": 85,
+    "launchEst": "2026-01",
+    "desc": "明日方舟 IP 衍生 3D 即時策略 RPG，結合小隊戰鬥與自動化基地建設。1/22 全球公測，預約 3500 萬。",
+    "tags": [
+      "策略",
+      "基地建設",
+      "IP衍生",
+      "明日方舟"
+    ],
+    "threatAnalysis": "明日方舟強大 IP 加持，預約 3500 萬。即時策略+基地建設的創新組合，上線後媒體評價正面。",
+    "verified": "維基百科、巴哈姆特、QooApp、GNN",
+    "history": [
+      {
+        "date": "2022-03",
+        "s": "announced"
+      },
+      {
+        "date": "2025-11",
+        "s": "cbt"
+      },
+      {
+        "date": "2026-01",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   },
   {
     "id": 4,
-    "name": "鳴潮 2.0",
-    "studio": "Kuro Games",
-    "publisher": "Kuro Games",
-    "genre": "Action RPG",
-    "platform": ["PC","Mobile"],
+    "name": "失控進化",
+    "nameEn": "Out of Control",
+    "studio": "TiMi Studio",
+    "publisher": "騰訊",
+    "genre": "射擊",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "soft-launch",
+    "threat": "critical",
+    "prereg": 32000000,
+    "sentiment": 80,
+    "launchEst": "2026-07",
+    "desc": "騰訊旗艦射擊遊戲，鴻蒙版技術測試中（5/11 起）。預約破 3200 萬，7 月全平台正式上線。",
+    "tags": [
+      "射擊",
+      "多端",
+      "騰訊",
+      "軍事"
+    ],
+    "threatAnalysis": "騰訊旗艦射擊產品，預約量極高（3200 萬）。7 月全平台上線將直接衝擊同期所有產品市場。",
+    "verified": "VNG 情報站、遊戲葡萄",
+    "history": [
+      {
+        "date": "2025-06",
+        "s": "announced"
+      },
+      {
+        "date": "2026-05",
+        "s": "soft-launch"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 5,
+    "name": "王者榮耀：世界",
+    "nameEn": "Honor of Kings: World",
+    "studio": "TiMi Studio",
+    "publisher": "騰訊",
+    "genre": "開放世界 RPG",
+    "platform": [
+      "PC",
+      "Mobile",
+      "Console"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "critical",
+    "prereg": 68000000,
+    "sentiment": 89,
+    "launchEst": "2026-Q4",
+    "desc": "王者榮耀 IP 開放世界 RPG，PC 端首輪大規模限號測試中（4/10 起）。UE5 打造。",
+    "tags": [
+      "開放世界",
+      "王者IP",
+      "UE5",
+      "手機核心"
+    ],
+    "threatAnalysis": "王者 IP 用戶基數巨大，預註冊 6800 萬為業界最高。騰訊傾全力打造的旗艦級作品。",
+    "verified": "VNG 情報站、GameLook",
+    "history": [
+      {
+        "date": "2024-12",
+        "s": "announced"
+      },
+      {
+        "date": "2026-04",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 6,
+    "name": "鳴潮",
+    "nameEn": "Wuthering Waves",
+    "studio": "庫洛遊戲",
+    "publisher": "庫洛遊戲",
+    "genre": "動作 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
     "region": "CN/Global",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 74,
-    "launchEst": "2026-06",
-    "desc": "鳴潮大版本更新，新增海洋地圖和水戰系統。直接與原神 5.x 競爭。",
-    "tags": ["二次元","開放世界","版本更新","手機優化"],
-    "history": [{"date":"2024-05","s":"launched"},{"date":"2026-06","s":"live-ops"}],
-    "updatedAt": "2026-05-28"
-  },
-  {
-    "id": 5,
-    "name": "Arena Legends",
-    "studio": "Supercell",
-    "publisher": "Supercell",
-    "genre": "MOBA",
-    "platform": ["Mobile"],
-    "region": "Global",
-    "model": "F2P",
-    "stage": "soft-launch",
-    "threat": "high",
-    "prereg": 3100000,
-    "sentiment": 85,
-    "launchEst": "2026-08",
-    "desc": "Supercell 首款 MOBA，3v3 快節奏，單局 5 分鐘，主打休閒競技。",
-    "tags": ["MOBA","休閒","3v3","電競","手機原生"],
-    "history": [{"date":"2025-04","s":"announced"},{"date":"2025-10","s":"cbt"},{"date":"2026-02","s":"soft-launch"}],
-    "updatedAt": "2026-05-28"
-  },
-  {
-    "id": 6,
-    "name": "Starfall Tactics",
-    "studio": "HoYoverse",
-    "publisher": "HoYoverse",
-    "genre": "Strategy RPG",
-    "platform": ["PC","Mobile"],
-    "region": "CN/Global",
-    "model": "F2P",
-    "stage": "cbt",
-    "threat": "critical",
-    "prereg": 4100000,
-    "sentiment": 88,
-    "launchEst": "2026-10",
-    "desc": "米哈遊回合制戰棋新作，太空歌劇背景，手機端為主要平台。",
-    "tags": ["戰棋","太空","回合制","基地建設"],
-    "history": [{"date":"2025-07","s":"announced"},{"date":"2026-04","s":"cbt"}],
-    "updatedAt": "2026-05-28"
+    "sentiment": 76,
+    "launchEst": "2024-05",
+    "desc": "二次元開放世界動作 RPG，3.3 二週年慶典版本更新中。持續與原神正面競爭。",
+    "tags": [
+      "二次元",
+      "開放世界",
+      "動作",
+      "版本更新"
+    ],
+    "threatAnalysis": "開放世界直接競品，週年慶版本品質提升，但整體用戶增長已趨緩。",
+    "verified": "VNG 情報站、巴哈姆特",
+    "history": [
+      {
+        "date": "2024-05",
+        "s": "launched"
+      },
+      {
+        "date": "2026-04",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   },
   {
     "id": 7,
-    "name": "Phantom Circuit",
-    "studio": "Riot Games",
-    "publisher": "Riot Games",
-    "genre": "Racing",
-    "platform": ["PC","Console"],
-    "region": "Global",
+    "name": "遺忘之海",
+    "nameEn": "Sea of Oblivion",
+    "studio": "NetEase",
+    "publisher": "NetEase",
+    "genre": "動作 RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
-    "prereg": 900000,
-    "sentiment": 72,
-    "launchEst": "2027-Q1",
-    "desc": "Riot 賽車品類新作，結合英雄技能系統，僅 PC 及主機。",
-    "tags": ["賽車","英雄技能","電競","端遊"],
-    "history": [{"date":"2026-03","s":"announced"}],
-    "updatedAt": "2026-05-28"
+    "stage": "cbt",
+    "threat": "high",
+    "prereg": 8000000,
+    "sentiment": 78,
+    "launchEst": "2026-Q3",
+    "desc": "網易重點二遊產品，版號已取得。三測（破曉號測試）招募中，5/22 前瞻直播公布開測日。",
+    "tags": [
+      "二次元",
+      "動作",
+      "網易"
+    ],
+    "threatAnalysis": "網易重點二遊，版號到手代表即將商業化。三測規模擴大顯示對品質有信心。",
+    "verified": "VNG 情報站、網易 520 發布會",
+    "history": [
+      {
+        "date": "2025-10",
+        "s": "announced"
+      },
+      {
+        "date": "2026-05",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   },
   {
     "id": 8,
-    "name": "Dungeon Eternal",
-    "studio": "FromSoftware",
-    "publisher": "Bandai Namco",
-    "genre": "Roguelike",
-    "platform": ["PC","Console"],
-    "region": "JP/Global",
-    "model": "Buy-to-Play",
-    "stage": "cbt",
+    "name": "卡厄思夢境",
+    "nameEn": "Calth's Dream",
+    "studio": "Smilegate",
+    "publisher": "騰訊代理",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "pre-reg",
     "threat": "medium",
-    "prereg": 700000,
-    "sentiment": 90,
-    "launchEst": "2026-11",
-    "desc": "宮崎英高監督 Roguelike 新作，魂系戰鬥 + 隨機地城。僅 PC/PS5/Xbox。",
-    "tags": ["魂系","Roguelike","隨機生成","買斷制"],
-    "history": [{"date":"2025-12","s":"announced"},{"date":"2026-05","s":"cbt"}],
-    "updatedAt": "2026-05-28"
+    "prereg": 3500000,
+    "sentiment": 72,
+    "launchEst": "2026-05",
+    "desc": "克蘇魯二次元 RPG，騰訊代理。5/28 國服公測。TGS 2025 首度亮相。",
+    "tags": [
+      "克蘇魯",
+      "二次元",
+      "騰訊代理"
+    ],
+    "threatAnalysis": "差異化克蘇魯題材，騰訊渠道加持。但小眾題材天花板有限。",
+    "verified": "VNG 情報站、TGS 2025 報導",
+    "history": [
+      {
+        "date": "2025-09",
+        "s": "announced"
+      },
+      {
+        "date": "2026-05",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   },
   {
     "id": 9,
-    "name": "Mythic Saga Mobile",
-    "studio": "Lilith Games",
-    "publisher": "Lilith Games",
-    "genre": "Idle RPG",
-    "platform": ["Mobile"],
+    "name": "鎮明閃擊",
+    "nameEn": "Dawn Strike",
+    "studio": "朝夕光年",
+    "publisher": "朝夕光年",
+    "genre": "動作 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
     "region": "CN/Global",
     "model": "F2P",
-    "stage": "pre-reg",
-    "threat": "low",
-    "prereg": 450000,
-    "sentiment": 65,
-    "launchEst": "2026-08",
-    "desc": "AFK Arena 精神續作，純手機端放置 RPG。",
-    "tags": ["放置","AFK","PvP","手機專屬"],
-    "history": [{"date":"2026-01","s":"announced"},{"date":"2026-04","s":"pre-reg"}],
-    "updatedAt": "2026-05-28"
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": 5000000,
+    "sentiment": 74,
+    "launchEst": "2026-05",
+    "desc": "朝夕光年出品，PC+手遊多端互通。5/15 正式公測上線。",
+    "tags": [
+      "動作",
+      "多端互通",
+      "朝夕光年"
+    ],
+    "threatAnalysis": "字節跳動遊戲業務轉型作品，多端互通為賣點。需觀察長期營運投入。",
+    "verified": "VNG 情報站",
+    "history": [
+      {
+        "date": "2026-02",
+        "s": "announced"
+      },
+      {
+        "date": "2026-05",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   },
   {
     "id": 10,
-    "name": "Zenith: Shattered Realms",
-    "studio": "Krafton",
-    "publisher": "Krafton",
-    "genre": "Extraction Shooter",
-    "platform": ["PC"],
-    "region": "KR/Global",
+    "name": "藍色星原：旅謠",
+    "nameEn": "Blue Waves: Melody",
+    "studio": "蠻啾網絡",
+    "publisher": "NIJIGEN（台服）",
+    "genre": "開放世界 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN/TW/Global",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
-    "prereg": 600000,
-    "sentiment": 68,
-    "launchEst": "2027-Q1",
-    "desc": "PUBG 團隊 PvPvE 撤離射擊，科幻背景，僅 PC。",
-    "tags": ["撤離射擊","PvPvE","科幻","PC"],
-    "history": [{"date":"2026-02","s":"announced"}],
-    "updatedAt": "2026-05-28"
+    "stage": "cbt",
+    "threat": "high",
+    "prereg": 12000000,
+    "sentiment": 86,
+    "launchEst": "2026-Q3",
+    "desc": "碧藍航線開發商新作，星寵幻想大世界 RPG。台服限量刪檔測試招募中（截止 5/29）。",
+    "tags": [
+      "開放世界",
+      "星寵",
+      "二次元",
+      "碧藍航線團隊"
+    ],
+    "threatAnalysis": "碧藍航線團隊品牌號召力強，獨特星寵系統差異化。TGS 2025 高度曝光，二遊大年核心競品。",
+    "verified": "蘋果仁、36kr、TGS 2025 報導",
+    "history": [
+      {
+        "date": "2025-06",
+        "s": "announced"
+      },
+      {
+        "date": "2026-05",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   },
   {
     "id": 11,
-    "name": "Chrono Shift",
-    "studio": "Square Enix",
-    "publisher": "Square Enix",
-    "genre": "Turn-based RPG",
-    "platform": ["PC","Console","Mobile"],
-    "region": "JP/Global",
-    "model": "Buy-to-Play",
-    "stage": "pre-reg",
-    "threat": "high",
-    "prereg": 1900000,
-    "sentiment": 86,
-    "launchEst": "2026-09",
-    "desc": "Chrono Trigger 精神續作，HD-2D 風格，三端同發。",
-    "tags": ["JRPG","HD-2D","時空","三端同發"],
-    "history": [{"date":"2025-06","s":"announced"},{"date":"2026-01","s":"pre-reg"}],
-    "updatedAt": "2026-05-28"
+    "name": "破界：界限終零",
+    "nameEn": "Breakers: Zero Limit",
+    "studio": "NCsoft",
+    "publisher": "NCsoft",
+    "genre": "動作 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "medium",
+    "prereg": 2000000,
+    "sentiment": 70,
+    "launchEst": "2026-Q3",
+    "desc": "NC 二次元 ARPG 新作。6/11-6/15 Steam 與手機序幕測試，招募截止 6/2。",
+    "tags": [
+      "二次元",
+      "ARPG",
+      "NCsoft"
+    ],
+    "threatAnalysis": "NC 首次進軍二遊市場，研發實力強但二遊運營經驗不足。序幕測試反饋是關鍵。",
+    "verified": "蘋果仁",
+    "history": [
+      {
+        "date": "2026-01",
+        "s": "announced"
+      },
+      {
+        "date": "2026-06",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   },
   {
     "id": 12,
-    "name": "Wild Hearts 2",
-    "studio": "Koei Tecmo",
-    "publisher": "EA",
-    "genre": "Action RPG",
-    "platform": ["PC","Console"],
-    "region": "JP/Global",
-    "model": "Buy-to-Play",
-    "stage": "announced",
-    "threat": "low",
-    "prereg": 300000,
-    "sentiment": 58,
-    "launchEst": "2027-Q2",
-    "desc": "狩獵遊戲續作，僅 PC 及主機。",
-    "tags": ["狩獵","共鬥","Raid","買斷制"],
-    "history": [{"date":"2026-05","s":"announced"}],
-    "updatedAt": "2026-05-28"
+    "name": "締造者：放逐之境",
+    "nameEn": "Creator: Exile",
+    "studio": "AQUA TREE",
+    "publisher": "AQUA TREE",
+    "genre": "MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "medium",
+    "prereg": 1500000,
+    "sentiment": 68,
+    "launchEst": "2026-Q4",
+    "desc": "天堂 2：革命團隊新作，UE5 無接縫大世界 MMORPG。6/18 CBT，預約截止 6/17。",
+    "tags": [
+      "MMORPG",
+      "UE5",
+      "大世界"
+    ],
+    "threatAnalysis": "天堂團隊 MMORPG 經驗豐富，UE5 畫質優勢。但手遊 MMORPG 品類已趨飽和。",
+    "verified": "蘋果仁",
+    "history": [
+      {
+        "date": "2026-02",
+        "s": "announced"
+      },
+      {
+        "date": "2026-06",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   },
   {
     "id": 13,
-    "name": "Honor of Kings: World",
-    "studio": "TiMi Studio",
-    "publisher": "Tencent",
-    "genre": "Open World RPG",
-    "platform": ["PC","Mobile","Console"],
+    "name": "原神",
+    "nameEn": "Genshin Impact",
+    "studio": "miHoYo",
+    "publisher": "HoYoverse",
+    "genre": "開放世界 RPG",
+    "platform": [
+      "PC",
+      "Mobile",
+      "Console"
+    ],
     "region": "CN/Global",
     "model": "F2P",
-    "stage": "cbt",
-    "threat": "critical",
-    "prereg": 6800000,
-    "sentiment": 89,
-    "launchEst": "2026-Q4",
-    "desc": "王者榮耀 IP 開放世界 RPG，手機為核心平台，UE5 打造。",
-    "tags": ["開放世界","王者IP","UE5","手機核心"],
-    "history": [{"date":"2024-12","s":"announced"},{"date":"2026-03","s":"cbt"}],
-    "updatedAt": "2026-05-28"
+    "stage": "live-ops",
+    "threat": "high",
+    "prereg": null,
+    "sentiment": 80,
+    "launchEst": "2020-09",
+    "desc": "二遊標竿產品，5.x 版本持續營運中。面臨無限大、異環等新進競品大量挑戰。",
+    "tags": [
+      "開放世界",
+      "二次元",
+      "米哈遊",
+      "長期營運"
+    ],
+    "threatAnalysis": "行業標竿但增長放緩。新競品（無限大、異環）正在瓜分用戶時間，但版本品質穩定仍是護城河。",
+    "verified": "公開資訊",
+    "history": [
+      {
+        "date": "2020-09",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   },
   {
     "id": 14,
+    "name": "絕區零",
+    "nameEn": "Zenless Zone Zero",
+    "studio": "miHoYo",
+    "publisher": "HoYoverse",
+    "genre": "動作 RPG",
+    "platform": [
+      "PC",
+      "Mobile",
+      "Console"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 75,
+    "launchEst": "2024-07",
+    "desc": "米哈遊都市題材動作 RPG，持續版本更新中。",
+    "tags": [
+      "都市",
+      "動作",
+      "二次元",
+      "米哈遊"
+    ],
+    "threatAnalysis": "米哈遊品牌保證基礎流量，但營收低於預期。差異化不足是最大挑戰。",
+    "verified": "公開資訊",
+    "history": [
+      {
+        "date": "2024-07",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 15,
+    "name": "崩壞：星穹鐵道",
+    "nameEn": "Honkai: Star Rail",
+    "studio": "miHoYo",
+    "publisher": "HoYoverse",
+    "genre": "回合制 RPG",
+    "platform": [
+      "PC",
+      "Mobile",
+      "Console"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "prereg": null,
+    "sentiment": 84,
+    "launchEst": "2023-04",
+    "desc": "米哈遊回合制 RPG，穩定高營收產品。3.x 版本持續更新。",
+    "tags": [
+      "回合制",
+      "太空",
+      "二次元",
+      "米哈遊"
+    ],
+    "threatAnalysis": "米哈遊最賺錢產品，回合制品類王者。穩定的內容更新節奏是競爭壁壘。",
+    "verified": "公開資訊",
+    "history": [
+      {
+        "date": "2023-04",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 16,
+    "name": "白銀之城",
+    "nameEn": "Silver City",
+    "studio": "樂元素",
+    "publisher": "樂元素",
+    "genre": "RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN/JP",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "medium",
+    "prereg": 6000000,
+    "sentiment": 77,
+    "launchEst": "2026-Q3",
+    "desc": "樂元素二次元新作，高品質美術與劇情為賣點。",
+    "tags": [
+      "二次元",
+      "劇情",
+      "美術"
+    ],
+    "threatAnalysis": "美術品質極高是差異化優勢，二遊大年中的中堅競品。",
+    "verified": "36kr 二遊大年報導",
+    "history": [
+      {
+        "date": "2025-08",
+        "s": "announced"
+      },
+      {
+        "date": "2026-02",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 17,
+    "name": "二重螺旋",
+    "nameEn": "Double Helix",
+    "studio": "散爆網絡",
+    "publisher": "散爆網絡",
+    "genre": "策略 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "prereg": 8000000,
+    "sentiment": 82,
+    "launchEst": "2026-Q4",
+    "desc": "少女前線團隊新作，獨特雙螺旋敘事結構。TGS 2025 曝光。",
+    "tags": [
+      "策略",
+      "二次元",
+      "少前團隊",
+      "創新敘事"
+    ],
+    "threatAnalysis": "少前團隊口碑+創新雙線敘事，硬核二遊玩家高度期待。可能成為黑馬。",
+    "verified": "36kr、TGS 2025 報導",
+    "history": [
+      {
+        "date": "2025-08",
+        "s": "announced"
+      },
+      {
+        "date": "2026-04",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 18,
+    "name": "命運扳機",
+    "nameEn": "Fate Trigger",
+    "studio": "騰訊",
+    "publisher": "騰訊",
+    "genre": "射擊 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": 5000000,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "騰訊二次元射擊新作，TGS 2025 首度曝光。",
+    "tags": [
+      "二次元",
+      "射擊",
+      "騰訊"
+    ],
+    "threatAnalysis": "騰訊在二遊領域積極佈局，射擊+二次元組合差異化。但騰訊二遊歷史戰績不佳。",
+    "verified": "36kr、TGS 2025 報導",
+    "history": [
+      {
+        "date": "2025-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 19,
+    "name": "追逐卡蕾多",
+    "nameEn": "Chasing Kaledo",
+    "studio": "騰訊",
+    "publisher": "騰訊",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "prereg": 2000000,
+    "sentiment": 65,
+    "launchEst": "2027-Q1",
+    "desc": "騰訊二次元 RPG 新作，TGS 2025 首次曝光。",
+    "tags": [
+      "二次元",
+      "RPG",
+      "騰訊"
+    ],
+    "threatAnalysis": "資訊有限，僅概念階段。騰訊二遊新嘗試。",
+    "verified": "36kr、TGS 2025 報導",
+    "history": [
+      {
+        "date": "2025-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 20,
+    "name": "望月",
+    "nameEn": "Gazing Moon",
+    "studio": "詩悅",
+    "publisher": "詩悅",
+    "genre": "開放世界 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": 3000000,
+    "sentiment": 68,
+    "launchEst": "2026-Q4",
+    "desc": "國風開放世界探索 RPG，嘗試打破傳統二遊框架，探索新商業模式。",
+    "tags": [
+      "國風",
+      "開放世界",
+      "創新"
+    ],
+    "threatAnalysis": "國風差異化+新商業模式探索，但小廠資源有限。",
+    "verified": "36kr 二遊報導",
+    "history": [
+      {
+        "date": "2025-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 21,
+    "name": "數碼寶貝 UP",
+    "nameEn": "Digimon UP",
+    "studio": "Bandai Namco",
+    "publisher": "Bandai Namco",
+    "genre": "養成 RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP/Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "medium",
+    "prereg": 1000000,
+    "sentiment": 72,
+    "launchEst": "2026-Q3",
+    "desc": "數碼寶貝系列全新手遊，點陣圖風格養成 RPG。已開放全球事前登錄。",
+    "tags": [
+      "IP",
+      "養成",
+      "數碼寶貝",
+      "復古"
+    ],
+    "threatAnalysis": "強大 IP 情懷加分，但數碼寶貝手遊品質歷史不穩定。",
+    "verified": "QooApp",
+    "history": [
+      {
+        "date": "2026-05",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 22,
+    "name": "勇者鬥惡龍：破限亂鬥",
+    "nameEn": "DQ: Limit Breakers",
+    "studio": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "Roguelite RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": 4000000,
+    "sentiment": 73,
+    "launchEst": "2026-04",
+    "desc": "DQ 系列 Roguelite RPG，直向操作爽快感。4/21 正式上線。",
+    "tags": [
+      "DQ",
+      "Roguelite",
+      "IP"
+    ],
+    "threatAnalysis": "DQ 超強 IP 在日本市場有巨大號召力。Roguelite 品類差異化。",
+    "verified": "蘋果仁",
+    "history": [
+      {
+        "date": "2025-12",
+        "s": "announced"
+      },
+      {
+        "date": "2026-04",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 23,
+    "name": "魔御：STAR DIVE",
+    "nameEn": "STAR DIVE",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "動作 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "low",
+    "prereg": 3000000,
+    "sentiment": 62,
+    "launchEst": "2026-04",
+    "desc": "UE5 動作 RPG，魔物馴服核心玩法。4/15 上線。",
+    "tags": [
+      "動作",
+      "UE5",
+      "魔物馴服"
+    ],
+    "threatAnalysis": "Netmarble 研發穩定但上線初期評價平平，留存風險高。",
+    "verified": "蘋果仁",
+    "history": [
+      {
+        "date": "2025-11",
+        "s": "announced"
+      },
+      {
+        "date": "2026-04",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 24,
+    "name": "東離劍遊紀M",
+    "nameEn": "Thunderbolt Fantasy M",
+    "studio": "霹靂",
+    "publisher": "霹靂",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "TW",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "low",
+    "prereg": 500000,
+    "sentiment": 65,
+    "launchEst": "2026-05",
+    "desc": "霹靂 IP 改編手遊，5/8 公測上線。台港澳限定。",
+    "tags": [
+      "IP",
+      "布袋戲",
+      "台灣"
+    ],
+    "threatAnalysis": "小眾 IP 且僅限台港澳，天花板有限但目標族群穩定。",
+    "verified": "VNG 情報站",
+    "history": [
+      {
+        "date": "2026-03",
+        "s": "announced"
+      },
+      {
+        "date": "2026-05",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 25,
+    "name": "奇幻生活 i",
+    "nameEn": "Fantasy Life i",
+    "studio": "Level-5",
+    "publisher": "Level-5",
+    "genre": "生活模擬 RPG",
+    "platform": [
+      "Mobile",
+      "NS2"
+    ],
+    "region": "JP/Global",
+    "model": "Buy-to-Play",
+    "stage": "live-ops",
+    "threat": "low",
+    "prereg": 2000000,
+    "sentiment": 78,
+    "launchEst": "2026-04",
+    "desc": "類動森慢活 RPG，14 種職業體驗。",
+    "tags": [
+      "生活模擬",
+      "休閒",
+      "Level-5"
+    ],
+    "threatAnalysis": "休閒生活模擬定位避開激烈二遊戰場，穩定小眾受眾。",
+    "verified": "蘋果仁",
+    "history": [
+      {
+        "date": "2025-10",
+        "s": "announced"
+      },
+      {
+        "date": "2026-04",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 26,
+    "name": "Pictonico!",
+    "nameEn": "Pictonico!",
+    "studio": "Nintendo",
+    "publisher": "Nintendo",
+    "genre": "派對遊戲",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "low",
+    "prereg": 3000000,
+    "sentiment": 70,
+    "launchEst": "2026-05",
+    "desc": "任天堂全新手遊，照片變小遊戲，80+ 種遊戲。5/28 上線。",
+    "tags": [
+      "任天堂",
+      "派對",
+      "休閒"
+    ],
+    "threatAnalysis": "任天堂品牌但定位純休閒，不與核心遊戲直接競爭。",
+    "verified": "蘋果仁",
+    "history": [
+      {
+        "date": "2026-04",
+        "s": "announced"
+      },
+      {
+        "date": "2026-05",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 27,
     "name": "GTA VI",
+    "nameEn": "Grand Theft Auto VI",
     "studio": "Rockstar Games",
     "publisher": "Take-Two",
-    "genre": "Open World Action",
-    "platform": ["Console"],
+    "genre": "開放世界動作",
+    "platform": [
+      "Console"
+    ],
     "region": "Global",
     "model": "Buy-to-Play",
     "stage": "pre-reg",
     "threat": "critical",
     "prereg": null,
     "sentiment": 97,
-    "launchEst": "2026-10",
-    "desc": "史上最受期待續作，目前僅 PS5/Xbox Series。",
-    "tags": ["開放世界","犯罪","AAA","主機獨佔"],
-    "history": [{"date":"2023-12","s":"announced"},{"date":"2026-06","s":"pre-reg"}],
-    "updatedAt": "2026-05-28"
+    "launchEst": "2026-11",
+    "desc": "史上最受期待遊戲續作。二度延期後確認 11/19 發售，僅 PS5/Xbox Series。PC 版延後。",
+    "tags": [
+      "開放世界",
+      "犯罪",
+      "AAA",
+      "主機獨佔"
+    ],
+    "threatAnalysis": "遊戲史上最受期待產品。11 月發售將嚴重擠壓 Q4 全主機市場，所有同期產品必須迴避或提前。",
+    "verified": "Rockstar 官方、Yahoo 遊戲、多家媒體",
+    "history": [
+      {
+        "date": "2023-12",
+        "s": "announced"
+      },
+      {
+        "date": "2025-05",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   },
   {
-    "id": 15,
-    "name": "Monster Hunter Wilds",
+    "id": 28,
+    "name": "魔物獵人 荒野",
+    "nameEn": "Monster Hunter Wilds",
     "studio": "Capcom",
     "publisher": "Capcom",
-    "genre": "Action RPG",
-    "platform": ["PC","Console"],
+    "genre": "動作 RPG",
+    "platform": [
+      "PC",
+      "Console"
+    ],
     "region": "JP/Global",
     "model": "Buy-to-Play",
     "stage": "live-ops",
     "threat": "high",
     "prereg": null,
     "sentiment": 92,
-    "launchEst": "已上線",
-    "desc": "魔物獵人最新作，持續推出大型更新。僅 PC 及主機。",
-    "tags": ["狩獵","共鬥","AAA","持續更新"],
-    "history": [{"date":"2024-06","s":"announced"},{"date":"2025-02","s":"launched"},{"date":"2026-05","s":"live-ops"}],
-    "updatedAt": "2026-05-28"
+    "launchEst": "2025-02",
+    "desc": "魔物獵人最新作，2025/2 上線後持續大型更新。僅 PC 及主機。",
+    "tags": [
+      "狩獵",
+      "共鬥",
+      "AAA"
+    ],
+    "threatAnalysis": "品類標竿級產品，大型更新會週期性搶佔市場注意力。",
+    "verified": "公開資訊",
+    "history": [
+      {
+        "date": "2024-06",
+        "s": "announced"
+      },
+      {
+        "date": "2025-02",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   },
   {
-    "id": 16,
-    "name": "Nikke: Blade",
-    "studio": "Shift Up",
-    "publisher": "Level Infinite",
-    "genre": "Action RPG",
-    "platform": ["Mobile","PC"],
-    "region": "KR/Global",
+    "id": 29,
+    "name": "盜墓筆記",
+    "nameEn": "Tomb Notes",
+    "studio": "未公開",
+    "publisher": "未公開",
+    "genre": "冒險 RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "high",
-    "prereg": 2200000,
-    "sentiment": 80,
-    "launchEst": "2026-12",
-    "desc": "勝利女神：妮姬 IP 衍生動作 RPG，手機為主平台。",
-    "tags": ["二次元","動作","IP衍生","手機優先"],
-    "history": [{"date":"2026-04","s":"announced"}],
-    "updatedAt": "2026-05-28"
+    "stage": "cbt",
+    "threat": "low",
+    "prereg": 5000000,
+    "sentiment": 62,
+    "launchEst": "2026-06",
+    "desc": "超人氣 IP 改編手遊，6 月下旬不刪檔內測。",
+    "tags": [
+      "IP",
+      "冒險",
+      "盜墓"
+    ],
+    "threatAnalysis": "IP 知名度極高但遊戲改編品質為最大風險。",
+    "verified": "VNG 情報站（九遊開測表）",
+    "history": [
+      {
+        "date": "2026-04",
+        "s": "announced"
+      },
+      {
+        "date": "2026-06",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-05-29"
+  },
+  {
+    "id": 30,
+    "name": "地牢獵手 6",
+    "nameEn": "Dungeon Hunter 6",
+    "studio": "Gameloft",
+    "publisher": "Gameloft",
+    "genre": "動作 RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "low",
+    "prereg": 2500000,
+    "sentiment": 64,
+    "launchEst": "2026-06",
+    "desc": "Dungeon Hunter 系列第六代，6/17 開測預定。",
+    "tags": [
+      "動作",
+      "地牢",
+      "IP"
+    ],
+    "threatAnalysis": "老牌 IP 回歸，但 Gameloft 近年品質下降。",
+    "verified": "VNG 情報站（九遊開測表）",
+    "history": [
+      {
+        "date": "2026-03",
+        "s": "announced"
+      },
+      {
+        "date": "2026-05",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-05-29"
   }
 ]
