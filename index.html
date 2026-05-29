@@ -135,10 +135,10 @@ function getQ(s){const d=parseD(s);if(!d)return null;if(d.m<=3)return"Q1";if(d.m
 function GameCard({g,onClick,ac}){const tc={critical:"tc",high:"th",medium:"tm",low:"tl"}[g.threat]||"";
 return(<div className={`gcard ${tc}`} onClick={()=>onClick(g)}>
   <div className="gcard-h"><div className="gcard-t">{g.name}</div><Pill c={TC[g.threat]} ch={`威脅:${TM[g.threat]}`}/></div>
-  <div className="gcard-s">{g.studio} · {g.publisher} · {g.region}</div>
+  <div className="gcard-s">{g.developer||g.studio} · {g.region}{g.testType&&g.testType!=="未知"&&<span style={{color:"var(--cyan)"}}> · {g.testType}</span>}</div>
   <div className="gcard-tags"><Pill c={SC[g.stage]} ch={SM[g.stage]}/><Pill c={ac} ch={g.genre}/>{g.platform.map(p=><Pill key={p} c="var(--muted)" ch={p}/>)}</div>
   <div className="gcard-d">{g.desc}</div>
-  <div className="gcard-f"><span>上線: {g.launchEst||"未定"}{g.launchRegions&&g.launchRegions.length>0&&<span style={{color:"var(--muted)"}}> ({g.launchRegions.filter(r=>r.status.includes("已上線")).length}/{g.launchRegions.length}區)</span>}</span>{g.prereg?<span style={{color:"var(--green)"}}>預註冊:{(g.prereg/10000).toFixed(0)}萬</span>:<span/>}<span style={{color:g.sentiment>80?"var(--green)":g.sentiment>60?"var(--yellow)":"var(--red)"}}>{g.sentiment}/100</span></div>
+  <div className="gcard-f"><span>{g.testDateStart&&g.testDateStart!=="待確認"?`${g.testDateStart}`:g.launchEst||"未定"}{g.launchRegions&&g.launchRegions.length>0&&<span style={{color:"var(--muted)"}}> ({g.launchRegions.filter(r=>r.status.includes("已上線")).length}/{g.launchRegions.length}區)</span>}</span>{g.prereg?<span style={{color:"var(--green)"}}>預註冊:{(g.prereg/10000).toFixed(0)}萬</span>:<span/>}<span style={{color:g.sentiment>80?"var(--green)":g.sentiment>60?"var(--yellow)":"var(--red)"}}>{g.sentiment}/100</span></div>
 </div>);}
 
 function Modal({game:g,onClose}){if(!g)return null;const cat=g.platform.includes("Mobile")?"mobile":"console";const ac=cat==="mobile"?"var(--mobile)":"var(--console)";
@@ -147,7 +147,15 @@ return(<div className="modal-bg" onClick={onClose}><div className="modal" onClic
   <div style={{display:"flex",gap:5,flexWrap:"wrap",marginBottom:8}}><Pill c={cat==="mobile"?"#ff6b35":"#7c5cfc"} ch={cat==="mobile"?"📱 手機遊戲":"🎮 主機/PC"}/><Pill c={TC[g.threat]} ch={`威脅:${TM[g.threat]}`}/><Pill c={SC[g.stage]} ch={SM[g.stage]}/></div>
   <h2 style={{fontSize:20,fontWeight:900,marginBottom:3}}>{g.name}</h2>
   {g.nameEn&&<div style={{fontSize:11,color:"var(--muted)",marginBottom:4}}>{g.nameEn}</div>}
-  <div style={{fontSize:12,color:"var(--dim)",marginBottom:12}}>{g.studio} · {g.publisher} · {g.region} · {g.platform.join(" / ")}</div>
+  <div style={{fontSize:12,color:"var(--dim)",marginBottom:6}}>{g.platform.join(" / ")} · {g.region}</div>
+  <div style={{display:"flex",flexDirection:"column",gap:3,marginBottom:12,padding:"8px 10px",borderRadius:6,background:"var(--surface)",border:"1px solid var(--border)",fontSize:11}}>
+    <div><span style={{color:"var(--muted)",minWidth:60,display:"inline-block"}}>開發商：</span><span style={{color:"var(--text)",fontWeight:600}}>{g.developer||g.studio}</span></div>
+    {g.publisher_cn&&<div><span style={{color:"var(--muted)"}}>中國代理：</span>{g.publisher_cn}</div>}
+    {g.publisher_tw&&<div><span style={{color:"var(--muted)"}}>台港澳代理：</span>{g.publisher_tw}</div>}
+    {g.publisher_global&&<div><span style={{color:"var(--muted)"}}>全球發行：</span>{g.publisher_global}</div>}
+    {g.testType&&g.testType!=="未知"&&<div><span style={{color:"var(--muted)"}}>測試性質：</span><span style={{color:"var(--cyan)",fontWeight:600}}>{g.testType}</span></div>}
+    {g.testDateStart&&g.testDateStart!=="待確認"&&<div><span style={{color:"var(--muted)"}}>測試時間：</span><span style={{fontWeight:600}}>{g.testDateStart}{g.testDateEnd&&g.testDateEnd!=="待確認"?` ～ ${g.testDateEnd}`:""}</span></div>}
+  </div>
   <p style={{fontSize:12,color:"var(--dim)",lineHeight:1.7,marginBottom:14}}>{g.desc}</p>
   <div style={{display:"flex",gap:3,flexWrap:"wrap",marginBottom:14}}>{(g.tags||[]).map(t=><Pill key={t} c={ac} ch={t}/>)}</div>
   <div className="stats" style={{marginBottom:14}}>
@@ -243,7 +251,7 @@ function QProductsView({games,onSelect,ac}){
   const qc={"Q1":"#00d4ff","Q2":"#2dd4a8","Q3":"#ffaa33","Q4":"#ff6b6b"};
   const ql={"Q1":"第一季 (1-3月)","Q2":"第二季 (4-6月)","Q3":"第三季 (7-9月)","Q4":"第四季 (10-12月)"};
   const grouped={"Q1":[],"Q2":[],"Q3":[],"Q4":[],"未定":[]};
-  games.forEach(g=>{const q=getQ(g.launchEst);if(q&&grouped[q])grouped[q].push(g);else grouped["未定"].push(g);});
+  games.forEach(g=>{const q=getQ(g.launchEst);if(q&&grouped[q])grouped[q].push(g);else grouped["未定"].push(g);});const to={critical:0,high:1,medium:2,low:3};Object.values(grouped).forEach(arr=>arr.sort((a,b)=>to[a.threat]-to[b.threat]||(b.prereg||0)-(a.prereg||0)));
   return(<div>{["Q1","Q2","Q3","Q4","未定"].map(q=>{const items=grouped[q];if(!items.length)return null;const clr=qc[q]||"var(--muted)";
     return(<div key={q} style={{marginBottom:24}}>
       <div style={{display:"flex",alignItems:"center",gap:8,marginBottom:10,padding:"8px 14px",borderRadius:8,background:`${clr}0a`,border:`1px solid ${clr}22`}}>
@@ -449,8 +457,15 @@ function App(){
         {ST.map(s=>{const n=base.filter(g=>g.stage===s).length;return n?<button key={s} className={`fbtn ${sf===s?"on":""}`} onClick={()=>setSf(sf===s?"all":s)}>{SM[s]}({n})</button>:null})}
         {["critical","high"].map(t=>{const n=base.filter(g=>g.threat===t).length;return n?<button key={t} className="fbtn" style={tf===t?{background:TC[t],color:"#000",borderColor:TC[t]}:{}} onClick={()=>setTf(tf===t?"all":t)}>威脅{TM[t]}({n})</button>:null})}
       </div></>}
-      {mod==="list"&&<div className="grid">{filtered.length?filtered.map(g=><GameCard key={g.id} g={g} onClick={setSel} ac={ac}/>):<div className="empty"><div className="ic">🔍</div><div>無符合條件的產品</div></div>}</div>}
-      {mod==="kanban"&&<div className="kanban">{ST.map(s=>{const gs=filtered.filter(g=>g.stage===s);return<div key={s} className="kcol">
+      {mod==="list"&&(()=>{const tOrder={critical:0,high:1,medium:2,low:3};const sorted=[...filtered].sort((a,b)=>tOrder[a.threat]-tOrder[b.threat]||(b.prereg||0)-(a.prereg||0));const groups=[{key:"critical",label:"🚨 威脅極高",clr:"var(--red)"},{key:"high",label:"⚠️ 威脅高",clr:"var(--orange)"},{key:"medium",label:"● 威脅中",clr:"var(--yellow)"},{key:"low",label:"○ 威脅低",clr:"var(--green)"}];
+  return sorted.length?<div>{groups.map(gr=>{const items=sorted.filter(g=>g.threat===gr.key);if(!items.length)return null;return<div key={gr.key} style={{marginBottom:20}}>
+    <div style={{display:"flex",alignItems:"center",gap:8,marginBottom:10,padding:"6px 12px",borderRadius:8,background:`${gr.clr}0a`,borderLeft:`3px solid ${gr.clr}`}}>
+      <span style={{fontSize:13,fontWeight:700,color:gr.clr}}>{gr.label}</span>
+      <span style={{fontSize:11,color:"var(--muted)"}}>{items.length} 款</span>
+    </div>
+    <div className="grid">{items.map(g=><GameCard key={g.id} g={g} onClick={setSel} ac={ac}/>)}</div>
+  </div>})}</div>:<div className="empty"><div className="ic">🔍</div><div>無符合條件的產品</div></div>})()}
+      {mod==="kanban"&&<div className="kanban">{ST.map(s=>{const gs=[...filtered.filter(g=>g.stage===s)].sort((a,b)=>{const o={critical:0,high:1,medium:2,low:3};return o[a.threat]-o[b.threat]||(b.prereg||0)-(a.prereg||0)});return<div key={s} className="kcol">
         <div className="kcol-h" style={{background:`${SC[s]}12`,borderLeft:`3px solid ${SC[s]}`}}><span style={{width:7,height:7,borderRadius:4,background:SC[s]}}/><span style={{fontSize:11,fontWeight:700,color:SC[s],textTransform:"uppercase"}}>{SM[s]}</span><span style={{fontSize:10,color:"var(--muted)",marginLeft:"auto"}}>{gs.length}</span></div>
         {gs.map(g=><GameCard key={g.id} g={g} onClick={setSel} ac={ac}/>)}{!gs.length&&<div style={{textAlign:"center",padding:16,fontSize:11,color:"var(--muted)"}}>無產品</div>}</div>})}</div>}
       {mod==="threat"&&<ThreatView games={base.filter(g=>g.category!=="tracking")} onSelect={setSel}/>}
@@ -471,7 +486,7 @@ function App(){
         <div style={{flex:1,minWidth:240}}>所有產品均經過至少 2 個獨立來源交叉驗證。每款產品標注驗證來源。</div>
       </div>
     </div></div>
-    <div className="footer">Game Market Intelligence · v6.1 · 驗證標準版 · 所有產品資訊均來自公開可查證來源</div>
+    <div className="footer">Game Market Intelligence · v7.1 · 排版優化版 · 所有產品資訊均來自公開可查證來源</div>
     {sel&&<Modal game={sel} onClose={()=>setSel(null)}/>}
   </div>);
 }
