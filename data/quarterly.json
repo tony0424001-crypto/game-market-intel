@@ -1,58 +1,30 @@
 {
   "year": 2026,
   "resetAt": "2026-01-01T00:00:00Z",
-  "lastUpdated": "2026-05-29T02:39:55.140879+00:00",
+  "lastUpdated": "2026-05-29T08:30:00Z",
   "quarters": {
     "Q1": {
       "label": "2026 Q1 (1月-3月)",
       "events": [
         {
-          "date": "2026-01-15",
-          "product": "Chrono Shift",
-          "type": "pre-reg",
-          "detail": "Square Enix 開啟全球預註冊",
-          "platform": "mobile"
-        },
-        {
           "date": "2026-01-22",
-          "product": "Mythic Saga Mobile",
-          "type": "announced",
-          "detail": "Lilith Games 正式公佈新作",
+          "product": "明日方舟：終末地",
+          "type": "launch",
+          "detail": "全球公測正式上線",
           "platform": "mobile"
         },
         {
           "date": "2026-02-10",
-          "product": "Arena Legends",
-          "type": "soft-launch",
-          "detail": "Supercell 在加拿大/北歐開放軟啟動",
+          "product": "鳴潮",
+          "type": "media",
+          "detail": "3.0 大版本更新",
           "platform": "mobile"
-        },
-        {
-          "date": "2026-02-18",
-          "product": "Zenith: Shattered Realms",
-          "type": "announced",
-          "detail": "Krafton 正式公佈新作",
-          "platform": "console"
         },
         {
           "date": "2026-03-05",
-          "product": "Phantom Circuit",
+          "product": "失控進化",
           "type": "announced",
-          "detail": "Riot Games 公佈賽車新作",
-          "platform": "console"
-        },
-        {
-          "date": "2026-03-12",
-          "product": "Aetheris Online",
-          "type": "soft-launch",
-          "detail": "東南亞地區軟啟動",
-          "platform": "mobile"
-        },
-        {
-          "date": "2026-03-20",
-          "product": "Honor of Kings: World",
-          "type": "cbt",
-          "detail": "開啟首輪限量封測",
+          "detail": "騰訊正式公佈全平台上線計劃",
           "platform": "mobile"
         }
       ]
@@ -61,73 +33,129 @@
       "label": "2026 Q2 (4月-6月)",
       "events": [
         {
-          "date": "2026-04-02",
-          "product": "Starfall Tactics",
+          "date": "2026-04-15",
+          "product": "魔御：STAR DIVE",
+          "type": "launch",
+          "detail": "全平台正式上線",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-04-21",
+          "product": "勇者鬥惡龍：破限亂鬥",
+          "type": "launch",
+          "detail": "正式上線",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-04-23",
+          "product": "異環",
+          "type": "launch",
+          "detail": "全平台公測",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-04-28",
+          "product": "奇幻生活 i",
+          "type": "launch",
+          "detail": "正式上線",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-04-30",
+          "product": "鳴潮",
+          "type": "media",
+          "detail": "3.3 二週年慶典開始",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-05-08",
+          "product": "東離劍遊紀M",
+          "type": "launch",
+          "detail": "台港澳公測上線",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-05-11",
+          "product": "失控進化",
           "type": "cbt",
-          "detail": "HoYoverse 開啟全球封測",
+          "detail": "鴻蒙版技術測試開始",
           "platform": "mobile"
         },
         {
-          "date": "2026-04-10",
-          "product": "Mythic Saga Mobile",
-          "type": "pre-reg",
-          "detail": "全球預註冊開啟",
+          "date": "2026-05-15",
+          "product": "鎮明閃擊",
+          "type": "launch",
+          "detail": "公測上線",
           "platform": "mobile"
         },
         {
-          "date": "2026-04-18",
-          "product": "Nikke: Blade",
-          "type": "announced",
-          "detail": "Shift Up 正式公佈",
+          "date": "2026-05-22",
+          "product": "遺忘之海",
+          "type": "cbt",
+          "detail": "三測（破曉號測試）招募",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-05-28",
+          "product": "卡厄思夢境",
+          "type": "launch",
+          "detail": "國服公測",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-05-28",
+          "product": "Pictonico!",
+          "type": "launch",
+          "detail": "任天堂新手遊上線",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-05-28",
+          "product": "無限大",
+          "type": "media",
+          "detail": "釋出 15 分鐘實機演示",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-05-29",
+          "product": "藍色星原：旅謠",
+          "type": "cbt",
+          "detail": "台服刪檔測試招募截止",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-06-11",
+          "product": "破界：界限終零",
+          "type": "cbt",
+          "detail": "Steam/手機序幕測試(5天)",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-06-17",
+          "product": "地牢獵手 6",
+          "type": "cbt",
+          "detail": "開測",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-06-18",
+          "product": "締造者：放逐之境",
+          "type": "cbt",
+          "detail": "CBT 測試開始",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-06-01",
+          "product": "盜墓筆記",
+          "type": "cbt",
+          "detail": "6月下旬不刪檔內測",
           "platform": "mobile"
         },
         {
           "date": "2026-05-05",
-          "product": "Blade & Throne: Rebirth",
+          "product": "王者榮耀：世界",
           "type": "cbt",
-          "detail": "全球封測開啟",
-          "platform": "console"
-        },
-        {
-          "date": "2026-05-12",
-          "product": "Dungeon Eternal",
-          "type": "cbt",
-          "detail": "FromSoftware 開啟封測",
-          "platform": "console"
-        },
-        {
-          "date": "2026-05-20",
-          "product": "Wild Hearts 2",
-          "type": "announced",
-          "detail": "EA / Koei Tecmo 正式公佈",
-          "platform": "console"
-        },
-        {
-          "date": "2026-05-28",
-          "product": "Project Mugen",
-          "type": "media",
-          "detail": "NetEase 釋出 15 分鐘實機演示",
-          "platform": "mobile"
-        },
-        {
-          "date": "2026-05-28",
-          "product": "Starfall Tactics",
-          "type": "media",
-          "detail": "封測 NDA 解除",
-          "platform": "mobile"
-        },
-        {
-          "date": "2026-05-28",
-          "product": "GTA VI",
-          "type": "media",
-          "detail": "GTA VI 第三支預告片發布，確認 10/27 發售",
-          "platform": "console"
-        },
-        {
-          "date": "2026-05-28",
-          "product": "Arena Legends",
-          "type": "media",
-          "detail": "Arena Legends 軟啟動擴展至東南亞",
+          "detail": "PC端大規模限號測試持續中",
           "platform": "mobile"
         }
       ]
@@ -137,37 +165,51 @@
       "events": [
         {
           "date": "2026-07-01",
-          "product": "Aetheris Online",
+          "product": "無限大",
           "type": "launch",
-          "detail": "預計全球正式上線 (估)",
+          "detail": "全平台公測定檔 7 月",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-07-01",
+          "product": "失控進化",
+          "type": "launch",
+          "detail": "全平台正式上線",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-07-01",
+          "product": "藍色星原：旅謠",
+          "type": "launch",
+          "detail": "預計 Q3 上線（估）",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-07-01",
+          "product": "白銀之城",
+          "type": "launch",
+          "detail": "預計 Q3 上線（估）",
           "platform": "mobile"
         },
         {
           "date": "2026-08-01",
-          "product": "Arena Legends",
+          "product": "數碼寶貝 UP",
           "type": "launch",
-          "detail": "預計全球上線 (估)",
+          "detail": "預計 Q3 上線（估）",
           "platform": "mobile"
         },
         {
           "date": "2026-08-01",
-          "product": "Mythic Saga Mobile",
+          "product": "破界：界限終零",
           "type": "launch",
-          "detail": "預計上線 (估)",
+          "detail": "預計 Q3 上線（估）",
           "platform": "mobile"
         },
         {
           "date": "2026-09-01",
-          "product": "Blade & Throne: Rebirth",
+          "product": "遺忘之海",
           "type": "launch",
-          "detail": "預計上線 (估)",
-          "platform": "console"
-        },
-        {
-          "date": "2026-09-01",
-          "product": "Chrono Shift",
-          "type": "launch",
-          "detail": "預計三端同發 (估)",
+          "detail": "預計 Q3 上線（估）",
           "platform": "mobile"
         }
       ]
@@ -177,44 +219,51 @@
       "events": [
         {
           "date": "2026-10-01",
-          "product": "Starfall Tactics",
+          "product": "王者榮耀：世界",
           "type": "launch",
-          "detail": "預計上線 (估)",
+          "detail": "預計 Q4 上線（估）",
           "platform": "mobile"
         },
         {
-          "date": "2026-10-27",
+          "date": "2026-10-01",
+          "product": "二重螺旋",
+          "type": "launch",
+          "detail": "預計 Q4 上線（估）",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-10-01",
+          "product": "命運扳機",
+          "type": "launch",
+          "detail": "預計 Q4 上線（估）",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-10-01",
+          "product": "望月",
+          "type": "launch",
+          "detail": "預計 Q4 上線（估）",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-11-19",
           "product": "GTA VI",
           "type": "launch",
-          "detail": "確認全球發售日",
-          "platform": "console"
-        },
-        {
-          "date": "2026-11-01",
-          "product": "Dungeon Eternal",
-          "type": "launch",
-          "detail": "預計上線 (估)",
+          "detail": "確認 11/19 全球發售（PS5/Xbox）",
           "platform": "console"
         },
         {
           "date": "2026-12-01",
-          "product": "Project Mugen",
+          "product": "締造者：放逐之境",
           "type": "launch",
-          "detail": "預計上線 Q4 (估)",
+          "detail": "預計 Q4 上線（估）",
           "platform": "mobile"
         },
         {
           "date": "2026-12-01",
-          "product": "Honor of Kings: World",
+          "product": "勝利女神：妮姬 Blade",
           "type": "launch",
-          "detail": "預計上線 Q4 (估)",
-          "platform": "mobile"
-        },
-        {
-          "date": "2026-12-01",
-          "product": "Nikke: Blade",
-          "type": "launch",
-          "detail": "預計上線 (估)",
+          "detail": "預計年底上線（估）",
           "platform": "mobile"
         }
       ]
