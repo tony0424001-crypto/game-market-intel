@@ -37,14 +37,17 @@ def gemini(prompt,search=False,tokens=4000):
     url=f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={key}"
     body={"contents":[{"parts":[{"text":prompt}]}],"generationConfig":{"maxOutputTokens":tokens,"temperature":0.2}}
     if search:body["tools"]=[{"google_search":{}}]
-    try:
+    for attempt in range(3):
+      try:
         r=requests.post(url,json=body,timeout=60)
+        if r.status_code==429:
+            wait=15*(attempt+1);print(f"    ⏳ Rate limited, waiting {wait}s...");time.sleep(wait);continue
         if r.status_code==200:
             d=r.json();c=d.get("candidates",[])
             if c:return" ".join(p.get("text","") for p in c[0].get("content",{}).get("parts",[]) if "text" in p).strip()
-        else:print(f"    Gemini {r.status_code}: {r.text[:200]}")
-    except Exception as e:print(f"    Gemini fail: {e}")
-    return None
+        else:print(f"    Gemini {r.status_code}: {r.text[:200]}");return None
+      except Exception as e:print(f"    Gemini fail: {e}");return None
+    print("    ❌ Max retries reached");return None
 
 def parse_json(text):
     if not text:return None
@@ -79,9 +82,7 @@ def agent1():
     mid=max((g["id"] for g in products),default=0)
     today=datetime.now(timezone.utc).strftime("%Y-%m-%d")
     queries=[
-        "2026年6月7月 手遊新作 開測 上線 預約 封測 TapTap 九遊 17173",
-        "2026 mobile game new beta launch global June July",
-        "九遊開測表 17173開測表 GameRes 2026年6月 新遊戲",
+        "2026年6月7月 手遊新作 開測 上線 預約 封測 TapTap 九遊 17173 GameRes mobile game beta launch",
     ]
     all_disc=[]
     for q in queries:
@@ -107,7 +108,7 @@ IMPORTANT: Only real games. Include mid/small games too. Output ONLY valid JSON 
         p=parse_json(r)
         if p and isinstance(p,list):
             all_disc.extend(p);print(f"    Found {len(p)} from search")
-        time.sleep(2)
+        time.sleep(15)
     new_p=[];seen=set()
     for d in all_disc:
         n=d.get("name","")
@@ -128,8 +129,8 @@ def agent2():
     if not products:print("  Empty");return 0
     today=datetime.now(timezone.utc).strftime("%Y-%m-%d")
     updates=0;findings=[]
-    for i in range(0,len(products),5):
-        batch=products[i:i+5]
+    for i in range(0,len(products),10):
+        batch=products[i:i+10]
         info="\n".join([f"- {g['name']} | 狀態:{g['stage']} | 開發商:{g.get('developer','?')} | 上線:{g.get('launchEst','?')} | 品類:{g['genre']} | 現有分析:{g.get('threatAnalysis','無')[:50]}" for g in batch])
         prompt=f"""You are a senior game PM. Today is {today}. Check these games and provide updates.
 
@@ -176,7 +177,7 @@ Output ONLY valid JSON array."""
                     prod["eventNote"]=("⚡ " if ha else "")+u["recentEvent"]
                 if u.get("shouldRemove"):
                     findings.append({"name":n,"status":"error","issue":f"建議移除: {u.get('removeReason','')}","suggestion":"需人工確認","confidence":"medium","autoFixed":False})
-        time.sleep(3)
+        time.sleep(15)
     if updates:save(PRODUCTS_FILE,products)
     print(f"  ✅ {updates} updates")
     now=datetime.now(timezone.utc)
