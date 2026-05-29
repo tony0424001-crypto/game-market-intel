@@ -324,70 +324,6 @@
     ]
   },
   {
-    "id": 6,
-    "name": "鳴潮",
-    "nameEn": "Wuthering Waves",
-    "studio": "庫洛遊戲",
-    "publisher": "庫洛遊戲",
-    "genre": "動作 RPG",
-    "platform": [
-      "PC",
-      "Mobile"
-    ],
-    "region": "CN/Global",
-    "model": "F2P",
-    "stage": "live-ops",
-    "threat": "medium",
-    "prereg": null,
-    "sentiment": 76,
-    "launchEst": "2024-05",
-    "desc": "二次元開放世界動作 RPG，3.3 二週年慶典版本更新中。持續與原神正面競爭。",
-    "tags": [
-      "二次元",
-      "開放世界",
-      "動作",
-      "版本更新"
-    ],
-    "threatAnalysis": "開放世界直接競品，週年慶版本品質提升，但整體用戶增長已趨緩。",
-    "verified": "VNG 情報站、巴哈姆特",
-    "history": [
-      {
-        "date": "2024-05",
-        "s": "launched"
-      },
-      {
-        "date": "2026-04",
-        "s": "live-ops"
-      }
-    ],
-    "updatedAt": "2026-05-29",
-    "category": "tracking",
-    "currentEvent": "3.3 二週年慶典",
-    "eventNote": "⚡ 二週年慶典進行中（至 6/7），大量活動與新角色，需特別關注",
-    "launchRegions": [
-      {
-        "region": "CN",
-        "status": "已上線",
-        "date": "2024-05-22"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2024-05-22"
-      },
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2024-05-22"
-      },
-      {
-        "region": "Global",
-        "status": "已上線",
-        "date": "2024-05-22"
-      }
-    ]
-  },
-  {
     "id": 7,
     "name": "遺忘之海",
     "nameEn": "Sea of Oblivion",
@@ -676,194 +612,6 @@
     ]
   },
   {
-    "id": 13,
-    "name": "原神",
-    "nameEn": "Genshin Impact",
-    "studio": "miHoYo",
-    "publisher": "HoYoverse",
-    "genre": "開放世界 RPG",
-    "platform": [
-      "PC",
-      "Mobile",
-      "Console"
-    ],
-    "region": "CN/Global",
-    "model": "F2P",
-    "stage": "live-ops",
-    "threat": "high",
-    "prereg": null,
-    "sentiment": 80,
-    "launchEst": "2020-09",
-    "desc": "二遊標竿產品，5.x 版本持續營運中。面臨無限大、異環等新進競品大量挑戰。",
-    "tags": [
-      "開放世界",
-      "二次元",
-      "米哈遊",
-      "長期營運"
-    ],
-    "threatAnalysis": "行業標竿但增長放緩。新競品（無限大、異環）正在瓜分用戶時間，但版本品質穩定仍是護城河。",
-    "verified": "公開資訊",
-    "history": [
-      {
-        "date": "2020-09",
-        "s": "launched"
-      }
-    ],
-    "updatedAt": "2026-05-29",
-    "category": "tracking",
-    "currentEvent": "5.x 版本持續更新",
-    "eventNote": "目前無重大節慶，持續追蹤版本更新",
-    "launchRegions": [
-      {
-        "region": "CN",
-        "status": "已上線",
-        "date": "2020-09-28"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2020-09-28"
-      },
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2020-09-28"
-      },
-      {
-        "region": "KR",
-        "status": "已上線",
-        "date": "2020-09-28"
-      },
-      {
-        "region": "Global",
-        "status": "已上線",
-        "date": "2020-09-28"
-      }
-    ]
-  },
-  {
-    "id": 14,
-    "name": "絕區零",
-    "nameEn": "Zenless Zone Zero",
-    "studio": "miHoYo",
-    "publisher": "HoYoverse",
-    "genre": "動作 RPG",
-    "platform": [
-      "PC",
-      "Mobile",
-      "Console"
-    ],
-    "region": "CN/Global",
-    "model": "F2P",
-    "stage": "live-ops",
-    "threat": "medium",
-    "prereg": null,
-    "sentiment": 75,
-    "launchEst": "2024-07",
-    "desc": "米哈遊都市題材動作 RPG，持續版本更新中。",
-    "tags": [
-      "都市",
-      "動作",
-      "二次元",
-      "米哈遊"
-    ],
-    "threatAnalysis": "米哈遊品牌保證基礎流量，但營收低於預期。差異化不足是最大挑戰。",
-    "verified": "公開資訊",
-    "history": [
-      {
-        "date": "2024-07",
-        "s": "launched"
-      }
-    ],
-    "updatedAt": "2026-05-29",
-    "category": "tracking",
-    "currentEvent": "版本持續更新中",
-    "eventNote": "目前無重大節慶",
-    "launchRegions": [
-      {
-        "region": "CN",
-        "status": "已上線",
-        "date": "2024-07-04"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2024-07-04"
-      },
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2024-07-04"
-      },
-      {
-        "region": "Global",
-        "status": "已上線",
-        "date": "2024-07-04"
-      }
-    ]
-  },
-  {
-    "id": 15,
-    "name": "崩壞：星穹鐵道",
-    "nameEn": "Honkai: Star Rail",
-    "studio": "miHoYo",
-    "publisher": "HoYoverse",
-    "genre": "回合制 RPG",
-    "platform": [
-      "PC",
-      "Mobile",
-      "Console"
-    ],
-    "region": "CN/Global",
-    "model": "F2P",
-    "stage": "live-ops",
-    "threat": "high",
-    "prereg": null,
-    "sentiment": 84,
-    "launchEst": "2023-04",
-    "desc": "米哈遊回合制 RPG，穩定高營收產品。3.x 版本持續更新。",
-    "tags": [
-      "回合制",
-      "太空",
-      "二次元",
-      "米哈遊"
-    ],
-    "threatAnalysis": "米哈遊最賺錢產品，回合制品類王者。穩定的內容更新節奏是競爭壁壘。",
-    "verified": "公開資訊",
-    "history": [
-      {
-        "date": "2023-04",
-        "s": "launched"
-      }
-    ],
-    "updatedAt": "2026-05-29",
-    "category": "tracking",
-    "currentEvent": "3.x 版本更新",
-    "eventNote": "目前無重大節慶，持續追蹤版本更新",
-    "launchRegions": [
-      {
-        "region": "CN",
-        "status": "已上線",
-        "date": "2023-04-26"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2023-04-26"
-      },
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2023-04-26"
-      },
-      {
-        "region": "Global",
-        "status": "已上線",
-        "date": "2023-04-26"
-      }
-    ]
-  },
-  {
     "id": 16,
     "name": "白銀之城",
     "nameEn": "Silver City",
@@ -911,75 +659,6 @@
         "region": "JP",
         "status": "封測中",
         "date": "待定"
-      }
-    ]
-  },
-  {
-    "id": 17,
-    "name": "二重螺旋",
-    "nameEn": "Double Helix",
-    "studio": "潘神工作室",
-    "publisher": "英雄游戲",
-    "genre": "動作 RPG",
-    "platform": [
-      "PC",
-      "Mobile"
-    ],
-    "region": "CN/Global",
-    "model": "F2P",
-    "stage": "live-ops",
-    "threat": "high",
-    "prereg": null,
-    "sentiment": 79,
-    "launchEst": "2025-10",
-    "desc": "雙線幻想多維戰鬥 RPG，2025/10/28 全球公測。全角色與武器免費取得，商業化以外觀為主。目前「銀星奔流」新版本 6/2 上線。",
-    "tags": [
-      "動作",
-      "二次元",
-      "免費角色",
-      "雙線敘事",
-      "外觀商城"
-    ],
-    "threatAnalysis": "免費角色模式的先行者之一（與無限大類似策略），已驗證可行性。持續更新中，社群活躍。",
-    "verified": "TapTap、GNN 巴哈、Paradaily",
-    "history": [
-      {
-        "date": "2024-09",
-        "s": "announced"
-      },
-      {
-        "date": "2025-06",
-        "s": "cbt"
-      },
-      {
-        "date": "2025-10",
-        "s": "launched"
-      }
-    ],
-    "updatedAt": "2026-05-29",
-    "category": "tracking",
-    "currentEvent": "「銀星奔流」新版本 6/2 上線",
-    "eventNote": "⚡ 新版本帶來全新主線、新區域「百花車站」與海量福利（角色+武器自選箱），需關注其活動對玩家時間的搶佔",
-    "launchRegions": [
-      {
-        "region": "CN",
-        "status": "已上線",
-        "date": "2025-10-28"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2025-10-28"
-      },
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2025-10-28"
-      },
-      {
-        "region": "Global",
-        "status": "已上線",
-        "date": "2025-10-28"
       }
     ]
   },
@@ -1449,6 +1128,327 @@
     ]
   },
   {
+    "id": 6,
+    "name": "鳴潮",
+    "nameEn": "Wuthering Waves",
+    "studio": "庫洛遊戲",
+    "publisher": "庫洛遊戲",
+    "genre": "動作 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 76,
+    "launchEst": "2024-05",
+    "desc": "二次元開放世界動作 RPG，3.3 二週年慶典版本更新中。持續與原神正面競爭。",
+    "tags": [
+      "二次元",
+      "開放世界",
+      "動作",
+      "版本更新"
+    ],
+    "threatAnalysis": "開放世界直接競品，週年慶版本品質提升，但整體用戶增長已趨緩。",
+    "verified": "VNG 情報站、巴哈姆特",
+    "history": [
+      {
+        "date": "2024-05",
+        "s": "launched"
+      },
+      {
+        "date": "2026-04",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-05-29",
+    "category": "tracking",
+    "currentEvent": "3.3 二週年慶典",
+    "eventNote": "⚡ 二週年慶典進行中（至 6/7），大量活動與新角色，需特別關注",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2024-05-22"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2024-05-22"
+      },
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2024-05-22"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2024-05-22"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "原神",
+    "nameEn": "Genshin Impact",
+    "studio": "miHoYo",
+    "publisher": "HoYoverse",
+    "genre": "開放世界 RPG",
+    "platform": [
+      "PC",
+      "Mobile",
+      "Console"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "prereg": null,
+    "sentiment": 80,
+    "launchEst": "2020-09",
+    "desc": "二遊標竿產品，5.x 版本持續營運中。面臨無限大、異環等新進競品大量挑戰。",
+    "tags": [
+      "開放世界",
+      "二次元",
+      "米哈遊",
+      "長期營運"
+    ],
+    "threatAnalysis": "行業標竿但增長放緩。新競品（無限大、異環）正在瓜分用戶時間，但版本品質穩定仍是護城河。",
+    "verified": "公開資訊",
+    "history": [
+      {
+        "date": "2020-09",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29",
+    "category": "tracking",
+    "currentEvent": "5.x 版本持續更新",
+    "eventNote": "目前無重大節慶，持續追蹤版本更新",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2020-09-28"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2020-09-28"
+      },
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2020-09-28"
+      },
+      {
+        "region": "KR",
+        "status": "已上線",
+        "date": "2020-09-28"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2020-09-28"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "絕區零",
+    "nameEn": "Zenless Zone Zero",
+    "studio": "miHoYo",
+    "publisher": "HoYoverse",
+    "genre": "動作 RPG",
+    "platform": [
+      "PC",
+      "Mobile",
+      "Console"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 75,
+    "launchEst": "2024-07",
+    "desc": "米哈遊都市題材動作 RPG，持續版本更新中。",
+    "tags": [
+      "都市",
+      "動作",
+      "二次元",
+      "米哈遊"
+    ],
+    "threatAnalysis": "米哈遊品牌保證基礎流量，但營收低於預期。差異化不足是最大挑戰。",
+    "verified": "公開資訊",
+    "history": [
+      {
+        "date": "2024-07",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29",
+    "category": "tracking",
+    "currentEvent": "版本持續更新中",
+    "eventNote": "目前無重大節慶",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2024-07-04"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2024-07-04"
+      },
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2024-07-04"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2024-07-04"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "崩壞：星穹鐵道",
+    "nameEn": "Honkai: Star Rail",
+    "studio": "miHoYo",
+    "publisher": "HoYoverse",
+    "genre": "回合制 RPG",
+    "platform": [
+      "PC",
+      "Mobile",
+      "Console"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "prereg": null,
+    "sentiment": 84,
+    "launchEst": "2023-04",
+    "desc": "米哈遊回合制 RPG，穩定高營收產品。3.x 版本持續更新。",
+    "tags": [
+      "回合制",
+      "太空",
+      "二次元",
+      "米哈遊"
+    ],
+    "threatAnalysis": "米哈遊最賺錢產品，回合制品類王者。穩定的內容更新節奏是競爭壁壘。",
+    "verified": "公開資訊",
+    "history": [
+      {
+        "date": "2023-04",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29",
+    "category": "tracking",
+    "currentEvent": "3.x 版本更新",
+    "eventNote": "目前無重大節慶，持續追蹤版本更新",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2023-04-26"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2023-04-26"
+      },
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2023-04-26"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2023-04-26"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "二重螺旋",
+    "nameEn": "Double Helix",
+    "studio": "潘神工作室",
+    "publisher": "英雄游戲",
+    "genre": "動作 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "prereg": null,
+    "sentiment": 79,
+    "launchEst": "2025-10",
+    "desc": "雙線幻想多維戰鬥 RPG，2025/10/28 全球公測。全角色與武器免費取得，商業化以外觀為主。目前「銀星奔流」新版本 6/2 上線。",
+    "tags": [
+      "動作",
+      "二次元",
+      "免費角色",
+      "雙線敘事",
+      "外觀商城"
+    ],
+    "threatAnalysis": "免費角色模式的先行者之一（與無限大類似策略），已驗證可行性。持續更新中，社群活躍。",
+    "verified": "TapTap、GNN 巴哈、Paradaily",
+    "history": [
+      {
+        "date": "2024-09",
+        "s": "announced"
+      },
+      {
+        "date": "2025-06",
+        "s": "cbt"
+      },
+      {
+        "date": "2025-10",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29",
+    "category": "tracking",
+    "currentEvent": "「銀星奔流」新版本 6/2 上線",
+    "eventNote": "⚡ 新版本帶來全新主線、新區域「百花車站」與海量福利（角色+武器自選箱），需關注其活動對玩家時間的搶佔",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2025-10-28"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2025-10-28"
+      },
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2025-10-28"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2025-10-28"
+      }
+    ]
+  },
+  {
     "id": 28,
     "name": "魔物獵人 荒野",
     "nameEn": "Monster Hunter Wilds",
@@ -1498,96 +1498,6 @@
         "region": "Global",
         "status": "已上線",
         "date": "2025-02"
-      }
-    ]
-  },
-  {
-    "id": 29,
-    "name": "盜墓筆記",
-    "nameEn": "Tomb Notes",
-    "studio": "未公開",
-    "publisher": "未公開",
-    "genre": "冒險 RPG",
-    "platform": [
-      "Mobile"
-    ],
-    "region": "CN",
-    "model": "F2P",
-    "stage": "cbt",
-    "threat": "low",
-    "prereg": 5000000,
-    "sentiment": 62,
-    "launchEst": "2026-06",
-    "desc": "超人氣 IP 改編手遊，6 月下旬不刪檔內測。",
-    "tags": [
-      "IP",
-      "冒險",
-      "盜墓"
-    ],
-    "threatAnalysis": "IP 知名度極高但遊戲改編品質為最大風險。",
-    "verified": "VNG（九遊開測表）- 僅單一來源",
-    "history": [
-      {
-        "date": "2026-04",
-        "s": "announced"
-      },
-      {
-        "date": "2026-06",
-        "s": "cbt"
-      }
-    ],
-    "updatedAt": "2026-05-29",
-    "category": "active",
-    "launchRegions": [
-      {
-        "region": "CN",
-        "status": "封測中",
-        "date": "2026-06（預計）"
-      }
-    ]
-  },
-  {
-    "id": 30,
-    "name": "地牢獵手 6",
-    "nameEn": "Dungeon Hunter 6",
-    "studio": "Gameloft",
-    "publisher": "Gameloft",
-    "genre": "動作 RPG",
-    "platform": [
-      "Mobile"
-    ],
-    "region": "Global",
-    "model": "F2P",
-    "stage": "pre-reg",
-    "threat": "low",
-    "prereg": 2500000,
-    "sentiment": 64,
-    "launchEst": "2026-06",
-    "desc": "Dungeon Hunter 系列第六代，6/17 開測預定。",
-    "tags": [
-      "動作",
-      "地牢",
-      "IP"
-    ],
-    "threatAnalysis": "老牌 IP 回歸，但 Gameloft 近年品質下降。",
-    "verified": "VNG（九遊開測表）- 僅單一來源",
-    "history": [
-      {
-        "date": "2026-03",
-        "s": "announced"
-      },
-      {
-        "date": "2026-05",
-        "s": "pre-reg"
-      }
-    ],
-    "updatedAt": "2026-05-29",
-    "category": "active",
-    "launchRegions": [
-      {
-        "region": "Global",
-        "status": "預註冊",
-        "date": "2026-06-17（預計）"
       }
     ]
   }
