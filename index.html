@@ -280,7 +280,7 @@ function LaunchView({games}){
     <div style={{display:"flex",gap:8,marginBottom:16,flexWrap:"wrap"}}>
       {[["最低競爭","var(--green)"],["最高競爭","var(--red)"]].map(([l,c],i)=>{
         const idx=i===0?counts.reduce((mi,v,j,a)=>v.total<a[mi].total&&v.total>0?j:mi,0):counts.reduce((mi,v,j,a)=>v.total>a[mi].total?j:mi,0);
-        return<div key={l} className="sbox"><div className="lb">{l}月份</div><div className="vl" style={{color,fontSize:18}}>{months[idx]}</div><div style={{fontSize:10,color:"var(--muted)"}}>{counts[idx].total} 款產品</div></div>})}
+        return<div key={l} className="sbox"><div className="lb">{l}月份</div><div className="vl" style={{color:c,fontSize:18}}>{months[idx]}</div><div style={{fontSize:10,color:"var(--muted)"}}>{counts[idx].total} 款產品</div></div>})}
     </div>
     <div style={{background:"var(--surface)",borderRadius:10,padding:16,border:"1px solid var(--border)",marginBottom:16}}>
       <div className="ld-bar-wrap">
