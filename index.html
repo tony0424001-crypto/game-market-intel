@@ -1,10 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>遊戲市場情報平台 | Game Market Intelligence</title>
-<meta name="description" content="AI-powered game market competitive intelligence dashboard">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎮</text></svg>">
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Noto+Sans+TC:wght@300;400;500;700;900&display=swap" rel="stylesheet">
 <style>
@@ -12,83 +12,103 @@
 :root{--bg:#06080f;--surface:#0d1117;--card:#131921;--card2:#1a2230;--border:#1c2333;--border2:#2a3548;--text:#e6edf3;--dim:#8b949e;--muted:#545d68;--cyan:#00d4ff;--mobile:#ff6b35;--console:#7c5cfc;--green:#2dd4a8;--red:#ff6b6b;--orange:#ffaa33;--yellow:#ffe066;--pink:#ff79c6}
 body{font-family:'Outfit','Noto Sans TC',system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
 body::before{content:'';position:fixed;inset:0;background:linear-gradient(var(--border) 1px,transparent 1px),linear-gradient(90deg,var(--border) 1px,transparent 1px);background-size:60px 60px;opacity:.12;pointer-events:none;z-index:0}
-.app{position:relative;z-index:1}a{color:var(--cyan);text-decoration:none}a:hover{text-decoration:underline}
-.hdr{padding:16px 28px;border-bottom:1px solid var(--border);background:rgba(13,17,23,.96);backdrop-filter:blur(16px);position:sticky;top:0;z-index:100}
-.hdr-in{max-width:1400px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px}
-.logo{display:flex;align-items:center;gap:12px}
-.logo-ic{width:40px;height:40px;border-radius:11px;background:linear-gradient(135deg,var(--cyan),var(--console));display:flex;align-items:center;justify-content:center;font-size:20px;box-shadow:0 0 20px rgba(0,212,255,.2)}
-.logo h1{font-size:17px;font-weight:800;letter-spacing:-.4px}.logo small{display:block;font-size:10px;color:var(--muted);letter-spacing:.4px;font-weight:400}
+.app{position:relative;z-index:1}a{color:var(--cyan);text-decoration:none}
+.hdr{padding:14px 24px;border-bottom:1px solid var(--border);background:rgba(13,17,23,.96);backdrop-filter:blur(16px);position:sticky;top:0;z-index:100}
+.hdr-in{max-width:1440px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:8px}
+.logo{display:flex;align-items:center;gap:10px}
+.logo-ic{width:36px;height:36px;border-radius:10px;background:linear-gradient(135deg,var(--cyan),var(--console));display:flex;align-items:center;justify-content:center;font-size:18px;box-shadow:0 0 16px rgba(0,212,255,.2)}
+.logo h1{font-size:16px;font-weight:800;letter-spacing:-.4px}.logo small{display:block;font-size:10px;color:var(--muted);font-weight:400}
 .status{font-size:11px;color:var(--muted);display:flex;align-items:center;gap:6px}
-.dot{width:7px;height:7px;border-radius:50%;background:var(--green);animation:pulse 2s infinite}
+.dot{width:6px;height:6px;border-radius:50%;background:var(--green);animation:pulse 2s infinite}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
-.last-upd{font-size:10px;color:var(--muted);margin-left:8px;padding:3px 8px;border-radius:6px;background:var(--surface);border:1px solid var(--border)}
-.ptabs{display:flex;gap:0;max-width:1400px;margin:0 auto;padding:18px 28px 0}
-.ptab{flex:1;padding:14px 20px;cursor:pointer;border:1px solid var(--border);border-bottom:none;border-radius:14px 14px 0 0;font-size:14px;font-weight:700;display:flex;align-items:center;justify-content:center;gap:10px;transition:all .25s;background:var(--surface);font-family:inherit;color:var(--muted)}
+.ptabs{display:flex;gap:0;max-width:1440px;margin:0 auto;padding:16px 24px 0}
+.ptab{flex:1;padding:12px 16px;cursor:pointer;border:1px solid var(--border);border-bottom:none;border-radius:12px 12px 0 0;font-size:13px;font-weight:700;display:flex;align-items:center;justify-content:center;gap:8px;transition:all .2s;background:var(--surface);font-family:inherit;color:var(--muted)}
 .ptab:first-child{margin-right:-1px}
-.ptab.am{background:var(--card);color:var(--mobile);border-color:rgba(255,107,53,.45);box-shadow:0 -4px 20px rgba(255,107,53,.12)}
-.ptab.ac{background:var(--card);color:var(--console);border-color:rgba(124,92,252,.45);box-shadow:0 -4px 20px rgba(124,92,252,.12)}
-.ptab .badge{padding:2px 10px;border-radius:20px;font-size:12px;font-weight:800}
+.ptab.am{background:var(--card);color:var(--mobile);border-color:rgba(255,107,53,.4);box-shadow:0 -3px 16px rgba(255,107,53,.1)}
+.ptab.ac{background:var(--card);color:var(--console);border-color:rgba(124,92,252,.4);box-shadow:0 -3px 16px rgba(124,92,252,.1)}
+.ptab .badge{padding:1px 8px;border-radius:16px;font-size:11px;font-weight:800}
 .ptab.am .badge{background:var(--mobile);color:#000}.ptab.ac .badge{background:var(--console);color:#fff}
-.ptab .sub{font-size:10px;color:var(--muted)}.ptab.am .sub,.ptab.ac .sub{color:inherit;opacity:.7}
-.content{max-width:1400px;margin:0 auto 40px;border:1px solid var(--border);border-top:none;border-radius:0 0 14px 14px;background:var(--card);padding:22px 26px;min-height:500px}
-.mtabs{display:flex;gap:2px;margin-bottom:20px;border-bottom:1px solid var(--border);overflow-x:auto}
-.mtab{padding:10px 16px;font-size:13px;font-weight:600;font-family:inherit;cursor:pointer;border:none;background:0;color:var(--muted);border-bottom:2px solid transparent;transition:all .15s;white-space:nowrap}
+.content{max-width:1440px;margin:0 auto 32px;border:1px solid var(--border);border-top:none;border-radius:0 0 12px 12px;background:var(--card);padding:20px 22px;min-height:480px}
+.mtabs{display:flex;gap:1px;margin-bottom:18px;border-bottom:1px solid var(--border);overflow-x:auto;-webkit-overflow-scrolling:touch}
+.mtab{padding:8px 14px;font-size:12px;font-weight:600;font-family:inherit;cursor:pointer;border:none;background:0;color:var(--muted);border-bottom:2px solid transparent;transition:all .15s;white-space:nowrap}
 .mtab:hover{color:var(--dim)}.mtab.on{color:var(--cyan);border-bottom-color:var(--cyan)}
-.search{display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap;align-items:center}
-.sinput{flex:1;min-width:200px;padding:9px 14px;border-radius:9px;border:1px solid var(--border);background:var(--surface);color:var(--text);font-size:13px;font-family:inherit;outline:none;transition:border .2s}
+.search{display:flex;gap:6px;margin-bottom:16px;flex-wrap:wrap;align-items:center}
+.sinput{flex:1;min-width:180px;padding:8px 12px;border-radius:8px;border:1px solid var(--border);background:var(--surface);color:var(--text);font-size:12px;font-family:inherit;outline:none}
 .sinput:focus{border-color:var(--cyan)}.sinput::placeholder{color:var(--muted)}
-.fbtn{padding:7px 14px;border-radius:9px;font-size:11px;font-weight:600;font-family:inherit;cursor:pointer;border:1px solid var(--border);background:var(--surface);color:var(--muted);transition:all .15s}
-.fbtn:hover{border-color:var(--border2);color:var(--dim)}.fbtn.on{background:var(--cyan);color:#000;border-color:var(--cyan)}
-.stats{display:flex;gap:10px;margin-bottom:20px;flex-wrap:wrap}
-.sbox{flex:1;min-width:130px;padding:12px 16px;background:var(--surface);border-radius:10px;border:1px solid var(--border)}
-.sbox .lb{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.8px;margin-bottom:3px}
-.sbox .vl{font-size:24px;font-weight:800;line-height:1}.sbox .sb{font-size:11px;color:var(--dim);margin-top:3px}
-.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(340px,1fr));gap:12px}
-.gcard{background:var(--surface);border-radius:11px;padding:16px;border:1px solid var(--border);cursor:pointer;transition:all .2s;position:relative;overflow:hidden}
-.gcard:hover{border-color:var(--border2);transform:translateY(-2px);box-shadow:0 8px 28px rgba(0,0,0,.3)}
+.fbtn{padding:6px 12px;border-radius:8px;font-size:11px;font-weight:600;font-family:inherit;cursor:pointer;border:1px solid var(--border);background:var(--surface);color:var(--muted);transition:all .15s}
+.fbtn:hover{color:var(--dim)}.fbtn.on{background:var(--cyan);color:#000;border-color:var(--cyan)}
+.stats{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap}
+.sbox{flex:1;min-width:120px;padding:10px 14px;background:var(--surface);border-radius:8px;border:1px solid var(--border)}
+.sbox .lb{font-size:9px;color:var(--muted);text-transform:uppercase;letter-spacing:.8px;margin-bottom:2px}
+.sbox .vl{font-size:22px;font-weight:800;line-height:1}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:10px}
+.gcard{background:var(--surface);border-radius:10px;padding:14px;border:1px solid var(--border);cursor:pointer;transition:all .2s;position:relative;overflow:hidden}
+.gcard:hover{border-color:var(--border2);transform:translateY(-1px);box-shadow:0 6px 24px rgba(0,0,0,.3)}
 .gcard::before{content:'';position:absolute;top:0;left:0;right:0;height:3px}
 .gcard.tc::before{background:var(--red)}.gcard.th::before{background:var(--orange)}.gcard.tm::before{background:var(--yellow)}.gcard.tl::before{background:var(--green)}
-.gcard-h{display:flex;justify-content:space-between;align-items:start;margin-bottom:8px;gap:6px}
-.gcard-t{font-size:14px;font-weight:800;line-height:1.3}.gcard-s{font-size:11px;color:var(--muted);margin-bottom:8px}
-.gcard-d{font-size:11px;color:var(--dim);line-height:1.6;margin-bottom:10px}
-.gcard-tags{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:10px}
-.gcard-f{display:flex;justify-content:space-between;font-size:11px;color:var(--muted);padding-top:8px;border-top:1px solid var(--border)}
-.pill{display:inline-block;padding:2px 9px;border-radius:20px;font-size:10px;font-weight:700;letter-spacing:.2px}
-.kanban{display:flex;gap:12px;overflow-x:auto;padding-bottom:8px}.kcol{min-width:260px;flex:1}
-.kcol-h{display:flex;align-items:center;gap:8px;padding:7px 12px;border-radius:8px;margin-bottom:10px}
-.bitem{padding:16px;border-radius:11px;margin-bottom:10px;border-left:4px solid}
+.gcard-h{display:flex;justify-content:space-between;align-items:start;margin-bottom:6px;gap:6px}
+.gcard-t{font-size:14px;font-weight:800;line-height:1.3}.gcard-s{font-size:10px;color:var(--muted);margin-bottom:6px}
+.gcard-d{font-size:11px;color:var(--dim);line-height:1.5;margin-bottom:8px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.gcard-tags{display:flex;gap:3px;flex-wrap:wrap;margin-bottom:8px}
+.gcard-f{display:flex;justify-content:space-between;font-size:10px;color:var(--muted);padding-top:6px;border-top:1px solid var(--border)}
+.pill{display:inline-block;padding:1px 8px;border-radius:16px;font-size:10px;font-weight:700;letter-spacing:.2px}
+.kanban{display:flex;gap:10px;overflow-x:auto;padding-bottom:6px}.kcol{min-width:240px;flex:1}
+.kcol-h{display:flex;align-items:center;gap:6px;padding:6px 10px;border-radius:6px;margin-bottom:8px}
+.bitem{padding:14px;border-radius:10px;margin-bottom:8px;border-left:4px solid}
 .bitem.bu{background:rgba(255,107,107,.05);border-left-color:var(--red)}.bitem.bw{background:rgba(255,170,51,.05);border-left-color:var(--orange)}.bitem.bi{background:rgba(84,93,104,.06);border-left-color:var(--muted)}
-.bitem-t{font-size:14px;font-weight:700;margin-bottom:5px}.bitem-d{font-size:12px;color:var(--dim);line-height:1.7;margin-bottom:8px}
-.bitem-a{padding:7px 11px;border-radius:7px;font-size:11px;background:rgba(0,212,255,.05);border:1px solid rgba(0,212,255,.12);color:var(--cyan)}
-.bitem-meta{font-size:10px;color:var(--muted);margin-top:6px}
-.qsection{margin-bottom:24px}
-.qheader{display:flex;align-items:center;gap:10px;padding:10px 16px;border-radius:10px;margin-bottom:12px}
-.qbadge{min-width:24px;height:24px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:800;color:#000}
-.qevents{display:flex;flex-direction:column;gap:6px;padding-left:20px}
-.qev{display:flex;gap:12px;align-items:center;padding:8px 12px;border-radius:8px;background:var(--surface);border:1px solid var(--border);font-size:12px;flex-wrap:wrap}
-.qev-date{color:var(--muted);min-width:80px;font-weight:600}.qev-prod{font-weight:700;color:var(--text);min-width:140px}.qev-det{color:var(--dim);flex:1;min-width:120px}
-.modal-bg{position:fixed;inset:0;background:rgba(0,0,0,.7);z-index:200;display:flex;justify-content:center;align-items:start;padding:40px 20px;overflow-y:auto;backdrop-filter:blur(4px);animation:fi .2s}
+.bitem-t{font-size:13px;font-weight:700;margin-bottom:4px}.bitem-d{font-size:11px;color:var(--dim);line-height:1.6;margin-bottom:6px}
+.bitem-a{padding:6px 10px;border-radius:6px;font-size:11px;background:rgba(0,212,255,.05);border:1px solid rgba(0,212,255,.12);color:var(--cyan)}
+.qsection{margin-bottom:20px}
+.qheader{display:flex;align-items:center;gap:8px;padding:8px 14px;border-radius:8px;margin-bottom:10px}
+.qbadge{min-width:22px;height:22px;border-radius:11px;display:flex;align-items:center;justify-content:center;font-size:11px;font-weight:800;color:#000}
+.qevents{display:flex;flex-direction:column;gap:5px;padding-left:16px}
+.qev{display:flex;gap:10px;align-items:center;padding:6px 10px;border-radius:6px;background:var(--surface);border:1px solid var(--border);font-size:11px;flex-wrap:wrap}
+.modal-bg{position:fixed;inset:0;background:rgba(0,0,0,.7);z-index:200;display:flex;justify-content:center;align-items:start;padding:32px 16px;overflow-y:auto;backdrop-filter:blur(4px);animation:fi .2s}
 @keyframes fi{from{opacity:0}to{opacity:1}}
-.modal{width:100%;max-width:700px;background:var(--card);border:1px solid var(--border2);border-radius:16px;padding:26px;position:relative;animation:su .25s ease-out}
-@keyframes su{from{transform:translateY(16px);opacity:0}to{transform:translateY(0);opacity:1}}
-.modal-x{position:absolute;top:14px;right:14px;width:30px;height:30px;border-radius:8px;background:var(--surface);border:1px solid var(--border);color:var(--muted);font-size:15px;cursor:pointer;display:flex;align-items:center;justify-content:center;font-family:inherit;transition:all .15s}
+.modal{width:100%;max-width:680px;background:var(--card);border:1px solid var(--border2);border-radius:14px;padding:24px;position:relative;animation:su .25s ease-out}
+@keyframes su{from{transform:translateY(12px);opacity:0}to{transform:translateY(0);opacity:1}}
+.modal-x{position:absolute;top:12px;right:12px;width:28px;height:28px;border-radius:7px;background:var(--surface);border:1px solid var(--border);color:var(--muted);font-size:14px;cursor:pointer;display:flex;align-items:center;justify-content:center;font-family:inherit}
 .modal-x:hover{background:var(--red);color:#fff;border-color:var(--red)}
-.tl-track{display:flex;align-items:center;gap:0;padding:10px 0;overflow-x:auto}
-.tl-node{display:flex;flex-direction:column;align-items:center;min-width:76px}
-.tl-dot{width:13px;height:13px;border-radius:7px;border:2px solid var(--bg);z-index:1}
-.tl-line{flex:1;height:2px;min-width:16px}
-.tl-lb{font-size:10px;font-weight:700;margin-top:3px}.tl-dt{font-size:9px;color:var(--muted)}
-.cal{display:flex;gap:0;overflow-x:auto}.cal-col{flex:1;min-width:120px;border-right:1px solid var(--border);padding:0 6px}
-.cal-mh{text-align:center;padding:6px 0;font-size:12px;font-weight:800;border-radius:7px;margin-bottom:8px}
-.cal-item{padding:5px 7px;margin-bottom:3px;border-radius:5px;border-left:3px solid;font-size:10px;line-height:1.4}
-.legend{max-width:1400px;margin:0 auto 40px;padding:0 28px}
-.legend-box{background:var(--card);border-radius:12px;padding:18px;border:1px solid var(--border)}
-.loading{text-align:center;padding:60px 20px;color:var(--muted)}
-.spinner{width:36px;height:36px;border:3px solid var(--border);border-top-color:var(--cyan);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 16px}
+.tl-track{display:flex;align-items:center;padding:8px 0;overflow-x:auto}
+.tl-node{display:flex;flex-direction:column;align-items:center;min-width:70px}
+.tl-dot{width:12px;height:12px;border-radius:6px;border:2px solid var(--bg);z-index:1}
+.tl-line{flex:1;height:2px;min-width:14px}
+/* Gantt */
+.gantt-wrap{overflow-x:auto;padding-bottom:6px}
+.gantt{min-width:860px}
+.gantt-hdr{display:flex;border-bottom:2px solid var(--border2);padding-bottom:4px;margin-bottom:0;position:sticky;top:0;background:var(--card);z-index:2}
+.gantt-lbl{width:160px;min-width:160px;font-size:10px;font-weight:700;color:var(--muted);padding:3px 6px}
+.gantt-cols{flex:1;display:flex}
+.gantt-mh{flex:1;text-align:center;font-size:9px;font-weight:700;color:var(--muted);padding:3px 0;border-left:1px solid var(--border)}
+.gantt-mh.now{color:var(--cyan);background:rgba(0,212,255,.06)}
+.gantt-mh.qs{border-left:2px solid var(--border2)}
+.gantt-row{display:flex;align-items:center;border-bottom:1px solid var(--border);min-height:32px}
+.gantt-row:hover{background:var(--card2)}
+.gantt-row-lbl{width:160px;min-width:160px;padding:4px 6px;display:flex;align-items:center;gap:5px}
+.gantt-row-nm{font-size:11px;font-weight:700;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.gantt-row-chart{flex:1;position:relative;height:24px;display:flex}
+.gantt-cell{flex:1;border-left:1px solid var(--border)}.gantt-cell.qs{border-left:2px solid var(--border2)}
+.gantt-bar{position:absolute;height:16px;top:4px;border-radius:3px;min-width:3px;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.gantt-bar:hover{opacity:.8;z-index:1}
+.gantt-bar-t{font-size:8px;font-weight:700;color:#000;white-space:nowrap;overflow:hidden;padding:0 3px}
+.gantt-today{position:absolute;top:0;bottom:0;width:2px;background:var(--cyan);z-index:1;opacity:.5}
+/* Threat cards */
+.threat-card{background:var(--surface);border-radius:10px;padding:16px;border:1px solid var(--border);margin-bottom:10px;border-left:4px solid}
+.threat-card .ta{margin-top:10px;padding:10px 12px;border-radius:8px;background:rgba(255,107,107,.04);border:1px solid rgba(255,107,107,.12);font-size:12px;color:var(--dim);line-height:1.6}
+/* Launch density */
+.ld-bar-wrap{display:flex;align-items:end;gap:2px;height:120px;padding-top:10px}
+.ld-bar{flex:1;border-radius:4px 4px 0 0;transition:height .3s;cursor:pointer;position:relative;min-width:20px}
+.ld-bar:hover{opacity:.8}
+.ld-label{text-align:center;font-size:9px;color:var(--muted);margin-top:4px}
+/* Responsive */
+.legend{max-width:1440px;margin:0 auto 32px;padding:0 24px}
+.legend-box{background:var(--card);border-radius:10px;padding:16px;border:1px solid var(--border)}
+.loading{text-align:center;padding:50px 20px;color:var(--muted)}
+.spinner{width:32px;height:32px;border:3px solid var(--border);border-top-color:var(--cyan);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 12px}
 @keyframes spin{to{transform:rotate(360deg)}}
-.empty{text-align:center;padding:50px 20px;color:var(--muted)}.empty .ic{font-size:42px;margin-bottom:12px;opacity:.5}
-.footer{text-align:center;padding:18px 28px 36px;font-size:11px;color:var(--muted)}
-@media(max-width:768px){.hdr{padding:12px 14px}.ptabs{padding:14px 14px 0}.content{padding:14px}.grid{grid-template-columns:1fr}.stats{flex-direction:column}.ptab{padding:10px 12px;font-size:12px}.qev{flex-wrap:wrap}}
+.empty{text-align:center;padding:40px 20px;color:var(--muted)}.empty .ic{font-size:36px;margin-bottom:10px;opacity:.5}
+.footer{text-align:center;padding:16px 24px 32px;font-size:10px;color:var(--muted)}
+@media(max-width:768px){.hdr{padding:10px 12px}.ptabs{padding:12px 12px 0}.content{padding:12px}.grid{grid-template-columns:1fr}.stats{flex-direction:column}.ptab{padding:8px 10px;font-size:12px}.gantt-lbl,.gantt-row-lbl{width:110px;min-width:110px}}
 </style>
 </head>
 <body>
@@ -98,148 +118,297 @@ body::before{content:'';position:fixed;inset:0;background:linear-gradient(var(--
 <script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.23.9/babel.min.js"></script>
 <script type="text/babel">
 const{useState,useMemo,useEffect}=React;
-const SM={"announced":"已公佈","pre-reg":"預註冊","cbt":"封測中","soft-launch":"軟啟動","live-ops":"已上線","launch":"上線","media":"媒體曝光"};
-const SC={"announced":"#545d68","pre-reg":"#ffaa33","cbt":"#00d4ff","soft-launch":"#7c5cfc","live-ops":"#2dd4a8","launch":"#2dd4a8","media":"#ff79c6"};
+const SM={"announced":"已公佈","pre-reg":"預註冊","cbt":"封測中","soft-launch":"軟啟動","live-ops":"已上線","launch":"上線","media":"媒體曝光","launched":"已上線"};
+const SC={"announced":"#545d68","pre-reg":"#ffaa33","cbt":"#00d4ff","soft-launch":"#7c5cfc","live-ops":"#2dd4a8","launch":"#2dd4a8","media":"#ff79c6","launched":"#2dd4a8"};
 const TM={critical:"極高",high:"高",medium:"中",low:"低"};
 const TC={critical:"#ff6b6b",high:"#ffaa33",medium:"#ffe066",low:"#2dd4a8"};
 const ST=["announced","pre-reg","cbt","soft-launch","live-ops"];
 const PM={urgent:{c:"bu",l:"🚨 需立即行動",k:"var(--red)"},watch:{c:"bw",l:"👁 值得關注",k:"var(--orange)"},info:{c:"bi",l:"ℹ️ 背景資訊",k:"var(--muted)"}};
-
-function useJson(path,fb){const[d,setD]=useState(null);const[ld,setLd]=useState(true);
-useEffect(()=>{let c=false;fetch(path).then(r=>{if(!r.ok)throw r.status;return r.json()}).then(j=>{if(!c){setD(j);setLd(false)}}).catch(()=>{if(!c){setD(fb);setLd(false)}});return()=>{c=true}},[]);return[d,ld]}
-
-const Pill=({c,children})=><span className="pill" style={{background:`${c}22`,color:c,border:`1px solid ${c}44`}}>{children}</span>;
-
-function GameCard({g,onClick,accent}){
-  const tc={critical:"tc",high:"th",medium:"tm",low:"tl"}[g.threat]||"";
-  return(<div className={`gcard ${tc}`} onClick={()=>onClick(g)}>
-    <div className="gcard-h"><div className="gcard-t">{g.name}</div><Pill c={TC[g.threat]}>威脅:{TM[g.threat]}</Pill></div>
-    <div className="gcard-s">{g.studio} · {g.publisher} · {g.region}</div>
-    <div className="gcard-tags"><Pill c={SC[g.stage]}>{SM[g.stage]}</Pill><Pill c={accent}>{g.genre}</Pill>{g.platform.map(p=><Pill key={p} c="var(--muted)">{p}</Pill>)}</div>
-    <div className="gcard-d">{g.desc}</div>
-    <div className="gcard-f"><span>上線: {g.launchEst}</span>{g.prereg?<span style={{color:"var(--green)"}}>預註冊: {(g.prereg/10000).toFixed(0)}萬</span>:<span/>}<span style={{color:g.sentiment>80?"var(--green)":g.sentiment>60?"var(--yellow)":"var(--red)"}}>{g.sentiment}/100</span></div>
-  </div>);}
-
+const MZH=["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"];
+ 
+function useJson(p,fb){const[d,setD]=useState(null);const[l,setL]=useState(true);
+useEffect(()=>{let c=false;fetch(p).then(r=>{if(!r.ok)throw r.status;return r.json()}).then(j=>{if(!c){setD(j);setL(false)}}).catch(()=>{if(!c){setD(fb);setL(false)}});return()=>{c=true}},[]);return[d,l]}
+ 
+const Pill=({c,ch})=><span className="pill" style={{background:`${c}22`,color:c,border:`1px solid ${c}44`}}>{ch}</span>;
+function parseD(s){if(!s)return null;const m=s.match(/^(\d{4})-(\d{2})$/);if(m)return{y:+m[1],m:+m[2]};const q=s.match(/^(\d{4})-Q(\d)$/);if(q){return{y:+q[1],m:{"1":2,"2":5,"3":8,"4":11}[q[2]]};}return null;}
+function getQ(s){const d=parseD(s);if(!d)return null;if(d.m<=3)return"Q1";if(d.m<=6)return"Q2";if(d.m<=9)return"Q3";return"Q4";}
+ 
+function GameCard({g,onClick,ac}){const tc={critical:"tc",high:"th",medium:"tm",low:"tl"}[g.threat]||"";
+return(<div className={`gcard ${tc}`} onClick={()=>onClick(g)}>
+  <div className="gcard-h"><div className="gcard-t">{g.name}</div><Pill c={TC[g.threat]} ch={`威脅:${TM[g.threat]}`}/></div>
+  <div className="gcard-s">{g.studio} · {g.publisher} · {g.region}</div>
+  <div className="gcard-tags"><Pill c={SC[g.stage]} ch={SM[g.stage]}/><Pill c={ac} ch={g.genre}/>{g.platform.map(p=><Pill key={p} c="var(--muted)" ch={p}/>)}</div>
+  <div className="gcard-d">{g.desc}</div>
+  <div className="gcard-f"><span>上線: {g.launchEst||"未定"}</span>{g.prereg?<span style={{color:"var(--green)"}}>預註冊:{(g.prereg/10000).toFixed(0)}萬</span>:<span/>}<span style={{color:g.sentiment>80?"var(--green)":g.sentiment>60?"var(--yellow)":"var(--red)"}}>{g.sentiment}/100</span></div>
+</div>);}
+ 
 function Modal({game:g,onClose}){if(!g)return null;const cat=g.platform.includes("Mobile")?"mobile":"console";const ac=cat==="mobile"?"var(--mobile)":"var(--console)";
 return(<div className="modal-bg" onClick={onClose}><div className="modal" onClick={e=>e.stopPropagation()}>
   <button className="modal-x" onClick={onClose}>✕</button>
-  <div style={{display:"flex",gap:6,flexWrap:"wrap",marginBottom:10}}><Pill c={cat==="mobile"?"#ff6b35":"#7c5cfc"}>{cat==="mobile"?"📱 手機遊戲":"🎮 主機/PC"}</Pill><Pill c={TC[g.threat]}>威脅: {TM[g.threat]}</Pill><Pill c={SC[g.stage]}>{SM[g.stage]}</Pill></div>
-  <h2 style={{fontSize:22,fontWeight:900,marginBottom:4}}>{g.name}</h2>
-  <div style={{fontSize:13,color:"var(--dim)",marginBottom:14}}>{g.studio} · {g.publisher} · {g.region} · {g.platform.join(" / ")}</div>
-  <p style={{fontSize:13,color:"var(--dim)",lineHeight:1.8,marginBottom:16}}>{g.desc}</p>
-  <div style={{display:"flex",gap:4,flexWrap:"wrap",marginBottom:16}}>{(g.tags||[]).map(t=><Pill key={t} c={ac}>{t}</Pill>)}</div>
-  <div className="stats" style={{marginBottom:16}}>
-    <div className="sbox"><div className="lb">預註冊</div><div className="vl" style={{color:"var(--green)"}}>{g.prereg?`${(g.prereg/10000).toFixed(0)}萬`:"N/A"}</div></div>
-    <div className="sbox"><div className="lb">情感</div><div className="vl" style={{color:g.sentiment>80?"var(--green)":g.sentiment>60?"var(--yellow)":"var(--red)"}}>{g.sentiment}</div></div>
-    <div className="sbox"><div className="lb">上線</div><div className="vl" style={{color:"var(--cyan)",fontSize:18}}>{g.launchEst}</div></div>
-    <div className="sbox"><div className="lb">模式</div><div className="vl" style={{color:"var(--pink)",fontSize:18}}>{g.model}</div></div>
+  <div style={{display:"flex",gap:5,flexWrap:"wrap",marginBottom:8}}><Pill c={cat==="mobile"?"#ff6b35":"#7c5cfc"} ch={cat==="mobile"?"📱 手機遊戲":"🎮 主機/PC"}/><Pill c={TC[g.threat]} ch={`威脅:${TM[g.threat]}`}/><Pill c={SC[g.stage]} ch={SM[g.stage]}/></div>
+  <h2 style={{fontSize:20,fontWeight:900,marginBottom:3}}>{g.name}</h2>
+  {g.nameEn&&<div style={{fontSize:11,color:"var(--muted)",marginBottom:4}}>{g.nameEn}</div>}
+  <div style={{fontSize:12,color:"var(--dim)",marginBottom:12}}>{g.studio} · {g.publisher} · {g.region} · {g.platform.join(" / ")}</div>
+  <p style={{fontSize:12,color:"var(--dim)",lineHeight:1.7,marginBottom:14}}>{g.desc}</p>
+  <div style={{display:"flex",gap:3,flexWrap:"wrap",marginBottom:14}}>{(g.tags||[]).map(t=><Pill key={t} c={ac} ch={t}/>)}</div>
+  <div className="stats" style={{marginBottom:14}}>
+    <div className="sbox"><div className="lb">預註冊</div><div className="vl" style={{color:"var(--green)",fontSize:18}}>{g.prereg?`${(g.prereg/10000).toFixed(0)}萬`:"N/A"}</div></div>
+    <div className="sbox"><div className="lb">情感</div><div className="vl" style={{color:g.sentiment>80?"var(--green)":g.sentiment>60?"var(--yellow)":"var(--red)",fontSize:18}}>{g.sentiment}</div></div>
+    <div className="sbox"><div className="lb">上線</div><div className="vl" style={{color:"var(--cyan)",fontSize:16}}>{g.launchEst||"未定"}</div></div>
+    <div className="sbox"><div className="lb">模式</div><div className="vl" style={{color:"var(--pink)",fontSize:16}}>{g.model}</div></div>
   </div>
-  {g.history&&g.history.length>0&&<><div style={{fontSize:11,fontWeight:700,color:"var(--muted)",textTransform:"uppercase",letterSpacing:1,margin:"14px 0 8px"}}>開發時間軸</div>
-  <div className="tl-track">{g.history.map((h,i)=><React.Fragment key={i}><div className="tl-node"><div className="tl-dot" style={{background:SC[h.s]||"var(--cyan)"}}/><div className="tl-lb" style={{color:SC[h.s]}}>{SM[h.s]||h.s}</div><div className="tl-dt">{h.date}</div></div>{i<g.history.length-1&&<div className="tl-line" style={{background:`linear-gradient(to right,${SC[h.s]||"#00d4ff"},${SC[g.history[i+1].s]||"#00d4ff"})`}}/>}</React.Fragment>)}</div></>}
-  <div style={{marginTop:16,padding:"10px 14px",borderRadius:8,background:"var(--surface)",border:"1px solid var(--border)",fontSize:12,color:"var(--dim)",lineHeight:1.6}}>
-    <strong>分類：</strong>{g.platform.includes("Mobile")?`平台 ${g.platform.join("、")}，含行動端 → 手機遊戲`:`平台 ${g.platform.join("、")}，無行動端 → 主機/PC 遊戲`}
-  </div>
+  {g.threatAnalysis&&<div style={{marginBottom:14}}>
+    <div style={{fontSize:11,fontWeight:700,color:"var(--red)",marginBottom:6}}>⚠️ 威脅分析</div>
+    <div style={{padding:"10px 12px",borderRadius:8,background:"rgba(255,107,107,.05)",border:"1px solid rgba(255,107,107,.15)",fontSize:12,color:"var(--dim)",lineHeight:1.7}}>{g.threatAnalysis}</div>
+  </div>}
+  {g.verified&&<div style={{fontSize:10,color:"var(--muted)",marginBottom:10}}>✅ 驗證來源: {g.verified}</div>}
+  {g.history&&g.history.length>0&&<><div style={{fontSize:10,fontWeight:700,color:"var(--muted)",textTransform:"uppercase",letterSpacing:1,margin:"10px 0 6px"}}>開發時間軸</div>
+  <div className="tl-track">{g.history.map((h,i)=><React.Fragment key={i}><div className="tl-node"><div className="tl-dot" style={{background:SC[h.s]||"var(--cyan)"}}/><div style={{fontSize:9,fontWeight:700,color:SC[h.s],marginTop:2}}>{SM[h.s]||h.s}</div><div style={{fontSize:8,color:"var(--muted)"}}>{h.date}</div></div>{i<g.history.length-1&&<div className="tl-line" style={{background:`linear-gradient(to right,${SC[h.s]||"#00d4ff"},${SC[g.history[i+1].s]||"#00d4ff"})`}}/>}</React.Fragment>)}</div></>}
 </div></div>);}
-
-function BriefView({plat,data}){if(!data||!data.items)return<div className="empty"><div className="ic">📋</div><div>尚未載入簡報</div></div>;
+ 
+/* ══ VIEWS ══ */
+function BriefView({plat,data}){if(!data||!data.items||!data.items.length)return<div className="empty"><div className="ic">📋</div><div>尚未載入簡報</div></div>;
 const items=data.items.filter(b=>b.platform===plat);if(!items.length)return<div className="empty"><div className="ic">📋</div><div>此分類暫無簡報</div></div>;
 return(<div>
-  <div style={{fontSize:13,color:"var(--dim)",marginBottom:16,padding:"10px 14px",borderRadius:9,background:"var(--surface)",border:"1px solid var(--border)"}}>
-    📋 <strong>每日市場簡報</strong> — 更新: {data.lastUpdated?new Date(data.lastUpdated).toLocaleString("zh-TW"):"N/A"} · 累計 {data.fetchCount||0} 次抓取 · 保留最新 {items.length} 條</div>
+  <div style={{fontSize:12,color:"var(--dim)",marginBottom:14,padding:"8px 12px",borderRadius:8,background:"var(--surface)",border:"1px solid var(--border)"}}>
+    📋 <strong>每日簡報</strong> — 更新: {data.lastUpdated?new Date(data.lastUpdated).toLocaleString("zh-TW"):"N/A"} · 保留最新 {items.length} 條</div>
   {items.map((it,i)=>{const pr=PM[it.priority]||PM.info;return(<div key={it.id||i} className={`bitem ${pr.c}`}>
-    <div style={{display:"flex",gap:8,alignItems:"start"}}><span style={{fontSize:20}}>{it.icon}</span><div style={{flex:1}}>
-      <div style={{display:"flex",alignItems:"center",gap:6,marginBottom:5,flexWrap:"wrap"}}><Pill c={pr.k}>{pr.l}</Pill><Pill c={it.platform==="mobile"?"var(--mobile)":"var(--console)"}>{it.platform==="mobile"?"📱":"🎮"}</Pill><span className="bitem-t" style={{margin:0}}>{it.title}</span></div>
+    <div style={{display:"flex",gap:6,alignItems:"start"}}><span style={{fontSize:18}}>{it.icon}</span><div style={{flex:1}}>
+      <div style={{display:"flex",alignItems:"center",gap:5,marginBottom:4,flexWrap:"wrap"}}><Pill c={pr.k} ch={pr.l}/><span className="bitem-t" style={{margin:0}}>{it.title}</span></div>
       <div className="bitem-d">{it.detail}</div><div className="bitem-a">💡 {it.action}</div>
-      <div className="bitem-meta">來源: {it.source||"—"} · {it.fetchedAt?new Date(it.fetchedAt).toLocaleString("zh-TW"):""}</div>
     </div></div></div>)})}
 </div>);}
-
+ 
 function QuarterlyView({plat,data}){if(!data||!data.quarters)return<div className="empty"><div className="ic">📊</div><div>尚未載入季度資料</div></div>;
 const qs=["Q1","Q2","Q3","Q4"];const qc={"Q1":"#00d4ff","Q2":"#2dd4a8","Q3":"#ffaa33","Q4":"#ff6b6b"};
 return(<div>
-  <div style={{fontSize:13,color:"var(--dim)",marginBottom:16,padding:"10px 14px",borderRadius:9,background:"var(--surface)",border:"1px solid var(--border)"}}>
-    📅 <strong>{data.year} 年度季度追蹤</strong> — 每年 1/1 自動清空重置 · 更新: {data.lastUpdated?new Date(data.lastUpdated).toLocaleString("zh-TW"):"N/A"}</div>
+  <div style={{fontSize:12,color:"var(--dim)",marginBottom:14,padding:"8px 12px",borderRadius:8,background:"var(--surface)",border:"1px solid var(--border)"}}>
+    📅 <strong>{data.year} 年度</strong> — 每年 1/1 清空重置</div>
   {qs.map(q=>{const qd=data.quarters[q];if(!qd)return null;const ev=(qd.events||[]).filter(e=>e.platform===plat);
   return(<div key={q} className="qsection"><div className="qheader" style={{background:`${qc[q]}08`,border:`1px solid ${qc[q]}22`}}>
-    <div className="qbadge" style={{background:qc[q]}}>{q}</div><span style={{fontSize:14,fontWeight:700}}>{qd.label}</span>
-    <span style={{fontSize:12,color:"var(--muted)",marginLeft:"auto"}}>{ev.length} 事件</span></div>
-    {ev.length>0?<div className="qevents">{ev.map((e,i)=><div key={i} className="qev"><span className="qev-date">{e.date}</span><Pill c={SC[e.type]||"#00d4ff"}>{SM[e.type]||e.type}</Pill><span className="qev-prod">{e.product}</span><span className="qev-det">{e.detail}</span></div>)}</div>
-    :<div style={{paddingLeft:20,fontSize:12,color:"var(--muted)",padding:"12px 20px"}}>此季度尚無事件</div>}
+    <div className="qbadge" style={{background:qc[q]}}>{q}</div><span style={{fontSize:13,fontWeight:700}}>{qd.label}</span>
+    <span style={{fontSize:11,color:"var(--muted)",marginLeft:"auto"}}>{ev.length} 事件</span></div>
+    {ev.length>0?<div className="qevents">{ev.map((e,i)=><div key={i} className="qev"><span style={{color:"var(--muted)",minWidth:70,fontWeight:600}}>{e.date}</span><Pill c={SC[e.type]||"#00d4ff"} ch={SM[e.type]||e.type}/><span style={{fontWeight:700,minWidth:120}}>{e.product}</span><span style={{color:"var(--dim)",flex:1}}>{e.detail}</span></div>)}</div>
+    :<div style={{padding:"10px 16px",fontSize:11,color:"var(--muted)"}}>尚無事件</div>}
   </div>)})}
 </div>);}
-
-function CalView({games}){const months=["Jun","Jul","Aug","Sep","Oct","Nov","Dec"];const bm={};
-games.forEach(g=>{const m=g.launchEst?.match(/(\d{4})-(\d{2})/);const q=g.launchEst?.match(/Q(\d)/);let mo=null;
-if(m){const mn=["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];mo=mn[parseInt(m[2])-1]}
-else if(q){mo={"1":"Jan","2":"Apr","3":"Jul","4":"Oct"}[q[1]]}
-if(mo&&months.includes(mo)){if(!bm[mo])bm[mo]=[];bm[mo].push(g)}});
-return(<div><div style={{fontSize:12,fontWeight:700,color:"var(--muted)",textTransform:"uppercase",letterSpacing:1,marginBottom:12}}>上線排程一覽</div>
-<div className="cal">{months.map(mo=>{const it=bm[mo]||[];return<div key={mo} className="cal-col">
-  <div className="cal-mh" style={{color:it.length>3?"var(--red)":"var(--dim)",background:it.length>3?"rgba(255,107,107,.08)":"transparent"}}>{mo}{it.length>0&&<span style={{fontSize:10,color:"var(--muted)",display:"block"}}>{it.length}款</span>}</div>
-  {it.map(g=><div key={g.id} className="cal-item" style={{background:`${TC[g.threat]}12`,borderLeftColor:TC[g.threat]}}><div style={{fontWeight:700,color:"var(--text)"}}>{g.name}</div><div style={{color:"var(--muted)"}}>{g.genre}</div></div>)}
-</div>})}</div></div>);}
-
+ 
+/* ══ NEW: Gantt Chart ══ */
+function GanttView({games,onSelect}){
+  const months=[];
+  for(let y=2025;y<=2027;y++){const ms=y===2025?1:1;const me=y===2027?6:12;
+    for(let m=ms;m<=me;m++)months.push({y,m,lb:MZH[m-1],qs:m===1||m===4||m===7||m===10});}
+  const now=new Date();const ny=now.getFullYear();const nm=now.getMonth()+1;
+  const mi=(y,m)=>months.findIndex(t=>t.y===y&&t.m===m);
+  const ni=mi(ny,nm);
+  const sorted=[...games].sort((a,b)=>{const da=parseD(a.launchEst);const db=parseD(b.launchEst);if(!da&&!db)return 0;if(!da)return 1;if(!db)return-1;return(da.y*12+da.m)-(db.y*12+db.m);});
+  function barInfo(g){let si=null;if(g.history&&g.history.length>0){const d=parseD(g.history[0].date);if(d)si=mi(d.y,d.m);}let ei=null;const ld=parseD(g.launchEst);if(ld)ei=mi(ld.y,ld.m);if(si===null&&ei!==null)si=Math.max(0,ei-3);if(si===null)si=0;if(ei===null)ei=months.length-1;si=Math.max(0,Math.min(si,months.length-1));ei=Math.max(0,Math.min(ei,months.length-1));return{si,ei};}
+  let lastY=null;
+  return(<div>
+    <div style={{display:"flex",gap:14,marginBottom:12,flexWrap:"wrap",fontSize:10,color:"var(--dim)"}}>
+      {[["#ff6b6b","極高"],["#ffaa33","高"],["#ffe066","中"],["#2dd4a8","低"]].map(([c,l])=><div key={l} style={{display:"flex",alignItems:"center",gap:4}}><span style={{width:12,height:8,borderRadius:2,background:c,display:"inline-block"}}/>{l}</div>)}
+      <div style={{display:"flex",alignItems:"center",gap:4,color:"var(--cyan)"}}><span style={{width:2,height:12,background:"var(--cyan)",display:"inline-block"}}/>今天</div>
+    </div>
+    <div className="gantt-wrap"><div className="gantt">
+      <div style={{display:"flex"}}><div className="gantt-lbl"/><div style={{flex:1,display:"flex"}}>
+        {months.map((t,i)=>{const sy=t.y!==lastY;lastY=t.y;return<div key={i} style={{flex:1,textAlign:"left",fontSize:sy?10:0,fontWeight:800,color:"var(--dim)",borderLeft:t.qs?"2px solid var(--border2)":"1px solid transparent",paddingLeft:1}}>{sy?t.y:""}</div>})}
+      </div></div>
+      {(()=>{lastY=null;return null})()}
+      <div className="gantt-hdr"><div className="gantt-lbl">產品</div><div className="gantt-cols">
+        {months.map((t,i)=><div key={i} className={`gantt-mh${t.y===ny&&t.m===nm?" now":""}${t.qs?" qs":""}`}>{t.lb}</div>)}
+      </div></div>
+      {sorted.map(g=>{const{si,ei}=barInfo(g);const l=`${(si/months.length)*100}%`;const w=`${(Math.max(1,ei-si+1)/months.length)*100}%`;
+      return(<div key={g.id} className="gantt-row">
+        <div className="gantt-row-lbl"><div style={{width:3,height:16,borderRadius:1,background:TC[g.threat],flexShrink:0}}/><div className="gantt-row-nm" title={g.name}>{g.name}</div></div>
+        <div className="gantt-row-chart">{months.map((_,i)=><div key={i} className={`gantt-cell${months[i].qs?" qs":""}`}/>)}{ni>=0&&<div className="gantt-today" style={{left:`${(ni/months.length)*100}%`}}/>}
+          <div className="gantt-bar" style={{left:l,width:w,background:TC[g.threat]}} onClick={()=>onSelect(g)} title={`${g.name} — ${g.launchEst}`}><span className="gantt-bar-t">{g.launchEst}</span></div>
+        </div>
+      </div>);})}
+    </div></div>
+  </div>);
+}
+ 
+/* ══ NEW: Quarter Products ══ */
+function QProductsView({games,onSelect,ac}){
+  const qc={"Q1":"#00d4ff","Q2":"#2dd4a8","Q3":"#ffaa33","Q4":"#ff6b6b"};
+  const ql={"Q1":"第一季 (1-3月)","Q2":"第二季 (4-6月)","Q3":"第三季 (7-9月)","Q4":"第四季 (10-12月)"};
+  const grouped={"Q1":[],"Q2":[],"Q3":[],"Q4":[],"未定":[]};
+  games.forEach(g=>{const q=getQ(g.launchEst);if(q&&grouped[q])grouped[q].push(g);else grouped["未定"].push(g);});
+  return(<div>{["Q1","Q2","Q3","Q4","未定"].map(q=>{const items=grouped[q];if(!items.length)return null;const clr=qc[q]||"var(--muted)";
+    return(<div key={q} style={{marginBottom:24}}>
+      <div style={{display:"flex",alignItems:"center",gap:8,marginBottom:10,padding:"8px 14px",borderRadius:8,background:`${clr}0a`,border:`1px solid ${clr}22`}}>
+        <div style={{minWidth:36,height:24,borderRadius:12,background:clr,display:"flex",alignItems:"center",justifyContent:"center",fontSize:12,fontWeight:800,color:"#000"}}>{q}</div>
+        <span style={{fontSize:14,fontWeight:700}}>{ql[q]||"上線時間未定"}</span>
+        <span style={{fontSize:11,color:"var(--muted)",marginLeft:"auto"}}>{items.length} 款</span>
+      </div>
+      <div className="grid">{items.map(g=><GameCard key={g.id} g={g} onClick={onSelect} ac={ac}/>)}</div>
+    </div>)})}</div>);
+}
+ 
+/* ══ NEW: Threat Analysis ══ */
+function ThreatView({games,onSelect}){
+  const threats=games.filter(g=>g.threat==="critical"||g.threat==="high").sort((a,b)=>(b.prereg||0)-(a.prereg||0));
+  return(<div>
+    <div style={{fontSize:12,color:"var(--dim)",marginBottom:14,padding:"8px 12px",borderRadius:8,background:"var(--surface)",border:"1px solid var(--border)"}}>
+      ⚠️ <strong>競品威脅分析</strong> — 僅顯示威脅等級「高」以上的產品，附具體威脅原因分析</div>
+    <div className="stats" style={{marginBottom:16}}>
+      {["critical","high","medium","low"].map(t=>{const n=games.filter(g=>g.threat===t).length;return<div key={t} className="sbox">
+        <div className="lb">威脅{TM[t]}</div><div className="vl" style={{color:TC[t]}}>{n}</div></div>})}
+    </div>
+    {threats.map(g=>(<div key={g.id} className="threat-card" style={{borderLeftColor:TC[g.threat],cursor:"pointer"}} onClick={()=>onSelect(g)}>
+      <div style={{display:"flex",justifyContent:"space-between",alignItems:"start",gap:8,marginBottom:6}}>
+        <div><div style={{fontSize:15,fontWeight:800}}>{g.name}</div><div style={{fontSize:11,color:"var(--muted)"}}>{ g.studio} · {g.genre} · {g.launchEst||"未定"}</div></div>
+        <div style={{display:"flex",gap:4}}><Pill c={TC[g.threat]} ch={`威脅:${TM[g.threat]}`}/><Pill c={SC[g.stage]} ch={SM[g.stage]}/></div>
+      </div>
+      <div style={{display:"flex",gap:3,flexWrap:"wrap",marginBottom:6}}>{(g.tags||[]).slice(0,5).map(t=><Pill key={t} c="var(--cyan)" ch={t}/>)}</div>
+      {g.prereg&&<div style={{fontSize:11,color:"var(--green)",marginBottom:4}}>📊 預註冊: {(g.prereg/10000).toFixed(0)} 萬</div>}
+      {g.threatAnalysis&&<div className="ta">⚠️ <strong>威脅面分析：</strong>{g.threatAnalysis}</div>}
+    </div>))}
+    {!threats.length&&<div className="empty"><div className="ic">✅</div><div>此分類無高威脅產品</div></div>}
+  </div>);
+}
+ 
+/* ══ NEW: Launch Timing ══ */
+function LaunchView({games}){
+  const months=["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"];
+  const counts=months.map(()=>({total:0,critical:0,high:0,medium:0,low:0,names:[]}));
+  games.forEach(g=>{const d=parseD(g.launchEst);if(d&&d.y===2026){const i=d.m-1;counts[i].total++;counts[i][g.threat]++;counts[i].names.push(g.name);}});
+  const max=Math.max(...counts.map(c=>c.total),1);
+  const now=new Date();const curM=now.getMonth();
+  return(<div>
+    <div style={{fontSize:12,color:"var(--dim)",marginBottom:14,padding:"8px 12px",borderRadius:8,background:"var(--surface)",border:"1px solid var(--border)"}}>
+      🚀 <strong>2026 上線時機分析</strong> — 各月競爭密度，越高代表同期競品越多</div>
+    <div style={{display:"flex",gap:8,marginBottom:16,flexWrap:"wrap"}}>
+      {[["最低競爭","var(--green)"],["最高競爭","var(--red)"]].map(([l,c],i)=>{
+        const idx=i===0?counts.reduce((mi,v,j,a)=>v.total<a[mi].total&&v.total>0?j:mi,0):counts.reduce((mi,v,j,a)=>v.total>a[mi].total?j:mi,0);
+        return<div key={l} className="sbox"><div className="lb">{l}月份</div><div className="vl" style={{color,fontSize:18}}>{months[idx]}</div><div style={{fontSize:10,color:"var(--muted)"}}>{counts[idx].total} 款產品</div></div>})}
+    </div>
+    <div style={{background:"var(--surface)",borderRadius:10,padding:16,border:"1px solid var(--border)",marginBottom:16}}>
+      <div className="ld-bar-wrap">
+        {counts.map((c,i)=>{const h=max>0?(c.total/max)*100:0;const clr=c.total>4?"var(--red)":c.total>2?"var(--orange)":c.total>0?"var(--cyan)":"var(--border)";
+          return<div key={i} style={{flex:1,display:"flex",flexDirection:"column",alignItems:"center"}}>
+            <div className="ld-bar" style={{width:"100%",height:`${Math.max(h,4)}%`,background:clr,border:i===curM?"2px solid var(--cyan)":"none"}} title={c.names.join("、")}/>
+            <div className="ld-label" style={{color:i===curM?"var(--cyan)":"var(--muted)"}}>{months[i]}</div>
+            <div style={{fontSize:10,fontWeight:700,color:c.total>0?"var(--text)":"var(--muted)"}}>{c.total||""}</div>
+          </div>})}
+      </div>
+    </div>
+    <div style={{fontSize:11,fontWeight:700,color:"var(--muted)",textTransform:"uppercase",letterSpacing:1,marginBottom:10}}>各月上線產品明細</div>
+    <div style={{display:"flex",gap:0,overflowX:"auto"}}>{months.map((mo,i)=>{
+      const items=[];games.forEach(g=>{const d=parseD(g.launchEst);if(d&&d.y===2026&&d.m===i+1)items.push(g);});
+      return<div key={i} style={{flex:1,minWidth:90,borderRight:"1px solid var(--border)",padding:"0 4px"}}>
+        <div style={{textAlign:"center",padding:"4px 0",fontSize:11,fontWeight:800,color:items.length>3?"var(--red)":"var(--dim)",borderRadius:6,marginBottom:6,background:i===curM?"rgba(0,212,255,.08)":"transparent"}}>{mo}</div>
+        {items.map(g=><div key={g.id} style={{padding:"3px 5px",marginBottom:2,borderRadius:4,background:`${TC[g.threat]}12`,borderLeft:`2px solid ${TC[g.threat]}`,fontSize:9,lineHeight:1.3}}>
+          <div style={{fontWeight:700,color:"var(--text)"}}>{g.name}</div></div>)}
+      </div>})}</div>
+  </div>);
+}
+ 
+/* ══ NEW: Trend Analysis ══ */
+function TrendView({games}){
+  const genreMap={};const stageMap={};const threatMap={};
+  games.forEach(g=>{genreMap[g.genre]=(genreMap[g.genre]||0)+1;stageMap[g.stage]=(stageMap[g.stage]||0)+1;threatMap[g.threat]=(threatMap[g.threat]||0)+1;});
+  const genres=Object.entries(genreMap).sort((a,b)=>b[1]-a[1]);
+  const maxG=Math.max(...genres.map(g=>g[1]),1);
+  const upcoming=games.filter(g=>["announced","pre-reg","cbt","soft-launch"].includes(g.stage));
+  const upGenre={};upcoming.forEach(g=>{upGenre[g.genre]=(upGenre[g.genre]||0)+1;});
+  const liveGenre={};games.filter(g=>g.stage==="live-ops").forEach(g=>{liveGenre[g.genre]=(liveGenre[g.genre]||0)+1;});
+  const saturation=Object.keys(upGenre).map(genre=>({genre,dev:upGenre[genre]||0,live:liveGenre[genre]||0,sat:liveGenre[genre]?(upGenre[genre]/(liveGenre[genre])).toFixed(1):"新品類"})).sort((a,b)=>(parseFloat(b.sat)||99)-(parseFloat(a.sat)||99));
+ 
+  return(<div>
+    <div style={{fontSize:12,color:"var(--dim)",marginBottom:14,padding:"8px 12px",borderRadius:8,background:"var(--surface)",border:"1px solid var(--border)"}}>
+      📈 <strong>市場趨勢分析</strong> — 基於目前追蹤的 {games.length} 款產品資料</div>
+    <div className="stats" style={{marginBottom:16}}>
+      <div className="sbox"><div className="lb">最熱品類</div><div className="vl" style={{color:"var(--cyan)",fontSize:16}}>{genres[0]?genres[0][0]:"—"}</div></div>
+      <div className="sbox"><div className="lb">開發中產品</div><div className="vl" style={{color:"var(--orange)"}}>{upcoming.length}</div></div>
+      <div className="sbox"><div className="lb">已上線</div><div className="vl" style={{color:"var(--green)"}}>{games.filter(g=>g.stage==="live-ops").length}</div></div>
+      <div className="sbox"><div className="lb">高威脅以上</div><div className="vl" style={{color:"var(--red)"}}>{games.filter(g=>g.threat==="critical"||g.threat==="high").length}</div></div>
+    </div>
+    <div style={{display:"flex",gap:14,flexWrap:"wrap"}}>
+      <div style={{flex:1,minWidth:300,background:"var(--surface)",borderRadius:10,padding:16,border:"1px solid var(--border)"}}>
+        <div style={{fontSize:11,fontWeight:700,color:"var(--muted)",textTransform:"uppercase",letterSpacing:1,marginBottom:10}}>品類分佈</div>
+        {genres.map(([genre,count],i)=><div key={genre} style={{display:"flex",alignItems:"center",gap:8,marginBottom:6}}>
+          <span style={{width:100,fontSize:11,fontWeight:600,color:"var(--text)",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis"}}>{genre}</span>
+          <div style={{flex:1,height:16,borderRadius:4,background:"var(--border)",overflow:"hidden"}}>
+            <div style={{width:`${(count/maxG)*100}%`,height:"100%",borderRadius:4,background:i<2?"var(--cyan)":i<4?"var(--console)":"var(--muted)",transition:"width .3s"}}/>
+          </div>
+          <span style={{fontSize:12,fontWeight:800,color:"var(--text)",minWidth:20}}>{count}</span>
+        </div>)}
+      </div>
+      <div style={{flex:1,minWidth:300,background:"var(--surface)",borderRadius:10,padding:16,border:"1px solid var(--border)"}}>
+        <div style={{fontSize:11,fontWeight:700,color:"var(--muted)",textTransform:"uppercase",letterSpacing:1,marginBottom:10}}>品類飽和度（開發中÷已上線）</div>
+        <div style={{fontSize:10,color:"var(--muted)",marginBottom:10}}>數值越高代表供給壓力越大</div>
+        {saturation.map(d=>{const satN=parseFloat(d.sat);const clr=isNaN(satN)?"var(--cyan)":satN>=3?"var(--red)":satN>=2?"var(--orange)":"var(--green)";
+          return<div key={d.genre} style={{display:"flex",alignItems:"center",gap:8,marginBottom:6,padding:"4px 8px",borderRadius:6,background:"var(--card)"}}>
+            <span style={{width:100,fontSize:11,fontWeight:600}}>{d.genre}</span>
+            <span style={{fontSize:10,color:"var(--muted)"}}>開發:{d.dev}</span>
+            <span style={{fontSize:10,color:"var(--muted)"}}>上線:{d.live}</span>
+            <span style={{fontSize:14,fontWeight:800,color:clr,marginLeft:"auto"}}>{d.sat}</span>
+          </div>})}
+      </div>
+    </div>
+  </div>);
+}
+ 
+/* ══ MAIN APP ══ */
 function App(){
   const[plat,setPlat]=useState("mobile");const[mod,setMod]=useState("list");
   const[search,setSearch]=useState("");const[sf,setSf]=useState("all");const[tf,setTf]=useState("all");const[sel,setSel]=useState(null);
-  const[products,pLd]=useJson("data/products.json",[]);const[brief,bLd]=useJson("data/daily-brief.json",{items:[]});const[qdata]=useJson("data/quarterly.json",{year:2026,quarters:{}});
+  const[products,pLd]=useJson("data/products.json",[]);const[brief]=useJson("data/daily-brief.json",{items:[]});const[qdata]=useJson("data/quarterly.json",{year:2026,quarters:{}});
   const all=products||[];const mob=useMemo(()=>all.filter(g=>g.platform.includes("Mobile")),[all]);const con=useMemo(()=>all.filter(g=>!g.platform.includes("Mobile")),[all]);
   const base=plat==="mobile"?mob:con;
-  const filtered=useMemo(()=>{let r=base;if(search.trim()){const q=search.toLowerCase();r=r.filter(g=>g.name.toLowerCase().includes(q)||g.studio.toLowerCase().includes(q)||g.publisher.toLowerCase().includes(q)||g.genre.toLowerCase().includes(q)||g.desc.includes(q)||(g.tags||[]).some(t=>t.toLowerCase().includes(q)))}
+  const filtered=useMemo(()=>{let r=base;if(search.trim()){const q=search.toLowerCase();r=r.filter(g=>g.name.toLowerCase().includes(q)||(g.nameEn||"").toLowerCase().includes(q)||g.studio.toLowerCase().includes(q)||g.publisher.toLowerCase().includes(q)||g.genre.toLowerCase().includes(q)||g.desc.includes(q)||(g.tags||[]).some(t=>t.toLowerCase().includes(q)))}
   if(sf!=="all")r=r.filter(g=>g.stage===sf);if(tf!=="all")r=r.filter(g=>g.threat===tf);return r},[base,search,sf,tf]);
   const ac=plat==="mobile"?"var(--mobile)":"var(--console)";
-  const MODS=[{id:"list",l:"產品總覽",i:"📋"},{id:"kanban",l:"階段看板",i:"🛰"},{id:"rank",l:"競品排行",i:"🎯"},{id:"calendar",l:"上線時程",i:"📅"},{id:"brief",l:"每日簡報",i:"☀️"},{id:"quarterly",l:"季度追蹤",i:"📊"}];
-  const nf=!["brief","quarterly"].includes(mod);
+  const MODS=[
+    {id:"list",l:"產品總覽",i:"📋"},{id:"kanban",l:"階段看板",i:"🛰"},{id:"threat",l:"威脅分析",i:"⚠️"},
+    {id:"gantt",l:"甘特圖",i:"📊"},{id:"qprod",l:"季度產品",i:"📦"},
+    {id:"trend",l:"趨勢預測",i:"📈"},{id:"launch",l:"上線時機",i:"🚀"},
+    {id:"brief",l:"每日簡報",i:"☀️"},{id:"quarterly",l:"季度事件",i:"📅"},
+  ];
+  const showFilters=["list","kanban"].includes(mod);
   if(pLd)return<div className="app"><div className="loading"><div className="spinner"/><div>載入資料中...</div></div></div>;
   return(<div className="app">
-    <div className="hdr"><div className="hdr-in"><div className="logo"><div className="logo-ic">🎮</div><div><h1>Game Market Intelligence</h1><small>AI-Powered · GitHub Pages Edition</small></div></div>
-    <div className="status"><span className="dot"/>追蹤 {all.length} 款 · 📱{mob.length} · 🎮{con.length}
-    {brief?.lastUpdated&&<span className="last-upd">簡報: {new Date(brief.lastUpdated).toLocaleDateString("zh-TW")}</span>}</div></div></div>
+    <div className="hdr"><div className="hdr-in"><div className="logo"><div className="logo-ic">🎮</div><div><h1>Game Market Intelligence</h1><small>AI-Powered · GitHub Pages · 資料已驗證</small></div></div>
+    <div className="status"><span className="dot"/>追蹤 {all.length} 款 · 📱{mob.length} · 🎮{con.length}</div></div></div>
     <div className="ptabs">
-      <button className={`ptab ${plat==="mobile"?"am":""}`} onClick={()=>{setPlat("mobile");setSf("all");setTf("all");setSearch("")}}>📱 手機遊戲<span className="sub">含行動平台</span><span className="badge">{mob.length}</span></button>
-      <button className={`ptab ${plat==="console"?"ac":""}`} onClick={()=>{setPlat("console");setSf("all");setTf("all");setSearch("")}}>🎮 主機/PC<span className="sub">僅 PC 及主機</span><span className="badge">{con.length}</span></button>
+      <button className={`ptab ${plat==="mobile"?"am":""}`} onClick={()=>{setPlat("mobile");setSf("all");setTf("all");setSearch("")}}>📱 手機遊戲<span className="badge">{mob.length}</span></button>
+      <button className={`ptab ${plat==="console"?"ac":""}`} onClick={()=>{setPlat("console");setSf("all");setTf("all");setSearch("")}}>🎮 主機/PC<span className="badge">{con.length}</span></button>
     </div>
     <div className="content">
       <div className="mtabs">{MODS.map(m=><button key={m.id} className={`mtab ${mod===m.id?"on":""}`} onClick={()=>setMod(m.id)}>{m.i} {m.l}</button>)}</div>
-      {nf&&<><div className="stats">
+      {showFilters&&<><div className="stats">
         <div className="sbox"><div className="lb">產品數</div><div className="vl" style={{color:ac}}>{base.length}</div></div>
         <div className="sbox"><div className="lb">高威脅+</div><div className="vl" style={{color:"var(--red)"}}>{base.filter(g=>g.threat==="critical"||g.threat==="high").length}</div></div>
         <div className="sbox"><div className="lb">封測中</div><div className="vl" style={{color:"var(--cyan)"}}>{base.filter(g=>g.stage==="cbt").length}</div></div>
-        <div className="sbox"><div className="lb">即將上線</div><div className="vl" style={{color:"var(--console)"}}>{base.filter(g=>g.stage==="soft-launch"||g.stage==="pre-reg").length}</div></div>
+        <div className="sbox"><div className="lb">即將上線</div><div className="vl" style={{color:"var(--console)"}}>{base.filter(g=>["soft-launch","pre-reg"].includes(g.stage)).length}</div></div>
       </div>
-      <div className="search"><input className="sinput" placeholder="🔍 搜尋遊戲、開發商、品類、標籤..." value={search} onChange={e=>setSearch(e.target.value)}/>
+      <div className="search"><input className="sinput" placeholder="🔍 搜尋遊戲名稱、開發商、品類、標籤..." value={search} onChange={e=>setSearch(e.target.value)}/>
         <button className={`fbtn ${sf==="all"?"on":""}`} onClick={()=>setSf("all")}>全部</button>
         {ST.map(s=>{const n=base.filter(g=>g.stage===s).length;return n?<button key={s} className={`fbtn ${sf===s?"on":""}`} onClick={()=>setSf(sf===s?"all":s)}>{SM[s]}({n})</button>:null})}
         {["critical","high"].map(t=>{const n=base.filter(g=>g.threat===t).length;return n?<button key={t} className="fbtn" style={tf===t?{background:TC[t],color:"#000",borderColor:TC[t]}:{}} onClick={()=>setTf(tf===t?"all":t)}>威脅{TM[t]}({n})</button>:null})}
       </div></>}
-      {mod==="list"&&<div className="grid">{filtered.length?filtered.map(g=><GameCard key={g.id} g={g} onClick={setSel} accent={ac}/>):<div className="empty"><div className="ic">🔍</div><div>無符合條件的產品</div></div>}</div>}
+      {mod==="list"&&<div className="grid">{filtered.length?filtered.map(g=><GameCard key={g.id} g={g} onClick={setSel} ac={ac}/>):<div className="empty"><div className="ic">🔍</div><div>無符合條件的產品</div></div>}</div>}
       {mod==="kanban"&&<div className="kanban">{ST.map(s=>{const gs=filtered.filter(g=>g.stage===s);return<div key={s} className="kcol">
-        <div className="kcol-h" style={{background:`${SC[s]}12`,borderLeft:`3px solid ${SC[s]}`}}><span style={{width:8,height:8,borderRadius:4,background:SC[s]}}/><span style={{fontSize:12,fontWeight:700,color:SC[s],textTransform:"uppercase",letterSpacing:.5}}>{SM[s]}</span><span style={{fontSize:11,color:"var(--muted)",marginLeft:"auto"}}>{gs.length}</span></div>
-        {gs.map(g=><GameCard key={g.id} g={g} onClick={setSel} accent={ac}/>)}{!gs.length&&<div style={{textAlign:"center",padding:20,fontSize:12,color:"var(--muted)"}}>無產品</div>}</div>})}</div>}
-      {mod==="rank"&&(()=>{const sorted=[...filtered].sort((a,b)=>(b.prereg||0)-(a.prereg||0));return<div>
-        <div style={{fontSize:12,fontWeight:700,color:"var(--muted)",textTransform:"uppercase",letterSpacing:1,marginBottom:12}}>預註冊排行</div>
-        {sorted.slice(0,10).map((g,i)=><div key={g.id} style={{display:"flex",alignItems:"center",gap:12,padding:"9px 12px",borderRadius:9,background:"var(--surface)",border:"1px solid var(--border)",marginBottom:7,flexWrap:"wrap"}}>
-          <span style={{fontSize:16,fontWeight:900,color:i<3?ac:"var(--muted)",width:28,textAlign:"center"}}>#{i+1}</span>
-          <div style={{flex:1,minWidth:140}}><div style={{fontSize:13,fontWeight:700}}>{g.name}</div><div style={{fontSize:10,color:"var(--muted)"}}>{g.studio}</div></div>
-          <Pill c={TC[g.threat]}>{TM[g.threat]}</Pill><Pill c={SC[g.stage]}>{SM[g.stage]}</Pill>
-          <div style={{textAlign:"right",minWidth:70}}><div style={{fontSize:15,fontWeight:800,color:"var(--green)"}}>{g.prereg?`${(g.prereg/10000).toFixed(0)}萬`:"—"}</div></div></div>)}
-        <div style={{fontSize:12,fontWeight:700,color:"var(--muted)",textTransform:"uppercase",letterSpacing:1,margin:"20px 0 12px"}}>威脅分佈</div>
-        <div style={{display:"flex",gap:10,flexWrap:"wrap"}}>{["critical","high","medium","low"].map(t=>{const n=filtered.filter(g=>g.threat===t).length;return<div key={t} style={{flex:1,minWidth:110,padding:"12px 16px",borderRadius:10,background:`${TC[t]}0d`,border:`1px solid ${TC[t]}33`}}>
-          <div style={{fontSize:10,color:"var(--muted)",textTransform:"uppercase"}}>威脅{TM[t]}</div><div style={{fontSize:30,fontWeight:900,color:TC[t]}}>{n}</div></div>})}</div>
-      </div>})()}
-      {mod==="calendar"&&<CalView games={filtered}/>}
+        <div className="kcol-h" style={{background:`${SC[s]}12`,borderLeft:`3px solid ${SC[s]}`}}><span style={{width:7,height:7,borderRadius:4,background:SC[s]}}/><span style={{fontSize:11,fontWeight:700,color:SC[s],textTransform:"uppercase"}}>{SM[s]}</span><span style={{fontSize:10,color:"var(--muted)",marginLeft:"auto"}}>{gs.length}</span></div>
+        {gs.map(g=><GameCard key={g.id} g={g} onClick={setSel} ac={ac}/>)}{!gs.length&&<div style={{textAlign:"center",padding:16,fontSize:11,color:"var(--muted)"}}>無產品</div>}</div>})}</div>}
+      {mod==="threat"&&<ThreatView games={base} onSelect={setSel}/>}
+      {mod==="gantt"&&<GanttView games={base} onSelect={setSel}/>}
+      {mod==="qprod"&&<QProductsView games={base} onSelect={setSel} ac={ac}/>}
+      {mod==="trend"&&<TrendView games={base}/>}
+      {mod==="launch"&&<LaunchView games={base}/>}
       {mod==="brief"&&<BriefView plat={plat} data={brief}/>}
       {mod==="quarterly"&&<QuarterlyView plat={plat} data={qdata}/>}
     </div>
     <div className="legend"><div className="legend-box">
-      <div style={{fontSize:13,fontWeight:700,marginBottom:10}}>📐 分類規則 & 自動更新機制</div>
-      <div style={{display:"flex",gap:20,flexWrap:"wrap",fontSize:12,color:"var(--dim)",lineHeight:1.8}}>
-        <div style={{flex:1,minWidth:240}}><strong style={{color:"var(--mobile)"}}>📱 手機遊戲</strong> — 平台含 Mobile 即歸入，含跨平台產品</div>
-        <div style={{flex:1,minWidth:240}}><strong style={{color:"var(--console)"}}>🎮 主機/PC</strong> — 僅 PC 及主機，不含行動端</div>
-        <div style={{flex:1,minWidth:260}}><strong style={{color:"var(--cyan)"}}>☀️ 每日簡報</strong> — GitHub Actions 每日 08:30 TST 自動抓取 RSS 新聞，保留最新 20 條<br/><strong style={{color:"var(--green)"}}>📊 季度追蹤</strong> — 產品事件依 Q1~Q4 歸檔，每年 1/1 自動清空重置</div>
+      <div style={{fontSize:12,fontWeight:700,marginBottom:8}}>📐 平台說明</div>
+      <div style={{display:"flex",gap:16,flexWrap:"wrap",fontSize:11,color:"var(--dim)",lineHeight:1.7}}>
+        <div style={{flex:1,minWidth:200}}><strong style={{color:"var(--mobile)"}}>📱 手機遊戲</strong> — 平台含 Mobile 即歸入</div>
+        <div style={{flex:1,minWidth:200}}><strong style={{color:"var(--console)"}}>🎮 主機/PC</strong> — 僅 PC 及主機</div>
+        <div style={{flex:1,minWidth:240}}>所有產品均經過至少 2 個獨立來源交叉驗證。每款產品標注驗證來源。</div>
       </div>
     </div></div>
-    <div className="footer">Game Market Intelligence · GitHub Pages · v3.0 · <a href="https://github.com" target="_blank">View on GitHub</a></div>
+    <div className="footer">Game Market Intelligence · v5.0 · 資料驗證版 · 所有產品資訊均來自公開可查證來源</div>
     {sel&&<Modal game={sel} onClose={()=>setSel(null)}/>}
   </div>);
 }
@@ -247,3 +416,4 @@ ReactDOM.render(<App/>,document.getElementById('app'));
 </script>
 </body>
 </html>
+ 
