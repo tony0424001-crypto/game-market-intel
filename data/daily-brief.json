@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-29T04:50:34.449669+00:00",
-  "fetchCount": 6,
+  "lastUpdated": "2026-05-29T08:53:26.935583+00:00",
+  "fetchCount": 7,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260529-0213f600",
+      "priority": "info",
+      "icon": "📰",
+      "title": "GTA 6 Boss Says High Review Scores Reflect Rockstar’s “Commitment To Quality”",
+      "detail": "Grand Theft Auto 6 is still on-track to release in just under six months. And while it’s too soon to claim the title will receive the same critical acclaim that Grand Theft Auto 5 received in 2013, St",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-29T08:53:26.935583+00:00"
+    },
+    {
+      "id": "brief-20260529-800ece1e",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Fortnite Is Giving Out A Bunch Of Free Stuff, But Only On Saturday",
+      "detail": "Fortnite is holding what Epic Games is calling a \"community day\" on Saturday, May 30, and that means there will be free cosmetics for everyone who logs in that day, more free stuff for anyone who earn",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-29T08:53:26.935583+00:00"
+    },
+    {
+      "id": "brief-20260529-91674209",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Xbox Game Pass Price Cut Is Working, CEO Says",
+      "detail": "One of the first decisions that Xbox CEO Asha Sharma made after becoming the new boss earlier this year was to cut the price of Xbox Game Pass significantly. In a memo to staff recently, Sharma explai",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-29T08:53:26.935583+00:00"
+    },
+    {
+      "id": "brief-20260529-8d30c115",
+      "priority": "info",
+      "icon": "📰",
+      "title": "007 First Light Put Up Massive Launch-Day Sales Numbers",
+      "detail": "007 First Light was already shaping up to be one of the biggest games of 2026, and its launch-day sales numbers indicate it could very well live up to that high standard. \n\n\n\nAs shared by IO Interacti",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-29T08:53:26.935583+00:00"
+    },
+    {
+      "id": "brief-20260529-b11b84a8",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Call Of Duty: Modern Warfare 4 Has A “Loyalty” Discount For The Vault Edition, H",
+      "detail": "As part of the Call of Duty: Modern Warfare 4 announcement today, Activision unveiled what it called a \"Loyalty\" discount that will allow certain people to get the game's $100 Vault Edition for 10% of",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-29T08:53:26.935583+00:00"
+    },
+    {
       "id": "brief-20260529-910bcdf7",
       "priority": "info",
       "icon": "ℹ️",
@@ -162,61 +217,6 @@
       "icon": "ℹ️",
       "title": "Anima: Song from the Abyss launches in 2027",
       "detail": "Action RPG Anima: Song from the Abyss will launch for PlayStation 5, Xbox Series, and PC &#8230;\nSource",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "Gematsu",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
-    },
-    {
-      "id": "brief-20260529-2578f66f",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "Survival horror RPG THERMOCLINE announced for PS5, Xbox Series, Switch 2, PS4, X",
-      "detail": "Publisher SEMICOLON and developer Decent Treatment have announced survival horror RPG THERMOCLINE for PlayStation 5, &#8230;\nSource",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "Gematsu",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
-    },
-    {
-      "id": "brief-20260529-5fee8582",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "Crystal Project II announced for PC",
-      "detail": "River Running Games has announced Metroidvania adventure RPG Crystal Project II for PC (Steam). A &#8230;\nSource",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "Gematsu",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
-    },
-    {
-      "id": "brief-20260529-e015dca5",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "Emery Hearts launches September 2",
-      "detail": "Action RPG Emery Hearts will launch for PC via Steam on September 2, publisher and &#8230;\nSource",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "Gematsu",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
-    },
-    {
-      "id": "brief-20260529-6f0b0460",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "Edge of Memories demo launches June 15 for PC",
-      "detail": "Publisher Nacon and developer Midgar Studio will release a demo for action RPG Edge of &#8230;\nSource",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "Gematsu",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
-    },
-    {
-      "id": "brief-20260529-2c616a55",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "Infinite Alliance adds CrossCode, Seed of Nostalgia, and Cosmic Star Heroine cha",
-      "detail": "Infinite Alliance, the crossover turn-based RPG featuring characters from independent Japanese-style RPGs, will feature Lea &#8230;\nSource",
       "action": "待人工審核確認影響程度。",
       "platform": "console",
       "source": "Gematsu",

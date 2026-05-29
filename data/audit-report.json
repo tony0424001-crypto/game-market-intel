@@ -1,8 +1,8 @@
 {
-  "lastAudit": null,
-  "totalProducts": 0,
+  "lastAudit": "2026-05-29T08:53:46.830913+00:00",
+  "totalProducts": 30,
   "issuesFound": 0,
+  "updatesApplied": 0,
   "findings": [],
-  "nextAudit": "下次週一自動執行",
-  "note": "審計功能需要 ANTHROPIC_API_KEY。設定後每週一自動執行，或在 GitHub Actions 手動觸發。"
+  "nextAudit": "2026-05-30"
 }
