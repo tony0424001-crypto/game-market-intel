@@ -1,7 +1,7 @@
 {
   "year": 2026,
   "resetAt": "2026-01-01T00:00:00Z",
-  "lastUpdated": "2026-05-29T08:30:00Z",
+  "lastUpdated": "2026-05-29T12:00:00Z",
   "quarters": {
     "Q1": {
       "label": "2026 Q1 (1月-3月)",
@@ -82,13 +82,6 @@
           "platform": "mobile"
         },
         {
-          "date": "2026-05-15",
-          "product": "鎮明閃擊",
-          "type": "launch",
-          "detail": "公測上線",
-          "platform": "mobile"
-        },
-        {
           "date": "2026-05-22",
           "product": "遺忘之海",
           "type": "cbt",
@@ -156,6 +149,13 @@
           "product": "王者榮耀：世界",
           "type": "cbt",
           "detail": "PC端大規模限號測試持續中",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-06-02",
+          "product": "二重螺旋",
+          "type": "media",
+          "detail": "「銀星奔流」新版本上線，含新角色、新區域",
           "platform": "mobile"
         }
       ]
@@ -226,13 +226,6 @@
         },
         {
           "date": "2026-10-01",
-          "product": "二重螺旋",
-          "type": "launch",
-          "detail": "預計 Q4 上線（估）",
-          "platform": "mobile"
-        },
-        {
-          "date": "2026-10-01",
           "product": "命運扳機",
           "type": "launch",
           "detail": "預計 Q4 上線（估）",
@@ -257,13 +250,6 @@
           "product": "締造者：放逐之境",
           "type": "launch",
           "detail": "預計 Q4 上線（估）",
-          "platform": "mobile"
-        },
-        {
-          "date": "2026-12-01",
-          "product": "勝利女神：妮姬 Blade",
-          "type": "launch",
-          "detail": "預計年底上線（估）",
           "platform": "mobile"
         }
       ]
