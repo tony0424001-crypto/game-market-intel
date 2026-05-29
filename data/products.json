@@ -25,7 +25,7 @@
       "二次元",
       "免費角色"
     ],
-    "threatAnalysis": "顛覆傳統抽卡商業模式（角色全免費），預註冊超 5200 萬。對所有二遊構成結構性威脅，網易旗艦級資源投入。",
+    "threatAnalysis": "【結構性威脅】角色全免費模式將改變玩家對抽卡的付費預期。如果成功，同品類產品的角色池營收將被壓縮。\n\n▶ 建議行動：(1) 在 7 月上線前完成自身版本的留存活動準備 (2) 評估自身角色商業化模式是否需要調整 (3) 避開 7 月作為重大版本更新的時間點",
     "verified": "網易 520 發布會、蘋果仁、VNG 情報站",
     "history": [
       {
@@ -65,6 +65,27 @@
         "status": "預註冊",
         "date": "2026-07（預計）"
       }
+    ],
+    "developer": "網易 伏羲工作室",
+    "publisher_cn": "網易",
+    "publisher_tw": "網易（預計）",
+    "publisher_global": "網易",
+    "testType": "不刪檔公測",
+    "testDateStart": "2026-07（定檔）",
+    "testDateEnd": "持續",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/app/315024"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E7%84%A1%E9%99%90%E5%A4%A7&t=1"
+      },
+      {
+        "label": "官網",
+        "url": "https://mugen.163.com/"
+      }
     ]
   },
   {
@@ -93,7 +114,7 @@
       "二次元",
       "幻塔團隊"
     ],
-    "threatAnalysis": "幻塔成熟團隊打造，都市題材差異化。公測後首月表現超預期，已進入穩定營運。",
+    "threatAnalysis": "【直接競品】都市開放世界題材與多家產品重疊，台灣已本地化。公測首週表現超預期，搶佔了二次元用戶的遊玩時間。\n\n▶ 建議行動：(1) 監控異環的月留存和營收數據 (2) 若自身產品為同類型，需在內容差異化上加強 (3) 可參考其都市生活玩法的用戶反饋來優化自家系統",
     "verified": "蘋果仁、巴哈姆特、Yahoo 遊戲 - 三個以上來源",
     "history": [
       {
@@ -132,6 +153,23 @@
         "status": "已上線",
         "date": "2026-04-23"
       }
+    ],
+    "developer": "完美世界 幻塔工作室",
+    "publisher_cn": "完美世界",
+    "publisher_tw": "艾玩天地",
+    "publisher_global": "Level Infinite",
+    "testType": "不刪檔公測",
+    "testDateStart": "2026-04-23",
+    "testDateEnd": "持續營運中",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/app/360498"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E7%95%B0%E7%92%B0&t=1"
+      }
     ]
   },
   {
@@ -160,7 +198,7 @@
       "IP衍生",
       "明日方舟"
     ],
-    "threatAnalysis": "明日方舟強大 IP 加持，預約 3500 萬。即時策略+基地建設的創新組合，上線後媒體評價正面。",
+    "threatAnalysis": "【IP 擴張威脅】明日方舟龐大用戶基數的延伸，即時策略+基地建設的創新組合吸引了策略品類玩家。上線後媒體評價正面。\n\n▶ 建議行動：(1) 關注其自動化基地系統的用戶接受度 (2) 策略 RPG 品類產品需注意用戶時間被分流 (3) 終末地的 PvE 深度設計值得研究借鑑",
     "verified": "維基百科、巴哈姆特、QooApp、GNN",
     "history": [
       {
@@ -204,6 +242,27 @@
         "status": "已上線",
         "date": "2026-01-22"
       }
+    ],
+    "developer": "鷹角網絡",
+    "publisher_cn": "鷹角網絡",
+    "publisher_tw": "獅鷲邊境",
+    "publisher_global": "獅鷲邊境",
+    "testType": "不刪檔公測",
+    "testDateStart": "2026-01-22",
+    "testDateEnd": "持續營運中",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%EF%BC%9A%E7%B5%82%E6%9C%AB%E5%9C%B0"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%EF%BC%9A%E7%B5%82%E6%9C%AB%E5%9C%B0&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Arknights%3A%20Endfield"
+      }
     ]
   },
   {
@@ -233,7 +292,7 @@
       "Rust授權",
       "多端互通"
     ],
-    "threatAnalysis": "Rust 正版授權+騰訊發行，預約 3200 萬。生存對抗品類在中國手遊市場的大規模嘗試，7 月上線將搶佔大量玩家時間。",
+    "threatAnalysis": "【市場擠壓】騰訊旗艦級生存對抗產品，Rust 正版授權，預約 3200 萬。7 月全平台上線時將吸走大量男性核心用戶時間。\n\n▶ 建議行動：(1) 7 月避免投放重大行銷預算——會被淹沒 (2) 如果自身產品男性用戶佔比高，需提前做留存活動 (3) 觀察其 4x4km 大世界的手機端效能表現",
     "verified": "快科技（4/29報導）、VNG 情報站",
     "history": [
       {
@@ -263,6 +322,27 @@
         "status": "未上線",
         "date": "2026-07（預計）"
       }
+    ],
+    "developer": "騰訊（Rust授權）",
+    "publisher_cn": "騰訊",
+    "publisher_tw": "待定",
+    "publisher_global": "騰訊",
+    "testType": "刪檔不計費（鴻蒙版技測）",
+    "testDateStart": "2026-05-11",
+    "testDateEnd": "持續（全平台7月）",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E5%A4%B1%E6%8E%A7%E9%80%B2%E5%8C%96"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E5%A4%B1%E6%8E%A7%E9%80%B2%E5%8C%96&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Out%20of%20Control"
+      }
     ]
   },
   {
@@ -291,7 +371,7 @@
       "UE5",
       "手機核心"
     ],
-    "threatAnalysis": "王者 IP 用戶基數巨大，預註冊 6800 萬為業界最高。騰訊傾全力打造的旗艦級作品。",
+    "threatAnalysis": "【核彈級威脅】預註冊 6800 萬，騰訊傾全力打造。一旦上線將搶佔中國手遊市場最大量的用戶注意力，Q4 所有產品都會受到波及。\n\n▶ 建議行動：(1) Q4 版本規劃必須考慮王者世界的影響 (2) 如果在同期上線，行銷ROI 會大幅降低 (3) 建議將重大營收節點提前至 Q3 或延後至次年 Q1",
     "verified": "VNG 情報站、GameLook",
     "history": [
       {
@@ -321,6 +401,23 @@
         "status": "未上線",
         "date": "待定"
       }
+    ],
+    "developer": "騰訊 TiMi Studio",
+    "publisher_cn": "騰訊",
+    "publisher_tw": "待定",
+    "publisher_global": "待定",
+    "testType": "刪檔不計費（PC限號）",
+    "testDateStart": "2026-04-10",
+    "testDateEnd": "持續",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/app/231277"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E7%8E%8B%E8%80%85%E6%A6%AE%E8%80%80%E4%B8%96%E7%95%8C&t=1"
+      }
     ]
   },
   {
@@ -346,7 +443,7 @@
       "動作",
       "網易"
     ],
-    "threatAnalysis": "網易重點二遊，版號到手代表即將商業化。三測規模擴大顯示對品質有信心。",
+    "threatAnalysis": "【網易重點佈局】版號已到手代表商業化箭在弦上。三測規模擴大顯示網易對品質有信心，Q3 上線機率極高。\n\n▶ 建議行動：(1) 5/22 前瞻直播必須觀看，獲取第一手開測資訊 (2) 如果自身是二次元動作品類，需準備應對方案 (3) 關注三測玩家的社群評價",
     "verified": "VNG 情報站、網易 520 發布會",
     "history": [
       {
@@ -375,6 +472,25 @@
         "region": "Global",
         "status": "未上線",
         "date": "待定"
+      }
+    ],
+    "developer": "網易",
+    "publisher_cn": "網易",
+    "testType": "刪檔不計費（三測）",
+    "testDateStart": "2026-05-22 招募",
+    "testDateEnd": "待5/22直播公布",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E9%81%BA%E5%BF%98%E4%B9%8B%E6%B5%B7"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E9%81%BA%E5%BF%98%E4%B9%8B%E6%B5%B7&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Sea%20of%20Oblivion"
       }
     ]
   },
@@ -440,6 +556,25 @@
         "status": "已上線",
         "date": "先於國服"
       }
+    ],
+    "developer": "Smilegate",
+    "publisher_cn": "騰訊代理",
+    "testType": "不刪檔公測",
+    "testDateStart": "2026-05-28",
+    "testDateEnd": "持續營運中",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E5%8D%A1%E5%8E%84%E6%80%9D%E5%A4%A2%E5%A2%83"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E5%8D%A1%E5%8E%84%E6%80%9D%E5%A4%A2%E5%A2%83&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Calth%27s%20Dream"
+      }
     ]
   },
   {
@@ -467,7 +602,7 @@
       "二次元",
       "碧藍航線團隊"
     ],
-    "threatAnalysis": "碧藍航線團隊品牌號召力強，獨特星寵系統差異化。TGS 2025 高度曝光，二遊大年核心競品。",
+    "threatAnalysis": "【差異化競品】碧藍航線團隊的品牌效應 + 獨特星寵系統，在二次元大年中有明確的差異化定位。台服已在測試代表海外布局積極。\n\n▶ 建議行動：(1) 追蹤台服測試的玩家評價，評估其真實品質 (2) 星寵養成系統如果受歡迎，可能成為品類趨勢 (3) Q3 二遊市場競爭極度擁擠，需確認自身排期",
     "verified": "蘋果仁、36kr、TGS 2025 報導",
     "history": [
       {
@@ -501,6 +636,26 @@
         "region": "Global",
         "status": "未上線",
         "date": "待定"
+      }
+    ],
+    "developer": "蠻啾網絡（碧藍航線團隊）",
+    "publisher_cn": "NIJIGEN",
+    "publisher_tw": "NIJIGEN",
+    "testType": "限量刪檔測試",
+    "testDateStart": "2026-05（台服截止5/29）",
+    "testDateEnd": "待定",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E8%97%8D%E8%89%B2%E6%98%9F%E5%8E%9F%EF%BC%9A%E6%97%85%E8%AC%A0"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E8%97%8D%E8%89%B2%E6%98%9F%E5%8E%9F%EF%BC%9A%E6%97%85%E8%AC%A0&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Blue%20Waves%3A%20Melody"
       }
     ]
   },
@@ -558,6 +713,25 @@
         "status": "未上線",
         "date": "待定"
       }
+    ],
+    "developer": "NCsoft",
+    "publisher_global": "NCsoft",
+    "testType": "刪檔不計費（序幕測試）",
+    "testDateStart": "2026-06-11",
+    "testDateEnd": "2026-06-15（5天）",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E7%A0%B4%E7%95%8C%EF%BC%9A%E7%95%8C%E9%99%90%E7%B5%82%E9%9B%B6"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E7%A0%B4%E7%95%8C%EF%BC%9A%E7%95%8C%E9%99%90%E7%B5%82%E9%9B%B6&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Breakers%3A%20Zero%20Limit"
+      }
     ]
   },
   {
@@ -608,6 +782,25 @@
         "region": "Global",
         "status": "未上線",
         "date": "待定"
+      }
+    ],
+    "developer": "AQUA TREE（天堂2團隊）",
+    "publisher_global": "AQUA TREE",
+    "testType": "刪檔不計費（CBT）",
+    "testDateStart": "2026-06-18",
+    "testDateEnd": "待定（預約截止6/17）",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E7%B7%A0%E9%80%A0%E8%80%85%EF%BC%9A%E6%94%BE%E9%80%90%E4%B9%8B%E5%A2%83"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E7%B7%A0%E9%80%A0%E8%80%85%EF%BC%9A%E6%94%BE%E9%80%90%E4%B9%8B%E5%A2%83&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Creator%3A%20Exile"
       }
     ]
   },
@@ -660,6 +853,25 @@
         "status": "封測中",
         "date": "待定"
       }
+    ],
+    "developer": "樂元素",
+    "publisher_cn": "樂元素",
+    "testType": "封測中",
+    "testDateStart": "2026-02（估）",
+    "testDateEnd": "待定",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E7%99%BD%E9%8A%80%E4%B9%8B%E5%9F%8E"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E7%99%BD%E9%8A%80%E4%B9%8B%E5%9F%8E&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Silver%20City"
+      }
     ]
   },
   {
@@ -702,6 +914,24 @@
         "status": "已公佈",
         "date": "待定"
       }
+    ],
+    "developer": "騰訊",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E5%91%BD%E9%81%8B%E6%89%B3%E6%A9%9F"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E5%91%BD%E9%81%8B%E6%89%B3%E6%A9%9F&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Fate%20Trigger"
+      }
     ]
   },
   {
@@ -742,6 +972,24 @@
         "region": "CN",
         "status": "已公佈",
         "date": "待定"
+      }
+    ],
+    "developer": "騰訊",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E8%BF%BD%E9%80%90%E5%8D%A1%E8%95%BE%E5%A4%9A"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E8%BF%BD%E9%80%90%E5%8D%A1%E8%95%BE%E5%A4%9A&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Chasing%20Kaledo"
       }
     ]
   },
@@ -784,6 +1032,24 @@
         "region": "CN",
         "status": "已公佈",
         "date": "待定"
+      }
+    ],
+    "developer": "詩悅",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E6%9C%9B%E6%9C%88"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E6%9C%9B%E6%9C%88&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Gazing%20Moon"
       }
     ]
   },
@@ -831,6 +1097,24 @@
         "region": "Global",
         "status": "預註冊",
         "date": "2026 年內"
+      }
+    ],
+    "developer": "Bandai Namco",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E6%95%B8%E7%A2%BC%E5%AF%B6%E8%B2%9D%20UP"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E6%95%B8%E7%A2%BC%E5%AF%B6%E8%B2%9D%20UP&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Digimon%20UP"
       }
     ]
   },
@@ -881,6 +1165,24 @@
         "region": "Global",
         "status": "已上線",
         "date": "2026-04-21"
+      }
+    ],
+    "developer": "Square Enix",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%EF%BC%9A%E7%A0%B4%E9%99%90%E4%BA%82%E9%AC%A5"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%EF%BC%9A%E7%A0%B4%E9%99%90%E4%BA%82%E9%AC%A5&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=DQ%3A%20Limit%20Breakers"
       }
     ]
   },
@@ -938,6 +1240,24 @@
         "status": "已上線",
         "date": "2026-04-15"
       }
+    ],
+    "developer": "Netmarble",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E9%AD%94%E5%BE%A1%EF%BC%9ASTAR%20DIVE"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E9%AD%94%E5%BE%A1%EF%BC%9ASTAR%20DIVE&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=STAR%20DIVE"
+      }
     ]
   },
   {
@@ -982,6 +1302,25 @@
         "region": "TW/HK/MO",
         "status": "已上線",
         "date": "2026-05-08"
+      }
+    ],
+    "developer": "霹靂",
+    "publisher_tw": "霹靂",
+    "testType": "不刪檔公測",
+    "testDateStart": "2026-05-08",
+    "testDateEnd": "持續營運中",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E6%9D%B1%E9%9B%A2%E5%8A%8D%E9%81%8A%E7%B4%80M"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E6%9D%B1%E9%9B%A2%E5%8A%8D%E9%81%8A%E7%B4%80M&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Thunderbolt%20Fantasy%20M"
       }
     ]
   },
@@ -1034,6 +1373,24 @@
         "status": "已上線",
         "date": "2026-04"
       }
+    ],
+    "developer": "Level-5",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E5%A5%87%E5%B9%BB%E7%94%9F%E6%B4%BB%20i"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E5%A5%87%E5%B9%BB%E7%94%9F%E6%B4%BB%20i&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Fantasy%20Life%20i"
+      }
     ]
   },
   {
@@ -1079,6 +1436,24 @@
         "status": "已上線",
         "date": "2026-05-28"
       }
+    ],
+    "developer": "Nintendo",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=Pictonico%21"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=Pictonico%21&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Pictonico%21"
+      }
     ]
   },
   {
@@ -1105,7 +1480,7 @@
       "AAA",
       "主機獨佔"
     ],
-    "threatAnalysis": "遊戲史上最受期待產品。11 月發售將嚴重擠壓 Q4 全主機市場，所有同期產品必須迴避或提前。",
+    "threatAnalysis": "【主機市場核爆】11/19 發售，Q4 全主機市場將被嚴重擠壓。不只是同類型競品，所有主機遊戲的玩家時間都會被搶走。\n\n▶ 建議行動：(1) 主機端產品絕對不要在 Q4 上線 (2) 手遊端影響相對有限，但核心玩家仍會暫時流失 (3) 如果有主機端計劃，建議提前至 Q3 或延後至 2027 Q1",
     "verified": "Rockstar 官方、Yahoo 遊戲、多家媒體",
     "history": [
       {
@@ -1124,6 +1499,21 @@
         "region": "Global",
         "status": "預註冊",
         "date": "2026-11-19（PS5/Xbox）"
+      }
+    ],
+    "developer": "Rockstar Games",
+    "publisher_global": "Take-Two",
+    "testType": "買斷制發售",
+    "testDateStart": "2026-11-19",
+    "testDateEnd": "N/A",
+    "sourceLinks": [
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=GTA+VI&t=1"
+      },
+      {
+        "label": "Rockstar",
+        "url": "https://www.rockstargames.com/VI"
       }
     ]
   },
@@ -1188,6 +1578,20 @@
         "region": "Global",
         "status": "已上線",
         "date": "2024-05-22"
+      }
+    ],
+    "developer": "庫洛遊戲",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "巴哈姆特",
+        "url": "https://forum.gamer.com.tw/A.php?bsn=44498"
+      },
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/app/191499"
       }
     ]
   },
@@ -1255,6 +1659,20 @@
         "status": "已上線",
         "date": "2020-09-28"
       }
+    ],
+    "developer": "miHoYo",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "巴哈姆特",
+        "url": "https://forum.gamer.com.tw/A.php?bsn=36730"
+      },
+      {
+        "label": "HoYoLAB",
+        "url": "https://www.hoyolab.com/genshin/"
+      }
     ]
   },
   {
@@ -1315,6 +1733,24 @@
         "region": "Global",
         "status": "已上線",
         "date": "2024-07-04"
+      }
+    ],
+    "developer": "miHoYo",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E7%B5%95%E5%8D%80%E9%9B%B6"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E7%B5%95%E5%8D%80%E9%9B%B6&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Zenless%20Zone%20Zero"
       }
     ]
   },
@@ -1377,6 +1813,20 @@
         "status": "已上線",
         "date": "2023-04-26"
       }
+    ],
+    "developer": "miHoYo",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "巴哈姆特",
+        "url": "https://forum.gamer.com.tw/A.php?bsn=39349"
+      },
+      {
+        "label": "HoYoLAB",
+        "url": "https://www.hoyolab.com/starrail/"
+      }
     ]
   },
   {
@@ -1405,7 +1855,7 @@
       "雙線敘事",
       "外觀商城"
     ],
-    "threatAnalysis": "免費角色模式的先行者之一（與無限大類似策略），已驗證可行性。持續更新中，社群活躍。",
+    "threatAnalysis": "【商業模式驗證者】與無限大類似的免費角色策略，上線半年後仍然活躍。證明這種模式可行，可能引發行業跟進。\n\n▶ 建議行動：(1) 研究其外觀商城的付費設計——這是免費角色模式的核心變現 (2) 新版本 6/2 上線，觀察其活動設計思路 (3) 評估自身產品是否需要調整商業化方向",
     "verified": "TapTap、GNN 巴哈、Paradaily",
     "history": [
       {
@@ -1445,6 +1895,24 @@
         "region": "Global",
         "status": "已上線",
         "date": "2025-10-28"
+      }
+    ],
+    "developer": "潘神工作室",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E4%BA%8C%E9%87%8D%E8%9E%BA%E6%97%8B"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E4%BA%8C%E9%87%8D%E8%9E%BA%E6%97%8B&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Double%20Helix"
       }
     ]
   },
@@ -1498,6 +1966,230 @@
         "region": "Global",
         "status": "已上線",
         "date": "2025-02"
+      }
+    ],
+    "developer": "Capcom",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%20%E8%8D%92%E9%87%8E"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%20%E8%8D%92%E9%87%8E&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Monster%20Hunter%20Wilds"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "魔物獵人：旅人",
+    "nameEn": "Monster Hunter: Outlanders",
+    "developer": "騰訊天美工作室",
+    "publisher_cn": "騰訊",
+    "publisher_tw": "騰訊",
+    "publisher_global": "CAPCOM/騰訊",
+    "studio": "騰訊天美",
+    "publisher": "CAPCOM/騰訊",
+    "genre": "開放世界狩獵",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "prereg": 15000000,
+    "sentiment": 80,
+    "launchEst": "2026-05",
+    "desc": "CAPCOM正版授權，天美開發。手遊版魔物獵人，5/15全球上線。",
+    "tags": [
+      "狩獵",
+      "共鬥",
+      "MH IP",
+      "手機優化"
+    ],
+    "threatAnalysis": "【IP 降維打擊】CAPCOM 頂級 IP + 騰訊天美開發品質，上線首週留存率極高。對所有手遊動作品類構成直接威脅。\n\n▶ 建議行動：(1) 分析其操作簡化方案——這是手遊版 MH 的核心創新 (2) 共鬥社交系統設計值得研究 (3) 如果自身產品有狩獵/共鬥元素，用戶會直接流失",
+    "verified": "VNG情報站、TapTap",
+    "category": "active",
+    "testType": "不刪檔公測",
+    "testDateStart": "2026-05-15",
+    "testDateEnd": "持續營運中",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2026-05-15"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2026-05-15"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-05-15"
+      }
+    ],
+    "history": [
+      {
+        "date": "2025-06",
+        "s": "announced"
+      },
+      {
+        "date": "2026-03",
+        "s": "cbt"
+      },
+      {
+        "date": "2026-05",
+        "s": "launched"
+      }
+    ],
+    "updatedAt": "2026-05-29",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%EF%BC%9A%E6%97%85%E4%BA%BA"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%EF%BC%9A%E6%97%85%E4%BA%BA&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Monster%20Hunter%3A%20Outlanders"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "仙境傳說RO：守護永恒的愛2",
+    "nameEn": "RO2 Mobile",
+    "developer": "心動 B格猫工作室",
+    "publisher_cn": "心動網絡",
+    "studio": "心動",
+    "publisher": "心動網絡",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "prereg": 5000000,
+    "sentiment": 78,
+    "launchEst": "2026-Q3",
+    "desc": "經典MMORPG次世代新作，心動自研。5/20技術刪檔測試中。",
+    "tags": [
+      "MMORPG",
+      "IP",
+      "RO",
+      "心動"
+    ],
+    "threatAnalysis": "【MMORPG 品類攪局】經典 IP 次世代新作，心動研發品質有保證。無縫大地圖+動作化系統可能吸引大量 MMORPG 回流用戶。\n\n▶ 建議行動：(1) 追蹤技測口碑——這將決定其真實威脅等級 (2) MMORPG 品類產品需準備留存防守 (3) 情懷 IP 的首月表現往往虛高，關注 3 個月後留存",
+    "verified": "GameRes玩匠週報、VNG情報站",
+    "category": "active",
+    "testType": "刪檔不計費（技術測試）",
+    "testDateStart": "2026-05-20",
+    "testDateEnd": "待定",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "封測中",
+        "date": "2026-05-20"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-03",
+        "s": "announced"
+      },
+      {
+        "date": "2026-05",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-05-29",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E4%BB%99%E5%A2%83%E5%82%B3%E8%AA%AARO%EF%BC%9A%E5%AE%88%E8%AD%B7%E6%B0%B8%E6%81%92%E7%9A%84%E6%84%9B2"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E4%BB%99%E5%A2%83%E5%82%B3%E8%AA%AARO%EF%BC%9A%E5%AE%88%E8%AD%B7%E6%B0%B8%E6%81%92%E7%9A%84%E6%84%9B2&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=RO2%20Mobile"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "雨霧之都",
+    "nameEn": "City of Mist",
+    "developer": "miHoYo",
+    "publisher_cn": "miHoYo",
+    "publisher_tw": "HoYoverse",
+    "publisher_global": "HoYoverse",
+    "studio": "miHoYo",
+    "publisher": "HoYoverse",
+    "genre": "開放世界 RPG",
+    "platform": [
+      "PC",
+      "Mobile",
+      "Console"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "prereg": null,
+    "sentiment": 85,
+    "launchEst": "2027",
+    "desc": "米哈遊全新IP，UE5+AI動態劇情。商標已進入實質審查，2026年內首測預計。",
+    "tags": [
+      "開放世界",
+      "UE5",
+      "AI劇情",
+      "米哈遊",
+      "全新IP"
+    ],
+    "threatAnalysis": "【遠期結構性威脅】米哈遊最重量級新 IP，UE5+AI 動態劇情若成功落地，將重新定義品質標準。目前僅在商標階段，但影響力不可忽視。\n\n▶ 建議行動：(1) 持續追蹤 2026 年首測時間 (2) AI 動態劇情技術方向值得預研 (3) 不需要現在行動，但需要納入長期產品規劃的考量",
+    "verified": "17173（2026-01）、VNG情報站",
+    "category": "active",
+    "testType": "未開測",
+    "testDateStart": "2026年內首測（預計）",
+    "testDateEnd": "待定",
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-01",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-05-29",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E9%9B%A8%E9%9C%A7%E4%B9%8B%E9%83%BD"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E9%9B%A8%E9%9C%A7%E4%B9%8B%E9%83%BD&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=City%20of%20Mist"
       }
     ]
   }
