@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-29T09:26:29.187948+00:00",
-  "fetchCount": 8,
+  "lastUpdated": "2026-05-30T04:31:43.862357+00:00",
+  "fetchCount": 9,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260530-4d074ab4",
+      "priority": "info",
+      "icon": "📰",
+      "title": "See How 007 First Light’s Iconic Outfits Compare To The James Bond Movies",
+      "detail": "James Bond has been a cultural staple for decades, and with his latest adventure--the 007 First Light game--the super-spy gets to wear a variety of suave and sophisticated outfits. Some of these are q",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-30T04:31:43.862357+00:00"
+    },
+    {
+      "id": "brief-20260530-612f99a0",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Witcher Dev’s Mysterious New Game With Saudi Arabia’s Scopely Is Not Releasing S",
+      "detail": "The Witcher developer CD Projekt Red is collaborating with Saudi Arabia-owned game developer Scopely for a new mobile game, but it's not releasing soon. \n\n\n\nDuring CD Projekt's latest earnings briefin",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-30T04:31:43.862357+00:00"
+    },
+    {
+      "id": "brief-20260530-4d7deece",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Diablo 4 Is Making Mythic Uniques Nothing Special",
+      "detail": "Diablo 4 Season 14 will dramatically reimagine how Mythic Uniques work, and it's a change that doesn't seem to be sitting well with many in the game's community.\n\n\n\nSince Diablo 4's launch, a handful ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-30T04:31:43.862357+00:00"
+    },
+    {
+      "id": "brief-20260530-7721fc2d",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Xbox Showcase Won’t Have Next-Gen Helix News",
+      "detail": "The upcoming Xbox Games Showcase on June 7 will not feature announcements about the Project Helix console. Xbox chief content officer Matt Booty said on the latest Xbox Podcast that Microsoft also won",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-30T04:31:43.862357+00:00"
+    },
+    {
+      "id": "brief-20260530-26c7489c",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Fable Has Been Delayed To February 2027",
+      "detail": "Fable has officially been delayed to February 2027, Xbox has confirmed. Originally scheduled to release in late 2026, the next game from Forza Horizon 6 developer Playground Games has instead been shi",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-30T04:31:43.862357+00:00"
+    },
+    {
       "id": "brief-20260529-0213f600",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "PC Gamer",
       "fetchedAt": "2026-05-29T03:55:31.561362+00:00"
-    },
-    {
-      "id": "brief-20260529-a083c851",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "Viractal coming to Switch 2, Switch on September 30",
-      "detail": "Sting will release Switch 2 and Switch versions of board game RPG Viractal on September &#8230;\nSource",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "Gematsu",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
-    },
-    {
-      "id": "brief-20260529-371e9d0d",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "CAVE Interactive shoot ’em up bundle Muchi Muchi Pork! & PinkSweets Boosted anno",
-      "detail": "City Connection has announced Muchi Muchi Pork! &#038; PinkSweets Boosted, a shoot &#8217;em up bundle &#8230;\nSource",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "Gematsu",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
-    },
-    {
-      "id": "brief-20260529-8c69c18c",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "Japanese-inspired sci-fi fantasy RPG Gravastar announced for PS5, Xbox Series, S",
-      "detail": "Seattle-based developer Studio Atma has announced Gravastar, a science-fiction fantasy Japanese-style turn-based RPG over 10 &#8230;\nSource",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "Gematsu",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
-    },
-    {
-      "id": "brief-20260529-70da6cde",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "Dwarven tactical RPG Runesmith announced for PC",
-      "detail": "Terahard Studios has announced Runesmith, a dwarven tactical RPG that fuses &#8220;rune-forging, tavern brawls, and &#8230;\nSource",
-      "action": "待人工審核確認影響程度。",
-      "platform": "mobile",
-      "source": "Gematsu",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
-    },
-    {
-      "id": "brief-20260529-d7c052a8",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "Anima: Song from the Abyss launches in 2027",
-      "detail": "Action RPG Anima: Song from the Abyss will launch for PlayStation 5, Xbox Series, and PC &#8230;\nSource",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "Gematsu",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
     }
   ]
 }
