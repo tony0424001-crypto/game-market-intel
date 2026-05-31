@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-05-30T04:31:43.862357+00:00",
-  "fetchCount": 9,
+  "lastUpdated": "2026-05-31T04:57:50.340894+00:00",
+  "fetchCount": 10,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260531-4d074ab4",
+      "priority": "info",
+      "icon": "📰",
+      "title": "See How 007 First Light’s Iconic Outfits Compare To The James Bond Movies",
+      "detail": "James Bond has been a cultural staple for decades, and with his latest adventure--the 007 First Light game--the super-spy gets to wear a variety of suave and sophisticated outfits. Some of these are q",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-31T04:57:50.340894+00:00"
+    },
+    {
+      "id": "brief-20260531-612f99a0",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Witcher Dev’s Mysterious New Game With Saudi Arabia’s Scopely Is Not Releasing S",
+      "detail": "The Witcher developer CD Projekt Red is collaborating with Saudi Arabia-owned game developer Scopely for a new mobile game, but it's not releasing soon. \n\n\n\nDuring CD Projekt's latest earnings briefin",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-31T04:57:50.340894+00:00"
+    },
+    {
+      "id": "brief-20260531-4d7deece",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Diablo 4 Is Making Mythic Uniques Nothing Special",
+      "detail": "Diablo 4 Season 14 will dramatically reimagine how Mythic Uniques work, and it's a change that doesn't seem to be sitting well with many in the game's community.\n\n\n\nSince Diablo 4's launch, a handful ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-31T04:57:50.340894+00:00"
+    },
+    {
+      "id": "brief-20260531-bc8bc092",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Another New Biome Is Coming To Minecraft This Fall",
+      "detail": "During today's Minecraft Live broadcast, Mojang dropped some small teasers about a new biome coming to the blocky sandbox game this fall. \n\n\n\nWhile the next Minecraft update, Chaos Cubed, is officiall",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-31T04:57:50.340894+00:00"
+    },
+    {
+      "id": "brief-20260531-7721fc2d",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Xbox Showcase Won’t Have Next-Gen Helix News",
+      "detail": "The upcoming Xbox Games Showcase on June 7 will not feature announcements about the Project Helix console. Xbox chief content officer Matt Booty said on the latest Xbox Podcast that Microsoft also won",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-05-31T04:57:50.340894+00:00"
+    },
+    {
       "id": "brief-20260530-4d074ab4",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-05-29T08:53:26.935583+00:00"
-    },
-    {
-      "id": "brief-20260529-91674209",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox Game Pass Price Cut Is Working, CEO Says",
-      "detail": "One of the first decisions that Xbox CEO Asha Sharma made after becoming the new boss earlier this year was to cut the price of Xbox Game Pass significantly. In a memo to staff recently, Sharma explai",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-05-29T08:53:26.935583+00:00"
-    },
-    {
-      "id": "brief-20260529-8d30c115",
-      "priority": "info",
-      "icon": "📰",
-      "title": "007 First Light Put Up Massive Launch-Day Sales Numbers",
-      "detail": "007 First Light was already shaping up to be one of the biggest games of 2026, and its launch-day sales numbers indicate it could very well live up to that high standard. \n\n\n\nAs shared by IO Interacti",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-05-29T08:53:26.935583+00:00"
-    },
-    {
-      "id": "brief-20260529-b11b84a8",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Call Of Duty: Modern Warfare 4 Has A “Loyalty” Discount For The Vault Edition, H",
-      "detail": "As part of the Call of Duty: Modern Warfare 4 announcement today, Activision unveiled what it called a \"Loyalty\" discount that will allow certain people to get the game's $100 Vault Edition for 10% of",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-05-29T08:53:26.935583+00:00"
-    },
-    {
-      "id": "brief-20260529-910bcdf7",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "GTA 6 Boss Says High Review Scores Reflect Rockstar’s “Commitment To Quality”",
-      "detail": "Grand Theft Auto 6 is still on-track to release in just under six months. And while it’s too soon to claim the title will receive the same critical acclaim that Grand Theft Auto 5 received in 2013, St",
-      "action": "待人工審核。",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-05-29T04:50:34.449669+00:00"
-    },
-    {
-      "id": "brief-20260529-c346ae1e",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "6 months before the launch of Grand Theft Auto 6, Rockstar employees in the UK h",
-      "detail": "The Rockstar Game Workers Union is a subsidiary of the Independent Workers of Great Britain union that's been fighting Rockstar over the 2025 firing of 31 employees.",
-      "action": "待人工審核。",
-      "platform": "console",
-      "source": "PC Gamer",
-      "fetchedAt": "2026-05-29T03:55:31.561362+00:00"
     }
   ]
 }
