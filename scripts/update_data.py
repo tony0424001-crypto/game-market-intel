@@ -141,7 +141,7 @@ IMPORTANT: Only real games. Include mid/small games too. Output ONLY valid JSON 
         n=d.get("name","")
         if not n or n in existing or n in seen:continue
         seen.add(n);mid+=1
-        new_p.append({"id":mid,"name":n,"nameEn":d.get("nameEn",""),"developer":d.get("developer","未知"),"studio":d.get("developer","未知"),"publisher":d.get("publisher","未知"),"genre":d.get("genre","未知"),"platform":d.get("platform",["Mobile"]),"region":d.get("region","未知"),"model":d.get("model","F2P"),"stage":d.get("stage","announced"),"threat":d.get("threat","medium"),"prereg":None,"sentiment":70,"launchEst":d.get("launchEst","待定"),"desc":d.get("desc",""),"tags":d.get("tags",[]),"threatAnalysis":d.get("threatAnalysis",""),"verified":f"AI Agent 自動發現 ({today})","category":"active","testType":d.get("testType","未知"),"testDateStart":d.get("testDateStart","待確認"),"testDateEnd":d.get("testDateEnd","待確認"),"sourceLinks":d.get("sourceLinks",[]),"launchRegions":[],"history":[{"date":datetime.now(timezone.utc).strftime("%Y-%m"),"s":d.get("stage","announced")}],"updatedAt":today,"autoDiscovered":True})
+        new_p.append({"id":mid,"name":n,"nameEn":d.get("nameEn",""),"developer":d.get("developer","未知"),"studio":d.get("developer","未知"),"publisher":d.get("publisher","未知"),"genre":d.get("genre","未知"),"platform":d.get("platform",["Mobile"]),"region":d.get("region","未知"),"model":d.get("model","F2P"),"stage":d.get("stage","announced"),"threat":d.get("threat","medium"),"prereg":None,"sentiment":70,"launchEst":d.get("launchEst","待定"),"desc":d.get("desc",""),"tags":d.get("tags",[]),"threatAnalysis":d.get("threatAnalysis",""),"verified":f"AI Agent 自動發現 ({today})","category":"active","testType":d.get("testType","未知"),"testDateStart":d.get("testDateStart","待確認"),"testDateEnd":d.get("testDateEnd","待確認"),"sourceLinks":d.get("directLinks",d.get("sourceLinks",[])),"launchRegions":[],"history":[{"date":datetime.now(timezone.utc).strftime("%Y-%m"),"s":d.get("stage","announced")}],"updatedAt":today,"autoDiscovered":True})
     if new_p:
         products.extend(new_p);save(PRODUCTS_FILE,products)
         print(f"  ✅ +{len(new_p)} products")
@@ -205,6 +205,8 @@ Output ONLY valid JSON array."""
                     prod["currentEvent"]=u["recentEvent"]
                     ha=any(k in u["recentEvent"] for k in ["週年","慶典","新版本","聯動","大型"])
                     prod["eventNote"]=("⚡ " if ha else "")+u["recentEvent"]
+                if u.get("directLinks") and isinstance(u["directLinks"],list) and len(u["directLinks"])>0:
+                    prod["sourceLinks"]=u["directLinks"];prod["updatedAt"]=today;updates+=1
                 if u.get("shouldRemove"):
                     findings.append({"name":n,"status":"error","issue":f"建議移除: {u.get('removeReason','')}","suggestion":"需人工確認","confidence":"medium","autoFixed":False})
         time.sleep(15)
