@@ -129,8 +129,11 @@ def agent2():
     if not products:print("  Empty");return 0
     today=datetime.now(timezone.utc).strftime("%Y-%m-%d")
     updates=0;findings=[]
-    for i in range(0,len(products),10):
-        batch=products[i:i+10]
+    stale=[g for g in products if g.get('updatedAt','2000-01-01')<(datetime.now(timezone.utc)-timedelta(days=2)).strftime('%Y-%m-%d')]
+    if not stale:stale=products[:10]
+    print(f'  Checking {len(stale)} stale products (of {len(products)} total)')
+    for i in range(0,len(stale),10):
+        batch=stale[i:i+10]
         info="\n".join([f"- {g['name']} | 狀態:{g['stage']} | 開發商:{g.get('developer','?')} | 上線:{g.get('launchEst','?')} | 品類:{g['genre']} | 現有分析:{g.get('threatAnalysis','無')[:50]}" for g in batch])
         prompt=f"""You are a senior game PM. Today is {today}. Check these games and provide updates.
 
@@ -270,7 +273,7 @@ def main():
     if key:
         agent2()
         dy=now.timetuple().tm_yday
-        if dy%3==0 or "--discover" in sys.argv or "--all" in sys.argv:
+        if dy%5==0 or "--discover" in sys.argv or "--all" in sys.argv:
             agent1()
         else:
             print(f"\n⏭ Agent 1 skipped (every 3 days)")
