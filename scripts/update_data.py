@@ -29,7 +29,7 @@ QUARTERLY_FILE=DATA_DIR/"quarterly.json"
 AUDIT_FILE=DATA_DIR/"audit-report.json"
 INDUSTRY_FILE=DATA_DIR/"industry-trends.json"
 MAX_DAILY=20
-MODEL="gemini-2.0-flash"
+MODEL="gemini-2.5-flash"
 
 def gemini(prompt,search=False,tokens=4000):
     key=os.environ.get("GEMINI_API_KEY")
