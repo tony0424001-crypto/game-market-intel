@@ -35,19 +35,42 @@ def gemini(prompt,search=False,tokens=4000):
     key=os.environ.get("GEMINI_API_KEY")
     if not key or not requests:return None
     url=f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent?key={key}"
-    body={"contents":[{"parts":[{"text":prompt}]}],"generationConfig":{"maxOutputTokens":tokens,"temperature":0.2}}
-    if search:body["tools"]=[{"google_search":{}}]
-    for attempt in range(3):
-      try:
-        r=requests.post(url,json=body,timeout=60)
-        if r.status_code==429:
-            wait=15*(attempt+1);print(f"    ⏳ Rate limited, waiting {wait}s...");time.sleep(wait);continue
-        if r.status_code==200:
-            d=r.json();c=d.get("candidates",[])
-            if c:return" ".join(p.get("text","") for p in c[0].get("content",{}).get("parts",[]) if "text" in p).strip()
-        else:print(f"    Gemini {r.status_code}: {r.text[:200]}");return None
-      except Exception as e:print(f"    Gemini fail: {e}");return None
-    print("    ❌ Max retries reached");return None
+    
+    # Try with search first, fallback to without search if 429
+    attempts = []
+    if search:
+        attempts.append(True)   # first try with search
+    attempts.append(False)      # fallback without search
+    
+    for use_search in attempts:
+        body={"contents":[{"parts":[{"text":prompt}]}],"generationConfig":{"maxOutputTokens":tokens,"temperature":0.2}}
+        if use_search:
+            body["tools"]=[{"google_search":{}}]
+        
+        for retry in range(3):
+            try:
+                r=requests.post(url,json=body,timeout=60)
+                if r.status_code==200:
+                    d=r.json();c=d.get("candidates",[])
+                    if c:
+                        return " ".join(p.get("text","") for p in c[0].get("content",{}).get("parts",[]) if "text" in p).strip()
+                    return None
+                elif r.status_code==429:
+                    if use_search and retry==0:
+                        print(f"    ⚠️ Search grounding blocked, falling back to plain Gemini...")
+                        break  # break retry loop, try without search
+                    wait=15*(retry+1)
+                    print(f"    ⏳ Rate limited, waiting {wait}s...")
+                    time.sleep(wait)
+                else:
+                    print(f"    Gemini {r.status_code}: {r.text[:200]}")
+                    return None
+            except Exception as e:
+                print(f"    Gemini fail: {e}")
+                return None
+    
+    print("    ❌ All attempts failed")
+    return None
 
 def parse_json(text):
     if not text:return None
