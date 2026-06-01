@@ -58,9 +58,13 @@ def gemini(prompt,search=False,tokens=4000):
                 elif r.status_code==429:
                     if use_search and retry==0:
                         print(f"    ⚠️ Search grounding blocked, falling back to plain Gemini...")
-                        break  # break retry loop, try without search
+                        break
                     wait=15*(retry+1)
                     print(f"    ⏳ Rate limited, waiting {wait}s...")
+                    time.sleep(wait)
+                elif r.status_code==503:
+                    wait=20*(retry+1)
+                    print(f"    ⏳ Server busy (503), waiting {wait}s...")
                     time.sleep(wait)
                 else:
                     print(f"    Gemini {r.status_code}: {r.text[:200]}")
