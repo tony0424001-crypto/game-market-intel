@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-01T10:15:23.940917+00:00",
-  "fetchCount": 14,
+  "lastUpdated": "2026-06-02T05:07:08.959085+00:00",
+  "fetchCount": 15,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260602-1625bbcc",
+      "priority": "info",
+      "icon": "📰",
+      "title": "UK May Place Heavy Social Restrictions On Games Targeted Towards Kids",
+      "detail": "The safety and well being of young children who play games like Roblox, Fortnite, and Minecraft has been an increasingly prominent topic among governments around the world. Now, the United Kingdom's o",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-02T05:07:08.959085+00:00"
+    },
+    {
+      "id": "brief-20260602-8f8f4665",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Mina The Hollower Traps You In The Bayou (To Teach You That You Can Get Out)",
+      "detail": "Mina the Hollower is very visually similar to classic Game Boy and Game Boy Color Zelda games like Link's Awakening and the Oracle duology. But mechanically it's significantly different, and Yacht Clu",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-02T05:07:08.959085+00:00"
+    },
+    {
+      "id": "brief-20260602-58d75471",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Wolverine Dev Scares Fans With GTA 6-Inspired Delay Fakeout Before State Of Play",
+      "detail": "Marvel's Wolverine is going to take center stage at the June 2 State of Play, and developer Insomniac recently scared fans into thinking the game might be delayed with a cheeky post.\n\n\n\nPosting on soc",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-02T05:07:08.959085+00:00"
+    },
+    {
+      "id": "brief-20260602-1729b578",
+      "priority": "info",
+      "icon": "📰",
+      "title": "StarCraft 2’s Biggest Update In Years Will “Shake Up Everything”",
+      "detail": "StarCraft 2 is getting its biggest meta shift in years, with developer Blizzard announcing a surprise update that will bring some significant changes to the legendary RTS.\n\n\n\nUpdates for StarCraft 2 h",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-02T05:07:08.959085+00:00"
+    },
+    {
+      "id": "brief-20260602-d77b7512",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Streets Of Rage Movie Brings On Writers Of Some Of The Most Popular Video Game M",
+      "detail": "A movie based on Sega's Streets of Rage video game has been in the works for years, and now the latest development has unfolded. \n\n\n\nJohn Wick creator Derek Kolstad is no longer writing the movie, wit",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-02T05:07:08.959085+00:00"
+    },
+    {
       "id": "brief-20260601-4d074ab4",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-05-31T04:57:50.340894+00:00"
-    },
-    {
-      "id": "brief-20260531-4d7deece",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Diablo 4 Is Making Mythic Uniques Nothing Special",
-      "detail": "Diablo 4 Season 14 will dramatically reimagine how Mythic Uniques work, and it's a change that doesn't seem to be sitting well with many in the game's community.\n\n\n\nSince Diablo 4's launch, a handful ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-05-31T04:57:50.340894+00:00"
-    },
-    {
-      "id": "brief-20260531-bc8bc092",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Another New Biome Is Coming To Minecraft This Fall",
-      "detail": "During today's Minecraft Live broadcast, Mojang dropped some small teasers about a new biome coming to the blocky sandbox game this fall. \n\n\n\nWhile the next Minecraft update, Chaos Cubed, is officiall",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-05-31T04:57:50.340894+00:00"
-    },
-    {
-      "id": "brief-20260531-7721fc2d",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox Showcase Won’t Have Next-Gen Helix News",
-      "detail": "The upcoming Xbox Games Showcase on June 7 will not feature announcements about the Project Helix console. Xbox chief content officer Matt Booty said on the latest Xbox Podcast that Microsoft also won",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-05-31T04:57:50.340894+00:00"
-    },
-    {
-      "id": "brief-20260530-4d074ab4",
-      "priority": "info",
-      "icon": "📰",
-      "title": "See How 007 First Light’s Iconic Outfits Compare To The James Bond Movies",
-      "detail": "James Bond has been a cultural staple for decades, and with his latest adventure--the 007 First Light game--the super-spy gets to wear a variety of suave and sophisticated outfits. Some of these are q",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-05-30T04:31:43.862357+00:00"
-    },
-    {
-      "id": "brief-20260530-612f99a0",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Witcher Dev’s Mysterious New Game With Saudi Arabia’s Scopely Is Not Releasing S",
-      "detail": "The Witcher developer CD Projekt Red is collaborating with Saudi Arabia-owned game developer Scopely for a new mobile game, but it's not releasing soon. \n\n\n\nDuring CD Projekt's latest earnings briefin",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-05-30T04:31:43.862357+00:00"
     }
   ]
 }
