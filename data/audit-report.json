@@ -1,41 +1,8 @@
 {
-  "lastAudit": "2026-06-02T05:11:00.173518+00:00",
+  "lastAudit": "2026-06-03T05:25:39.172132+00:00",
   "totalProducts": 30,
-  "issuesFound": 4,
-  "updatesApplied": 17,
-  "findings": [
-    {
-      "name": "命運扳機",
-      "status": "warning",
-      "issue": "announced→Early Access",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    },
-    {
-      "name": "追逐卡蕾多",
-      "status": "warning",
-      "issue": "announced→海外測試中 / 已獲中國版號",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    },
-    {
-      "name": "望月",
-      "status": "warning",
-      "issue": "announced→實機演示公開 / 線下試玩會",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    },
-    {
-      "name": "東離劍遊紀M",
-      "status": "warning",
-      "issue": "live-ops→事前登錄",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    }
-  ],
-  "nextAudit": "2026-06-03"
+  "issuesFound": 0,
+  "updatesApplied": 0,
+  "findings": [],
+  "nextAudit": "2026-06-04"
 }

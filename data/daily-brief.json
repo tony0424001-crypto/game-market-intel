@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-02T05:07:08.959085+00:00",
-  "fetchCount": 15,
+  "lastUpdated": "2026-06-03T05:23:12.821172+00:00",
+  "fetchCount": 16,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260603-e940cec5",
+      "priority": "info",
+      "icon": "📰",
+      "title": "The Boys Star Jack Quaid’s Next Role Is Utterly Baffling, But We’re Here For It",
+      "detail": "Last month, Jack Quaid wrapped up his five-season run as Hughie Campbell on The Boys. But during Sony's State of Play event, it was revealed that Quaid's next role is in a new God of War game. \n\n\n\nQua",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-03T05:23:12.821172+00:00"
+    },
+    {
+      "id": "brief-20260603-c6287d59",
+      "priority": "info",
+      "icon": "📰",
+      "title": "New PlayStation Plus Games Announced During State Of Play Include Rare PS2 Rhyth",
+      "detail": "New games were announced for the PlayStation Plus Classics Catalog at PlayStation's State Of Play 2026, including Gitaroo Man, a PlayStation 2 cult classic rhythm game that has been out of reach for p",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-03T05:23:12.821172+00:00"
+    },
+    {
+      "id": "brief-20260603-b2caac65",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Silent Hill: Townfall Looks Part Resident Evil 7, Part Scary Myst In Release Dat",
+      "detail": "A new trailer for Silent Hill: Townfall is providing a pretty good look at the next entry in Konami's survival-horror series, and alongside a release date, gave a sense that this new Silent Hill could",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-03T05:23:12.821172+00:00"
+    },
+    {
+      "id": "brief-20260603-3c4574af",
+      "priority": "info",
+      "icon": "📰",
+      "title": "God Of War’s Cube Was The Star Of State Of Play",
+      "detail": "The rumors about a new God of War game proved to be true during Sony's latest State of Play event. That's why the reveal of God of War Laufey wasn't unexpected. What was a surprise was its cubic, talk",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-03T05:23:12.821172+00:00"
+    },
+    {
+      "id": "brief-20260603-f84705b1",
+      "priority": "info",
+      "icon": "📰",
+      "title": "PlayStation State Of Play June 2026: All The Biggest Announcements And Games",
+      "detail": "Ahead of Summer Game Fest 2026, PlayStation hosted its latest State of Play to showcase what its first-party studios and select third-party developers have cooking up in 2026 and beyond for the PlaySt",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-03T05:23:12.821172+00:00"
+    },
+    {
       "id": "brief-20260602-1625bbcc",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-01T05:22:24.644445+00:00"
-    },
-    {
-      "id": "brief-20260601-4d7deece",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Diablo 4 Is Making Mythic Uniques Nothing Special",
-      "detail": "Diablo 4 Season 14 will dramatically reimagine how Mythic Uniques work, and it's a change that doesn't seem to be sitting well with many in the game's community.\n\n\n\nSince Diablo 4's launch, a handful ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-01T05:22:24.644445+00:00"
-    },
-    {
-      "id": "brief-20260601-bc8bc092",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Another New Biome Is Coming To Minecraft This Fall",
-      "detail": "During today's Minecraft Live broadcast, Mojang dropped some small teasers about a new biome coming to the blocky sandbox game this fall. \n\n\n\nWhile the next Minecraft update, Chaos Cubed, is officiall",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-01T05:22:24.644445+00:00"
-    },
-    {
-      "id": "brief-20260601-7721fc2d",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox Showcase Won’t Have Next-Gen Helix News",
-      "detail": "The upcoming Xbox Games Showcase on June 7 will not feature announcements about the Project Helix console. Xbox chief content officer Matt Booty said on the latest Xbox Podcast that Microsoft also won",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-01T05:22:24.644445+00:00"
-    },
-    {
-      "id": "brief-20260531-4d074ab4",
-      "priority": "info",
-      "icon": "📰",
-      "title": "See How 007 First Light’s Iconic Outfits Compare To The James Bond Movies",
-      "detail": "James Bond has been a cultural staple for decades, and with his latest adventure--the 007 First Light game--the super-spy gets to wear a variety of suave and sophisticated outfits. Some of these are q",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-05-31T04:57:50.340894+00:00"
-    },
-    {
-      "id": "brief-20260531-612f99a0",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Witcher Dev’s Mysterious New Game With Saudi Arabia’s Scopely Is Not Releasing S",
-      "detail": "The Witcher developer CD Projekt Red is collaborating with Saudi Arabia-owned game developer Scopely for a new mobile game, but it's not releasing soon. \n\n\n\nDuring CD Projekt's latest earnings briefin",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-05-31T04:57:50.340894+00:00"
     }
   ]
 }
