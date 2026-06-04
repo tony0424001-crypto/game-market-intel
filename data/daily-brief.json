@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-03T05:23:12.821172+00:00",
-  "fetchCount": 16,
+  "lastUpdated": "2026-06-04T05:18:03.522481+00:00",
+  "fetchCount": 17,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260604-c0507cc7",
+      "priority": "info",
+      "icon": "📰",
+      "title": "God Of War Devs Explain Laufey’s Place In The Franchise",
+      "detail": "The next God of War title had been rumored earlier this year, and it now stands revealed as God of War Laufey, a spin-off that focuses on Kratos' late wife, Faye. While the initial trailer apparently ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-04T05:18:03.522481+00:00"
+    },
+    {
+      "id": "brief-20260604-956cffe3",
+      "priority": "info",
+      "icon": "📰",
+      "title": "World War 3 Servers Shutting Down Soon",
+      "detail": "The free-to-play military FPS World War 3 is going offline. Developer New Generation Games has announced that \"after careful consideration,\" the studio will end support for the game and close the serv",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-04T05:18:03.522481+00:00"
+    },
+    {
+      "id": "brief-20260604-01e75cf9",
+      "priority": "info",
+      "icon": "📰",
+      "title": "God Of War: Laufey Dev Responds To Pizza Company’s Dumb Tweet About New Game",
+      "detail": "God of War developer Santa Monica Studio has responded to a social media post from Domino's Pizza after the pizza chain's UK account joked about the newly announced God of War: Laufey for being a God ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-04T05:18:03.522481+00:00"
+    },
+    {
+      "id": "brief-20260604-1d40928c",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Control Resonant Has 48 Hours Early Access, But Only On PS5",
+      "detail": "Remedy's multiplatform action game Control Resonant showed up during the PlayStation State of Play event this week, and it turns out the game is giving PS5 users preferential treatment.\n\n\n\nOne of the ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-04T05:18:03.522481+00:00"
+    },
+    {
+      "id": "brief-20260604-3bc1b7b9",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Control Resonant PC Requirements Are More Reserved Than You Might Expect",
+      "detail": "Ahead of its release in September, Remedy Entertainment has revealed the recommended PC specifications for Control Resonant, and they aren't as demanding as you might think.\n\n\n\nHot on the heels of the",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-04T05:18:03.522481+00:00"
+    },
+    {
       "id": "brief-20260603-e940cec5",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-02T05:07:08.959085+00:00"
-    },
-    {
-      "id": "brief-20260602-58d75471",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Wolverine Dev Scares Fans With GTA 6-Inspired Delay Fakeout Before State Of Play",
-      "detail": "Marvel's Wolverine is going to take center stage at the June 2 State of Play, and developer Insomniac recently scared fans into thinking the game might be delayed with a cheeky post.\n\n\n\nPosting on soc",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-02T05:07:08.959085+00:00"
-    },
-    {
-      "id": "brief-20260602-1729b578",
-      "priority": "info",
-      "icon": "📰",
-      "title": "StarCraft 2’s Biggest Update In Years Will “Shake Up Everything”",
-      "detail": "StarCraft 2 is getting its biggest meta shift in years, with developer Blizzard announcing a surprise update that will bring some significant changes to the legendary RTS.\n\n\n\nUpdates for StarCraft 2 h",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-02T05:07:08.959085+00:00"
-    },
-    {
-      "id": "brief-20260602-d77b7512",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Streets Of Rage Movie Brings On Writers Of Some Of The Most Popular Video Game M",
-      "detail": "A movie based on Sega's Streets of Rage video game has been in the works for years, and now the latest development has unfolded. \n\n\n\nJohn Wick creator Derek Kolstad is no longer writing the movie, wit",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-02T05:07:08.959085+00:00"
-    },
-    {
-      "id": "brief-20260601-4d074ab4",
-      "priority": "info",
-      "icon": "📰",
-      "title": "See How 007 First Light’s Iconic Outfits Compare To The James Bond Movies",
-      "detail": "James Bond has been a cultural staple for decades, and with his latest adventure--the 007 First Light game--the super-spy gets to wear a variety of suave and sophisticated outfits. Some of these are q",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-01T05:22:24.644445+00:00"
-    },
-    {
-      "id": "brief-20260601-612f99a0",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Witcher Dev’s Mysterious New Game With Saudi Arabia’s Scopely Is Not Releasing S",
-      "detail": "The Witcher developer CD Projekt Red is collaborating with Saudi Arabia-owned game developer Scopely for a new mobile game, but it's not releasing soon. \n\n\n\nDuring CD Projekt's latest earnings briefin",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-01T05:22:24.644445+00:00"
     }
   ]
 }
