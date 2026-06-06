@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-05T04:53:38.790059+00:00",
-  "fetchCount": 18,
+  "lastUpdated": "2026-06-06T04:33:18.614383+00:00",
+  "fetchCount": 19,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260606-497d2731",
+      "priority": "info",
+      "icon": "📰",
+      "title": "After Mixtape, Cheerful Music Game Mr. Records Is A Day Of The Devs Standout",
+      "detail": "A lot of fantastic-looking indie games were featured at 2026's Day of the Devs: Summer Game Fest Edition showcase this year, but Mr. Records from developer Glee-Cheese Studio and publisher Wired Produ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-06T04:33:18.614383+00:00"
+    },
+    {
+      "id": "brief-20260606-1d2f5921",
+      "priority": "info",
+      "icon": "📰",
+      "title": "God Of War Laufey’s Combat Was Inspired By The Original Greek Trilogy",
+      "detail": "Until now, Kratos was the primary star of every God of War game. However, his late wife, Faye, is taking the spotlight in God of War Laufey. But when Faye picks up her sword, veteran God of War fans m",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-06T04:33:18.614383+00:00"
+    },
+    {
+      "id": "brief-20260606-28c7f29b",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Day Of The Devs: Summer Game Fest Edition 2026 – Everything Revealed",
+      "detail": "Each year, Day of the Devs hosts a showcase around Summer Game Fest to highlight some of the wildly creative indie games in development around the world. The organizers of Day of the Devs revealed to ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-06T04:33:18.614383+00:00"
+    },
+    {
+      "id": "brief-20260606-ff013d05",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Summer Game Fest Live 2026: All The Biggest Announcements And Games",
+      "detail": "The calendar has turned to June, which means it is now time for the season of game trailers and announcements. We saw PlayStation's State of Play earlier this week, and today Geoff Keighley took the s",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-06T04:33:18.614383+00:00"
+    },
+    {
+      "id": "brief-20260606-c4cf7687",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Super Yooka-Laylee Kart Recalls The Glory Days Of Retro Mario Kart",
+      "detail": "Just like Mario and Donkey Kong before it, the Yooka-Laylee franchise is expanding to a new genre: kart racing. Playtonic Games announced Super Yooka-Laylee Kart during the Summer Game Fest as part of",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-06T04:33:18.614383+00:00"
+    },
+    {
       "id": "brief-20260605-277a5529",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-04T05:18:03.522481+00:00"
-    },
-    {
-      "id": "brief-20260604-01e75cf9",
-      "priority": "info",
-      "icon": "📰",
-      "title": "God Of War: Laufey Dev Responds To Pizza Company’s Dumb Tweet About New Game",
-      "detail": "God of War developer Santa Monica Studio has responded to a social media post from Domino's Pizza after the pizza chain's UK account joked about the newly announced God of War: Laufey for being a God ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-04T05:18:03.522481+00:00"
-    },
-    {
-      "id": "brief-20260604-1d40928c",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Control Resonant Has 48 Hours Early Access, But Only On PS5",
-      "detail": "Remedy's multiplatform action game Control Resonant showed up during the PlayStation State of Play event this week, and it turns out the game is giving PS5 users preferential treatment.\n\n\n\nOne of the ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-04T05:18:03.522481+00:00"
-    },
-    {
-      "id": "brief-20260604-3bc1b7b9",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Control Resonant PC Requirements Are More Reserved Than You Might Expect",
-      "detail": "Ahead of its release in September, Remedy Entertainment has revealed the recommended PC specifications for Control Resonant, and they aren't as demanding as you might think.\n\n\n\nHot on the heels of the",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-04T05:18:03.522481+00:00"
-    },
-    {
-      "id": "brief-20260603-e940cec5",
-      "priority": "info",
-      "icon": "📰",
-      "title": "The Boys Star Jack Quaid’s Next Role Is Utterly Baffling, But We’re Here For It",
-      "detail": "Last month, Jack Quaid wrapped up his five-season run as Hughie Campbell on The Boys. But during Sony's State of Play event, it was revealed that Quaid's next role is in a new God of War game. \n\n\n\nQua",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-03T05:23:12.821172+00:00"
-    },
-    {
-      "id": "brief-20260603-c6287d59",
-      "priority": "info",
-      "icon": "📰",
-      "title": "New PlayStation Plus Games Announced During State Of Play Include Rare PS2 Rhyth",
-      "detail": "New games were announced for the PlayStation Plus Classics Catalog at PlayStation's State Of Play 2026, including Gitaroo Man, a PlayStation 2 cult classic rhythm game that has been out of reach for p",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-03T05:23:12.821172+00:00"
     }
   ]
 }

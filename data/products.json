@@ -1488,7 +1488,7 @@
     "threat": "critical",
     "prereg": null,
     "sentiment": 97,
-    "launchEst": "2026-11",
+    "launchEst": "2026-11-19",
     "desc": "史上最受期待遊戲續作。二度延期後確認 11/19 發售，僅 PS5/Xbox Series。PC 版延後。",
     "tags": [
       "開放世界",
@@ -1496,7 +1496,7 @@
       "AAA",
       "主機獨佔"
     ],
-    "threatAnalysis": "【主機市場核爆/結構性威脅】GTA VI 已確認於 2026 年 11 月 19 日在 PS5 和 Xbox Series X/S 上線，並將於 2026 年夏季啟動大規模行銷活動及預購。這款遊戲將在 Q4 對整個主機遊戲市場造成毀滅性衝擊，不僅是同類型競品，所有主機遊戲的玩家時間和消費都將被嚴重擠壓。PC 版將延後發布，這為 PC 平台上的其他遊戲提供了一線喘息空間，但主機市場的競爭將異常激烈。\n\n▶ 建議行動：\n(1) **立即評估主機平台產品的 Q4 上線或大型更新計畫**：若有主機產品計畫在 2026 年 Q4 推出或進行大型更新，應考慮調整時間表，避開 GTA VI 的發售熱潮，或準備極具競爭力的差異化內容。\n(2) **強化 PC 平台策略**：由於 GTA VI PC 版延後，可利用此空檔加強 PC 平台產品的推廣和內容更新，吸引尋求高品質開放世界體驗的 PC 玩家。\n(3) **監測市場反應與玩家行為**：密切關注 GTA VI 上線前後的玩家行為數據，特別是玩家時間分配和消費趨勢，以便快速調整自身產品的營運策略。",
+    "threatAnalysis": "【結構性威脅/市場擠壓】GTA VI 的最終發售日期已確認為 2026 年 11 月 19 日，這款遊戲的市場影響力極大，導致其他發行商紛紛避開此檔期，將其遊戲延後或提前發布。這將在 2026 年下半年形成巨大的市場真空和隨後的競爭高峰，對任何同期或前後發布的產品都構成嚴峻挑戰。\n\n▶ 建議行動：\n(1) 重新評估產品在 2026 年下半年的發布或大型更新計畫，盡可能避開 GTA VI 的直接衝擊波，考慮提前至 Q3 或延後至 2027 年 Q1。\n(2) 密切關注 Rockstar Games 的行銷活動，分析其宣傳策略和用戶預期，為自家產品的差異化行銷尋找突破口。\n(3) 針對核心玩家群體，提前進行社群維護和內容預熱，確保在 GTA VI 上線前後仍能維持一定的用戶黏著度。",
     "verified": "Rockstar 官方、Yahoo 遊戲、多家媒體",
     "history": [
       {
@@ -1508,8 +1508,8 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-06-01",
-    "category": "active",
+    "updatedAt": "2026-06-06",
+    "category": "tracking",
     "launchRegions": [
       {
         "region": "Global",
@@ -1531,7 +1531,9 @@
         "label": "Rockstar",
         "url": "https://www.rockstargames.com/VI"
       }
-    ]
+    ],
+    "currentEvent": "Rockstar Games confirmed the release date of November 19, 2026, for PS5 and Xbox Series X/S. Marketing and pre-orders are expected to start in summer 2026. The game's launch is causing other publishers to avoid releasing major titles in November 2026.",
+    "eventNote": "Rockstar Games confirmed the release date of November 19, 2026, for PS5 and Xbox Series X/S. Marketing and pre-orders are expected to start in summer 2026. The game's launch is causing other publishers to avoid releasing major titles in November 2026."
   },
   {
     "id": 6,
@@ -1558,7 +1560,7 @@
       "動作",
       "版本更新"
     ],
-    "threatAnalysis": "開放世界直接競品，週年慶版本品質提升，但整體用戶增長已趨緩。",
+    "threatAnalysis": "【直接競品/用戶增長趨緩】《鳴潮》作為開放世界動作 RPG 的直接競品，雖然週年慶版本提升了品質，但用戶增長已趨緩。這表明其在市場上的競爭力可能受到挑戰，但仍佔據一定市場份額。\n\n▶ 建議行動：\n(1) 持續監測《鳴潮》的內容更新頻率、新角色推出和活動設計，分析其對用戶留存和付費的影響。\n(2) 深入研究《鳴潮》用戶增長趨緩的原因，是否為內容消耗過快、玩法疲勞或新競品衝擊，從中吸取經驗教訓。\n(3) 針對其用戶增長瓶頸，思考自家產品如何透過創新玩法或差異化內容來吸引和留住開放世界動作 RPG 玩家。",
     "verified": "VNG 情報站、巴哈姆特",
     "history": [
       {
@@ -1570,10 +1572,10 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-05-29",
+    "updatedAt": "2026-06-06",
     "category": "tracking",
-    "currentEvent": "3.3 二週年慶典",
-    "eventNote": "⚡ 二週年慶典進行中（至 6/7），大量活動與新角色，需特別關注",
+    "currentEvent": "No specific major recent event found beyond general live-ops updates. Existing analysis mentions anniversary version quality improvement but slowing user growth.",
+    "eventNote": "No specific major recent event found beyond general live-ops updates. Existing analysis mentions anniversary version quality improvement but slowing user growth.",
     "launchRegions": [
       {
         "region": "CN",
@@ -1637,7 +1639,7 @@
       "米哈遊",
       "長期營運"
     ],
-    "threatAnalysis": "行業標竿但增長放緩。新競品（無限大、異環）正在瓜分用戶時間，但版本品質穩定仍是護城河。",
+    "threatAnalysis": "【行業標竿/增長放緩】《原神》作為開放世界 RPG 的行業標竿，儘管版本品質穩定，但增長放緩且面臨新競品瓜分用戶時間的挑戰。其持續的內容更新（如「月之七」版本和新角色推出）是其護城河，但市場競爭日益激烈。\n\n▶ 建議行動：\n(1) 深入分析《原神》新版本「虛空劫灰往世書」的內容更新策略，特別是新角色和活動如何刺激用戶活躍和付費。\n(2) 密切關注其在面對新競品（如《無限大》、《異環》）時的應對措施，學習其如何維持用戶黏著度。\n(3) 思考自家產品如何在保持內容品質的同時，探索新的增長點或差異化玩法，以應對市場飽和和用戶時間碎片化的挑戰。",
     "verified": "公開資訊",
     "history": [
       {
@@ -1645,10 +1647,10 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-05-29",
+    "updatedAt": "2026-06-06",
     "category": "tracking",
-    "currentEvent": "5.x 版本持續更新",
-    "eventNote": "目前無重大節慶，持續追蹤版本更新",
+    "currentEvent": "The game launched its new \"Moon Seven\" version \"Void Dust and Past Books\" on April 8, 2026. Also, there are recent news about the 6.7 version and new characters like 'Puppet' and 'Ice God' entering the pool.",
+    "eventNote": "The game launched its new \"Moon Seven\" version \"Void Dust and Past Books\" on April 8, 2026. Also, there are recent news about the 6.7 version and new characters like 'Puppet' and 'Ice God' entering the pool.",
     "launchRegions": [
       {
         "region": "CN",
@@ -1717,7 +1719,7 @@
       "二次元",
       "米哈遊"
     ],
-    "threatAnalysis": "米哈遊品牌保證基礎流量，但營收低於預期。差異化不足是最大挑戰。",
+    "threatAnalysis": "【米哈遊品牌保證/營收低於預期但有反彈】《絕區零》憑藉米哈遊的品牌保證獲得基礎流量，但初期營收低於預期，差異化不足是挑戰。然而，2.8版本「新·艾利都日落時」已於 2026 年 5 月 6 日上線，且有 3.0 版本前瞻直播，顯示其持續的內容更新。特別是 1.4 版本曾創下營收新高，證明其具備反彈潛力。\n\n▶ 建議行動：\n(1) 深入分析《絕區零》2.8 和 3.0 版本的更新內容，特別是其如何解決「差異化不足」的問題，以及哪些新角色或玩法成功刺激了用戶活躍和付費。\n(2) 關注其在不同市場（尤其是日本市場 RPD 較高）的表現，學習其在地化策略和用戶偏好。\n(3) 評估自家產品在動作 RPG 品類中的競爭力，思考如何透過獨特的玩法機制或美術風格來建立差異化優勢，避免重蹈《絕區零》初期營收低於預期的覆轍。",
     "verified": "公開資訊",
     "history": [
       {
@@ -1725,10 +1727,10 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-05-29",
+    "updatedAt": "2026-06-06",
     "category": "tracking",
-    "currentEvent": "版本持續更新中",
-    "eventNote": "目前無重大節慶",
+    "currentEvent": "The 2.8 version \"New Eridu Sunset\" was launched on May 6, 2026. There was also a 3.0 version preview livestream on June 6, 2026. The game's revenue in its first month was around $99.8 million, with China being the highest market. Japan's RPD is twice that of China. The game achieved its best sales performance in the 1.4 version, reaching the top of the iOS game sales chart in China.",
+    "eventNote": "The 2.8 version \"New Eridu Sunset\" was launched on May 6, 2026. There was also a 3.0 version preview livestream on June 6, 2026. The game's revenue in its first month was around $99.8 million, with China being the highest market. Japan's RPD is twice that of China. The game achieved its best sales performance in the 1.4 version, reaching the top of the iOS game sales chart in China.",
     "launchRegions": [
       {
         "region": "CN",
@@ -1796,7 +1798,7 @@
       "二次元",
       "米哈遊"
     ],
-    "threatAnalysis": "米哈遊最賺錢產品，回合制品類王者。穩定的內容更新節奏是競爭壁壘。",
+    "threatAnalysis": "【米哈遊最賺錢產品/回合制 RPG 王者】《崩壞：星穹鐵道》是米哈遊最賺錢的產品之一，穩定的內容更新節奏是其競爭壁壘，並在 2025 年登頂全球二次元手遊營收榜首。其在日本市場的 RPD 甚至高於中國，顯示其在全球範圍內的強勁表現。\n\n▶ 建議行動：\n(1) 深入研究《崩壞：星穹鐵道》的內容更新節奏和活動設計，分析其如何持續吸引玩家付費和保持高活躍度。\n(2) 學習其在回合制 RPG 品類中建立的競爭壁壘，包括角色設計、劇情敘事和戰鬥系統的優勢。\n(3) 評估自家產品在內容更新和用戶維護方面的策略，思考如何借鑒其成功經驗，提升產品的長期生命週期和盈利能力。",
     "verified": "公開資訊",
     "history": [
       {
@@ -1804,10 +1806,10 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-05-29",
+    "updatedAt": "2026-06-06",
     "category": "tracking",
-    "currentEvent": "3.x 版本更新",
-    "eventNote": "目前無重大節慶，持續追蹤版本更新",
+    "currentEvent": "The game's mobile version generated 40% of its global revenue from China and over 20% from Japan between April 2023 and April 2024. It was the highest-grossing anime-style mobile game globally in 2025. The game achieved $500 million in global revenue by July 2023.",
+    "eventNote": "The game's mobile version generated 40% of its global revenue from China and over 20% from Japan between April 2023 and April 2024. It was the highest-grossing anime-style mobile game globally in 2025. The game achieved $500 million in global revenue by July 2023.",
     "launchRegions": [
       {
         "region": "CN",
@@ -1871,7 +1873,7 @@
       "雙線敘事",
       "外觀商城"
     ],
-    "threatAnalysis": "【商業模式驗證者】與無限大類似的免費角色策略，上線半年後仍然活躍。證明這種模式可行，可能引發行業跟進。\n\n▶ 建議行動：(1) 研究其外觀商城的付費設計——這是免費角色模式的核心變現 (2) 新版本 6/2 上線，觀察其活動設計思路 (3) 評估自身產品是否需要調整商業化方向",
+    "threatAnalysis": "【商業模式驗證者/品類創新】《二重螺旋》以其「免費角色與武器獲取、取消體力限制、轉向外觀付費」的商業模式，證明了這種模式在二次元動作 RPG 市場的可行性，並可能引發行業跟進。其新版本「銀星奔流」已於 2026 年 6 月 2 日上線，持續提供新內容。\n\n▶ 建議行動：\n(1) 密切追蹤《二重螺旋》新版本上線後的用戶反饋和營收表現，特別是其創新商業模式的長期影響。\n(2) 深入分析其外觀付費內容的設計和定價策略，評估其對玩家消費意願的影響。\n(3) 評估自家產品是否有可能借鑒或調整商業模式，以降低玩家進入門檻，吸引更廣泛的用戶群體，並探索新的盈利增長點。",
     "verified": "TapTap、GNN 巴哈、Paradaily",
     "history": [
       {
@@ -1887,10 +1889,10 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-05-29",
+    "updatedAt": "2026-06-06",
     "category": "tracking",
-    "currentEvent": "「銀星奔流」新版本 6/2 上線",
-    "eventNote": "⚡ 新版本帶來全新主線、新區域「百花車站」與海量福利（角色+武器自選箱），需關注其活動對玩家時間的搶佔",
+    "currentEvent": "The new version \"Silver Star Torrent\" was officially launched on June 2, 2026, bringing new main story chapters, new areas, and new characters. The game's business model, which removes gacha and stamina limits and focuses on cosmetic sales, is seen as an innovation in the industry. There were recent login anomalies on June 5, 2026.",
+    "eventNote": "The new version \"Silver Star Torrent\" was officially launched on June 2, 2026, bringing new main story chapters, new areas, and new characters. The game's business model, which removes gacha and stamina limits and focuses on cosmetic sales, is seen as an innovation in the industry. There were recent login anomalies on June 5, 2026.",
     "launchRegions": [
       {
         "region": "CN",
@@ -1956,7 +1958,7 @@
       "共鬥",
       "AAA"
     ],
-    "threatAnalysis": "品類標竿級產品，大型更新會週期性搶佔市場注意力。",
+    "threatAnalysis": "【品類標竿級產品/週期性市場搶佔】《魔物獵人 荒野》作為動作 RPG 品類的標竿級產品，持續透過大型更新（如最終更新「巨戟龍」和「歷戰王鎖刃龍」）週期性地搶佔市場注意力。其穩定的更新節奏和高品質內容對同品類遊戲構成持續威脅。\n\n▶ 建議行動：\n(1) 密切關注《魔物獵人 荒野》大型更新的內容和宣傳策略，分析其如何維持玩家活躍度和社群熱度。\n(2) 評估自家產品在大型更新週期和內容豐富度方面的規劃，確保能夠在市場上保持競爭力。\n(3) 針對其更新節奏，考慮錯峰發布或推出差異化活動，以避免直接競爭並吸引不同類型的玩家。",
     "verified": "公開資訊",
     "history": [
       {
@@ -1968,10 +1970,10 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-05-29",
+    "updatedAt": "2026-06-06",
     "category": "tracking",
-    "currentEvent": "持續大型更新",
-    "eventNote": "持續推出 DLC 與免費更新",
+    "currentEvent": "Capcom released the first free major update in April 2025, introducing new monsters and a new gathering hub. The second free major update was released on July 30, 2025. The final major update, including the Arch-tempered Lockblade Dragon, was released on February 18, 2026. The game has received multiple updates throughout 2025 and 2026.",
+    "eventNote": "Capcom released the first free major update in April 2025, introducing new monsters and a new gathering hub. The second free major update was released on July 30, 2025. The final major update, including the Arch-tempered Lockblade Dragon, was released on February 18, 2026. The game has received multiple updates throughout 2025 and 2026.",
     "launchRegions": [
       {
         "region": "JP",
@@ -2031,9 +2033,9 @@
       "MH IP",
       "手機優化"
     ],
-    "threatAnalysis": "【IP 降維打擊】CAPCOM 頂級 IP + 騰訊天美開發品質，上線首週留存率極高。對所有手遊動作品類構成直接威脅。\n\n▶ 建議行動：(1) 分析其操作簡化方案——這是手遊版 MH 的核心創新 (2) 共鬥社交系統設計值得研究 (3) 如果自身產品有狩獵/共鬥元素，用戶會直接流失",
+    "threatAnalysis": "【IP 降維打擊/手遊動作 RPG 強勁競品】《魔物獵人：旅人》憑藉 CAPCOM 頂級 IP 和騰訊天美工作室的開發品質，在 2026 年 5 月上線後展現出極高的首週留存率。這對所有手遊動作 RPG 產品構成直接且強大的威脅，尤其是在開放世界狩獵品類。\n\n▶ 建議行動：\n(1) 立即啟動對《魔物獵人：旅人》的深度競品分析，包括其核心玩法、商業化模式、社群營運和用戶留存策略。\n(2) 評估自家產品在 IP 影響力、開發品質和用戶留存方面的差距，並制定應對策略。\n(3) 考慮與其他 IP 合作或加強自身 IP 建設，同時提升遊戲品質和優化用戶體驗，以應對來自頂級 IP 手遊的降維打擊。",
     "verified": "VNG情報站、TapTap",
-    "category": "active",
+    "category": "tracking",
     "testType": "不刪檔公測",
     "testDateStart": "2026-05-15",
     "testDateEnd": "持續營運中",
@@ -2068,7 +2070,7 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-05-29",
+    "updatedAt": "2026-06-06",
     "sourceLinks": [
       {
         "label": "TapTap",
@@ -2082,7 +2084,9 @@
         "label": "QooApp",
         "url": "https://apps.qoo-app.com/en/search?keyword=Monster%20Hunter%3A%20Outlanders"
       }
-    ]
+    ],
+    "currentEvent": "No specific major recent event found beyond its launch in May 2026 and existing analysis of high retention.",
+    "eventNote": "No specific major recent event found beyond its launch in May 2026 and existing analysis of high retention."
   },
   {
     "id": 30,
@@ -2110,9 +2114,9 @@
       "RO",
       "心動"
     ],
-    "threatAnalysis": "【MMORPG 品類攪局】經典 IP 次世代新作，心動研發品質有保證。無縫大地圖+動作化系統可能吸引大量 MMORPG 回流用戶。\n\n▶ 建議行動：(1) 追蹤技測口碑——這將決定其真實威脅等級 (2) MMORPG 品類產品需準備留存防守 (3) 情懷 IP 的首月表現往往虛高，關注 3 個月後留存",
+    "threatAnalysis": "【MMORPG 品類攪局/經典 IP 次世代新作】《仙境傳說RO：守護永恒的愛2》作為經典 IP 的次世代新作，預計於 2026 年 Q3 上線，並由心動 B 格貓工作室開發，品質有保證。其無縫大地圖和動作化系統可能吸引大量 MMORPG 玩家，對現有市場格局構成攪局威脅。\n\n▶ 建議行動：\n(1) 密切關注《仙境傳說RO：守護永恒的愛2》的 CBT 進展和玩家反饋，分析其核心玩法和系統設計的優劣勢。\n(2) 評估其對現有 MMORPG 市場的潛在衝擊，特別是其如何吸引老玩家回流和新玩家加入。\n(3) 針對其「無縫大地圖+動作化系統」的特點，思考自家產品如何在 MMORPG 領域進行創新或差異化，以鞏固或擴大市場份額。",
     "verified": "GameRes玩匠週報、VNG情報站",
-    "category": "active",
+    "category": "tracking",
     "testType": "刪檔不計費（技術測試）",
     "testDateStart": "2026-05-20",
     "testDateEnd": "待定",
@@ -2133,7 +2137,7 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-05-29",
+    "updatedAt": "2026-06-06",
     "sourceLinks": [
       {
         "label": "TapTap",
@@ -2147,7 +2151,9 @@
         "label": "QooApp",
         "url": "https://apps.qoo-app.com/en/search?keyword=RO2%20Mobile"
       }
-    ]
+    ],
+    "currentEvent": "No specific major recent event found beyond its CBT status and estimated Q3 2026 launch.",
+    "eventNote": "No specific major recent event found beyond its CBT status and estimated Q3 2026 launch."
   },
   {
     "id": 31,
@@ -2180,9 +2186,9 @@
       "米哈遊",
       "全新IP"
     ],
-    "threatAnalysis": "【遠期結構性威脅】米哈遊最重量級新 IP，UE5+AI 動態劇情若成功落地，將重新定義品質標準。目前僅在商標階段，但影響力不可忽視。\n\n▶ 建議行動：(1) 持續追蹤 2026 年首測時間 (2) AI 動態劇情技術方向值得預研 (3) 不需要現在行動，但需要納入長期產品規劃的考量",
+    "threatAnalysis": "【遠期結構性威脅/米哈遊重量級新 IP】《雨霧之都》作為米哈遊最重量級的新 IP，預計於 2027 年上線，並採用 UE5 和 AI 動態劇情等尖端技術。若成功落地，將重新定義開放世界 RPG 的品質標準，對整個行業構成遠期結構性威脅。\n\n▶ 建議行動：\n(1) 持續追蹤《雨霧之都》的開發進度，特別是其在 UE5 和 AI 動態劇情方面的技術突破和應用。\n(2) 提前研究其可能帶來的行業標準變化，評估自家產品在技術儲備和創新能力方面的差距。\n(3) 制定長期研發策略，將新技術的探索和應用納入考量，以應對未來市場對遊戲品質和體驗的更高要求。",
     "verified": "17173（2026-01）、VNG情報站",
-    "category": "active",
+    "category": "tracking",
     "testType": "未開測",
     "testDateStart": "2026年內首測（預計）",
     "testDateEnd": "待定",
@@ -2193,7 +2199,7 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-05-29",
+    "updatedAt": "2026-06-06",
     "sourceLinks": [
       {
         "label": "TapTap",
@@ -2207,6 +2213,8 @@
         "label": "QooApp",
         "url": "https://apps.qoo-app.com/en/search?keyword=City%20of%20Mist"
       }
-    ]
+    ],
+    "currentEvent": "No specific major recent event found beyond its announced status and estimated 2027 launch.",
+    "eventNote": "No specific major recent event found beyond its announced status and estimated 2027 launch."
   }
 ]
