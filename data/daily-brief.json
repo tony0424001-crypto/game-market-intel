@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-06T04:33:18.614383+00:00",
-  "fetchCount": 19,
+  "lastUpdated": "2026-06-07T05:02:22.885378+00:00",
+  "fetchCount": 20,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260607-2f769661",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Final Fantasy 7 Revelation: 22 New Screenshots Showcasing Its World, Combat, And",
+      "detail": "It's hard to believe, but after almost a decade, the Unknown Journey will conclude in Final Fantasy Revelation next year. Officially shown off at Summer Game Fest Live this week, Revelation is shaping",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-07T05:02:22.885378+00:00"
+    },
+    {
+      "id": "brief-20260607-ff6b5c4f",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Halloween: The Game’s Scary New Story Trailer Shows Michael Myers Finding His Ma",
+      "detail": "A new trailer for Halloween: The Game premiered today at the Future Games Show, and it's terrifying. \n\n\n\nThe new trailer focuses on the game's single-player mode, in which players take on the role of ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-07T05:02:22.885378+00:00"
+    },
+    {
+      "id": "brief-20260607-c88b3f66",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Hitman Classic Trilogy Remasters Are Coming, See The Improved Graphics",
+      "detail": "While fans await the next mainline Hitman game, IO Interactive and Saber Interactive have announced that the original three games in the series are being remastered in a bundle called the Hitman Class",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-07T05:02:22.885378+00:00"
+    },
+    {
+      "id": "brief-20260607-802d904a",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Final Fantasy 7 Revelation’s New FITS System Lets You Turn Cloud Into A Black Ma",
+      "detail": "When the Unknown Journey continues in Final Fantasy 7 Revelation, Cloud and his companions are going to embark on it while debuting some fashionable new combat gear. Revelation introduces a new gamepl",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-07T05:02:22.885378+00:00"
+    },
+    {
+      "id": "brief-20260607-377bee49",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Final Fantasy Revelation Is A Definitive Conclusion, But Could Make Way For Side",
+      "detail": "Final Fantasy Revelation is the third game in the remake trilogy that kicked off with Final Fantasy Remake back in 2020, promising to conclude the epic tale that has been significantly added compared ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-07T05:02:22.885378+00:00"
+    },
+    {
       "id": "brief-20260606-497d2731",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-05T04:53:38.790059+00:00"
-    },
-    {
-      "id": "brief-20260605-9ceec846",
-      "priority": "info",
-      "icon": "📰",
-      "title": "The Best PS5 Game & Hardware Deals This Week (June 3, 2026)",
-      "detail": "State of Play brought plenty of big announcements this week, showing off tons of great games that'll be arriving over the next few months and years. But right now you can also cash in on some great PS",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-05T04:53:38.790059+00:00"
-    },
-    {
-      "id": "brief-20260605-535bb9a4",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Subnautica 2 Dev Outlines Upcoming Content Drop, Including Brand-New Region",
-      "detail": "After all of the drama that played out in court, Subnautica 2 has gotten off to a hot start. There's still work to be done on this early-access release, but Unknown Worlds has now shared some of its p",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-05T04:53:38.790059+00:00"
-    },
-    {
-      "id": "brief-20260605-1bb20d11",
-      "priority": "info",
-      "icon": "📰",
-      "title": "New PC Game Hijinks High From Laid-Off Xbox Developers Challenges You To Become ",
-      "detail": "Sackbird Studios, the independent studio founded by a number of developers who were at ZeniMax Online Studios before Microsoft canceled their new game and laid them off, has announced a new project ca",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-05T04:53:38.790059+00:00"
-    },
-    {
-      "id": "brief-20260604-c0507cc7",
-      "priority": "info",
-      "icon": "📰",
-      "title": "God Of War Devs Explain Laufey’s Place In The Franchise",
-      "detail": "The next God of War title had been rumored earlier this year, and it now stands revealed as God of War Laufey, a spin-off that focuses on Kratos' late wife, Faye. While the initial trailer apparently ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-04T05:18:03.522481+00:00"
-    },
-    {
-      "id": "brief-20260604-956cffe3",
-      "priority": "info",
-      "icon": "📰",
-      "title": "World War 3 Servers Shutting Down Soon",
-      "detail": "The free-to-play military FPS World War 3 is going offline. Developer New Generation Games has announced that \"after careful consideration,\" the studio will end support for the game and close the serv",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-04T05:18:03.522481+00:00"
     }
   ]
 }
