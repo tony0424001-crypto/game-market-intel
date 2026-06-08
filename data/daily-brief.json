@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-07T05:02:22.885378+00:00",
-  "fetchCount": 20,
+  "lastUpdated": "2026-06-08T05:09:38.738620+00:00",
+  "fetchCount": 21,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260608-1a3d1409",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Xbox Clarifies Its Exclusivity Strategy Moving Forward, Wants You To Buy An Xbox",
+      "detail": "Today's Xbox Games Showcase was the first under the leadership of Xbox CEO Asha Sharma, who has pledged to consider making changes to Xbox's exclusivity strategy. Now, another Xbox executive, chief co",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-08T05:09:38.738620+00:00"
+    },
+    {
+      "id": "brief-20260608-56291fcb",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Spyro Devs Don’t See Many Comparisons To Its Flying, Except Iron Man Or Flight S",
+      "detail": "The announcement of a new Spyro the Dragon game in more than two decades during the Xbox Game Showcase is aiming high with the confirmation that it will feature \"true dragon flight\" gameplay for the f",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-08T05:09:38.738620+00:00"
+    },
+    {
+      "id": "brief-20260608-c9d28e30",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Fable’s Chicken Obsession Goes Even Deeper Than We Imagined",
+      "detail": "\n\n\n\nMicrosoft and Playground Games have announced the preorder bonuses for the Fable reboot, and wouldn't you know it, one of the perks is a chicken suit.\n\n\n\nFor anyone just catching up, the Fable fra",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-08T05:09:38.738620+00:00"
+    },
+    {
+      "id": "brief-20260608-a3fdd9c8",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Gears Of War: E-Day Is Drastically Changing Movement For The First Time In The S",
+      "detail": "During the Gears of War: E-Day Direct, which took place after a packed Xbox Showcase at Summer Game Fest, we got a good look at some of the big changes The Coalition is bringing to the Gears of War fo",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-08T05:09:38.738620+00:00"
+    },
+    {
+      "id": "brief-20260608-2ba80eb1",
+      "priority": "info",
+      "icon": "📰",
+      "title": "How The New Spyro Is Handling The Big-Name Options For Its Lead Voice Actor",
+      "detail": "Spyro: A Realm Beyond is the first new Spyro game, not associated with the Toys to Life Skylanders spin-off, in years. In the intervening time the definitive voice of Spyro, Tom Kenny, has become one ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-08T05:09:38.738620+00:00"
+    },
+    {
       "id": "brief-20260607-2f769661",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-06T04:33:18.614383+00:00"
-    },
-    {
-      "id": "brief-20260606-28c7f29b",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Day Of The Devs: Summer Game Fest Edition 2026 – Everything Revealed",
-      "detail": "Each year, Day of the Devs hosts a showcase around Summer Game Fest to highlight some of the wildly creative indie games in development around the world. The organizers of Day of the Devs revealed to ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-06T04:33:18.614383+00:00"
-    },
-    {
-      "id": "brief-20260606-ff013d05",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Summer Game Fest Live 2026: All The Biggest Announcements And Games",
-      "detail": "The calendar has turned to June, which means it is now time for the season of game trailers and announcements. We saw PlayStation's State of Play earlier this week, and today Geoff Keighley took the s",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-06T04:33:18.614383+00:00"
-    },
-    {
-      "id": "brief-20260606-c4cf7687",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Super Yooka-Laylee Kart Recalls The Glory Days Of Retro Mario Kart",
-      "detail": "Just like Mario and Donkey Kong before it, the Yooka-Laylee franchise is expanding to a new genre: kart racing. Playtonic Games announced Super Yooka-Laylee Kart during the Summer Game Fest as part of",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-06T04:33:18.614383+00:00"
-    },
-    {
-      "id": "brief-20260605-277a5529",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Where To Preorder Elden Ring: Tarnished Edition For Switch 2",
-      "detail": "\n\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\n\t\n\t\t\t\t\tElden Ring: Tarnished Edition (Switch 2 Game Key-Card)\n\t\t\t\t\t\t\t$80 | Releases August 28, 2026\n\t\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\nPreorder at Amazon\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-05T04:53:38.790059+00:00"
-    },
-    {
-      "id": "brief-20260605-15111636",
-      "priority": "info",
-      "icon": "📰",
-      "title": "FIFA World Cup Game Coming To Netflix With Updates Based On How The Tournament G",
-      "detail": "Netflix has announced an officially licensed FIFA Men's World Cup 2026 game, and it'll be playable for all subscribers from their TV, computer, or phone, featuring in-game updates based on how the rea",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-05T04:53:38.790059+00:00"
     }
   ]
 }
