@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-08T05:09:38.738620+00:00",
-  "fetchCount": 21,
+  "lastUpdated": "2026-06-09T04:42:36.267185+00:00",
+  "fetchCount": 22,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260609-332abb3b",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Is Xbox Fixable?",
+      "detail": "At Summer Game Fest today, Xbox's new chief strategy officer Matthew Ball spoke about some of the company's big moves recently, including its strategy on exclusives and what's next for the company in ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-09T04:42:36.267185+00:00"
+    },
+    {
+      "id": "brief-20260609-7e378020",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Xbox Game Pass Lost “Millions” Of Subscribers After Massive Price Hike In 2025",
+      "detail": "Xbox's chief strategy officer Matthew Ball has confirmed that Xbox Game Pass lost \"millions\" of subscribers after the massive price hike for the service in 2025.\n\n\n\nSpeaking at The Game Business Live ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-09T04:42:36.267185+00:00"
+    },
+    {
+      "id": "brief-20260609-a5d28076",
+      "priority": "info",
+      "icon": "📰",
+      "title": "GTA 6 Gets Its Barbenheimer As Barbie Compilation Sets A November Release",
+      "detail": "So many game publishers are trying to get their titles out of the shadow of Grand Theft Auto 6, leading to a comically crowded September this year. But Atari isn't blinking, releasing--of all things--",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-09T04:42:36.267185+00:00"
+    },
+    {
+      "id": "brief-20260609-6ca90a2b",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Crazy Taxi: World Tour Dev Defends GenAI Use",
+      "detail": "Sega's newly announced Crazy Taxi: World Tour game is among those made in part with generative AI, and now the franchise's original creator, Kenji Kanno, has defended his studio's use of the controver",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-09T04:42:36.267185+00:00"
+    },
+    {
+      "id": "brief-20260609-ecc84626",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Mouthwashing Dev’s New Game Looks Like A Big Departure From Its Predecessor",
+      "detail": "In 2024, developer Wrong Organ's first-person horror title Mouthwashing was an indie smash. Now, Wrong Organ's follow-up game, Carcass Clad, has been revealed, and aside from fitting into the horror g",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-09T04:42:36.267185+00:00"
+    },
+    {
       "id": "brief-20260608-1a3d1409",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-07T05:02:22.885378+00:00"
-    },
-    {
-      "id": "brief-20260607-c88b3f66",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Hitman Classic Trilogy Remasters Are Coming, See The Improved Graphics",
-      "detail": "While fans await the next mainline Hitman game, IO Interactive and Saber Interactive have announced that the original three games in the series are being remastered in a bundle called the Hitman Class",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-07T05:02:22.885378+00:00"
-    },
-    {
-      "id": "brief-20260607-802d904a",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Final Fantasy 7 Revelation’s New FITS System Lets You Turn Cloud Into A Black Ma",
-      "detail": "When the Unknown Journey continues in Final Fantasy 7 Revelation, Cloud and his companions are going to embark on it while debuting some fashionable new combat gear. Revelation introduces a new gamepl",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-07T05:02:22.885378+00:00"
-    },
-    {
-      "id": "brief-20260607-377bee49",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Final Fantasy Revelation Is A Definitive Conclusion, But Could Make Way For Side",
-      "detail": "Final Fantasy Revelation is the third game in the remake trilogy that kicked off with Final Fantasy Remake back in 2020, promising to conclude the epic tale that has been significantly added compared ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-07T05:02:22.885378+00:00"
-    },
-    {
-      "id": "brief-20260606-497d2731",
-      "priority": "info",
-      "icon": "📰",
-      "title": "After Mixtape, Cheerful Music Game Mr. Records Is A Day Of The Devs Standout",
-      "detail": "A lot of fantastic-looking indie games were featured at 2026's Day of the Devs: Summer Game Fest Edition showcase this year, but Mr. Records from developer Glee-Cheese Studio and publisher Wired Produ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-06T04:33:18.614383+00:00"
-    },
-    {
-      "id": "brief-20260606-1d2f5921",
-      "priority": "info",
-      "icon": "📰",
-      "title": "God Of War Laufey’s Combat Was Inspired By The Original Greek Trilogy",
-      "detail": "Until now, Kratos was the primary star of every God of War game. However, his late wife, Faye, is taking the spotlight in God of War Laufey. But when Faye picks up her sword, veteran God of War fans m",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-06T04:33:18.614383+00:00"
     }
   ]
 }
