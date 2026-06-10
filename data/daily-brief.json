@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-09T04:42:36.267185+00:00",
-  "fetchCount": 22,
+  "lastUpdated": "2026-06-10T04:54:40.373695+00:00",
+  "fetchCount": 23,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260610-f69bbb10",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Kingdom Hearts Cloud Versions Shut Down Today, And You’ll Have To Buy New Versio",
+      "detail": "Prior to this week, the only options that Switch owners had to play the Kingdom Hearts franchise was via the cloud versions offered by Square Enix. However, with the new Switch and Switch 2 versions o",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-10T04:54:40.373695+00:00"
+    },
+    {
+      "id": "brief-20260610-bb0bde04",
+      "priority": "info",
+      "icon": "📰",
+      "title": "The New Guitar Hero–Err, Stage Tour–Reveals Its First Songs",
+      "detail": "The Guitar Hero series made be dead and gone, but in its place comes a new game called Stage Tour, and it's made by the latest evolution of the same studio that created Guitar Hero. \n\n\n\n\nhttps://www.y",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-10T04:54:40.373695+00:00"
+    },
+    {
+      "id": "brief-20260610-fff5f0f8",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Destiny 2 Player Count Soars Above Marathon’s Highest Ever As Guardians Log On F",
+      "detail": "The Monument of Triumph update is the final content update for Destiny 2. When I first began playing the game a decade ago, I was instantly hooked. Over the years I've made friends, experienced the be",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-10T04:54:40.373695+00:00"
+    },
+    {
+      "id": "brief-20260610-7998e8e3",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Dragon’s Dogma 2: Dark Arisen Lets You Explore The Snowy Region Of Norgan",
+      "detail": "Capcom and Nintendo have revealed Dragon's Dogma 2: Dark Arisen for Nintendo Switch 2, bringing the epic action-adventure sequel to the portable console later this year. This expanded version of the g",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-10T04:54:40.373695+00:00"
+    },
+    {
+      "id": "brief-20260610-5b5bca79",
+      "priority": "info",
+      "icon": "📰",
+      "title": "The Vampire Survivors Team Found The Perfect Anime To Adapt",
+      "detail": "During the June Nintendo Direct, Vampire Survivors developer Poncle announced an adaptation of&nbsp;the hit manga and anime series Jujutsu Kaisen, called Jujutsu Kaisen Rumble: Survivaton. Like Vampir",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-10T04:54:40.373695+00:00"
+    },
+    {
       "id": "brief-20260609-332abb3b",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-08T05:09:38.738620+00:00"
-    },
-    {
-      "id": "brief-20260608-c9d28e30",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Fable’s Chicken Obsession Goes Even Deeper Than We Imagined",
-      "detail": "\n\n\n\nMicrosoft and Playground Games have announced the preorder bonuses for the Fable reboot, and wouldn't you know it, one of the perks is a chicken suit.\n\n\n\nFor anyone just catching up, the Fable fra",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-08T05:09:38.738620+00:00"
-    },
-    {
-      "id": "brief-20260608-a3fdd9c8",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Gears Of War: E-Day Is Drastically Changing Movement For The First Time In The S",
-      "detail": "During the Gears of War: E-Day Direct, which took place after a packed Xbox Showcase at Summer Game Fest, we got a good look at some of the big changes The Coalition is bringing to the Gears of War fo",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-08T05:09:38.738620+00:00"
-    },
-    {
-      "id": "brief-20260608-2ba80eb1",
-      "priority": "info",
-      "icon": "📰",
-      "title": "How The New Spyro Is Handling The Big-Name Options For Its Lead Voice Actor",
-      "detail": "Spyro: A Realm Beyond is the first new Spyro game, not associated with the Toys to Life Skylanders spin-off, in years. In the intervening time the definitive voice of Spyro, Tom Kenny, has become one ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-08T05:09:38.738620+00:00"
-    },
-    {
-      "id": "brief-20260607-2f769661",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Final Fantasy 7 Revelation: 22 New Screenshots Showcasing Its World, Combat, And",
-      "detail": "It's hard to believe, but after almost a decade, the Unknown Journey will conclude in Final Fantasy Revelation next year. Officially shown off at Summer Game Fest Live this week, Revelation is shaping",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-07T05:02:22.885378+00:00"
-    },
-    {
-      "id": "brief-20260607-ff6b5c4f",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Halloween: The Game’s Scary New Story Trailer Shows Michael Myers Finding His Ma",
-      "detail": "A new trailer for Halloween: The Game premiered today at the Future Games Show, and it's terrifying. \n\n\n\nThe new trailer focuses on the game's single-player mode, in which players take on the role of ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-07T05:02:22.885378+00:00"
     }
   ]
 }
