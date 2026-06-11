@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-10T04:54:40.373695+00:00",
-  "fetchCount": 23,
+  "lastUpdated": "2026-06-11T05:05:21.088630+00:00",
+  "fetchCount": 24,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260611-6809b4a4",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Yes, Resident Evil: Veronica Is A Third-Person Game",
+      "detail": "Just like (well, not just like) the original 2000 game, Resident Evil: Veronica will be played from a third-person perspective. \n\n\n\nThe news was shared with GameSpot during a group Q&amp;A session at ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-11T05:05:21.088630+00:00"
+    },
+    {
+      "id": "brief-20260611-968a9ea5",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Xbox CEO Believes Consoles Are Too Expensive And “Radically Different” Plans Are",
+      "detail": "One of the first things that Xbox CEO Asha Sharma did after ascending to her position was to unveil the next Xbox, Project Helix. Although Microsoft has yet to disclose pricing details, early estimate",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-11T05:05:21.088630+00:00"
+    },
+    {
+      "id": "brief-20260611-f8925218",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Halo 1 Remake Lets You Play In Third-Person, And It Looks Great",
+      "detail": "Halo: Campaign Evolved introduces a special modifier that allows you to play the upcoming remake in third-person. That's a big shift, given the franchise is best known for its first-person perspective",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-11T05:05:21.088630+00:00"
+    },
+    {
+      "id": "brief-20260611-9ebc2235",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Gears Of War: E-Day Skipping PS5 Means Reaching Fewer Players, And Microsoft Is ",
+      "detail": "Gears of War: E-Day was reportedly planned for PlayStation 5, but Microsoft has opted to skip a Sony version. The decision was apparently not made at the last minute as some suspected. In any event, t",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-11T05:05:21.088630+00:00"
+    },
+    {
+      "id": "brief-20260611-7c494277",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Elder Scrolls 6 Was Announced 8 Years Ago Today, Here’s Why It Didn’t Show Up At",
+      "detail": "The Elder Scrolls 6 was announced on June 10, 2018--that is now a full eight years ago. In the 2,920 days that have transpired, Bethesda has not released a single new image or trailer for it, or even ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-11T05:05:21.088630+00:00"
+    },
+    {
       "id": "brief-20260610-f69bbb10",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-09T04:42:36.267185+00:00"
-    },
-    {
-      "id": "brief-20260609-a5d28076",
-      "priority": "info",
-      "icon": "📰",
-      "title": "GTA 6 Gets Its Barbenheimer As Barbie Compilation Sets A November Release",
-      "detail": "So many game publishers are trying to get their titles out of the shadow of Grand Theft Auto 6, leading to a comically crowded September this year. But Atari isn't blinking, releasing--of all things--",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-09T04:42:36.267185+00:00"
-    },
-    {
-      "id": "brief-20260609-6ca90a2b",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Crazy Taxi: World Tour Dev Defends GenAI Use",
-      "detail": "Sega's newly announced Crazy Taxi: World Tour game is among those made in part with generative AI, and now the franchise's original creator, Kenji Kanno, has defended his studio's use of the controver",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-09T04:42:36.267185+00:00"
-    },
-    {
-      "id": "brief-20260609-ecc84626",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Mouthwashing Dev’s New Game Looks Like A Big Departure From Its Predecessor",
-      "detail": "In 2024, developer Wrong Organ's first-person horror title Mouthwashing was an indie smash. Now, Wrong Organ's follow-up game, Carcass Clad, has been revealed, and aside from fitting into the horror g",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-09T04:42:36.267185+00:00"
-    },
-    {
-      "id": "brief-20260608-1a3d1409",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox Clarifies Its Exclusivity Strategy Moving Forward, Wants You To Buy An Xbox",
-      "detail": "Today's Xbox Games Showcase was the first under the leadership of Xbox CEO Asha Sharma, who has pledged to consider making changes to Xbox's exclusivity strategy. Now, another Xbox executive, chief co",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-08T05:09:38.738620+00:00"
-    },
-    {
-      "id": "brief-20260608-56291fcb",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Spyro Devs Don’t See Many Comparisons To Its Flying, Except Iron Man Or Flight S",
-      "detail": "The announcement of a new Spyro the Dragon game in more than two decades during the Xbox Game Showcase is aiming high with the confirmation that it will feature \"true dragon flight\" gameplay for the f",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-08T05:09:38.738620+00:00"
     }
   ]
 }
