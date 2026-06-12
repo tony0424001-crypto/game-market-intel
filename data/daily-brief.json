@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-11T05:05:21.088630+00:00",
-  "fetchCount": 24,
+  "lastUpdated": "2026-06-12T05:12:00.218320+00:00",
+  "fetchCount": 25,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260612-02394ea5",
+      "priority": "info",
+      "icon": "📰",
+      "title": "GTA 5 Joins A Subscription Ahead Of GTA 6 Launch",
+      "detail": "Ahead of GTA 6's release this November, GTA 5 is now available on a subscription service, and it's Rockstar's own GTA+.\n\n\n\nThe game's single-player campaign is now included with the GTA+ games library",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-12T05:12:00.218320+00:00"
+    },
+    {
+      "id": "brief-20260612-c00e504c",
+      "priority": "info",
+      "icon": "📰",
+      "title": "New Xbox Exec Advocates For Something Everyone Hates To Help Save Gaming",
+      "detail": "\n\n\n\nXbox chief strategy officer Matthew Ball believes one way to help revitalize gaming is through something most people do not care for: in-game ads.\n\n\n\nSpeaking to The Game Business, Ball said there",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-12T05:12:00.218320+00:00"
+    },
+    {
+      "id": "brief-20260612-68976ed4",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Best Summer Game Fest 2026 Games You Might Have Missed",
+      "detail": "Summer Game Fest Live and various other live events and showcases littered throughout early June have talked up dozens of upcoming games to get excited about. But just as Steam is filled with too many",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-12T05:12:00.218320+00:00"
+    },
+    {
+      "id": "brief-20260612-f5def8d8",
+      "priority": "info",
+      "icon": "📰",
+      "title": "September Is So Busy For Games That One Of Them Just Got Delayed To Avoid The Ot",
+      "detail": "With GTA 6 launching in November, developers are trying to line up their releases in the months before and after it, and that's made September 2026 very busy. One September release is now shifting to ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-12T05:12:00.218320+00:00"
+    },
+    {
+      "id": "brief-20260612-78f7164a",
+      "priority": "info",
+      "icon": "📰",
+      "title": "No, Capcom Isn’t Teasing A New Dino Crisis",
+      "detail": "While rumors are stirring that Capcom teased a new Dino Crisis at Summer Game Fest, an answer during a group Q&amp;A GameSpot attended suggests you shouldn't be getting your hopes up for a revival any",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-12T05:12:00.218320+00:00"
+    },
+    {
       "id": "brief-20260611-6809b4a4",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-10T04:54:40.373695+00:00"
-    },
-    {
-      "id": "brief-20260610-fff5f0f8",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Destiny 2 Player Count Soars Above Marathon’s Highest Ever As Guardians Log On F",
-      "detail": "The Monument of Triumph update is the final content update for Destiny 2. When I first began playing the game a decade ago, I was instantly hooked. Over the years I've made friends, experienced the be",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-10T04:54:40.373695+00:00"
-    },
-    {
-      "id": "brief-20260610-7998e8e3",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Dragon’s Dogma 2: Dark Arisen Lets You Explore The Snowy Region Of Norgan",
-      "detail": "Capcom and Nintendo have revealed Dragon's Dogma 2: Dark Arisen for Nintendo Switch 2, bringing the epic action-adventure sequel to the portable console later this year. This expanded version of the g",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-10T04:54:40.373695+00:00"
-    },
-    {
-      "id": "brief-20260610-5b5bca79",
-      "priority": "info",
-      "icon": "📰",
-      "title": "The Vampire Survivors Team Found The Perfect Anime To Adapt",
-      "detail": "During the June Nintendo Direct, Vampire Survivors developer Poncle announced an adaptation of&nbsp;the hit manga and anime series Jujutsu Kaisen, called Jujutsu Kaisen Rumble: Survivaton. Like Vampir",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-10T04:54:40.373695+00:00"
-    },
-    {
-      "id": "brief-20260609-332abb3b",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Is Xbox Fixable?",
-      "detail": "At Summer Game Fest today, Xbox's new chief strategy officer Matthew Ball spoke about some of the company's big moves recently, including its strategy on exclusives and what's next for the company in ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-09T04:42:36.267185+00:00"
-    },
-    {
-      "id": "brief-20260609-7e378020",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox Game Pass Lost “Millions” Of Subscribers After Massive Price Hike In 2025",
-      "detail": "Xbox's chief strategy officer Matthew Ball has confirmed that Xbox Game Pass lost \"millions\" of subscribers after the massive price hike for the service in 2025.\n\n\n\nSpeaking at The Game Business Live ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-09T04:42:36.267185+00:00"
     }
   ]
 }
