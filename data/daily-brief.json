@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-12T05:12:00.218320+00:00",
-  "fetchCount": 25,
+  "lastUpdated": "2026-06-13T04:56:37.716962+00:00",
+  "fetchCount": 26,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260613-e3c2f199",
+      "priority": "info",
+      "icon": "📰",
+      "title": "GameStop’s Rewards Program May Be Losing Its Best Feature – Report",
+      "detail": "Earlier this month, GameStop disclosed that it achieved the highest profit in the company's history during the first quarter of its latest fiscal year. Now, GameStop appears to be taking further steps",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-13T04:56:37.716962+00:00"
+    },
+    {
+      "id": "brief-20260613-bec1883d",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Microsoft Considering Spinning Off Xbox, Speeding Up Elder Scrolls And Fallout G",
+      "detail": "Microsoft's potential options for the future of the Xbox brand reportedly include spinning it off into a separate company or operating as a \"wholly owned subsidiary\" rather than a division within Micr",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-13T04:56:37.716962+00:00"
+    },
+    {
+      "id": "brief-20260613-bf6fe070",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Ubisoft’s Next Ghost Recon Game Reportedly Running Into Big Problems",
+      "detail": "Last year, Ubisoft confirmed that it is developing a new Ghost Recon game, but a new report suggests that the project has been troubled and may face a \"complete reboot or outright cancellation\" if its",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-13T04:56:37.716962+00:00"
+    },
+    {
+      "id": "brief-20260613-f7a22dc9",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Call Of Duty: Modern Warfare 4 Brings Back Campaign Early Access, Here’s How To ",
+      "detail": "Call of Duty: Modern Warfare 4 will feature \"campaign early access,\" allowing people who preorder or pre-buy the game to start playing the story mode early. \n\n\n\nThis applies to preorders and pre-purch",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-13T04:56:37.716962+00:00"
+    },
+    {
+      "id": "brief-20260613-7154ca8c",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Two More Games Are Losing Online Services Soon",
+      "detail": "Two more games are losing their online services, but the good news is that the server shutdowns aren't happening all that soon.\n\n\n\nDelisted Games spotted notices from EA and 2K informing fans about fo",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-13T04:56:37.716962+00:00"
+    },
+    {
       "id": "brief-20260612-02394ea5",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-11T05:05:21.088630+00:00"
-    },
-    {
-      "id": "brief-20260611-f8925218",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Halo 1 Remake Lets You Play In Third-Person, And It Looks Great",
-      "detail": "Halo: Campaign Evolved introduces a special modifier that allows you to play the upcoming remake in third-person. That's a big shift, given the franchise is best known for its first-person perspective",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-11T05:05:21.088630+00:00"
-    },
-    {
-      "id": "brief-20260611-9ebc2235",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Gears Of War: E-Day Skipping PS5 Means Reaching Fewer Players, And Microsoft Is ",
-      "detail": "Gears of War: E-Day was reportedly planned for PlayStation 5, but Microsoft has opted to skip a Sony version. The decision was apparently not made at the last minute as some suspected. In any event, t",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-11T05:05:21.088630+00:00"
-    },
-    {
-      "id": "brief-20260611-7c494277",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Elder Scrolls 6 Was Announced 8 Years Ago Today, Here’s Why It Didn’t Show Up At",
-      "detail": "The Elder Scrolls 6 was announced on June 10, 2018--that is now a full eight years ago. In the 2,920 days that have transpired, Bethesda has not released a single new image or trailer for it, or even ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-11T05:05:21.088630+00:00"
-    },
-    {
-      "id": "brief-20260610-f69bbb10",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Kingdom Hearts Cloud Versions Shut Down Today, And You’ll Have To Buy New Versio",
-      "detail": "Prior to this week, the only options that Switch owners had to play the Kingdom Hearts franchise was via the cloud versions offered by Square Enix. However, with the new Switch and Switch 2 versions o",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-10T04:54:40.373695+00:00"
-    },
-    {
-      "id": "brief-20260610-bb0bde04",
-      "priority": "info",
-      "icon": "📰",
-      "title": "The New Guitar Hero–Err, Stage Tour–Reveals Its First Songs",
-      "detail": "The Guitar Hero series made be dead and gone, but in its place comes a new game called Stage Tour, and it's made by the latest evolution of the same studio that created Guitar Hero. \n\n\n\n\nhttps://www.y",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-10T04:54:40.373695+00:00"
     }
   ]
 }
