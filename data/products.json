@@ -1496,7 +1496,7 @@
       "AAA",
       "主機獨佔"
     ],
-    "threatAnalysis": "【結構性威脅/市場擠壓】GTA VI 的最終發售日期已確認為 2026 年 11 月 19 日，這款遊戲的市場影響力極大，導致其他發行商紛紛避開此檔期，將其遊戲延後或提前發布。這將在 2026 年下半年形成巨大的市場真空和隨後的競爭高峰，對任何同期或前後發布的產品都構成嚴峻挑戰。\n\n▶ 建議行動：\n(1) 重新評估產品在 2026 年下半年的發布或大型更新計畫，盡可能避開 GTA VI 的直接衝擊波，考慮提前至 Q3 或延後至 2027 年 Q1。\n(2) 密切關注 Rockstar Games 的行銷活動，分析其宣傳策略和用戶預期，為自家產品的差異化行銷尋找突破口。\n(3) 針對核心玩家群體，提前進行社群維護和內容預熱，確保在 GTA VI 上線前後仍能維持一定的用戶黏著度。",
+    "threatAnalysis": "【結構性威脅/市場擠壓】GTA VI 的最終發售日期已確認為 2026 年 11 月 19 日，這款業界巨作的發布將對整個遊戲市場產生「核彈級」影響，預計將在發售前後數月內主導玩家注意力與媒體聲量，對同期發布或營運中的產品構成巨大市場擠壓。\n\n▶ 建議行動：\n(1) 密切監控市場動態與競品發布時間表：由於 GTA VI 的發布將對整個遊戲市場產生巨大影響，需密切關注其他遊戲開發商是否調整其發布計畫，並評估對自身產品的潛在影響。\n(2) 提前規劃應對策略：若自身產品發布時間與 GTA VI 接近，應考慮調整發布窗口，或準備強力的差異化行銷策略，以避免被其巨大聲量完全淹沒。\n(3) 分析其商業模式與玩家預期：雖然 GTA VI 尚未公布具體商業模式細節，但其作為開放世界動作遊戲的標竿，將設定玩家對此品類產品的品質與內容預期。需深入分析其預期內容，以作為自身產品開發與營運的參考。",
     "verified": "Rockstar 官方、Yahoo 遊戲、多家媒體",
     "history": [
       {
@@ -1508,7 +1508,7 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-06-06",
+    "updatedAt": "2026-06-16",
     "category": "tracking",
     "launchRegions": [
       {
@@ -1532,8 +1532,8 @@
         "url": "https://www.rockstargames.com/VI"
       }
     ],
-    "currentEvent": "Rockstar Games confirmed the release date of November 19, 2026, for PS5 and Xbox Series X/S. Marketing and pre-orders are expected to start in summer 2026. The game's launch is causing other publishers to avoid releasing major titles in November 2026.",
-    "eventNote": "Rockstar Games confirmed the release date of November 19, 2026, for PS5 and Xbox Series X/S. Marketing and pre-orders are expected to start in summer 2026. The game's launch is causing other publishers to avoid releasing major titles in November 2026."
+    "currentEvent": "Take-Two Interactive於2026年5月21日的財報會議中再次確認遊戲將於2026年11月19日發售。官方行銷活動預計將於2026年夏季（6月21日後）正式啟動，預購也將隨之開放。",
+    "eventNote": "Take-Two Interactive於2026年5月21日的財報會議中再次確認遊戲將於2026年11月19日發售。官方行銷活動預計將於2026年夏季（6月21日後）正式啟動，預購也將隨之開放。"
   },
   {
     "id": 6,
