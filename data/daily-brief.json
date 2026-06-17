@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-16T05:41:49.231677+00:00",
-  "fetchCount": 29,
+  "lastUpdated": "2026-06-17T05:22:12.909339+00:00",
+  "fetchCount": 30,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260617-ce0f88f9",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Weeks After Launching A Great Game On Game Pass, Dev Lays Off Its Staff",
+      "detail": "Late last month, Kwalee Labs launched its first-person horror shooter Luna Abyss on Xbox Series X|S, PlayStation 5, and PC. But not even a day-one Game Pass release was apparently enough to save the j",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-17T05:22:12.909339+00:00"
+    },
+    {
+      "id": "brief-20260617-2357b4a4",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Baldur’s Gate TV Show Gets A Positive-Sounding Update About The Cast",
+      "detail": "When the Baldur's Gate TV show was announced in 2025, people quickly became suspicious when it was confirmed that developer Larian has no involvement in it. Now, actor Samantha Béart--who plays Karlac",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-17T05:22:12.909339+00:00"
+    },
+    {
+      "id": "brief-20260617-b74269dc",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Guild Wars 3 Won’t Have “Hidden” Subscriptions Like Battle Passes",
+      "detail": "Guild Wars 3, the next MMORPG from developer ArenaNet, won't have a paid subscription, and it won't include battle passes or other paid seasonal systems, either.\n\n\n\nIn a blog post, studio head Colin J",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-17T05:22:12.909339+00:00"
+    },
+    {
+      "id": "brief-20260617-a95fac3d",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Ori Dev CEO Says Xbox Was Too Focused On Protecting Its Legacy To Build Its Futu",
+      "detail": "Moon Studios CEO Thomas Mahler (Ori and the Blind Forest, Ori and the Will of the Wisps, and No Rest for the Wicked) has commented on the recent turbulence at Xbox. The Ori games were previously publi",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-17T05:22:12.909339+00:00"
+    },
+    {
+      "id": "brief-20260617-4772a87c",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Helldivers 2 Gets A Much-Welcome Update To Reloading, Vehicles, And Campaign Pro",
+      "detail": "Helldivers 2 should feel more responsive to play than ever before, as the game's latest update brings major improvements to reloading. \n\n\n\nPatch 6.3.0, which is live now, brought a smorgasbord of bala",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-17T05:22:12.909339+00:00"
+    },
+    {
       "id": "brief-20260616-dfdc2afe",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-15T05:33:33.919039+00:00"
-    },
-    {
-      "id": "brief-20260615-9b3af368",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Everything Announced For Dead By Daylight During Its 10th Anniversary Stream",
-      "detail": "Dead by Daylight turns 10 years old today, and for its anniversary, the team at Behaviour Interactive has announced a ton of things coming to the game, both in the short and long term. We've rounded u",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-15T05:33:33.919039+00:00"
-    },
-    {
-      "id": "brief-20260615-e3c2f199",
-      "priority": "info",
-      "icon": "📰",
-      "title": "GameStop’s Rewards Program May Be Losing Its Best Feature – Report",
-      "detail": "Earlier this month, GameStop disclosed that it achieved the highest profit in the company's history during the first quarter of its latest fiscal year. Now, GameStop appears to be taking further steps",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-15T05:33:33.919039+00:00"
-    },
-    {
-      "id": "brief-20260615-bec1883d",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Microsoft Considering Spinning Off Xbox, Speeding Up Elder Scrolls And Fallout G",
-      "detail": "Microsoft's potential options for the future of the Xbox brand reportedly include spinning it off into a separate company or operating as a \"wholly owned subsidiary\" rather than a division within Micr",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-15T05:33:33.919039+00:00"
-    },
-    {
-      "id": "brief-20260614-e3c2f199",
-      "priority": "info",
-      "icon": "📰",
-      "title": "GameStop’s Rewards Program May Be Losing Its Best Feature – Report",
-      "detail": "Earlier this month, GameStop disclosed that it achieved the highest profit in the company's history during the first quarter of its latest fiscal year. Now, GameStop appears to be taking further steps",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-14T05:13:44.502328+00:00"
-    },
-    {
-      "id": "brief-20260614-bec1883d",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Microsoft Considering Spinning Off Xbox, Speeding Up Elder Scrolls And Fallout G",
-      "detail": "Microsoft's potential options for the future of the Xbox brand reportedly include spinning it off into a separate company or operating as a \"wholly owned subsidiary\" rather than a division within Micr",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-14T05:13:44.502328+00:00"
     }
   ]
 }
