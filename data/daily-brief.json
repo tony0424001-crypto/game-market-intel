@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-17T05:22:12.909339+00:00",
-  "fetchCount": 30,
+  "lastUpdated": "2026-06-18T05:11:39.977715+00:00",
+  "fetchCount": 31,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260618-7da5ef0f",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Marvel’s Spider-Man 2 Pulls In Another Costume From The Movies",
+      "detail": "In just over a month, Marvel's most iconic superhero will be back in theaters in Spider-Man: Brand New Day. But first, Marvel's Spider-Man 2 will be getting a free update that adds Peter Parker's late",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-18T05:11:39.977715+00:00"
+    },
+    {
+      "id": "brief-20260618-70258b9a",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Black Ops 1 And 2 Are Coming To PS4 And PS5",
+      "detail": "While the older Call of Duty games have remained on Xbox through the console generations, PlayStation owners haven't seen the first two Black Ops games available on their hardware since the PlayStatio",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-18T05:11:39.977715+00:00"
+    },
+    {
+      "id": "brief-20260618-bbb415aa",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Pokemon Champions Is Out Now On Mobile With A Very Powerful Freebie",
+      "detail": "After launching on Switch and Switch 2 earlier this year, Pokemon Champions has gone mobile this week with its official release on iOS and Android devices. It's a free-to-play title on mobile, and the",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-18T05:11:39.977715+00:00"
+    },
+    {
+      "id": "brief-20260618-dffb4357",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Dispatch Has Found The Funniest Possible Way To Fix Its Switch Censorship",
+      "detail": "Dispatch players on Switch consoles can grab a new \"HR Violations Pack\" patch for the game--one that spices things up by removing some of the game's censorship. Available for US, Europe, Australia, an",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-18T05:11:39.977715+00:00"
+    },
+    {
+      "id": "brief-20260618-9b3dd0ee",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Fortnite Will Let You Make The Simpsons Games, And You Can Bet Someone Will Make",
+      "detail": "Epic Games and Disney have announced that The Simpsons is being added to the Fortnite UEFN program, which means players will be able to make \"fully authentic\" games based on the iconic animated show. ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-18T05:11:39.977715+00:00"
+    },
+    {
       "id": "brief-20260617-ce0f88f9",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-16T05:41:49.231677+00:00"
-    },
-    {
-      "id": "brief-20260616-ff038bef",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox Closing We Happy Few, South Of Midnight Developer Compulsion Games – Report",
-      "detail": "Microsoft is reportedly going to close the Canadian developer Compulsion Games, which is known for Contrast, We Happy Few, and South of Midnight. \n\n\n\nAccording to Kotaku, the cuts could affect more th",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-16T05:41:49.231677+00:00"
-    },
-    {
-      "id": "brief-20260616-0bf489b1",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Halo: Campaign Evolved Release Date And Global Launch Times Revealed",
-      "detail": "Microsoft's next big game is Halo: Campaign Evolved, which launches at the end of July for Xbox, PlayStation, and PC. Ahead of that, Microsoft has published the official release times for the game, wh",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-16T05:41:49.231677+00:00"
-    },
-    {
-      "id": "brief-20260616-b9b6ec72",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox Game Studios Boss Is Out Ahead Of Reported Layoffs And Other Major Changes ",
-      "detail": "Craig Duncan, the head of Xbox Game Studios, is leaving the company after 15 years at Microsoft, and so is his chief of staff. The changes come ahead of reported layoffs and possible studio closures a",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-16T05:41:49.231677+00:00"
-    },
-    {
-      "id": "brief-20260615-429038d3",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Don’t Hold Your Breath For A Dead By Daylight Sequel",
-      "detail": "Dead by Daylight turns 10 years old today, June 14. The asymmetrical horror multiplayer game has been leading the pack since its debut, helping popularize the genre that has grown into a (haunted) cot",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-15T05:33:33.919039+00:00"
-    },
-    {
-      "id": "brief-20260615-ef432612",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Dead By Daylight Is More Violent Than Ever, And The Devs Told Me Why",
-      "detail": "Dead by Daylight is now 10 years old and has been played by 70 million players worldwide, making it one of the older and most successful live-service games--and horror games--ever made. It's changed a",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-15T05:33:33.919039+00:00"
     }
   ]
 }
