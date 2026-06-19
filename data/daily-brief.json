@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-18T05:11:39.977715+00:00",
-  "fetchCount": 31,
+  "lastUpdated": "2026-06-19T05:31:35.970516+00:00",
+  "fetchCount": 32,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260619-ff20629b",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Soccer Game Rematch Adds A Nearly Naked Man For World Cup And Tobias Funke Fans",
+      "detail": "The 2026's Men's World Cup is underway, and the popular soccer game Rematch got an update recently inspired by the global event. Now, the game has received another update that adds a skin that lets yo",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-19T05:31:35.970516+00:00"
+    },
+    {
+      "id": "brief-20260619-c8ac9e3a",
+      "priority": "info",
+      "icon": "📰",
+      "title": "This Week’s Epic Games Store Freebies Are All About Robots",
+      "detail": "The Epic Games Store continues to give away a free game each week, and this week's offering is another nice find at a price that can't be beat. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at lea",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-19T05:31:35.970516+00:00"
+    },
+    {
+      "id": "brief-20260619-93ede1e5",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Nearly 30 Years Later, Only One GTA Cover Actually Shows The Titular Crime",
+      "detail": "The Grand Theft Auto series began in 1997, and every game in the series lets you commit the titular crime--sometimes stealing a parked vehicle, but often carjacking a driver in the middle of the stree",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-19T05:31:35.970516+00:00"
+    },
+    {
+      "id": "brief-20260619-afe7e8bd",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Midnight Murder Club Gets Final Update, But There Is Some Good News",
+      "detail": "Midnight Murder Club, the positively received horror party game from the developers of Knockout City, is getting one more update before the studio moves on. However, Velan Studios confirmed the game i",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-19T05:31:35.970516+00:00"
+    },
+    {
+      "id": "brief-20260619-bdb1daaf",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Palworld Dev On AI: “Gamers Don’t Want It”",
+      "detail": "\n\n\n\nJohn Buckley, the outspoken communications lead for Palworld developer Pocketpair, has commented on the hot-button issue of AI in gaming.\n\n\n\nSpeaking to GamesRadar, Buckley said, \"Gamers don't wan",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-19T05:31:35.970516+00:00"
+    },
+    {
       "id": "brief-20260618-7da5ef0f",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-17T05:22:12.909339+00:00"
-    },
-    {
-      "id": "brief-20260617-b74269dc",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Guild Wars 3 Won’t Have “Hidden” Subscriptions Like Battle Passes",
-      "detail": "Guild Wars 3, the next MMORPG from developer ArenaNet, won't have a paid subscription, and it won't include battle passes or other paid seasonal systems, either.\n\n\n\nIn a blog post, studio head Colin J",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-17T05:22:12.909339+00:00"
-    },
-    {
-      "id": "brief-20260617-a95fac3d",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Ori Dev CEO Says Xbox Was Too Focused On Protecting Its Legacy To Build Its Futu",
-      "detail": "Moon Studios CEO Thomas Mahler (Ori and the Blind Forest, Ori and the Will of the Wisps, and No Rest for the Wicked) has commented on the recent turbulence at Xbox. The Ori games were previously publi",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-17T05:22:12.909339+00:00"
-    },
-    {
-      "id": "brief-20260617-4772a87c",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Helldivers 2 Gets A Much-Welcome Update To Reloading, Vehicles, And Campaign Pro",
-      "detail": "Helldivers 2 should feel more responsive to play than ever before, as the game's latest update brings major improvements to reloading. \n\n\n\nPatch 6.3.0, which is live now, brought a smorgasbord of bala",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-17T05:22:12.909339+00:00"
-    },
-    {
-      "id": "brief-20260616-dfdc2afe",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Double Fine, Ninja Theory, And More Reportedly Trying To Spin Off From Xbox Game",
-      "detail": "Earlier today, word broke that Microsoft is reportedly planning to close Compulsion Games--the studio behind South of Midnight, We Happy Few, and Contrast--as part of a larger round of layoffs and stu",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-16T05:41:49.231677+00:00"
-    },
-    {
-      "id": "brief-20260616-d45381db",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Obsession Director Would Be Up For A Video Game Movie",
-      "detail": "\n\n\n\nFilmmaker Curry Barker is on top of the world right now thanks to the success of his horror movie Obsession. It's made more than $220 million against a reported $750,000 budget, and everyone wants",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-16T05:41:49.231677+00:00"
     }
   ]
 }
