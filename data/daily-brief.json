@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-19T05:31:35.970516+00:00",
-  "fetchCount": 32,
+  "lastUpdated": "2026-06-20T04:47:30.651873+00:00",
+  "fetchCount": 33,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260620-99a02e0c",
+      "priority": "info",
+      "icon": "📰",
+      "title": "If You Haven’t Reserved A Steam Controller Yet, You’ll Have To Wait Until Next Y",
+      "detail": "Last month, Valve launched its Steam Controller and demand has far outweighed the supply. So much so that as of today, new orders for Steam Controller won't be fulfilled by Valve until 2027 at the ear",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-20T04:47:30.651873+00:00"
+    },
+    {
+      "id": "brief-20260620-ff20629b",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Soccer Game Rematch Adds A Nearly Naked Man For World Cup And Tobias Funke Fans",
+      "detail": "The 2026's Men's World Cup is underway, and the popular soccer game Rematch got an update recently inspired by the global event. Now, the game has received another update that adds a skin that lets yo",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-20T04:47:30.651873+00:00"
+    },
+    {
+      "id": "brief-20260620-c8ac9e3a",
+      "priority": "info",
+      "icon": "📰",
+      "title": "This Week’s Epic Games Store Freebies Are All About Robots",
+      "detail": "The Epic Games Store continues to give away a free game each week, and this week's offering is another nice find at a price that can't be beat. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at lea",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-20T04:47:30.651873+00:00"
+    },
+    {
+      "id": "brief-20260620-93ede1e5",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Nearly 30 Years Later, Only One GTA Cover Actually Shows The Titular Crime",
+      "detail": "The Grand Theft Auto series began in 1997, and every game in the series lets you commit the titular crime--sometimes stealing a parked vehicle, but often carjacking a driver in the middle of the stree",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-20T04:47:30.651873+00:00"
+    },
+    {
+      "id": "brief-20260620-afe7e8bd",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Midnight Murder Club Gets Final Update, But There Is Some Good News",
+      "detail": "Midnight Murder Club, the positively received horror party game from the developers of Knockout City, is getting one more update before the studio moves on. However, Velan Studios confirmed the game i",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-20T04:47:30.651873+00:00"
+    },
+    {
       "id": "brief-20260619-ff20629b",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-18T05:11:39.977715+00:00"
-    },
-    {
-      "id": "brief-20260618-bbb415aa",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Pokemon Champions Is Out Now On Mobile With A Very Powerful Freebie",
-      "detail": "After launching on Switch and Switch 2 earlier this year, Pokemon Champions has gone mobile this week with its official release on iOS and Android devices. It's a free-to-play title on mobile, and the",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-18T05:11:39.977715+00:00"
-    },
-    {
-      "id": "brief-20260618-dffb4357",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Dispatch Has Found The Funniest Possible Way To Fix Its Switch Censorship",
-      "detail": "Dispatch players on Switch consoles can grab a new \"HR Violations Pack\" patch for the game--one that spices things up by removing some of the game's censorship. Available for US, Europe, Australia, an",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-18T05:11:39.977715+00:00"
-    },
-    {
-      "id": "brief-20260618-9b3dd0ee",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Fortnite Will Let You Make The Simpsons Games, And You Can Bet Someone Will Make",
-      "detail": "Epic Games and Disney have announced that The Simpsons is being added to the Fortnite UEFN program, which means players will be able to make \"fully authentic\" games based on the iconic animated show. ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-18T05:11:39.977715+00:00"
-    },
-    {
-      "id": "brief-20260617-ce0f88f9",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Weeks After Launching A Great Game On Game Pass, Dev Lays Off Its Staff",
-      "detail": "Late last month, Kwalee Labs launched its first-person horror shooter Luna Abyss on Xbox Series X|S, PlayStation 5, and PC. But not even a day-one Game Pass release was apparently enough to save the j",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-17T05:22:12.909339+00:00"
-    },
-    {
-      "id": "brief-20260617-2357b4a4",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Baldur’s Gate TV Show Gets A Positive-Sounding Update About The Cast",
-      "detail": "When the Baldur's Gate TV show was announced in 2025, people quickly became suspicious when it was confirmed that developer Larian has no involvement in it. Now, actor Samantha Béart--who plays Karlac",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-17T05:22:12.909339+00:00"
     }
   ]
 }
