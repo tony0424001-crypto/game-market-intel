@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-20T04:47:30.651873+00:00",
-  "fetchCount": 33,
+  "lastUpdated": "2026-06-21T05:23:09.456033+00:00",
+  "fetchCount": 34,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260621-99a02e0c",
+      "priority": "info",
+      "icon": "📰",
+      "title": "If You Haven’t Reserved A Steam Controller Yet, You’ll Have To Wait Until Next Y",
+      "detail": "Last month, Valve launched its Steam Controller and demand has far outweighed the supply. So much so that as of today, new orders for Steam Controller won't be fulfilled by Valve until 2027 at the ear",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-21T05:23:09.456033+00:00"
+    },
+    {
+      "id": "brief-20260621-ff20629b",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Soccer Game Rematch Adds A Nearly Naked Man For World Cup And Tobias Funke Fans",
+      "detail": "The 2026's Men's World Cup is underway, and the popular soccer game Rematch got an update recently inspired by the global event. Now, the game has received another update that adds a skin that lets yo",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-21T05:23:09.456033+00:00"
+    },
+    {
+      "id": "brief-20260621-c8ac9e3a",
+      "priority": "info",
+      "icon": "📰",
+      "title": "This Week’s Epic Games Store Freebies Are All About Robots",
+      "detail": "The Epic Games Store continues to give away a free game each week, and this week's offering is another nice find at a price that can't be beat. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at lea",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-21T05:23:09.456033+00:00"
+    },
+    {
+      "id": "brief-20260621-93ede1e5",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Nearly 30 Years Later, Only One GTA Cover Actually Shows The Titular Crime",
+      "detail": "The Grand Theft Auto series began in 1997, and every game in the series lets you commit the titular crime--sometimes stealing a parked vehicle, but often carjacking a driver in the middle of the stree",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-21T05:23:09.456033+00:00"
+    },
+    {
+      "id": "brief-20260621-afe7e8bd",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Midnight Murder Club Gets Final Update, But There Is Some Good News",
+      "detail": "Midnight Murder Club, the positively received horror party game from the developers of Knockout City, is getting one more update before the studio moves on. However, Velan Studios confirmed the game i",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-21T05:23:09.456033+00:00"
+    },
+    {
       "id": "brief-20260620-99a02e0c",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-19T05:31:35.970516+00:00"
-    },
-    {
-      "id": "brief-20260619-93ede1e5",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Nearly 30 Years Later, Only One GTA Cover Actually Shows The Titular Crime",
-      "detail": "The Grand Theft Auto series began in 1997, and every game in the series lets you commit the titular crime--sometimes stealing a parked vehicle, but often carjacking a driver in the middle of the stree",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-19T05:31:35.970516+00:00"
-    },
-    {
-      "id": "brief-20260619-afe7e8bd",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Midnight Murder Club Gets Final Update, But There Is Some Good News",
-      "detail": "Midnight Murder Club, the positively received horror party game from the developers of Knockout City, is getting one more update before the studio moves on. However, Velan Studios confirmed the game i",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-19T05:31:35.970516+00:00"
-    },
-    {
-      "id": "brief-20260619-bdb1daaf",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Palworld Dev On AI: “Gamers Don’t Want It”",
-      "detail": "\n\n\n\nJohn Buckley, the outspoken communications lead for Palworld developer Pocketpair, has commented on the hot-button issue of AI in gaming.\n\n\n\nSpeaking to GamesRadar, Buckley said, \"Gamers don't wan",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-19T05:31:35.970516+00:00"
-    },
-    {
-      "id": "brief-20260618-7da5ef0f",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Marvel’s Spider-Man 2 Pulls In Another Costume From The Movies",
-      "detail": "In just over a month, Marvel's most iconic superhero will be back in theaters in Spider-Man: Brand New Day. But first, Marvel's Spider-Man 2 will be getting a free update that adds Peter Parker's late",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-18T05:11:39.977715+00:00"
-    },
-    {
-      "id": "brief-20260618-70258b9a",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Black Ops 1 And 2 Are Coming To PS4 And PS5",
-      "detail": "While the older Call of Duty games have remained on Xbox through the console generations, PlayStation owners haven't seen the first two Black Ops games available on their hardware since the PlayStatio",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-18T05:11:39.977715+00:00"
     }
   ]
 }
