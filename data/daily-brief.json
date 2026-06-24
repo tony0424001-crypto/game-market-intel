@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-23T04:36:57.965066+00:00",
-  "fetchCount": 36,
+  "lastUpdated": "2026-06-24T04:44:42.230698+00:00",
+  "fetchCount": 37,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260624-c756a940",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Marathon Mid-Season Update Introduces New Endgame PvE Mode",
+      "detail": "The second season of Marathon is only a few weeks old, but Bungie is already providing players with the early word about next month's mid-season update. One of the changes coming to the game is Vault ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-24T04:44:42.230698+00:00"
+    },
+    {
+      "id": "brief-20260624-c7ecef09",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Sonic’s New Chaos Hunt Game Includes Some Fine Print You Shouldn’t Skip",
+      "detail": "The 35th anniversary of Sonic the Hedgehog is arriving later this year, and one of the ways that Sega is celebrating the event is a new ARG game called Chaos Hunt. Fans have been invited to hunt for s",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-24T04:44:42.230698+00:00"
+    },
+    {
+      "id": "brief-20260624-162ed00a",
+      "priority": "info",
+      "icon": "📰",
+      "title": "GTA 6’s “Leaked” Sky-High Prices May Be Placeholders, But Could Be “Possible And",
+      "detail": "GTA 6 preorders go live on June 25, and ahead of that, one retailer posted listings for the game showing higher-than-expected price points. A prominent and reliable reporter, however, has said those w",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-24T04:44:42.230698+00:00"
+    },
+    {
+      "id": "brief-20260624-0a175187",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Valve Was Forced Into Making A Weird Hardware Decision With Steam Machine",
+      "detail": "Valve's Steam Machine is finally launching next week, but the journey to this point hasn't been easy. The living-room PC has found itself at the center of an ongoing RAM crisis--one that has forced Va",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-24T04:44:42.230698+00:00"
+    },
+    {
+      "id": "brief-20260624-a7cb30d2",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Lords Of The Fallen 2 Delayed To Avoid GTA 6 And Get More “Enhancements”",
+      "detail": "Lords of the Fallen 2 is not going to make it out on time. Developer CI Games has announced that the game is shifting from 2026 to Q1 2027 (January-March 2027).\n\n\n\nCI Games CEO Marek Tyminski said fee",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-24T04:44:42.230698+00:00"
+    },
+    {
       "id": "brief-20260623-fb04b5a1",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-22T05:38:21.510502+00:00"
-    },
-    {
-      "id": "brief-20260622-c8ac9e3a",
-      "priority": "info",
-      "icon": "📰",
-      "title": "This Week’s Epic Games Store Freebies Are All About Robots",
-      "detail": "The Epic Games Store continues to give away a free game each week, and this week's offering is another nice find at a price that can't be beat. Every Thursday at 8 AM PT / 11 AM ET, Epic offers at lea",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-22T05:38:21.510502+00:00"
-    },
-    {
-      "id": "brief-20260622-93ede1e5",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Nearly 30 Years Later, Only One GTA Cover Actually Shows The Titular Crime",
-      "detail": "The Grand Theft Auto series began in 1997, and every game in the series lets you commit the titular crime--sometimes stealing a parked vehicle, but often carjacking a driver in the middle of the stree",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-22T05:38:21.510502+00:00"
-    },
-    {
-      "id": "brief-20260622-afe7e8bd",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Midnight Murder Club Gets Final Update, But There Is Some Good News",
-      "detail": "Midnight Murder Club, the positively received horror party game from the developers of Knockout City, is getting one more update before the studio moves on. However, Velan Studios confirmed the game i",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-22T05:38:21.510502+00:00"
-    },
-    {
-      "id": "brief-20260621-99a02e0c",
-      "priority": "info",
-      "icon": "📰",
-      "title": "If You Haven’t Reserved A Steam Controller Yet, You’ll Have To Wait Until Next Y",
-      "detail": "Last month, Valve launched its Steam Controller and demand has far outweighed the supply. So much so that as of today, new orders for Steam Controller won't be fulfilled by Valve until 2027 at the ear",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-21T05:23:09.456033+00:00"
-    },
-    {
-      "id": "brief-20260621-ff20629b",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Soccer Game Rematch Adds A Nearly Naked Man For World Cup And Tobias Funke Fans",
-      "detail": "The 2026's Men's World Cup is underway, and the popular soccer game Rematch got an update recently inspired by the global event. Now, the game has received another update that adds a skin that lets yo",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-21T05:23:09.456033+00:00"
     }
   ]
 }
