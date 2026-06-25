@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-24T04:44:42.230698+00:00",
-  "fetchCount": 37,
+  "lastUpdated": "2026-06-25T04:39:56.010078+00:00",
+  "fetchCount": 38,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260625-3cdfefc3",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Breaking Down Our New Look At GTA 6",
+      "detail": "Rockstar has officially announced the pricing and preorder information for Grand Theft Auto 6, and alongside this news, the studio has also shared plenty of new screenshots and artwork from the game. ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-25T04:39:56.010078+00:00"
+    },
+    {
+      "id": "brief-20260625-5e686ea2",
+      "priority": "info",
+      "icon": "📰",
+      "title": "mClassic Graphics Upscaler For Retro Game Consoles Is Over 60% Off For Amazon Pr",
+      "detail": "\n\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\n\t\n\t\t\t\t\tmClassic Graphics Upscaler (Retro Edition)\n\t\t\t\t\t\t\t$39 (was $100)\n\t\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\nSee at Amazon\n\t\t\t\n\t\t\t\t\t\t\t\t\n\t\n\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\n\t\n\t\t\t\t\tmClassic Graphics Up",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-25T04:39:56.010078+00:00"
+    },
+    {
+      "id": "brief-20260625-1ddbbe43",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Your Window To Preorder A Steam Machine Is About To Close",
+      "detail": "At long last, Valve has revealed the price for its highly anticipated Steam Machine. The system will officially cost $1,049 for its 512GB version without a Steam Controller and it launches on June 30.",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-25T04:39:56.010078+00:00"
+    },
+    {
+      "id": "brief-20260625-f3de9e32",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Xbox May Have Just Solved A Major Annoyance About Huge Game Updates",
+      "detail": "Microsoft released an update for Xbox Insiders today to test several new features coming to Xbox Series X|S. The update brings changes to Gamertags and more, but the most useful of these features allo",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-25T04:39:56.010078+00:00"
+    },
+    {
+      "id": "brief-20260625-1845780b",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Some Retailers Are Refusing To Carry GTA 6’s Physical Release",
+      "detail": "The news that Grand Theft Auto 6 won't get a traditional physical release and will include a code in a box rather than a disc isn't sitting well with many on the internet. At least two retailers are j",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-25T04:39:56.010078+00:00"
+    },
+    {
       "id": "brief-20260624-c756a940",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-23T04:36:57.965066+00:00"
-    },
-    {
-      "id": "brief-20260623-6be53fa7",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Supergirl’s Milly Alcock Reacts To Seeing Her Fortnite Skin",
-      "detail": "Epic Games is teaming up with DC and Warner Bros. to bring Milly Alcock's Supergirl to Fortnite, alongside her cute little pooch Krypto.\n\n\n\nEpic has posted a video showing Alcock's reaction to seeing ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-23T04:36:57.965066+00:00"
-    },
-    {
-      "id": "brief-20260623-64b8308d",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Steam Machine Is NOT A Console, Valve Says",
-      "detail": "Valve has finally announced the price of the new Steam Machine, and it'll be over $1,000 when it launches on June 30. In addition to confirming the price and release date, Valve published a new FAQ th",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-23T04:36:57.965066+00:00"
-    },
-    {
-      "id": "brief-20260623-85d2a059",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Ocarina Of Time Fan Project Bows Out Before Nintendo Comes Knocking",
-      "detail": "A fan recreating Ocarina of Time has scrapped the project, citing fears of \"Nintendo ninjas\" following the official announcement of the Switch 2 remake.\n\n\n\nAccording to IGN, YouTuber CryZENx pulled th",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-23T04:36:57.965066+00:00"
-    },
-    {
-      "id": "brief-20260622-99a02e0c",
-      "priority": "info",
-      "icon": "📰",
-      "title": "If You Haven’t Reserved A Steam Controller Yet, You’ll Have To Wait Until Next Y",
-      "detail": "Last month, Valve launched its Steam Controller and demand has far outweighed the supply. So much so that as of today, new orders for Steam Controller won't be fulfilled by Valve until 2027 at the ear",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-22T05:38:21.510502+00:00"
-    },
-    {
-      "id": "brief-20260622-ff20629b",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Soccer Game Rematch Adds A Nearly Naked Man For World Cup And Tobias Funke Fans",
-      "detail": "The 2026's Men's World Cup is underway, and the popular soccer game Rematch got an update recently inspired by the global event. Now, the game has received another update that adds a skin that lets yo",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-22T05:38:21.510502+00:00"
     }
   ]
 }
