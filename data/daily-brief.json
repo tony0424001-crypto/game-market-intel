@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-25T04:39:56.010078+00:00",
-  "fetchCount": 38,
+  "lastUpdated": "2026-06-26T04:47:36.918567+00:00",
+  "fetchCount": 39,
   "items": [
     {
       "id": "brief-20260528-001",
@@ -91,6 +91,61 @@
       "fetchedAt": "2026-05-28T07:00:00Z"
     },
     {
+      "id": "brief-20260626-f02e7e4d",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Xbox Series S, The “Cheap” Option, Now Costs As Much As Series X Did Six Years A",
+      "detail": "When Xbox Series S launched alongside Series X and PS5, it presented a compelling argument: Play all of the same games as elsewhere, albeit with lesser performance and visuals, for way cheaper. $300 f",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-26T04:47:36.918567+00:00"
+    },
+    {
+      "id": "brief-20260626-3dc61e1a",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Xbox May Have Another Price Hike Up Its Sleeve In 2027",
+      "detail": "If you thought today's Xbox price hike was jaw-dropping, it appears that Microsoft is preparing for another one in the next year.\n\n\n\nFollowing the June 25 announcement that Xbox consoles will increase",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-26T04:47:36.918567+00:00"
+    },
+    {
+      "id": "brief-20260626-f78f7605",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Buying GTA 6 And A New Console This Fall? You Better Be Rich",
+      "detail": "When Grand Theft Auto 6 arrives on November 19, 2026, it will undoubtedly be one of the biggest--if not the biggest--entertainment launches in history. The game will, at least initially, only launch o",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-26T04:47:36.918567+00:00"
+    },
+    {
+      "id": "brief-20260626-f41aba97",
+      "priority": "info",
+      "icon": "📰",
+      "title": "12 GameSpot Game Of The Year Winners Are Ridiculously Cheap Right Now",
+      "detail": "Looking to add more games to your never-ending backlog? Steam's summer sale is back once again, and with it comes some seriously steep discounts on a ton of games. With all these options, it's only na",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-26T04:47:36.918567+00:00"
+    },
+    {
+      "id": "brief-20260626-f4fa8be7",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Sony’s “Stricter Guidelines” On Shovelware PlayStation Games Are Reportedly Targ",
+      "detail": "It's no secret that Sony has been cleaning up the PlayStation Store, with the company removing thousands of so-called \"shovelware\" games from one developer. Now, though, we're learning that this remov",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-26T04:47:36.918567+00:00"
+    },
+    {
       "id": "brief-20260625-3cdfefc3",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-24T04:44:42.230698+00:00"
-    },
-    {
-      "id": "brief-20260624-162ed00a",
-      "priority": "info",
-      "icon": "📰",
-      "title": "GTA 6’s “Leaked” Sky-High Prices May Be Placeholders, But Could Be “Possible And",
-      "detail": "GTA 6 preorders go live on June 25, and ahead of that, one retailer posted listings for the game showing higher-than-expected price points. A prominent and reliable reporter, however, has said those w",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-24T04:44:42.230698+00:00"
-    },
-    {
-      "id": "brief-20260624-0a175187",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Valve Was Forced Into Making A Weird Hardware Decision With Steam Machine",
-      "detail": "Valve's Steam Machine is finally launching next week, but the journey to this point hasn't been easy. The living-room PC has found itself at the center of an ongoing RAM crisis--one that has forced Va",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-24T04:44:42.230698+00:00"
-    },
-    {
-      "id": "brief-20260624-a7cb30d2",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Lords Of The Fallen 2 Delayed To Avoid GTA 6 And Get More “Enhancements”",
-      "detail": "Lords of the Fallen 2 is not going to make it out on time. Developer CI Games has announced that the game is shifting from 2026 to Q1 2027 (January-March 2027).\n\n\n\nCI Games CEO Marek Tyminski said fee",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-24T04:44:42.230698+00:00"
-    },
-    {
-      "id": "brief-20260623-fb04b5a1",
-      "priority": "info",
-      "icon": "📰",
-      "title": "AMD’s FSR Upscaling 4.1 Comes To Older GPUs, Steam Machine And Xbox ROG Ally Sup",
-      "detail": "AMD has announced that owners of RDNA 3 GPUs can now enjoy the benefits offered by its latest version of AI-powered upscaling, FSR 4.1. This comes a few weeks earlier than its July estimate, with the ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-23T04:36:57.965066+00:00"
-    },
-    {
-      "id": "brief-20260623-63314d9e",
-      "priority": "info",
-      "icon": "📰",
-      "title": "The Internet Has Some Thoughts On The Steam Machine’s $1,000+ Price",
-      "detail": "Valve has officially announced the Steam Machine's price, and if you're looking to get one of the not-consoles when they launch on June 30, you're going to have to spend over $1,000 at minimum. As you",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-23T04:36:57.965066+00:00"
     }
   ]
 }

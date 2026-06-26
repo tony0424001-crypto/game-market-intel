@@ -1,8 +1,57 @@
 {
-  "lastAudit": "2026-06-25T04:43:34.516180+00:00",
+  "lastAudit": "2026-06-26T04:51:11.364823+00:00",
   "totalProducts": 30,
-  "issuesFound": 0,
-  "updatesApplied": 0,
-  "findings": [],
-  "nextAudit": "2026-06-26"
+  "issuesFound": 6,
+  "updatesApplied": 20,
+  "findings": [
+    {
+      "name": "失控進化",
+      "status": "warning",
+      "issue": "soft-launch→live-ops",
+      "suggestion": "已自動更新",
+      "confidence": "high",
+      "autoFixed": true
+    },
+    {
+      "name": "王者榮耀：世界",
+      "status": "warning",
+      "issue": "cbt→live-ops",
+      "suggestion": "已自動更新",
+      "confidence": "high",
+      "autoFixed": true
+    },
+    {
+      "name": "遺忘之海",
+      "status": "warning",
+      "issue": "cbt→live-ops",
+      "suggestion": "已自動更新",
+      "confidence": "high",
+      "autoFixed": true
+    },
+    {
+      "name": "卡厄思夢境",
+      "status": "warning",
+      "issue": "live-ops→live-ops",
+      "suggestion": "已自動更新",
+      "confidence": "high",
+      "autoFixed": true
+    },
+    {
+      "name": "藍色星原：旅謠",
+      "status": "warning",
+      "issue": "cbt→cbt (ended)",
+      "suggestion": "已自動更新",
+      "confidence": "high",
+      "autoFixed": true
+    },
+    {
+      "name": "破界：界限終零",
+      "status": "warning",
+      "issue": "cbt→cbt (ended)",
+      "suggestion": "已自動更新",
+      "confidence": "high",
+      "autoFixed": true
+    }
+  ],
+  "nextAudit": "2026-06-27"
 }
