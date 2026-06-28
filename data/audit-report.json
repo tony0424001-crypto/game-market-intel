@@ -1,65 +1,8 @@
 {
-  "lastAudit": "2026-06-27T04:33:46.914649+00:00",
+  "lastAudit": "2026-06-28T04:59:40.142226+00:00",
   "totalProducts": 30,
-  "issuesFound": 7,
-  "updatesApplied": 18,
-  "findings": [
-    {
-      "name": "望月",
-      "status": "warning",
-      "issue": "實機演示公開 / 線下試玩會→實機演示公開 / 線下試玩會 / 完成度90%",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    },
-    {
-      "name": "勇者鬥惡龍：破限亂鬥",
-      "status": "warning",
-      "issue": "live-ops→live-ops",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    },
-    {
-      "name": "魔御：STAR DIVE",
-      "status": "warning",
-      "issue": "live-ops→live-ops",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    },
-    {
-      "name": "東離劍遊紀M",
-      "status": "warning",
-      "issue": "Shutdown→Shutdown",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    },
-    {
-      "name": "東離劍遊紀M",
-      "status": "error",
-      "issue": "建議移除: 遊戲已於2024年8月24日停止營運。",
-      "suggestion": "需人工確認",
-      "confidence": "medium",
-      "autoFixed": false
-    },
-    {
-      "name": "奇幻生活 i",
-      "status": "warning",
-      "issue": "live-ops→手機版預計2026年夏季推出",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    },
-    {
-      "name": "Pictonico!",
-      "status": "warning",
-      "issue": "live-ops→live-ops",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    }
-  ],
-  "nextAudit": "2026-06-28"
+  "issuesFound": 0,
+  "updatesApplied": 0,
+  "findings": [],
+  "nextAudit": "2026-06-29"
 }
