@@ -1,7 +1,7 @@
 {
   "year": 2026,
   "resetAt": "2026-01-01T00:00:00Z",
-  "lastUpdated": "2026-06-28T04:58:06.762826+00:00",
+  "lastUpdated": "2026-06-29T05:07:54.445720+00:00",
   "quarters": {
     "Q1": {
       "label": "2026 Q1 (1月-3月)",
@@ -143,6 +143,48 @@
           "type": "media",
           "detail": "「銀星奔流」新版本上線，含新角色、新區域",
           "platform": "mobile"
+        },
+        {
+          "date": "2026-06-29",
+          "product": "ChinaJoy 2026主題「與AI同遊」：聚焦AI技術與",
+          "type": "media",
+          "detail": "2026年第二十三屆中國國際數碼互動娛樂展覽會（ChinaJoy）將於7月31日至8月3日在上海舉行，主題定為「與AI同遊」。展會將以空前的遊戲試玩陣容與前沿AI技術生態為核心，全面呈現數字娛樂產業的",
+          "platform": "console/mobile"
+        },
+        {
+          "date": "2026-06-29",
+          "product": "《俠盜獵車手6》正式開放預購，引發全球市場關注",
+          "type": "media",
+          "detail": "Rockstar Games的《俠盜獵車手6》（Grand Theft Auto VI）已於6月24日正式開放預購，此舉引發全球玩家熱烈討論，並牽動母公司Take-Two Interactive（TT",
+          "platform": "console"
+        },
+        {
+          "date": "2026-06-29",
+          "product": "PlayStation State of Play 6月發表",
+          "type": "media",
+          "detail": "PlayStation於6月3日的State of Play活動中，發表了多款備受期待的新作，包括《Dune: Awakening》、《空戰奇兵8 希孚之翼》、《鬼武者Way of the Sword",
+          "platform": "console"
+        },
+        {
+          "date": "2026-06-29",
+          "product": "Summer Game Fest 2026：中國3A遊戲《穿",
+          "type": "media",
+          "detail": "2026年夏日遊戲節（Summer Game Fest）於6月6日舉辦，匯聚全球頂尖遊戲廠商。其中，騰訊的《穿越火線：潛伏》和《古劍奇譚》新作，以及網易的《歸唐》等國產3A大作亮相，顯示中國遊戲廠商在",
+          "platform": "console/PC"
+        },
+        {
+          "date": "2026-06-29",
+          "product": "中國遊戲版號發放常態化，小遊戲「出海」成新增長極",
+          "type": "media",
+          "detail": "2025年中國遊戲版號發放常態化，1-10月國產遊戲版號累計發放1354款，同比增長26.31%。同時，中國小遊戲「出海」表現亮眼，從「嘗試性探索」邁入「規模化變現」階段，海外收入過億的小遊戲達7款，",
+          "platform": "mobile/PC"
+        },
+        {
+          "date": "2026-06-29",
+          "product": "AI衝擊遊戲產業：逾四成開發者萌生退意，中國工作室AI應用率",
+          "type": "media",
+          "detail": "Skillsearch最新調查顯示，全球逾四成遊戲開發者因持續裁員潮與生成式AI的衝擊考慮離開遊戲業。儘管如此，中國遊戲工作室在AI技術應用方面領先，60%的中國工作室已在開發流程中使用AI技術，顯示",
+          "platform": "N/A"
         }
       ]
     },

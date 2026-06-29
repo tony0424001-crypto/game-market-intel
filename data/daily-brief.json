@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-06-28T04:58:06.762826+00:00",
-  "fetchCount": 41,
+  "lastUpdated": "2026-06-29T05:07:54.445720+00:00",
+  "fetchCount": 42,
   "items": [
+    {
+      "id": "brief-20260629-9fda2eca",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "ChinaJoy 2026主題「與AI同遊」：聚焦AI技術與遊戲融合",
+      "detail": "2026年第二十三屆中國國際數碼互動娛樂展覽會（ChinaJoy）將於7月31日至8月3日在上海舉行，主題定為「與AI同遊」。展會將以空前的遊戲試玩陣容與前沿AI技術生態為核心，全面呈現數字娛樂產業的最新成果，並設有Vision Future前沿科技展區和ChinaJoy Next Play創新遊戲體驗場，展示AI NPC、互動敘事等前沿產品。",
+      "action": "關注AI技術在遊戲開發與體驗中的應用，評估潛在合作機會。",
+      "platform": "console/mobile",
+      "source": "澎湃新聞/新華網",
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
+    },
+    {
+      "id": "brief-20260629-20b72f32",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《俠盜獵車手6》正式開放預購，引發全球市場關注",
+      "detail": "Rockstar Games的《俠盜獵車手6》（Grand Theft Auto VI）已於6月24日正式開放預購，此舉引發全球玩家熱烈討論，並牽動母公司Take-Two Interactive（TTWO）的股價表現。市場普遍對其商業潛力持樂觀態度，預計將為公司帶來顯著營收貢獻。",
+      "action": "密切關注預購數據及市場反應，評估對全球遊戲市場的影響。",
+      "platform": "console",
+      "source": "基因線上",
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
+    },
+    {
+      "id": "brief-20260629-11f1d00a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "AI衝擊遊戲產業：逾四成開發者萌生退意，中國工作室AI應用率達60%",
+      "detail": "Skillsearch最新調查顯示，全球逾四成遊戲開發者因持續裁員潮與生成式AI的衝擊考慮離開遊戲業。儘管如此，中國遊戲工作室在AI技術應用方面領先，60%的中國工作室已在開發流程中使用AI技術，顯示AI在提升效率方面的潛力。",
+      "action": "評估AI技術對遊戲開發流程的影響，制定人才保留與AI倫理應用策略。",
+      "platform": "N/A",
+      "source": "Unwire Pro/PocketGamer.biz",
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
+    },
     {
       "id": "brief-20260528-001",
       "priority": "urgent",
@@ -36,6 +69,39 @@
       "fetchedAt": "2026-05-28T08:30:00Z"
     },
     {
+      "id": "brief-20260629-ceb030ba",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "PlayStation State of Play 6月發表多款新作與更新",
+      "detail": "PlayStation於6月3日的State of Play活動中，發表了多款備受期待的新作，包括《Dune: Awakening》、《空戰奇兵8 希孚之翼》、《鬼武者Way of the Sword》、《控制: 共振》、《SILENT HILL: Townfall》以及《God of War Laufey》等，多數遊戲預計於2026年下半年或2027年推出。",
+      "action": "分析新作類型與發售時程，評估對主機遊戲市場的競爭格局。",
+      "platform": "console",
+      "source": "PlayStation Blog/A9VG電玩部落",
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
+    },
+    {
+      "id": "brief-20260629-05398525",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "Summer Game Fest 2026：中國3A遊戲《穿越火線：潛伏》、《古劍》新作亮相",
+      "detail": "2026年夏日遊戲節（Summer Game Fest）於6月6日舉辦，匯聚全球頂尖遊戲廠商。其中，騰訊的《穿越火線：潛伏》和《古劍奇譚》新作，以及網易的《歸唐》等國產3A大作亮相，顯示中國遊戲廠商在3A領域的投入與「出海」戰略。",
+      "action": "研究中國3A遊戲的全球化策略與市場表現，尋找合作或競爭機會。",
+      "platform": "console/PC",
+      "source": "澎湃新聞/Nmia Gaming",
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
+    },
+    {
+      "id": "brief-20260629-35415b7c",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "中國遊戲版號發放常態化，小遊戲「出海」成新增長極",
+      "detail": "2025年中國遊戲版號發放常態化，1-10月國產遊戲版號累計發放1354款，同比增長26.31%。同時，中國小遊戲「出海」表現亮眼，從「嘗試性探索」邁入「規模化變現」階段，海外收入過億的小遊戲達7款，驗證了「國內驗證+海外發行」模式的可行性。",
+      "action": "密切關注中國遊戲版號政策，探索小遊戲出海的潛力與策略。",
+      "platform": "mobile/PC",
+      "source": "騰訊雲/澎湃新聞",
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
+    },
+    {
       "id": "brief-20260529-c8ada21a",
       "priority": "watch",
       "icon": "👁",
@@ -58,40 +124,51 @@
       "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
     },
     {
-      "id": "brief-20260529-a66725f6",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "In a bittersweet return to form, Destiny 2's final update is giving players reas",
-      "detail": "I'll see you planetside.",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "PC Gamer",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
+      "id": "brief-20260629-553e4c6f",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "GameStop 2026年Q1財報亮眼，並持續推動收購eBay",
+      "detail": "GameStop公布2026會計年度第一季淨利達3.896億美元，營業利益1.433億美元，銷售額年增14%，創公司史上最佳單季表現。公司表示營收成長主要受惠於收藏商品業務強勁，並持續專注於收購eBay的計畫。",
+      "action": "關注GameStop的收購進展及其對零售和電商市場的影響。",
+      "platform": "N/A",
+      "source": "星島日報/Investing.com",
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
     },
     {
-      "id": "brief-20260528-004",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "Blade & Throne 封測延期兩週",
-      "detail": "Amazon Games 宣布因品質打磨延期至 6 月中旬。社群反應兩極。",
-      "action": "威脅等級暫時下調，持續追蹤。",
+      "id": "brief-20260629-665d4f4a",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "任天堂2026財報：Switch 2世代開局強勁，營收大幅成長",
+      "detail": "任天堂於2026年5月8日公布的財報顯示，截至2026年3月底，全年營收達2兆3,130億日圓，較前一年大幅成長98.6%。Switch 2主機的強勢開局，加上《Pokémon Pokopia》等新作銷售帶動，使得Switch 2全年銷量達1,986萬台。",
+      "action": "分析任天堂新主機與IP策略的成功因素，借鑒其跨平台發展經驗。",
       "platform": "console",
-      "source": "Amazon Games 官方",
-      "fetchedAt": "2026-05-28T07:15:00Z"
+      "source": "FINDIT平台/日經中文網",
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
     },
     {
-      "id": "brief-20260528-005",
-      "priority": "watch",
-      "icon": "📊",
-      "title": "Arena Legends 軟啟動擴展至東南亞",
-      "detail": "Supercell MOBA 在菲律賓和印尼開放下載，暗示全球發行可能提前。",
-      "action": "上線預估從 Q3 調整為 Q2 末。",
+      "id": "brief-20260629-7b70b7a1",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "《索尼克賽車交叉世界》紀念索尼克35週年，追加經典角色",
+      "detail": "SEGA為紀念「索尼克」迎來35週年，於6月24日透過免費更新在《索尼克賽車交叉世界》中追加了賽車手「經典索尼克」與原創賽車，並預計在8月和9月陸續追加來自《瘋狂計程車》的「艾克索」和《歡樂森巴》的「阿米戈」。",
+      "action": "關注經典IP的週年慶活動與內容更新，評估其對玩家社群的影響。",
+      "platform": "console/PC",
+      "source": "GNN新聞",
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
+    },
+    {
+      "id": "brief-20260629-5eacd89a",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "《Monster Hunter Puzzles》迎來2週年，黑龍首次登場",
+      "detail": "CAPCOM宣布，iOS/Android遊戲《Monster Hunter Puzzles》將於6月27日迎來開服2週年，並推出一系列紀念活動。其中，新活動「黑龍<亡國戰士>」已於6月26日上線，黑龍首次登場，玩家可透過擊退黑龍獲得積分與素材。",
+      "action": "分析手遊週年慶活動的營運策略，借鑒其內容更新與玩家互動方式。",
       "platform": "mobile",
-      "source": "App Store / Google Play",
-      "fetchedAt": "2026-05-28T07:00:00Z"
+      "source": "GNN新聞",
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
     },
     {
-      "id": "brief-20260628-1cbeb766",
+      "id": "brief-20260629-1cbeb766",
       "priority": "info",
       "icon": "📰",
       "title": "Steam Machine Preorder Emails Are Super Confusing",
@@ -99,10 +176,10 @@
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-06-28T04:58:06.762826+00:00"
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
     },
     {
-      "id": "brief-20260628-a2736784",
+      "id": "brief-20260629-a2736784",
       "priority": "info",
       "icon": "📰",
       "title": "Some Retailers Reportedly Spill The Tea On GTA 6 Gameplay Details",
@@ -110,10 +187,10 @@
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-06-28T04:58:06.762826+00:00"
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
     },
     {
-      "id": "brief-20260628-cc7331c3",
+      "id": "brief-20260629-cc7331c3",
       "priority": "info",
       "icon": "📰",
       "title": "PS5 And Xbox Series X Both Didn’t Sell Very Well In May",
@@ -121,10 +198,10 @@
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-06-28T04:58:06.762826+00:00"
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
     },
     {
-      "id": "brief-20260628-3a6f397f",
+      "id": "brief-20260629-3a6f397f",
       "priority": "info",
       "icon": "📰",
       "title": "Haunted Chocolatier’s Long Development Comes Down To Chasing Perfection",
@@ -132,10 +209,10 @@
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-06-28T04:58:06.762826+00:00"
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
     },
     {
-      "id": "brief-20260628-f02e7e4d",
+      "id": "brief-20260629-f02e7e4d",
       "priority": "info",
       "icon": "📰",
       "title": "Xbox Series S, The “Cheap” Option, Now Costs As Much As Series X Did Six Years A",
@@ -143,84 +220,7 @@
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-06-28T04:58:06.762826+00:00"
-    },
-    {
-      "id": "brief-20260627-1cbeb766",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Steam Machine Preorder Emails Are Super Confusing",
-      "detail": "With Valve's Steam Machine releasing on June 29, you may be confused as to when you'll be able to actually purchase the not-a-console console. It's a little perplexing, so let us help you make sense o",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-27T04:31:29.602807+00:00"
-    },
-    {
-      "id": "brief-20260627-a2736784",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Some Retailers Reportedly Spill The Tea On GTA 6 Gameplay Details",
-      "detail": "With Grand Theft Auto 6 a few months away from blowing up the entire industry on November 19, some retailers appear to be getting antsy, as a new leak floating around online is providing new details a",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-27T04:31:29.602807+00:00"
-    },
-    {
-      "id": "brief-20260627-cc7331c3",
-      "priority": "info",
-      "icon": "📰",
-      "title": "PS5 And Xbox Series X Both Didn’t Sell Very Well In May",
-      "detail": "PlayStation 5 and Xbox Series X|S saw a significant drop in unit sales in May, according to new data from Circana.\n\n\n\nMay's US Video Game Market Notes from Circana Senior Director Mat Piscatella detai",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-27T04:31:29.602807+00:00"
-    },
-    {
-      "id": "brief-20260627-3a6f397f",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Haunted Chocolatier’s Long Development Comes Down To Chasing Perfection",
-      "detail": "With GTA 6 launching in a few months, Eric \"ConcernedApe\" Barone's Haunted Chocolatier is teeing up to be the next big \"when the heck is it coming out\" game. Announced five years ago, Barone has given",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-27T04:31:29.602807+00:00"
-    },
-    {
-      "id": "brief-20260627-f02e7e4d",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox Series S, The “Cheap” Option, Now Costs As Much As Series X Did Six Years A",
-      "detail": "When Xbox Series S launched alongside Series X and PS5, it presented a compelling argument: Play all of the same games as elsewhere, albeit with lesser performance and visuals, for way cheaper. $300 f",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-27T04:31:29.602807+00:00"
-    },
-    {
-      "id": "brief-20260626-f02e7e4d",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox Series S, The “Cheap” Option, Now Costs As Much As Series X Did Six Years A",
-      "detail": "When Xbox Series S launched alongside Series X and PS5, it presented a compelling argument: Play all of the same games as elsewhere, albeit with lesser performance and visuals, for way cheaper. $300 f",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-26T04:47:36.918567+00:00"
-    },
-    {
-      "id": "brief-20260626-3dc61e1a",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox May Have Another Price Hike Up Its Sleeve In 2027",
-      "detail": "If you thought today's Xbox price hike was jaw-dropping, it appears that Microsoft is preparing for another one in the next year.\n\n\n\nFollowing the June 25 announcement that Xbox consoles will increase",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-26T04:47:36.918567+00:00"
+      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
     }
   ]
 }
