@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-29T05:07:54.445720+00:00",
-  "fetchCount": 42,
+  "lastUpdated": "2026-06-30T04:40:37.321132+00:00",
+  "fetchCount": 43,
   "items": [
     {
       "id": "brief-20260629-9fda2eca",
@@ -124,6 +124,61 @@
       "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
     },
     {
+      "id": "brief-20260630-275a6462",
+      "priority": "info",
+      "icon": "📰",
+      "title": "State Of Decay Studio Undead Labs Reportedly At Risk Of Closure",
+      "detail": "Amid reports that Microsoft is planning massive layoffs in its Xbox gaming division, first-party studios like Double Fine, Compulsion Games, and Ninja Theory have been rumored to be in talks to avoid ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-30T04:40:37.321132+00:00"
+    },
+    {
+      "id": "brief-20260630-b4bd55c5",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Xbox Devs Call For Worker Protections Ahead Of Likely Layoffs",
+      "detail": "Earlier this month, rumors began to spread about potentially massive layoffs coming to Microsoft's Xbox gaming division this summer. While the majority of those those cuts don't appear to have happene",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-30T04:40:37.321132+00:00"
+    },
+    {
+      "id": "brief-20260630-09596047",
+      "priority": "info",
+      "icon": "📰",
+      "title": "CFB 27 Launch Times For Early Access And Global Release",
+      "detail": "The new college football season begins soon, and ahead of that, EA's College Football 27 is launching this week, at least for early access. In this post we're rounding up the key details on how to pla",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-30T04:40:37.321132+00:00"
+    },
+    {
+      "id": "brief-20260630-b70df753",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Activision Promotes Call Of Duty: MW4 By Telling You It’s Not On Game Pass",
+      "detail": "For the first time in two years, the annual Call of Duty release, Modern Warfare 4, will not come to Xbox Game Pass at launch. To help hammer that point home, Activision is rolling out a new ad campai",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-30T04:40:37.321132+00:00"
+    },
+    {
+      "id": "brief-20260630-d767931c",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Steam Machine’s Unlicensed Companion Cube Canceled, Dbrand Owns Up To Huge Mista",
+      "detail": "Dbrand, a consumer electronics accessories company that has stumbled into its fair share of controversy over the years, finds itself in that position once again. The Canadian company has announced tha",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-06-30T04:40:37.321132+00:00"
+    },
+    {
       "id": "brief-20260629-553e4c6f",
       "priority": "info",
       "icon": "ℹ️",
@@ -165,61 +220,6 @@
       "action": "分析手遊週年慶活動的營運策略，借鑒其內容更新與玩家互動方式。",
       "platform": "mobile",
       "source": "GNN新聞",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
-    },
-    {
-      "id": "brief-20260629-1cbeb766",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Steam Machine Preorder Emails Are Super Confusing",
-      "detail": "With Valve's Steam Machine releasing on June 29, you may be confused as to when you'll be able to actually purchase the not-a-console console. It's a little perplexing, so let us help you make sense o",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
-    },
-    {
-      "id": "brief-20260629-a2736784",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Some Retailers Reportedly Spill The Tea On GTA 6 Gameplay Details",
-      "detail": "With Grand Theft Auto 6 a few months away from blowing up the entire industry on November 19, some retailers appear to be getting antsy, as a new leak floating around online is providing new details a",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
-    },
-    {
-      "id": "brief-20260629-cc7331c3",
-      "priority": "info",
-      "icon": "📰",
-      "title": "PS5 And Xbox Series X Both Didn’t Sell Very Well In May",
-      "detail": "PlayStation 5 and Xbox Series X|S saw a significant drop in unit sales in May, according to new data from Circana.\n\n\n\nMay's US Video Game Market Notes from Circana Senior Director Mat Piscatella detai",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
-    },
-    {
-      "id": "brief-20260629-3a6f397f",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Haunted Chocolatier’s Long Development Comes Down To Chasing Perfection",
-      "detail": "With GTA 6 launching in a few months, Eric \"ConcernedApe\" Barone's Haunted Chocolatier is teeing up to be the next big \"when the heck is it coming out\" game. Announced five years ago, Barone has given",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
-    },
-    {
-      "id": "brief-20260629-f02e7e4d",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox Series S, The “Cheap” Option, Now Costs As Much As Series X Did Six Years A",
-      "detail": "When Xbox Series S launched alongside Series X and PS5, it presented a compelling argument: Play all of the same games as elsewhere, albeit with lesser performance and visuals, for way cheaper. $300 f",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
       "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
     }
   ]
