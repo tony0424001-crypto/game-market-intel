@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-30T04:40:37.321132+00:00",
-  "fetchCount": 43,
+  "lastUpdated": "2026-07-01T05:00:09.493211+00:00",
+  "fetchCount": 44,
   "items": [
     {
       "id": "brief-20260629-9fda2eca",
@@ -124,6 +124,61 @@
       "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
     },
     {
+      "id": "brief-20260701-c7740e2f",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Love And Deepspace Cancels Its New Love Interest After Fan Backlash",
+      "detail": "Shortly after developer Papergames announced the addition of Valko--a new love interest in the mobile action dating sim Love and Deepspace--the backlash from fans has spilled into the real world. Now,",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-01T05:00:09.493211+00:00"
+    },
+    {
+      "id": "brief-20260701-5ffc92f6",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Minecraft, Call Of Duty Community Servers Are “Illegal,” Claims ESA Rep",
+      "detail": "The Protect Our Games Act--a piece of legislation endorsed by the Stop Killing Games movement--has been voted down at the California State Senate. However, one of the most noteworthy incidents from th",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-01T05:00:09.493211+00:00"
+    },
+    {
+      "id": "brief-20260701-693b2c1d",
+      "priority": "info",
+      "icon": "📰",
+      "title": "GTA 6 Fans Are Convinced The Game Has A Bodybuilding System, And Here’s Why",
+      "detail": "As the wait for GTA 6's next trailer continues, fans are poring over all the little details from the new batch of screenshots that recently went live. One piece of information that fans are now obsess",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-01T05:00:09.493211+00:00"
+    },
+    {
+      "id": "brief-20260701-ee47a048",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Hideo Kojima’s OD Is Reportedly Safe From Upcoming Xbox Cuts",
+      "detail": "Hideo Kojima's Xbox console-exclusive horror game, OD, is reportedly safe amidst reports and rumors of studio closures, layoffs, and game cancellations at Xbox loom.\n\n\n\nAccording to a report from IGN,",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-01T05:00:09.493211+00:00"
+    },
+    {
+      "id": "brief-20260701-00692eb0",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Oblivion Remastered For Switch 2 Includes The Full Game On The Cartridge",
+      "detail": "\n\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\n\t\n\t\t\t\t\tThe Elder Scrolls 4: Oblivion Remastered (Switch 2)\n\t\t\t\t\t\t\t$60 | Releases August 11\n\t\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\nPreorder at Amazon\n\t\t\t\n\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\n\n\nOver a year after sha",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-01T05:00:09.493211+00:00"
+    },
+    {
       "id": "brief-20260630-275a6462",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-06-30T04:40:37.321132+00:00"
-    },
-    {
-      "id": "brief-20260630-d767931c",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Steam Machine’s Unlicensed Companion Cube Canceled, Dbrand Owns Up To Huge Mista",
-      "detail": "Dbrand, a consumer electronics accessories company that has stumbled into its fair share of controversy over the years, finds itself in that position once again. The Canadian company has announced tha",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-30T04:40:37.321132+00:00"
-    },
-    {
-      "id": "brief-20260629-553e4c6f",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "GameStop 2026年Q1財報亮眼，並持續推動收購eBay",
-      "detail": "GameStop公布2026會計年度第一季淨利達3.896億美元，營業利益1.433億美元，銷售額年增14%，創公司史上最佳單季表現。公司表示營收成長主要受惠於收藏商品業務強勁，並持續專注於收購eBay的計畫。",
-      "action": "關注GameStop的收購進展及其對零售和電商市場的影響。",
-      "platform": "N/A",
-      "source": "星島日報/Investing.com",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
-    },
-    {
-      "id": "brief-20260629-665d4f4a",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "任天堂2026財報：Switch 2世代開局強勁，營收大幅成長",
-      "detail": "任天堂於2026年5月8日公布的財報顯示，截至2026年3月底，全年營收達2兆3,130億日圓，較前一年大幅成長98.6%。Switch 2主機的強勢開局，加上《Pokémon Pokopia》等新作銷售帶動，使得Switch 2全年銷量達1,986萬台。",
-      "action": "分析任天堂新主機與IP策略的成功因素，借鑒其跨平台發展經驗。",
-      "platform": "console",
-      "source": "FINDIT平台/日經中文網",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
-    },
-    {
-      "id": "brief-20260629-7b70b7a1",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "《索尼克賽車交叉世界》紀念索尼克35週年，追加經典角色",
-      "detail": "SEGA為紀念「索尼克」迎來35週年，於6月24日透過免費更新在《索尼克賽車交叉世界》中追加了賽車手「經典索尼克」與原創賽車，並預計在8月和9月陸續追加來自《瘋狂計程車》的「艾克索」和《歡樂森巴》的「阿米戈」。",
-      "action": "關注經典IP的週年慶活動與內容更新，評估其對玩家社群的影響。",
-      "platform": "console/PC",
-      "source": "GNN新聞",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
-    },
-    {
-      "id": "brief-20260629-5eacd89a",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "《Monster Hunter Puzzles》迎來2週年，黑龍首次登場",
-      "detail": "CAPCOM宣布，iOS/Android遊戲《Monster Hunter Puzzles》將於6月27日迎來開服2週年，並推出一系列紀念活動。其中，新活動「黑龍<亡國戰士>」已於6月26日上線，黑龍首次登場，玩家可透過擊退黑龍獲得積分與素材。",
-      "action": "分析手遊週年慶活動的營運策略，借鑒其內容更新與玩家互動方式。",
-      "platform": "mobile",
-      "source": "GNN新聞",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
     }
   ]
 }
