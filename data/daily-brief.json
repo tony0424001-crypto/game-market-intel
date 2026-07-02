@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-01T05:00:09.493211+00:00",
-  "fetchCount": 44,
+  "lastUpdated": "2026-07-02T04:36:47.688609+00:00",
+  "fetchCount": 45,
   "items": [
     {
       "id": "brief-20260629-9fda2eca",
@@ -124,6 +124,61 @@
       "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
     },
     {
+      "id": "brief-20260702-cfebd773",
+      "priority": "info",
+      "icon": "📰",
+      "title": "“Profoundly Disappointed:” Companies Respond To Sony’s Decision To End Disc Supp",
+      "detail": "A number of companies have responded to the news that Sony will no longer support physical PlayStation discs beginning in 2028. That includes iam8bit, a company known for its physical gaming collectib",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-02T04:36:47.688609+00:00"
+    },
+    {
+      "id": "brief-20260702-b64fb0be",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Call Of Duty: Modern Warfare 4 Just Showed Up In A Very Unexpected Place",
+      "detail": "Activision's Call of Duty: Modern Warfare 4 is expected to be one of 2026's biggest game releases alongside GTA 6, and the company is expected to go all-out with its marketing and promotion campaign f",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-02T04:36:47.688609+00:00"
+    },
+    {
+      "id": "brief-20260702-e999339b",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Diablo 4’s Worst Grind Just Got A Lot Easier In Season 14",
+      "detail": "Diablo 4's worst endgame grind just became a lot less painful in Season 14, thanks to a batch of impactful changes to gems and conversion recipes.\n\n\n\nIn Diablo's latest expansion, Lord of Hatred, Bliz",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-02T04:36:47.688609+00:00"
+    },
+    {
+      "id": "brief-20260702-6b0554b7",
+      "priority": "info",
+      "icon": "📰",
+      "title": "This Week In Games Was Bad, But Next Week May Be Worse",
+      "detail": "While it can seem like every week feels bad in the games industry, this past week felt especially awful. You're not wrong for thinking so, too, and the start of this week wasn't that great either. But",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-02T04:36:47.688609+00:00"
+    },
+    {
+      "id": "brief-20260702-a3b6214f",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Next-Gen Xbox May Not Have Disc Drive, Disc-To-Digital Feature Coming, Reports S",
+      "detail": "Following Sony's announcement that it will not support PlayStation discs starting in 2028 and conjecture that the PS6 won't have a disc drive, it's now been reported that Microsoft's next-gen Xbox, Pr",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-02T04:36:47.688609+00:00"
+    },
+    {
       "id": "brief-20260701-c7740e2f",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-07-01T05:00:09.493211+00:00"
-    },
-    {
-      "id": "brief-20260701-00692eb0",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Oblivion Remastered For Switch 2 Includes The Full Game On The Cartridge",
-      "detail": "\n\t\t\n\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\n\t\n\t\t\t\t\tThe Elder Scrolls 4: Oblivion Remastered (Switch 2)\n\t\t\t\t\t\t\t$60 | Releases August 11\n\t\t\t\n\n\t\t\t\n\t\t\t\t\t\t\t\nPreorder at Amazon\n\t\t\t\n\t\t\t\t\t\t\t\t\n\t\n\t\t\n\t\t\n\n\nOver a year after sha",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-01T05:00:09.493211+00:00"
-    },
-    {
-      "id": "brief-20260630-275a6462",
-      "priority": "info",
-      "icon": "📰",
-      "title": "State Of Decay Studio Undead Labs Reportedly At Risk Of Closure",
-      "detail": "Amid reports that Microsoft is planning massive layoffs in its Xbox gaming division, first-party studios like Double Fine, Compulsion Games, and Ninja Theory have been rumored to be in talks to avoid ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-30T04:40:37.321132+00:00"
-    },
-    {
-      "id": "brief-20260630-b4bd55c5",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox Devs Call For Worker Protections Ahead Of Likely Layoffs",
-      "detail": "Earlier this month, rumors began to spread about potentially massive layoffs coming to Microsoft's Xbox gaming division this summer. While the majority of those those cuts don't appear to have happene",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-30T04:40:37.321132+00:00"
-    },
-    {
-      "id": "brief-20260630-09596047",
-      "priority": "info",
-      "icon": "📰",
-      "title": "CFB 27 Launch Times For Early Access And Global Release",
-      "detail": "The new college football season begins soon, and ahead of that, EA's College Football 27 is launching this week, at least for early access. In this post we're rounding up the key details on how to pla",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-30T04:40:37.321132+00:00"
-    },
-    {
-      "id": "brief-20260630-b70df753",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Activision Promotes Call Of Duty: MW4 By Telling You It’s Not On Game Pass",
-      "detail": "For the first time in two years, the annual Call of Duty release, Modern Warfare 4, will not come to Xbox Game Pass at launch. To help hammer that point home, Activision is rolling out a new ad campai",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-06-30T04:40:37.321132+00:00"
     }
   ]
 }
