@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-02T04:36:47.688609+00:00",
-  "fetchCount": 45,
+  "lastUpdated": "2026-07-03T04:14:56.452703+00:00",
+  "fetchCount": 46,
   "items": [
     {
       "id": "brief-20260629-9fda2eca",
@@ -124,6 +124,61 @@
       "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
     },
     {
+      "id": "brief-20260703-ad40116c",
+      "priority": "info",
+      "icon": "📰",
+      "title": "$2.50 Steam Sale Has Everyone Smashing The Surveillance State",
+      "detail": "One of Ubisoft's most underrated games, Watch Dogs 2, is on a super steep sale on Steam right now. So steep, in fact, that it seems to have inspired a new crop of folks to trawl through the technocrat",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-03T04:14:56.452703+00:00"
+    },
+    {
+      "id": "brief-20260703-4cfe2940",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Why Is Sony Killing Discs? It’s “All About Profitability And Control,” Expert Sa",
+      "detail": "Sony recently announced that it will stop supporting PlayStation game discs in January 2028. Even though Sony continues to sell many millions of discs, the share of digital game sales continues to ris",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-03T04:14:56.452703+00:00"
+    },
+    {
+      "id": "brief-20260703-5e63c8c8",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Assassin’s Creed: Black Flag Resynced Launch Times And Preload Schedule Revealed",
+      "detail": "A whole bunch of games are shipping out in July, but if you're in the mood for some treachery and leaps of faith on the high seas, then you're likely looking forward to Assassin's Creed: Black Flag Re",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-03T04:14:56.452703+00:00"
+    },
+    {
+      "id": "brief-20260703-65e2afda",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Amazon Prime Members Get 12 Games For Free In July",
+      "detail": "The next batch of games for Amazon Luna has been revealed, and this July, you can look forward to superhero workplace drama, turn-based RPG action, and some escape room fun. In total, there will be 12",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-03T04:14:56.452703+00:00"
+    },
+    {
+      "id": "brief-20260703-b0a88c5f",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Former PlayStation Exec Is Less Than Impressed With Steam Machine",
+      "detail": "The Steam Machine is slowly making its way into the wild, with some folks getting their hands on Valve's not-a-console console. One of those people is former SIE Worldwide Studios president Shuhei Yos",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-03T04:14:56.452703+00:00"
+    },
+    {
       "id": "brief-20260702-cfebd773",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-07-02T04:36:47.688609+00:00"
-    },
-    {
-      "id": "brief-20260702-a3b6214f",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Next-Gen Xbox May Not Have Disc Drive, Disc-To-Digital Feature Coming, Reports S",
-      "detail": "Following Sony's announcement that it will not support PlayStation discs starting in 2028 and conjecture that the PS6 won't have a disc drive, it's now been reported that Microsoft's next-gen Xbox, Pr",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-02T04:36:47.688609+00:00"
-    },
-    {
-      "id": "brief-20260701-c7740e2f",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Love And Deepspace Cancels Its New Love Interest After Fan Backlash",
-      "detail": "Shortly after developer Papergames announced the addition of Valko--a new love interest in the mobile action dating sim Love and Deepspace--the backlash from fans has spilled into the real world. Now,",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-01T05:00:09.493211+00:00"
-    },
-    {
-      "id": "brief-20260701-5ffc92f6",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Minecraft, Call Of Duty Community Servers Are “Illegal,” Claims ESA Rep",
-      "detail": "The Protect Our Games Act--a piece of legislation endorsed by the Stop Killing Games movement--has been voted down at the California State Senate. However, one of the most noteworthy incidents from th",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-01T05:00:09.493211+00:00"
-    },
-    {
-      "id": "brief-20260701-693b2c1d",
-      "priority": "info",
-      "icon": "📰",
-      "title": "GTA 6 Fans Are Convinced The Game Has A Bodybuilding System, And Here’s Why",
-      "detail": "As the wait for GTA 6's next trailer continues, fans are poring over all the little details from the new batch of screenshots that recently went live. One piece of information that fans are now obsess",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-01T05:00:09.493211+00:00"
-    },
-    {
-      "id": "brief-20260701-ee47a048",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Hideo Kojima’s OD Is Reportedly Safe From Upcoming Xbox Cuts",
-      "detail": "Hideo Kojima's Xbox console-exclusive horror game, OD, is reportedly safe amidst reports and rumors of studio closures, layoffs, and game cancellations at Xbox loom.\n\n\n\nAccording to a report from IGN,",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-01T05:00:09.493211+00:00"
     }
   ]
 }
