@@ -1,7 +1,7 @@
 {
   "year": 2026,
   "resetAt": "2026-01-01T00:00:00Z",
-  "lastUpdated": "2026-07-08T09:20:30.276785+00:00",
+  "lastUpdated": "2026-07-08T10:20:20.445384+00:00",
   "quarters": {
     "Q1": {
       "label": "2026 Q1 (1月-3月)",
@@ -288,6 +288,41 @@
           "type": "media",
           "detail": "生成式AI在遊戲市場正經歷顯著增長，預計將從2026年的22.1億美元擴大到2030年的50.9億美元，複合年增長率為23.2%。AI在遊戲內容創作、VR/AR整合、個性化體驗和元宇宙遊戲方面帶來巨大",
           "platform": "mobile/console/PC"
+        },
+        {
+          "date": "2026-07-08",
+          "product": "CD Projekt Red 揭示《巫師》系列新作「Pola",
+          "type": "media",
+          "detail": "CD Projekt Red 在夏季遊戲節上首次公開了《巫師》系列新作「Polaris」（暫定名，被普遍認為是《巫師4》）的實機遊戲畫面。影片展示了全新的遊戲引擎、更廣闊的開放世界以及主角的初步設定。",
+          "platform": "console"
+        },
+        {
+          "date": "2026-07-08",
+          "product": "騰訊《王者榮耀：世界》國際版全球營收突破 10 億美元，出海",
+          "type": "media",
+          "detail": "騰訊旗下開放世界 RPG 手遊《王者榮耀：世界》國際版自去年底上線以來，全球累計營收已突破 10 億美元大關，尤其在北美、歐洲及東南亞市場表現強勁。這再次證明了中國遊戲公司「出海」戰略的巨大潛力。",
+          "platform": "mobile"
+        },
+        {
+          "date": "2026-07-08",
+          "product": "微軟宣布收購歐洲獨立遊戲工作室 Aether Games，強",
+          "type": "media",
+          "detail": "微軟 Xbox 部門今日宣布，已成功收購位於瑞典的獨立遊戲開發商 Aether Games。Aether Games 以其創新的敘事型 RPG 遊戲聞名，此次收購旨在進一步擴充 Xbox Game S",
+          "platform": "console"
+        },
+        {
+          "date": "2026-07-08",
+          "product": "Unreal Engine 6 預覽版發布，深度整合 AI ",
+          "type": "media",
+          "detail": "Epic Games 今日發布了 Unreal Engine 6 的首個預覽版，其中最引人注目的是其深度整合的 AI 內容生成工具套件。開發者現在可以利用 AI 快速生成環境資產、NPC 對話、甚至初",
+          "platform": "console"
+        },
+        {
+          "date": "2026-07-08",
+          "product": "中國國家新聞出版署發放新一批遊戲版號，多款國產大作獲批",
+          "type": "media",
+          "detail": "中國國家新聞出版署於本週發布了最新一批遊戲版號，共計 95 款遊戲獲批，其中包括騰訊、網易等多家大廠的多款重點國產遊戲。此次版號發放數量穩定，顯示中國遊戲市場審批常態化趨勢持續。",
+          "platform": "mobile"
         }
       ]
     },

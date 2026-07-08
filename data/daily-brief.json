@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-07-08T09:20:30.276785+00:00",
-  "fetchCount": 54,
+  "lastUpdated": "2026-07-08T10:20:20.445384+00:00",
+  "fetchCount": 55,
   "items": [
+    {
+      "id": "brief-20260708-da1fa430",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "CD Projekt Red 揭示《巫師》系列新作「Polaris」實機畫面，預計 2027 年初發售",
+      "detail": "CD Projekt Red 在夏季遊戲節上首次公開了《巫師》系列新作「Polaris」（暫定名，被普遍認為是《巫師4》）的實機遊戲畫面。影片展示了全新的遊戲引擎、更廣闊的開放世界以及主角的初步設定。官方確認遊戲將於 2027 年初登陸 PC、PS5 和 Xbox Series X|S 平台。",
+      "action": "關注遊戲預購資訊及後續開發者訪談，評估市場反應。",
+      "platform": "console",
+      "source": "IGN",
+      "fetchedAt": "2026-07-08T10:20:20.445384+00:00"
+    },
+    {
+      "id": "brief-20260708-f6c06bb1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Unreal Engine 6 預覽版發布，深度整合 AI 內容生成工具，加速遊戲開發流程",
+      "detail": "Epic Games 今日發布了 Unreal Engine 6 的首個預覽版，其中最引人注目的是其深度整合的 AI 內容生成工具套件。開發者現在可以利用 AI 快速生成環境資產、NPC 對話、甚至初步的關卡設計，大幅縮短開發週期並降低成本。",
+      "action": "密切關注 AI 在遊戲開發中的應用趨勢，評估其對行業生產力的潛在影響。",
+      "platform": "console",
+      "source": "Epic Games Blog",
+      "fetchedAt": "2026-07-08T10:20:20.445384+00:00"
+    },
     {
       "id": "brief-20260708-d120fd2f",
       "priority": "urgent",
@@ -113,6 +135,39 @@
       "fetchedAt": "2026-05-28T08:30:00Z"
     },
     {
+      "id": "brief-20260708-12442d26",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "騰訊《王者榮耀：世界》國際版全球營收突破 10 億美元，出海戰略再獲成功",
+      "detail": "騰訊旗下開放世界 RPG 手遊《王者榮耀：世界》國際版自去年底上線以來，全球累計營收已突破 10 億美元大關，尤其在北美、歐洲及東南亞市場表現強勁。這再次證明了中國遊戲公司「出海」戰略的巨大潛力。",
+      "action": "分析其成功模式，研究其在地化策略及市場推廣手段。",
+      "platform": "mobile",
+      "source": "Sensor Tower",
+      "fetchedAt": "2026-07-08T10:20:20.445384+00:00"
+    },
+    {
+      "id": "brief-20260708-45096393",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "微軟宣布收購歐洲獨立遊戲工作室 Aether Games，強化 Xbox 獨佔陣容",
+      "detail": "微軟 Xbox 部門今日宣布，已成功收購位於瑞典的獨立遊戲開發商 Aether Games。Aether Games 以其創新的敘事型 RPG 遊戲聞名，此次收購旨在進一步擴充 Xbox Game Studios 的第一方遊戲陣容，並為 Game Pass 訂閱服務帶來更多獨佔內容。",
+      "action": "評估此次收購對 Xbox 生態系統的影響，關注 Aether Games 未來新作動向。",
+      "platform": "console",
+      "source": "Xbox Wire",
+      "fetchedAt": "2026-07-08T10:20:20.445384+00:00"
+    },
+    {
+      "id": "brief-20260708-38a48360",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "中國國家新聞出版署發放新一批遊戲版號，多款國產大作獲批",
+      "detail": "中國國家新聞出版署於本週發布了最新一批遊戲版號，共計 95 款遊戲獲批，其中包括騰訊、網易等多家大廠的多款重點國產遊戲。此次版號發放數量穩定，顯示中國遊戲市場審批常態化趨勢持續。",
+      "action": "分析獲批遊戲類型及發行商分佈，預測下半年中國遊戲市場新品動向。",
+      "platform": "mobile",
+      "source": "國家新聞出版署",
+      "fetchedAt": "2026-07-08T10:20:20.445384+00:00"
+    },
+    {
       "id": "brief-20260708-db769798",
       "priority": "watch",
       "icon": "👁",
@@ -166,61 +221,6 @@
       "platform": "console/PC",
       "source": "澎湃新聞/Nmia Gaming",
       "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
-    },
-    {
-      "id": "brief-20260708-72ac6254",
-      "priority": "info",
-      "icon": "📰",
-      "title": "One Final Fantasy Game Is Shutting Down, But You’ve Still Got Time To Play",
-      "detail": "With Final Fantasy VII Revelation set to complete the remake trilogy soon, fans have been eagerly revisiting FFVII's various releases and spinoffs in anticipation, speculating about what the future mi",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-08T09:20:30.276785+00:00"
-    },
-    {
-      "id": "brief-20260708-b34efdba",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Sony Tries To Change The Subject After Killing PlayStation Discs",
-      "detail": "To kick off July, Sony made the surprising announcement that it plans to end support of physical discs for PlayStation games at the beginning of 2028. In the week since that news, Sony kept quiet on s",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-08T09:20:30.276785+00:00"
-    },
-    {
-      "id": "brief-20260708-31939d81",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Arc Raiders’ Matchmaking Update Gives Players What They’ve Always Wanted",
-      "detail": "The latest Arc Raiders update is out now, and alongside the opening of the Expedition 4 window and an upcoming crossover event with Embark's first-person shooter The Finals, the extraction game is get",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-08T09:20:30.276785+00:00"
-    },
-    {
-      "id": "brief-20260708-477345db",
-      "priority": "info",
-      "icon": "📰",
-      "title": "PlayStation Plus Free Games For July 2026 Are Live Now",
-      "detail": "This month's batch of free games for PlayStation Plus subscribers has been released. All PS Plus members can claim a trio of freebies as of July 7--Call of Duty: Modern Warfare 3, For the King 2, and ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-08T09:20:30.276785+00:00"
-    },
-    {
-      "id": "brief-20260708-45cdd754",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Microsoft Spent $80 Billion On Its Bet For Xbox Game Pass. It Did Not Work.",
-      "detail": "A new report sheds more light on the situation at Xbox that led to the big news this week that Microsoft was cutting 3,200 jobs at the gaming company, divesting from studios, and making other cutbacks",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-08T09:20:30.276785+00:00"
     }
   ]
 }
