@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-08T07:59:43.428826+00:00",
-  "fetchCount": 53,
+  "lastUpdated": "2026-07-08T09:20:30.276785+00:00",
+  "fetchCount": 54,
   "items": [
     {
       "id": "brief-20260708-d120fd2f",
@@ -168,59 +168,59 @@
       "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
     },
     {
-      "id": "brief-20260629-35415b7c",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "中國遊戲版號發放常態化，小遊戲「出海」成新增長極",
-      "detail": "2025年中國遊戲版號發放常態化，1-10月國產遊戲版號累計發放1354款，同比增長26.31%。同時，中國小遊戲「出海」表現亮眼，從「嘗試性探索」邁入「規模化變現」階段，海外收入過億的小遊戲達7款，驗證了「國內驗證+海外發行」模式的可行性。",
-      "action": "密切關注中國遊戲版號政策，探索小遊戲出海的潛力與策略。",
-      "platform": "mobile/PC",
-      "source": "騰訊雲/澎湃新聞",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
-    },
-    {
-      "id": "brief-20260529-c8ada21a",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "Granblue Fantasy: Relink – Endless Ragnarok ‘Meet the Crew: Fraux’ trailer",
-      "detail": "Publisher Cygames and developer Cygames Osaka have released a new &#8220;Meet the Crew&#8221; trailer for &#8230;\nSource",
-      "action": "待人工審核。",
+      "id": "brief-20260708-72ac6254",
+      "priority": "info",
+      "icon": "📰",
+      "title": "One Final Fantasy Game Is Shutting Down, But You’ve Still Got Time To Play",
+      "detail": "With Final Fantasy VII Revelation set to complete the remake trilogy soon, fans have been eagerly revisiting FFVII's various releases and spinoffs in anticipation, speculating about what the future mi",
+      "action": "待審閱",
       "platform": "console",
-      "source": "Gematsu",
-      "fetchedAt": "2026-05-29T03:55:31.561362+00:00"
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-08T09:20:30.276785+00:00"
     },
     {
-      "id": "brief-20260708-b4889cb6",
+      "id": "brief-20260708-b34efdba",
       "priority": "info",
-      "icon": "ℹ️",
-      "title": "《刺客教條：黑旗重製版》於7月9日發售，帶來畫質與內容升級",
-      "detail": "《刺客教條：黑旗重製版》（Assassin's Creed Black Flag Resynced）將於7月9日在PS5、Xbox Series X|S和PC平台推出。這款重製版將提供畫質提升、優化操作，並加入新的故事線和支線任務。",
-      "action": "關注遊戲發售後的市場反應及玩家評價，評估重製版遊戲的商業潛力。",
-      "platform": "console/PC",
-      "source": "PC Gamer/Startselect",
-      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
+      "icon": "📰",
+      "title": "Sony Tries To Change The Subject After Killing PlayStation Discs",
+      "detail": "To kick off July, Sony made the surprising announcement that it plans to end support of physical discs for PlayStation games at the beginning of 2028. In the week since that news, Sony kept quiet on s",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-08T09:20:30.276785+00:00"
     },
     {
-      "id": "brief-20260708-8f1315de",
+      "id": "brief-20260708-31939d81",
       "priority": "info",
-      "icon": "ℹ️",
-      "title": "《最後一戰：進化戰役》重製版將於七月下旬推出，採用虛幻引擎5打造",
-      "detail": "《最後一戰：進化戰役》（Halo: Campaign Evolved）的完整重製版將於七月下旬發布。這款遊戲採用虛幻引擎5重新打造，提供全新的視覺效果、過場動畫和現代化控制，並包含三個全新的前傳任務。",
-      "action": "關注經典IP重製的市場表現，分析其對IP價值的影響。",
-      "platform": "console/PC",
-      "source": "PC Gamer/Men's Journal",
-      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
+      "icon": "📰",
+      "title": "Arc Raiders’ Matchmaking Update Gives Players What They’ve Always Wanted",
+      "detail": "The latest Arc Raiders update is out now, and alongside the opening of the Expedition 4 window and an upcoming crossover event with Embark's first-person shooter The Finals, the extraction game is get",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-08T09:20:30.276785+00:00"
     },
     {
-      "id": "brief-20260708-c70402a4",
+      "id": "brief-20260708-477345db",
       "priority": "info",
-      "icon": "ℹ️",
-      "title": "《Pokémon GO》慶祝十週年，多款經典遊戲迎來里程碑紀念",
-      "detail": "超人氣手遊《Pokémon GO》將在2026年7月慶祝其十週年紀念。此外，多款經典遊戲也迎來重要里程碑，包括《大金剛》（Donkey Kong）45週年、《Game Boy Pocket》和《星海遊俠》（Star Ocean）30週年，以及《Final Fantasy X》25週年。",
-      "action": "關注遊戲週年慶活動，分析長青遊戲的營運策略和社群維護。",
-      "platform": "mobile/console",
-      "source": "Cubed3/Meristation",
-      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
+      "icon": "📰",
+      "title": "PlayStation Plus Free Games For July 2026 Are Live Now",
+      "detail": "This month's batch of free games for PlayStation Plus subscribers has been released. All PS Plus members can claim a trio of freebies as of July 7--Call of Duty: Modern Warfare 3, For the King 2, and ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-08T09:20:30.276785+00:00"
+    },
+    {
+      "id": "brief-20260708-45cdd754",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Microsoft Spent $80 Billion On Its Bet For Xbox Game Pass. It Did Not Work.",
+      "detail": "A new report sheds more light on the situation at Xbox that led to the big news this week that Microsoft was cutting 3,200 jobs at the gaming company, divesting from studios, and making other cutbacks",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-08T09:20:30.276785+00:00"
     }
   ]
 }
