@@ -53,7 +53,11 @@ def gemini(prompt,search=False,tokens=4000):
                 if r.status_code==200:
                     d=r.json();c=d.get("candidates",[])
                     if c:
-                        return " ".join(p.get("text","") for p in c[0].get("content",{}).get("parts",[]) if "text" in p).strip()
+                        text=" ".join(p.get("text","") for p in c[0].get("content",{}).get("parts",[]) if "text" in p).strip()
+                        print(f"    ✅ Gemini responded ({len(text)} chars)")
+                        return text
+                    else:
+                        print(f"    ⚠️ Gemini 200 but no candidates: {json.dumps(d)[:200]}")
                     return None
                 elif r.status_code==429:
                     if use_search and retry==0:
@@ -77,7 +81,9 @@ def gemini(prompt,search=False,tokens=4000):
     return None
 
 def parse_json(text):
-    if not text:return None
+    if not text:
+        print("    ⚠️ parse_json: empty input")
+        return None
     text=re.sub(r"```json\s*","",text);text=re.sub(r"```\s*","",text)
     for i,c in enumerate(text):
         if c in "[{":
@@ -136,7 +142,10 @@ IMPORTANT: Only real games. Include mid/small games too. Output ONLY valid JSON 
         r=gemini(prompt,search=True)
         p=parse_json(r)
         if p and isinstance(p,list):
+            print(f"    Agent 2 got {len(p)} results")
             all_disc.extend(p);print(f"    Found {len(p)} from search")
+        else:
+            print(f"    ⚠️ Agent 1: parse failed, raw response: {str(r)[:300] if r else 'None'}")
         time.sleep(15)
     new_p=[];seen=set()
     for d in all_disc:
@@ -144,6 +153,7 @@ IMPORTANT: Only real games. Include mid/small games too. Output ONLY valid JSON 
         if not n or n in existing or n in seen:continue
         seen.add(n);mid+=1
         new_p.append({"id":mid,"name":n,"nameEn":d.get("nameEn",""),"developer":d.get("developer","未知"),"studio":d.get("developer","未知"),"publisher":d.get("publisher","未知"),"genre":d.get("genre","未知"),"platform":d.get("platform",["Mobile"]),"region":d.get("region","未知"),"model":d.get("model","F2P"),"stage":d.get("stage","announced"),"threat":d.get("threat","medium"),"prereg":None,"sentiment":70,"launchEst":d.get("launchEst","待定"),"desc":d.get("desc",""),"tags":d.get("tags",[]),"threatAnalysis":d.get("threatAnalysis",""),"verified":f"AI Agent 自動發現 ({today})","category":"active","testType":d.get("testType","未知"),"testDateStart":d.get("testDateStart","待確認"),"testDateEnd":d.get("testDateEnd","待確認"),"sourceLinks":d.get("directLinks",d.get("sourceLinks",[])),"launchRegions":[],"history":[{"date":datetime.now(timezone.utc).strftime("%Y-%m"),"s":d.get("stage","announced")}],"updatedAt":today,"autoDiscovered":True})
+    print(f"  Discovered {len(all_disc)} total, {len(seen)} unique, {len(existing)} already in DB")
     if new_p:
         products.extend(new_p);save(PRODUCTS_FILE,products)
         print(f"  ✅ +{len(new_p)} products")
@@ -242,7 +252,10 @@ Focus on: (1) New game announcements/launches (2) Major updates/anniversaries (3
 Output JSON array of top 10 items: "title" (繁體中文), "detail" (繁體中文), "action" (PM建議 繁體中文), "priority" ("urgent"/"watch"/"info"), "platform" ("mobile"/"console"), "source" (來源名)
 Output ONLY valid JSON array."""
     ai=[];r=gemini(prompt,search=True);p=parse_json(r)
-    if p and isinstance(p,list):ai=p;print(f"  AI: {len(ai)} items")
+    if p and isinstance(p,list):
+        ai=p;print(f"  AI: {len(ai)} items")
+    else:
+        print(f"  ⚠️ Agent 3 news: parse failed, raw: {str(r)[:300] if r else 'None'}")
     icons={"urgent":"🚨","watch":"👁","info":"ℹ️"}
     new_items=[]
     for it in ai:
