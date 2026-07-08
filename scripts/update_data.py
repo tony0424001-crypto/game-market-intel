@@ -85,6 +85,14 @@ def parse_json(text):
         print("    ⚠️ parse_json: empty input")
         return None
     text=re.sub(r"```json\s*","",text);text=re.sub(r"```\s*","",text)
+    # Try to repair truncated JSON arrays
+    text=text.strip()
+    if text.startswith("[") and not text.endswith("]"):
+        # Find last complete object (ending with })
+        last_brace=text.rfind("}")
+        if last_brace>0:
+            text=text[:last_brace+1]+"]"
+            print(f"    🔧 Repaired truncated JSON array")
     for i,c in enumerate(text):
         if c in "[{":
             d=0
@@ -139,7 +147,7 @@ For each game output JSON array, each item:
 - "threatAnalysis": PM-actionable analysis in 繁體中文, format: "【威脅類型】description\\n\\n▶ 建議行動：(1)... (2)... (3)..."
 - "sourceLinks": [{{"label":"TapTap","url":"https://..."}}] actual URLs found in search
 IMPORTANT: Only real games. Include mid/small games too. Output ONLY valid JSON array."""
-        r=gemini(prompt,search=True)
+        r=gemini(prompt,search=True,tokens=8000)
         p=parse_json(r)
         if p and isinstance(p,list):
             print(f"    Agent 2 got {len(p)} results")
@@ -152,7 +160,7 @@ IMPORTANT: Only real games. Include mid/small games too. Output ONLY valid JSON 
         n=d.get("name","")
         if not n or n in existing or n in seen:continue
         seen.add(n);mid+=1
-        new_p.append({"id":mid,"name":n,"nameEn":d.get("nameEn",""),"developer":d.get("developer","未知"),"studio":d.get("developer","未知"),"publisher":d.get("publisher","未知"),"genre":d.get("genre","未知"),"platform":d.get("platform",["Mobile"]),"region":d.get("region","未知"),"model":d.get("model","F2P"),"stage":d.get("stage","announced"),"threat":d.get("threat","medium"),"prereg":None,"sentiment":70,"launchEst":d.get("launchEst","待定"),"desc":d.get("desc",""),"tags":d.get("tags",[]),"threatAnalysis":d.get("threatAnalysis",""),"verified":f"AI Agent 自動發現 ({today})","category":"active","testType":d.get("testType","未知"),"testDateStart":d.get("testDateStart","待確認"),"testDateEnd":d.get("testDateEnd","待確認"),"sourceLinks":d.get("directLinks",d.get("sourceLinks",[])),"launchRegions":[],"history":[{"date":datetime.now(timezone.utc).strftime("%Y-%m"),"s":d.get("stage","announced")}],"updatedAt":today,"autoDiscovered":True})
+        new_p.append({"id":mid,"name":n,"nameEn":d.get("nameEn",""),"developer":d.get("developer","未知"),"studio":d.get("developer","未知"),"publisher":d.get("developer","未知"),"genre":d.get("genre","未知"),"platform":d.get("platform",["Mobile"]),"region":"待確認","model":"F2P","stage":d.get("stage","announced"),"threat":"medium","prereg":None,"sentiment":70,"launchEst":d.get("launchEst","待定"),"desc":d.get("desc",""),"tags":[],"threatAnalysis":"","verified":f"AI Agent 自動發現 ({today})，待 Agent 2 補充詳細資訊","category":"active","testType":"待確認","testDateStart":"待確認","testDateEnd":"待確認","sourceLinks":[],"launchRegions":[],"history":[{"date":datetime.now(timezone.utc).strftime("%Y-%m"),"s":d.get("stage","announced")}],"updatedAt":today,"autoDiscovered":True})
     print(f"  Discovered {len(all_disc)} total, {len(seen)} unique, {len(existing)} already in DB")
     if new_p:
         products.extend(new_p);save(PRODUCTS_FILE,products)
