@@ -109,7 +109,9 @@ def agent1():
     mid=max((g["id"] for g in products),default=0)
     today=datetime.now(timezone.utc).strftime("%Y-%m-%d")
     queries=[
-        "2026年6月7月 手遊新作 開測 上線 預約 封測 TapTap 九遊 17173 GameRes mobile game beta launch",
+        "2026年7月8月 台灣 台港澳 手遊新作 上線 開測 預約 封測 事前登錄 巴哈姆特 GNN",
+        "2026年7月8月 手遊新作 開測 上線 封測 TapTap 九遊 中國 韓國 日本",
+        "2026 mobile game new release beta launch July August global",
     ]
     all_disc=[]
     for q in queries:
@@ -302,7 +304,7 @@ def main():
     if key:
         agent2()
         dy=now.timetuple().tm_yday
-        if dy%5==0 or "--discover" in sys.argv or "--all" in sys.argv:
+        if dy%2==0 or "--discover" in sys.argv or "--all" in sys.argv:
             agent1()
         else:
             print(f"\n⏭ Agent 1 skipped (every 3 days)")
