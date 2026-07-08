@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-07T04:29:38.490659+00:00",
-  "fetchCount": 50,
+  "lastUpdated": "2026-07-08T03:51:58.311247+00:00",
+  "fetchCount": 51,
   "items": [
     {
       "id": "brief-20260629-9fda2eca",
@@ -124,6 +124,61 @@
       "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
     },
     {
+      "id": "brief-20260708-b34efdba",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Sony Tries To Change The Subject After Killing PlayStation Discs",
+      "detail": "To kick off July, Sony made the surprising announcement that it plans to end support of physical discs for PlayStation games at the beginning of 2028. In the week since that news, Sony kept quiet on s",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-08T03:51:58.311247+00:00"
+    },
+    {
+      "id": "brief-20260708-31939d81",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Arc Raiders’ Matchmaking Update Gives Players What They’ve Always Wanted",
+      "detail": "The latest Arc Raiders update is out now, and alongside the opening of the Expedition 4 window and an upcoming crossover event with Embark's first-person shooter The Finals, the extraction game is get",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-08T03:51:58.311247+00:00"
+    },
+    {
+      "id": "brief-20260708-477345db",
+      "priority": "info",
+      "icon": "📰",
+      "title": "PlayStation Plus Free Games For July 2026 Are Live Now",
+      "detail": "This month's batch of free games for PlayStation Plus subscribers has been released. All PS Plus members can claim a trio of freebies as of July 7--Call of Duty: Modern Warfare 3, For the King 2, and ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-08T03:51:58.311247+00:00"
+    },
+    {
+      "id": "brief-20260708-45cdd754",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Microsoft Spent $80 Billion On Its Bet For Xbox Game Pass. It Did Not Work.",
+      "detail": "A new report sheds more light on the situation at Xbox that led to the big news this week that Microsoft was cutting 3,200 jobs at the gaming company, divesting from studios, and making other cutbacks",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-08T03:51:58.311247+00:00"
+    },
+    {
+      "id": "brief-20260708-9555c6f3",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Bethesda Tells Workers The Company Needs To “Change Course” And Focus On Games W",
+      "detail": "Microsoft recently announced sweeping layoffs affecting 4,800 people, including 3,200 at Xbox alone. This is happening as part of a \"reset\" of Xbox, and this includes changes to the company's various ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-08T03:51:58.311247+00:00"
+    },
+    {
       "id": "brief-20260707-7d4cc46e",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-07-07T04:29:38.490659+00:00"
-    },
-    {
-      "id": "brief-20260707-80234c3a",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox CEO Admits Game Pass Has Not Worked Out, Reportedly Lost Millions Of Subscr",
-      "detail": "Xbox CEO Asha Sharma has outlined her plan to \"reset\" the Xbox business, and it includes mass layoffs and selling off studios. \n\n\n\nIn her memo announcing the dramatic shakeup, Sharma also talked about",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-07T04:29:38.490659+00:00"
-    },
-    {
-      "id": "brief-20260706-ad40116c",
-      "priority": "info",
-      "icon": "📰",
-      "title": "$2.50 Steam Sale Has Everyone Smashing The Surveillance State",
-      "detail": "One of Ubisoft's most underrated games, Watch Dogs 2, is on a super steep sale on Steam right now. So steep, in fact, that it seems to have inspired a new crop of folks to trawl through the technocrat",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-06T04:48:03.900858+00:00"
-    },
-    {
-      "id": "brief-20260706-4cfe2940",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Why Is Sony Killing Discs? It’s “All About Profitability And Control,” Expert Sa",
-      "detail": "Sony recently announced that it will stop supporting PlayStation game discs in January 2028. Even though Sony continues to sell many millions of discs, the share of digital game sales continues to ris",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-06T04:48:03.900858+00:00"
-    },
-    {
-      "id": "brief-20260706-5e63c8c8",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Assassin’s Creed: Black Flag Resynced Launch Times And Preload Schedule Revealed",
-      "detail": "A whole bunch of games are shipping out in July, but if you're in the mood for some treachery and leaps of faith on the high seas, then you're likely looking forward to Assassin's Creed: Black Flag Re",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-06T04:48:03.900858+00:00"
-    },
-    {
-      "id": "brief-20260706-65e2afda",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Amazon Prime Members Get 12 Games For Free In July",
-      "detail": "The next batch of games for Amazon Luna has been revealed, and this July, you can look forward to superhero workplace drama, turn-based RPG action, and some escape room fun. In total, there will be 12",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-06T04:48:03.900858+00:00"
     }
   ]
 }
