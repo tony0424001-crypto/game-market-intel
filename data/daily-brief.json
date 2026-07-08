@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-07-08T07:47:45.686181+00:00",
-  "fetchCount": 52,
+  "lastUpdated": "2026-07-08T07:59:43.428826+00:00",
+  "fetchCount": 53,
   "items": [
+    {
+      "id": "brief-20260708-d120fd2f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "ChinaJoy 2026 將以「AI升級」為主題盛大開幕，展示千款遊戲與AI應用",
+      "detail": "第23屆中國國際數碼互動娛樂展覽會（ChinaJoy 2026）將於7月31日至8月3日在上海新國際博覽中心舉行，主題為「AI升級」。展會將展出超過1,000款遊戲，並展示最新的人工智慧應用。目前已有近900家參展商確認參與，其中包括275家外資企業。",
+      "action": "關注展會期間的AI技術應用與新遊戲發布，評估潛在合作機會。",
+      "platform": "mobile/console",
+      "source": "ChinaJoy官方/Inven Global",
+      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
+    },
+    {
+      "id": "brief-20260708-fa1067fa",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "微軟裁員4,800人並重塑Xbox部門，加速AI戰略佈局",
+      "detail": "微軟於2026年7月6日宣布裁員4,800人，其中Xbox遊戲部門將裁減3,200個職位，並計劃分拆四個遊戲工作室。此次重組旨在簡化組織結構，並將更多資源投入到AI戰略中，利用AI支援遊戲測試、分析和開發流程。",
+      "action": "分析微軟AI戰略對遊戲開發和營運的影響，評估行業競爭格局變化。",
+      "platform": "console/PC",
+      "source": "YourStory.com",
+      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
+    },
+    {
+      "id": "brief-20260708-c0921436",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "索尼宣布自2028年起新發行PlayStation遊戲將全面轉向數位版",
+      "detail": "索尼互動娛樂宣布，為順應消費者偏好轉變，自2028年1月起，所有新的PlayStation遊戲將不再生產實體光碟，僅以數位版形式發行。此舉反映了全球遊戲產業向數位發行模式的重大轉變。",
+      "action": "評估數位化轉型對遊戲零售、發行策略及玩家體驗的長期影響。",
+      "platform": "console",
+      "source": "Mwakilishi.com/PlayStation Blog",
+      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
+    },
+    {
+      "id": "brief-20260708-63172b41",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "生成式AI在遊戲市場持續增長，預計2030年將達50.9億美元",
+      "detail": "生成式AI在遊戲市場正經歷顯著增長，預計將從2026年的22.1億美元擴大到2030年的50.9億美元，複合年增長率為23.2%。AI在遊戲內容創作、VR/AR整合、個性化體驗和元宇宙遊戲方面帶來巨大機會。",
+      "action": "持續追蹤生成式AI在遊戲開發和營運中的應用，評估其對未來遊戲產業的顛覆性影響。",
+      "platform": "mobile/console/PC",
+      "source": "Yahoo Finance UK",
+      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
+    },
     {
       "id": "brief-20260629-9fda2eca",
       "priority": "urgent",
@@ -69,6 +113,39 @@
       "fetchedAt": "2026-05-28T08:30:00Z"
     },
     {
+      "id": "brief-20260708-db769798",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "中國遊戲版號發放量第二季度同比增長13%，國內遊戲佔主導",
+      "detail": "中國國家新聞出版署在2026年第二季度共批准了483個遊戲版號，同比增長13%。其中，國內遊戲的批准量增長了17%，而進口遊戲的批准量則持續下降。2026年至今的遊戲審批量比去年同期增長了19%。",
+      "action": "密切關注版號政策的穩定性及對國內外遊戲發行的影響。",
+      "platform": "mobile/console",
+      "source": "Morningstar/PocketGamer.biz",
+      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
+    },
+    {
+      "id": "brief-20260708-bc512200",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "中國遊戲「出海」勢頭強勁，2025年海外收入突破200億美元",
+      "detail": "中國自主研發遊戲的海外銷售收入在2025年超過204.5億美元，連續第六年突破140億美元。中國發行商在2025年佔全球除中國外遊戲用戶獲取支出的35%，顯示中國遊戲在全球市場的影響力持續增強。",
+      "action": "研究中國遊戲出海策略，探索海外市場的潛在增長點。",
+      "platform": "mobile/console",
+      "source": "China Daily/TechAfrica News",
+      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
+    },
+    {
+      "id": "brief-20260708-a58b7ede",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《幻獸帕魯》1.0正式版於7月10日上線，帶來重大更新",
+      "detail": "熱門生存製作遊戲《幻獸帕魯》（Palworld）將於7月10日推出1.0正式版，帶來大量的更新內容，包括新的地點、角色和遊戲模式。",
+      "action": "監測遊戲更新後的玩家活躍度及內容評價，評估其長期發展潛力。",
+      "platform": "console/PC",
+      "source": "PC Gamer/Startselect/Xbox Wire",
+      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
+    },
+    {
       "id": "brief-20260629-ceb030ba",
       "priority": "watch",
       "icon": "👁",
@@ -113,114 +190,37 @@
       "fetchedAt": "2026-05-29T03:55:31.561362+00:00"
     },
     {
-      "id": "brief-20260529-f9b6f1d3",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "Ironwing Valiant: Record of Astera second closed alpha test announced",
-      "detail": "Tiger Team has released a new trailer for Japanese-inspired mecha action RPG Ironwing Valiant: Record &#8230;\nSource",
-      "action": "待人工審核確認影響程度。",
-      "platform": "console",
-      "source": "Gematsu",
-      "fetchedAt": "2026-05-29T02:39:52.192371+00:00"
+      "id": "brief-20260708-b4889cb6",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "《刺客教條：黑旗重製版》於7月9日發售，帶來畫質與內容升級",
+      "detail": "《刺客教條：黑旗重製版》（Assassin's Creed Black Flag Resynced）將於7月9日在PS5、Xbox Series X|S和PC平台推出。這款重製版將提供畫質提升、優化操作，並加入新的故事線和支線任務。",
+      "action": "關注遊戲發售後的市場反應及玩家評價，評估重製版遊戲的商業潛力。",
+      "platform": "console/PC",
+      "source": "PC Gamer/Startselect",
+      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
     },
     {
-      "id": "brief-20260708-b34efdba",
+      "id": "brief-20260708-8f1315de",
       "priority": "info",
-      "icon": "📰",
-      "title": "Sony Tries To Change The Subject After Killing PlayStation Discs",
-      "detail": "To kick off July, Sony made the surprising announcement that it plans to end support of physical discs for PlayStation games at the beginning of 2028. In the week since that news, Sony kept quiet on s",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-08T03:51:58.311247+00:00"
+      "icon": "ℹ️",
+      "title": "《最後一戰：進化戰役》重製版將於七月下旬推出，採用虛幻引擎5打造",
+      "detail": "《最後一戰：進化戰役》（Halo: Campaign Evolved）的完整重製版將於七月下旬發布。這款遊戲採用虛幻引擎5重新打造，提供全新的視覺效果、過場動畫和現代化控制，並包含三個全新的前傳任務。",
+      "action": "關注經典IP重製的市場表現，分析其對IP價值的影響。",
+      "platform": "console/PC",
+      "source": "PC Gamer/Men's Journal",
+      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
     },
     {
-      "id": "brief-20260708-31939d81",
+      "id": "brief-20260708-c70402a4",
       "priority": "info",
-      "icon": "📰",
-      "title": "Arc Raiders’ Matchmaking Update Gives Players What They’ve Always Wanted",
-      "detail": "The latest Arc Raiders update is out now, and alongside the opening of the Expedition 4 window and an upcoming crossover event with Embark's first-person shooter The Finals, the extraction game is get",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-08T03:51:58.311247+00:00"
-    },
-    {
-      "id": "brief-20260708-477345db",
-      "priority": "info",
-      "icon": "📰",
-      "title": "PlayStation Plus Free Games For July 2026 Are Live Now",
-      "detail": "This month's batch of free games for PlayStation Plus subscribers has been released. All PS Plus members can claim a trio of freebies as of July 7--Call of Duty: Modern Warfare 3, For the King 2, and ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-08T03:51:58.311247+00:00"
-    },
-    {
-      "id": "brief-20260708-45cdd754",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Microsoft Spent $80 Billion On Its Bet For Xbox Game Pass. It Did Not Work.",
-      "detail": "A new report sheds more light on the situation at Xbox that led to the big news this week that Microsoft was cutting 3,200 jobs at the gaming company, divesting from studios, and making other cutbacks",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-08T03:51:58.311247+00:00"
-    },
-    {
-      "id": "brief-20260708-9555c6f3",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Bethesda Tells Workers The Company Needs To “Change Course” And Focus On Games W",
-      "detail": "Microsoft recently announced sweeping layoffs affecting 4,800 people, including 3,200 at Xbox alone. This is happening as part of a \"reset\" of Xbox, and this includes changes to the company's various ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-08T03:51:58.311247+00:00"
-    },
-    {
-      "id": "brief-20260707-7d4cc46e",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Diablo 4’s Massive Mythic Item Changes Aren’t Finding Many Fans",
-      "detail": "Diablo 4 Season 14 dramatically reworked Mythic items in Blizzard's ARPG going forward, and judging from early feedback, it's a change that isn't going over well.\n\n\n\nSeason of Death Awakening launched",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-07T04:29:38.490659+00:00"
-    },
-    {
-      "id": "brief-20260707-73805b94",
-      "priority": "info",
-      "icon": "📰",
-      "title": "“Catastrophic Mismanagement” And AI Gambits Led To Mass Xbox Layoffs, Expert Say",
-      "detail": "Microsoft has announced sweeping layoffs and other dramatic changes resulting in 4,800 layoffs across the company, including 3,200 at Xbox specifically. What's led to this? According to one expert, Mi",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-07T04:29:38.490659+00:00"
-    },
-    {
-      "id": "brief-20260707-55b9e0cc",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Xbox CEO Reflects On Massive Cuts: “We Simply Spread Ourselves Too Thin”",
-      "detail": "Xbox CEO Asha Sharma has shared new details on the significant changes at Xbox, including mass layoffs, studio spinoffs, and more. \n\n\n\nIn an interview with Fortune, Sharma said Microsoft undertook \"a ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-07T04:29:38.490659+00:00"
-    },
-    {
-      "id": "brief-20260707-b3a89c8d",
-      "priority": "info",
-      "icon": "📰",
-      "title": "World Of Warcraft Just Got A Sequel To Its Most Literally Viral Moment",
-      "detail": "A deadly plague spread through World of Warcraft's Moonguard server over the weekend, making it the second time in WoW history a horrific virus has run uncontrolled through the game's populace.\n\n\n\nAs ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-07T04:29:38.490659+00:00"
+      "icon": "ℹ️",
+      "title": "《Pokémon GO》慶祝十週年，多款經典遊戲迎來里程碑紀念",
+      "detail": "超人氣手遊《Pokémon GO》將在2026年7月慶祝其十週年紀念。此外，多款經典遊戲也迎來重要里程碑，包括《大金剛》（Donkey Kong）45週年、《Game Boy Pocket》和《星海遊俠》（Star Ocean）30週年，以及《Final Fantasy X》25週年。",
+      "action": "關注遊戲週年慶活動，分析長青遊戲的營運策略和社群維護。",
+      "platform": "mobile/console",
+      "source": "Cubed3/Meristation",
+      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
     }
   ]
 }
