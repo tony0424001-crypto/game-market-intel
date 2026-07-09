@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-08T10:20:20.445384+00:00",
-  "fetchCount": 55,
+  "lastUpdated": "2026-07-09T04:26:55.614973+00:00",
+  "fetchCount": 56,
   "items": [
     {
       "id": "brief-20260708-da1fa430",
@@ -168,59 +168,59 @@
       "fetchedAt": "2026-07-08T10:20:20.445384+00:00"
     },
     {
-      "id": "brief-20260708-db769798",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "中國遊戲版號發放量第二季度同比增長13%，國內遊戲佔主導",
-      "detail": "中國國家新聞出版署在2026年第二季度共批准了483個遊戲版號，同比增長13%。其中，國內遊戲的批准量增長了17%，而進口遊戲的批准量則持續下降。2026年至今的遊戲審批量比去年同期增長了19%。",
-      "action": "密切關注版號政策的穩定性及對國內外遊戲發行的影響。",
-      "platform": "mobile/console",
-      "source": "Morningstar/PocketGamer.biz",
-      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
-    },
-    {
-      "id": "brief-20260708-bc512200",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "中國遊戲「出海」勢頭強勁，2025年海外收入突破200億美元",
-      "detail": "中國自主研發遊戲的海外銷售收入在2025年超過204.5億美元，連續第六年突破140億美元。中國發行商在2025年佔全球除中國外遊戲用戶獲取支出的35%，顯示中國遊戲在全球市場的影響力持續增強。",
-      "action": "研究中國遊戲出海策略，探索海外市場的潛在增長點。",
-      "platform": "mobile/console",
-      "source": "China Daily/TechAfrica News",
-      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
-    },
-    {
-      "id": "brief-20260708-a58b7ede",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《幻獸帕魯》1.0正式版於7月10日上線，帶來重大更新",
-      "detail": "熱門生存製作遊戲《幻獸帕魯》（Palworld）將於7月10日推出1.0正式版，帶來大量的更新內容，包括新的地點、角色和遊戲模式。",
-      "action": "監測遊戲更新後的玩家活躍度及內容評價，評估其長期發展潛力。",
-      "platform": "console/PC",
-      "source": "PC Gamer/Startselect/Xbox Wire",
-      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
-    },
-    {
-      "id": "brief-20260629-ceb030ba",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "PlayStation State of Play 6月發表多款新作與更新",
-      "detail": "PlayStation於6月3日的State of Play活動中，發表了多款備受期待的新作，包括《Dune: Awakening》、《空戰奇兵8 希孚之翼》、《鬼武者Way of the Sword》、《控制: 共振》、《SILENT HILL: Townfall》以及《God of War Laufey》等，多數遊戲預計於2026年下半年或2027年推出。",
-      "action": "分析新作類型與發售時程，評估對主機遊戲市場的競爭格局。",
+      "id": "brief-20260709-a9d6c6fa",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Your Loyalty To Sony Or Xbox Means Nothing, Analyst Says",
+      "detail": "In response to Sony announcing that it will stop producing physical game discs for PlayStation starting in 2028, a lot of people have had a lot of things to say. One of those voices is Circana analyst",
+      "action": "待審閱",
       "platform": "console",
-      "source": "PlayStation Blog/A9VG電玩部落",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-09T04:26:55.614973+00:00"
     },
     {
-      "id": "brief-20260629-05398525",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "Summer Game Fest 2026：中國3A遊戲《穿越火線：潛伏》、《古劍》新作亮相",
-      "detail": "2026年夏日遊戲節（Summer Game Fest）於6月6日舉辦，匯聚全球頂尖遊戲廠商。其中，騰訊的《穿越火線：潛伏》和《古劍奇譚》新作，以及網易的《歸唐》等國產3A大作亮相，顯示中國遊戲廠商在3A領域的投入與「出海」戰略。",
-      "action": "研究中國3A遊戲的全球化策略與市場表現，尋找合作或競爭機會。",
-      "platform": "console/PC",
-      "source": "澎湃新聞/Nmia Gaming",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
+      "id": "brief-20260709-e88d1a62",
+      "priority": "info",
+      "icon": "📰",
+      "title": "New Fallout Game Is New Focus For New Vegas Developer Obsidian Entertainment – R",
+      "detail": "Obsidian Entertainment--the developer behind Grounded, The Outer Worlds, and Avowed--will reportedly shift strategies to work on a new Fallout game. That means that a planned Avowed sequel and other u",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-09T04:26:55.614973+00:00"
+    },
+    {
+      "id": "brief-20260709-cbcf6c9b",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Over 220,000 People Petition Sony Not To Kill Physical PlayStation Game Discs",
+      "detail": "As Sony plans to kill all PlayStation disc production in January 2028, a Canadian retailer has done what everyone was probably thinking of doing: urging the company to change its mind with a petition ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-09T04:26:55.614973+00:00"
+    },
+    {
+      "id": "brief-20260709-67f3ccc5",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Xbox Kills Obsidian’s Avowed Sequel In The Wake Of Layoffs – Report",
+      "detail": "Xbox's big reset continues, as the company has targeted RPG icon Obsidian Entertainment, laying off about a quarter of its staff and cancelling a sequel to the underrated 2025 action-RPG Avowed.\n\n\n\nAc",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-09T04:26:55.614973+00:00"
+    },
+    {
+      "id": "brief-20260709-b54c0017",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Love And Deepspace Drama Continues As Chinese Government Indicates New Love Inte",
+      "detail": "Regardless of if you play the action-packed dating-sim or not, you've probably heard a bit about the intense controversy surrounding Love and Deepspace recently. And no, it somehow has nothing to do w",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-09T04:26:55.614973+00:00"
     }
   ]
 }
