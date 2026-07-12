@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-11T03:49:32.218848+00:00",
-  "fetchCount": 58,
+  "lastUpdated": "2026-07-12T04:04:49.700257+00:00",
+  "fetchCount": 59,
   "items": [
     {
       "id": "brief-20260708-da1fa430",
@@ -168,7 +168,7 @@
       "fetchedAt": "2026-07-08T10:20:20.445384+00:00"
     },
     {
-      "id": "brief-20260711-6e3ba389",
+      "id": "brief-20260712-6e3ba389",
       "priority": "info",
       "icon": "📰",
       "title": "Garfield Craps On Mario Over Upcoming Mario Kart Game Shutdown",
@@ -176,10 +176,10 @@
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-11T03:49:32.218848+00:00"
+      "fetchedAt": "2026-07-12T04:04:49.700257+00:00"
     },
     {
-      "id": "brief-20260711-fa8d8c1c",
+      "id": "brief-20260712-fa8d8c1c",
       "priority": "info",
       "icon": "📰",
       "title": "This Promising DayZ Rival Is Thankfully Pivoting To PvE Before Launch",
@@ -187,10 +187,10 @@
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-11T03:49:32.218848+00:00"
+      "fetchedAt": "2026-07-12T04:04:49.700257+00:00"
     },
     {
-      "id": "brief-20260711-abfe0df4",
+      "id": "brief-20260712-abfe0df4",
       "priority": "info",
       "icon": "📰",
       "title": "Roblox’s Latest Crossover Is One I Guarantee You’d Never Guess",
@@ -198,10 +198,10 @@
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-11T03:49:32.218848+00:00"
+      "fetchedAt": "2026-07-12T04:04:49.700257+00:00"
     },
     {
-      "id": "brief-20260711-0f2e0be5",
+      "id": "brief-20260712-0f2e0be5",
       "priority": "info",
       "icon": "📰",
       "title": "AC Black Flag Resynced Is A Hit, But People Are Particularly Upset About One Thi",
@@ -209,10 +209,10 @@
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-11T03:49:32.218848+00:00"
+      "fetchedAt": "2026-07-12T04:04:49.700257+00:00"
     },
     {
-      "id": "brief-20260711-95e5bf29",
+      "id": "brief-20260712-95e5bf29",
       "priority": "info",
       "icon": "📰",
       "title": "GTA 6 Preloading: Start Date And What To Know About Digital And Physical Copies",
@@ -220,7 +220,7 @@
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-11T03:49:32.218848+00:00"
+      "fetchedAt": "2026-07-12T04:04:49.700257+00:00"
     }
   ]
 }
