@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-07-16T03:45:06.458550+00:00",
-  "fetchCount": 63,
+  "lastUpdated": "2026-07-17T03:44:46.684788+00:00",
+  "fetchCount": 64,
   "items": [
+    {
+      "id": "brief-20260717-a640e372",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "騰訊《星河戰紀》手遊全球上線，首日營收突破紀錄",
+      "detail": "騰訊旗下重磅科幻MMORPG手遊《星河戰紀》於7月15日全球同步上線，據初步數據顯示，上線首日全球營收已突破5000萬美元，預計將成為今年最成功的移動遊戲之一，展現了騰訊在國際市場的強勁實力。",
+      "action": "密切關注其市場表現及用戶反饋，評估其對同類競品的影響，並分析其全球化發行策略。",
+      "platform": "mobile",
+      "source": "遊戲產業觀察",
+      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
+    },
+    {
+      "id": "brief-20260717-e46bff80",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "微軟傳聞將收購某中型遊戲工作室，強化Xbox獨佔陣容",
+      "detail": "據彭博社報導，微軟正與一家歐洲中型遊戲工作室進行深入談判，可能以數億美元的價格完成收購，旨在進一步擴充Xbox Game Studios的獨佔遊戲開發能力，以應對日益激烈的平台競爭。",
+      "action": "密切關注此收購案的進展，分析其對主機市場競爭格局的影響，以及對未來遊戲內容生態的潛在改變。",
+      "platform": "console",
+      "source": "彭博社",
+      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
+    },
     {
       "id": "brief-20260708-da1fa430",
       "priority": "urgent",
@@ -80,147 +102,125 @@
       "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
     },
     {
-      "id": "brief-20260629-20b72f32",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《俠盜獵車手6》正式開放預購，引發全球市場關注",
-      "detail": "Rockstar Games的《俠盜獵車手6》（Grand Theft Auto VI）已於6月24日正式開放預購，此舉引發全球玩家熱烈討論，並牽動母公司Take-Two Interactive（TTWO）的股價表現。市場普遍對其商業潛力持樂觀態度，預計將為公司帶來顯著營收貢獻。",
-      "action": "密切關注預購數據及市場反應，評估對全球遊戲市場的影響。",
-      "platform": "console",
-      "source": "基因線上",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
-    },
-    {
-      "id": "brief-20260629-11f1d00a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "AI衝擊遊戲產業：逾四成開發者萌生退意，中國工作室AI應用率達60%",
-      "detail": "Skillsearch最新調查顯示，全球逾四成遊戲開發者因持續裁員潮與生成式AI的衝擊考慮離開遊戲業。儘管如此，中國遊戲工作室在AI技術應用方面領先，60%的中國工作室已在開發流程中使用AI技術，顯示AI在提升效率方面的潛力。",
-      "action": "評估AI技術對遊戲開發流程的影響，制定人才保留與AI倫理應用策略。",
-      "platform": "N/A",
-      "source": "Unwire Pro/PocketGamer.biz",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
-    },
-    {
-      "id": "brief-20260528-001",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Project Mugen 釋出 15 分鐘實機演示",
-      "detail": "NetEase 在直播活動中釋出完整實機演示，展示城市破壞系統和載具戰鬥。YouTube 2 小時內突破 200 萬觀看。預註冊暴漲 40 萬。",
-      "action": "建議立即召開競品分析會議，評估對我方 Q4 產品的影響。",
-      "platform": "mobile",
-      "source": "YouTube / 遊戲媒體",
-      "fetchedAt": "2026-05-28T08:30:00Z"
-    },
-    {
-      "id": "brief-20260528-002",
-      "priority": "urgent",
-      "icon": "⚡",
-      "title": "Starfall Tactics 封測 NDA 解除",
-      "detail": "HoYoverse 新作封測 NDA 今日解除。TapTap 評分 8.9/10，戰棋系統深度獲高評價，抽卡機率遭批評。",
-      "action": "已自動生成封測輿情報告，建議重點關注戰棋系統設計。",
-      "platform": "mobile",
-      "source": "TapTap / Twitch",
-      "fetchedAt": "2026-05-28T08:30:00Z"
-    },
-    {
-      "id": "brief-20260528-003",
-      "priority": "urgent",
-      "icon": "🎮",
-      "title": "GTA VI 第三支預告片發布，確認 10/27 發售",
-      "detail": "Rockstar 發布新預告，確認 10 月 27 日全球發售。PS5/Xbox 獨佔，PC 延後至 2027。預購破歷史紀錄。",
-      "action": "Q4 主機市場將被嚴重擠壓，建議所有主機端產品重新評估上線時間。",
-      "platform": "console",
-      "source": "Rockstar Games 官方",
-      "fetchedAt": "2026-05-28T08:30:00Z"
-    },
-    {
-      "id": "brief-20260708-12442d26",
+      "id": "brief-20260717-9992d403",
       "priority": "watch",
       "icon": "👁",
-      "title": "騰訊《王者榮耀：世界》國際版全球營收突破 10 億美元，出海戰略再獲成功",
-      "detail": "騰訊旗下開放世界 RPG 手遊《王者榮耀：世界》國際版自去年底上線以來，全球累計營收已突破 10 億美元大關，尤其在北美、歐洲及東南亞市場表現強勁。這再次證明了中國遊戲公司「出海」戰略的巨大潛力。",
-      "action": "分析其成功模式，研究其在地化策略及市場推廣手段。",
+      "title": "Ubisoft《刺客教條：暗影》發售在即，預購量創系列新高",
+      "detail": "Ubisoft備受期待的開放世界動作遊戲《刺客教條：暗影》將於7月25日正式發售。官方透露，遊戲預購量已打破系列紀錄，市場預期其將在下半年主機遊戲市場佔據重要地位，尤其在日本背景設定引發廣泛關注。",
+      "action": "評估遊戲發售後的媒體評分及玩家口碑，分析其對主機市場的潛在影響及文化題材的市場接受度。",
+      "platform": "console",
+      "source": "IGN中文",
+      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
+    },
+    {
+      "id": "brief-20260717-5970fce7",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "中國國家新聞出版署公佈新一批版號，國產遊戲佔比提升",
+      "detail": "中國國家新聞出版署於本週公佈了7月份的遊戲版號審批結果，共批准80款遊戲，其中國產遊戲佔比達到90%，顯示出對本土遊戲開發的支持。進口遊戲版號數量保持穩定，市場信心持續回暖。",
+      "action": "審查獲批遊戲列表，分析版號發放趨勢對國內遊戲市場的影響，特別是中小開發商的機會與挑戰。",
+      "platform": "mobile",
+      "source": "遊戲葡萄",
+      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
+    },
+    {
+      "id": "brief-20260717-2d25ea05",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "米哈遊《原神》新版本全球更新，持續引領「出海」熱潮",
+      "detail": "米哈遊旗下現象級遊戲《原神》於7月16日推出5.0大型版本更新，新增地圖、角色及劇情。更新後遊戲在全球多個市場的營收排名再次攀升，鞏固了其在海外市場的領先地位，成為中國遊戲「出海」的標杆。",
+      "action": "學習《原神》的全球化運營策略和內容更新模式，評估其對其他中國遊戲「出海」的啟示，並分析其長線運營能力。",
       "platform": "mobile",
       "source": "Sensor Tower",
-      "fetchedAt": "2026-07-08T10:20:20.445384+00:00"
+      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
     },
     {
-      "id": "brief-20260708-45096393",
+      "id": "brief-20260717-0ef550e0",
       "priority": "watch",
       "icon": "👁",
-      "title": "微軟宣布收購歐洲獨立遊戲工作室 Aether Games，強化 Xbox 獨佔陣容",
-      "detail": "微軟 Xbox 部門今日宣布，已成功收購位於瑞典的獨立遊戲開發商 Aether Games。Aether Games 以其創新的敘事型 RPG 遊戲聞名，此次收購旨在進一步擴充 Xbox Game Studios 的第一方遊戲陣容，並為 Game Pass 訂閱服務帶來更多獨佔內容。",
-      "action": "評估此次收購對 Xbox 生態系統的影響，關注 Aether Games 未來新作動向。",
-      "platform": "console",
-      "source": "Xbox Wire",
-      "fetchedAt": "2026-07-08T10:20:20.445384+00:00"
-    },
-    {
-      "id": "brief-20260708-38a48360",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "中國國家新聞出版署發放新一批遊戲版號，多款國產大作獲批",
-      "detail": "中國國家新聞出版署於本週發布了最新一批遊戲版號，共計 95 款遊戲獲批，其中包括騰訊、網易等多家大廠的多款重點國產遊戲。此次版號發放數量穩定，顯示中國遊戲市場審批常態化趨勢持續。",
-      "action": "分析獲批遊戲類型及發行商分佈，預測下半年中國遊戲市場新品動向。",
+      "title": "網易《陰陽師》八週年慶典啟動，推出重磅聯動與福利",
+      "detail": "網易旗艦手遊《陰陽師》迎來八週年慶典，官方宣佈將與知名動漫IP進行聯動，並推出一系列限定角色、皮膚及豐厚福利活動，預計將再次刺激玩家活躍度和營收，展現其長青IP的生命力。",
+      "action": "分析《陰陽師》長線運營的成功要素，特別是其IP聯動和社區維護策略，為自有產品提供借鑒。",
       "platform": "mobile",
-      "source": "國家新聞出版署",
-      "fetchedAt": "2026-07-08T10:20:20.445384+00:00"
+      "source": "網易遊戲官方",
+      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
     },
     {
-      "id": "brief-20260716-29d451ac",
+      "id": "brief-20260717-3829c064",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "索尼互動娛樂Q2財報亮眼，PS5銷量持續增長",
+      "detail": "索尼互動娛樂（SIE）公佈2026年第二季度財報，PlayStation 5主機銷量同比增長15%，遊戲銷售額亦有顯著提升。訂閱服務PlayStation Plus用戶數穩步上升，顯示其生態系統的強勁韌性。",
+      "action": "分析索尼的增長策略，特別是其獨佔遊戲和服務模式，對比競爭對手表現，並預測下半年市場趨勢。",
+      "platform": "console",
+      "source": "華爾街日報",
+      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
+    },
+    {
+      "id": "brief-20260717-a5b4a4b8",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "遊戲開發者大會（GDC）夏季特別峰會聚焦AI應用，效率提升成關鍵",
+      "detail": "近期舉辦的GDC夏季特別峰會上，多位業界專家探討了生成式AI在遊戲開發中的應用，包括美術資源生成、NPC行為設計及代碼輔助。業界普遍認為AI將大幅提升開發效率，並改變遊戲製作流程。",
+      "action": "評估公司內部AI技術儲備，研究如何將AI工具整合到現有開發流程中，提升生產力，並關注AI倫理與版權問題。",
+      "platform": "console",
+      "source": "GDC官方新聞",
+      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
+    },
+    {
+      "id": "brief-20260717-2eeea0dd",
       "priority": "info",
       "icon": "📰",
-      "title": "Your First Chance To Play The Duskbloods Early Is Next Month",
-      "detail": "From Software's upcoming game The Duskbloods looks be quite the departure from the studio's previous work, and if you want a chance to play it ahead of its official launch, you'll soon have your chanc",
+      "title": "Matt Damon Is In Fortnite Now, But He Was Almost In His Own Game Way Earlier",
+      "detail": "This week, Fortnite is adding multiple skins based on Christopher Nolan's The Odyssey film, including one of Matt Damon as Odysseus. While this is the first time the actor's likeness has been in a vid",
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-16T03:45:06.458550+00:00"
+      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
     },
     {
-      "id": "brief-20260716-eed54f11",
+      "id": "brief-20260717-b0339b7b",
       "priority": "info",
       "icon": "📰",
-      "title": "A Warner Bros. Looney Tunes Game Is Shutting Down Soon",
-      "detail": "Yet another game is closing up shop. The developers of Looney Tunes: World of Mayhem have confirmed that the mobile game is shutting down, and soon.\n\n\n\nThe game is developed by juggernaut Scopely (Mon",
+      "title": "Luigi Replaces Mario Due To Immigration Issue",
+      "detail": "French metal band Gojira has confirmed that its drummer, Mario Duplantier, will not be able to perform on some upcoming shows, and he's being temporarily replaced by Luigi Paraventi. That's right, Lui",
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-16T03:45:06.458550+00:00"
+      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
     },
     {
-      "id": "brief-20260716-0f672b84",
+      "id": "brief-20260717-07e9523b",
       "priority": "info",
       "icon": "📰",
-      "title": "Overwatch’s Barely-A-Year-Old Stadium Mode Is Going On Life Support",
-      "detail": "Overwatch's Stadium mode, which transformed Blizzard's hero shooter into something more akin to a third-person MOBA, won't be receiving new heroes or maps moving forward.\n\n\n\nGame director Aaron Keller",
+      "title": "New Street Fighter 6 Fragrances Let Your Room Smell Like Juri’s Feet",
+      "detail": "There's a new Street Fighter 6 collaboration about to drop in mid-October that comes with three scents inspired by the \"signature moves\" of three brawlers from Capcom's fighting game, which, of course",
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-16T03:45:06.458550+00:00"
+      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
     },
     {
-      "id": "brief-20260716-1ffe7207",
+      "id": "brief-20260717-97e7797d",
       "priority": "info",
       "icon": "📰",
-      "title": "Glen Schofield Talks $200 Million Call Of Duty Games, Canceled Vietnam Game, And",
-      "detail": "Gaming industry veteran Glen Schofield has announced that he is retiring from day-to-day game development, and he spoke to GamesBeat about his career, where a number of notable topics came up. Among o",
+      "title": "Battlefield 6 Is Getting A Feature Not Seen In 21 Years And A Top Gun Crossover",
+      "detail": "Battlefield 6's next big update, 1.4.1.0, is launching on July 21, introducing Season 4 : Pacific Front and a naval warfare system. The update also brings back a feature that Battlefield hasn't had si",
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-16T03:45:06.458550+00:00"
+      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
     },
     {
-      "id": "brief-20260716-ad7cfe26",
+      "id": "brief-20260717-e013c267",
       "priority": "info",
       "icon": "📰",
-      "title": "PlayStation Plus Extra/Premium Games For July 2026 Revealed",
-      "detail": "Sony has revealed the latest games coming to the Game Catalog for PlayStation Plus Extra and Premium subscribers in July. Like last month, the release schedule for these games has now changed for US, ",
+      "title": "007 First Light Almost Turned James Bond Into “Mr. Gadget”",
+      "detail": "007 First Light strikes a key balance between keeping James Bond grounded while also placing him in believably outlandish sequences, but for longtime fans of the franchise, the lack of any over-the-to",
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-16T03:45:06.458550+00:00"
+      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
     }
   ]
 }
