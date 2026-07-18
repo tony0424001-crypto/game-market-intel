@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-07-17T03:44:46.684788+00:00",
-  "fetchCount": 64,
+  "lastUpdated": "2026-07-18T03:39:34.864038+00:00",
+  "fetchCount": 65,
   "items": [
+    {
+      "id": "brief-20260718-0d1c66b3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "ChinaJoy 2026 將聚焦AI與獨立遊戲，展會規模擴大",
+      "detail": "中國最大的遊戲展會ChinaJoy 2026將於7月31日至8月3日在上海舉行，主題為「AI升級」。展會將擴大AI會議環節並吸引相關參展商，同時也將增加對獨立遊戲和IP/周邊商品的支援。",
+      "action": "關注AI技術在遊戲開發與內容創作的應用，評估獨立遊戲市場潛力。",
+      "platform": "info",
+      "source": "Sqool.net, ChinaJoy官方",
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
+    },
+    {
+      "id": "brief-20260718-551aa26a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "2026年第二季度全球遊戲產業併購額達23億美元，AI與廣告技術投資激增",
+      "detail": "2026年第二季度，全球遊戲產業併購交易額達到23億美元，共計54筆交易，創下疫情後新高。其中，Scopely以10億美元收購Loom Games是最大一筆交易。同期，遊戲產業私人投資達到25億美元以上，主要由AI工具、廣告技術和硬體領域的「巨額融資」驅動，AppsFlyer獲得超過10億美元的融資。",
+      "action": "分析市場整合趨勢，關注AI和廣告技術領域的投資機會。",
+      "platform": "info",
+      "source": "GamesIndustry, PocketGamer.biz, MarketScale",
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
+    },
     {
       "id": "brief-20260717-a640e372",
       "priority": "urgent",
@@ -58,169 +80,147 @@
       "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
     },
     {
-      "id": "brief-20260708-fa1067fa",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "微軟裁員4,800人並重塑Xbox部門，加速AI戰略佈局",
-      "detail": "微軟於2026年7月6日宣布裁員4,800人，其中Xbox遊戲部門將裁減3,200個職位，並計劃分拆四個遊戲工作室。此次重組旨在簡化組織結構，並將更多資源投入到AI戰略中，利用AI支援遊戲測試、分析和開發流程。",
-      "action": "分析微軟AI戰略對遊戲開發和營運的影響，評估行業競爭格局變化。",
-      "platform": "console/PC",
-      "source": "YourStory.com",
-      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
+      "id": "brief-20260718-9021758b",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "中國遊戲「出海」戰略成果豐碩，海外收入持續增長",
+      "detail": "自2019年以來，中國發行商在全球玩家消費增長中佔據約一半份額。2026年第一季度，中國自主研發遊戲在國際市場的收入達到20.77億美元，同比增長24.05%。中國遊戲公司在海外的用戶獲取支出同比增長22%，佔全球遊戲應用獲取支出的35%。",
+      "action": "研究中國遊戲出海策略，探索合作與市場拓展機會。",
+      "platform": "mobile/console",
+      "source": "Niko Partners, CGTN, Chinadaily.com.cn",
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     },
     {
-      "id": "brief-20260708-c0921436",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "索尼宣布自2028年起新發行PlayStation遊戲將全面轉向數位版",
-      "detail": "索尼互動娛樂宣布，為順應消費者偏好轉變，自2028年1月起，所有新的PlayStation遊戲將不再生產實體光碟，僅以數位版形式發行。此舉反映了全球遊戲產業向數位發行模式的重大轉變。",
-      "action": "評估數位化轉型對遊戲零售、發行策略及玩家體驗的長期影響。",
+      "id": "brief-20260718-f9d0b653",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《最後一戰：戰鬥進化》重製版與《刺客教條：黑旗 重同步》將於七月推出",
+      "detail": "《最後一戰：戰鬥進化》重製版將於2026年7月28日在PC、PS5和Xbox Series X|S平台發布，帶來升級的畫面和新增內容。同時，《刺客教條：黑旗 重同步》也將於2026年7月推出PC版，對經典作品進行強化。",
+      "action": "關注重製版遊戲的市場表現，評估經典IP的商業價值。",
       "platform": "console",
-      "source": "Mwakilishi.com/PlayStation Blog",
-      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
+      "source": "PC Gamer, GameSpot, PlayStation.Blog",
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     },
     {
-      "id": "brief-20260708-63172b41",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "生成式AI在遊戲市場持續增長，預計2030年將達50.9億美元",
-      "detail": "生成式AI在遊戲市場正經歷顯著增長，預計將從2026年的22.1億美元擴大到2030年的50.9億美元，複合年增長率為23.2%。AI在遊戲內容創作、VR/AR整合、個性化體驗和元宇宙遊戲方面帶來巨大機會。",
-      "action": "持續追蹤生成式AI在遊戲開發和營運中的應用，評估其對未來遊戲產業的顛覆性影響。",
-      "platform": "mobile/console/PC",
-      "source": "Yahoo Finance UK",
-      "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
-    },
-    {
-      "id": "brief-20260629-9fda2eca",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "ChinaJoy 2026主題「與AI同遊」：聚焦AI技術與遊戲融合",
-      "detail": "2026年第二十三屆中國國際數碼互動娛樂展覽會（ChinaJoy）將於7月31日至8月3日在上海舉行，主題定為「與AI同遊」。展會將以空前的遊戲試玩陣容與前沿AI技術生態為核心，全面呈現數字娛樂產業的最新成果，並設有Vision Future前沿科技展區和ChinaJoy Next Play創新遊戲體驗場，展示AI NPC、互動敘事等前沿產品。",
-      "action": "關注AI技術在遊戲開發與體驗中的應用，評估潛在合作機會。",
-      "platform": "console/mobile",
-      "source": "澎湃新聞/新華網",
-      "fetchedAt": "2026-06-29T05:07:54.445720+00:00"
-    },
-    {
-      "id": "brief-20260717-9992d403",
+      "id": "brief-20260718-0d952ea8",
       "priority": "watch",
       "icon": "👁",
-      "title": "Ubisoft《刺客教條：暗影》發售在即，預購量創系列新高",
-      "detail": "Ubisoft備受期待的開放世界動作遊戲《刺客教條：暗影》將於7月25日正式發售。官方透露，遊戲預購量已打破系列紀錄，市場預期其將在下半年主機遊戲市場佔據重要地位，尤其在日本背景設定引發廣泛關注。",
-      "action": "評估遊戲發售後的媒體評分及玩家口碑，分析其對主機市場的潛在影響及文化題材的市場接受度。",
-      "platform": "console",
-      "source": "IGN中文",
-      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
-    },
-    {
-      "id": "brief-20260717-5970fce7",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "中國國家新聞出版署公佈新一批版號，國產遊戲佔比提升",
-      "detail": "中國國家新聞出版署於本週公佈了7月份的遊戲版號審批結果，共批准80款遊戲，其中國產遊戲佔比達到90%，顯示出對本土遊戲開發的支持。進口遊戲版號數量保持穩定，市場信心持續回暖。",
-      "action": "審查獲批遊戲列表，分析版號發放趨勢對國內遊戲市場的影響，特別是中小開發商的機會與挑戰。",
-      "platform": "mobile",
-      "source": "遊戲葡萄",
-      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
-    },
-    {
-      "id": "brief-20260717-2d25ea05",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "米哈遊《原神》新版本全球更新，持續引領「出海」熱潮",
-      "detail": "米哈遊旗下現象級遊戲《原神》於7月16日推出5.0大型版本更新，新增地圖、角色及劇情。更新後遊戲在全球多個市場的營收排名再次攀升，鞏固了其在海外市場的領先地位，成為中國遊戲「出海」的標杆。",
-      "action": "學習《原神》的全球化運營策略和內容更新模式，評估其對其他中國遊戲「出海」的啟示，並分析其長線運營能力。",
-      "platform": "mobile",
-      "source": "Sensor Tower",
-      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
-    },
-    {
-      "id": "brief-20260717-0ef550e0",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "網易《陰陽師》八週年慶典啟動，推出重磅聯動與福利",
-      "detail": "網易旗艦手遊《陰陽師》迎來八週年慶典，官方宣佈將與知名動漫IP進行聯動，並推出一系列限定角色、皮膚及豐厚福利活動，預計將再次刺激玩家活躍度和營收，展現其長青IP的生命力。",
-      "action": "分析《陰陽師》長線運營的成功要素，特別是其IP聯動和社區維護策略，為自有產品提供借鑒。",
-      "platform": "mobile",
-      "source": "網易遊戲官方",
-      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
-    },
-    {
-      "id": "brief-20260717-3829c064",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "索尼互動娛樂Q2財報亮眼，PS5銷量持續增長",
-      "detail": "索尼互動娛樂（SIE）公佈2026年第二季度財報，PlayStation 5主機銷量同比增長15%，遊戲銷售額亦有顯著提升。訂閱服務PlayStation Plus用戶數穩步上升，顯示其生態系統的強勁韌性。",
-      "action": "分析索尼的增長策略，特別是其獨佔遊戲和服務模式，對比競爭對手表現，並預測下半年市場趨勢。",
-      "platform": "console",
+      "title": "中國第二季度遊戲版號審批數量增加，監管趨於常態化",
+      "detail": "中國國家新聞出版署（NPPA）在2026年第二季度共發放了483個遊戲版號，同比增長13%。Morningstar分析師指出，隨著審批常態化，監管供應不再是影響開發商收益的主要因素。",
+      "action": "持續關注版號發放政策，調整中國市場遊戲發行策略。",
+      "platform": "info",
       "source": "華爾街日報",
-      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     },
     {
-      "id": "brief-20260717-a5b4a4b8",
+      "id": "brief-20260718-32afde33",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "Roblox推出AI驅動的遊戲創作工具「Build」，簡化遊戲開發",
+      "detail": "Roblox於7月17日推出AI驅動的工具「Build」，允許用戶透過文字提示在Roblox手機應用程式中創建基本的可玩遊戲。該工具將於7月28日在紐西蘭開始測試，旨在降低遊戲創作門檻。",
+      "action": "研究AI在用戶生成內容（UGC）遊戲平台的應用，探索新的開發模式。",
+      "platform": "mobile",
+      "source": "Business Insider",
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
+    },
+    {
+      "id": "brief-20260718-78f689df",
       "priority": "info",
       "icon": "ℹ️",
-      "title": "遊戲開發者大會（GDC）夏季特別峰會聚焦AI應用，效率提升成關鍵",
-      "detail": "近期舉辦的GDC夏季特別峰會上，多位業界專家探討了生成式AI在遊戲開發中的應用，包括美術資源生成、NPC行為設計及代碼輔助。業界普遍認為AI將大幅提升開發效率，並改變遊戲製作流程。",
-      "action": "評估公司內部AI技術儲備，研究如何將AI工具整合到現有開發流程中，提升生產力，並關注AI倫理與版權問題。",
+      "title": "《碧藍幻想 Relink》大型DLC「無盡的諸神黃昏」七月上線",
+      "detail": "《碧藍幻想 Relink》將於2026年7月9日推出大型DLC「無盡的諸神黃昏」，新增故事章節、強大召喚獸、合作任務和「匯流」新模式，支援PS5、PS4、Nintendo Switch 2和PC平台。",
+      "action": "評估DLC對遊戲社群的影響及潛在收入增長。",
       "platform": "console",
-      "source": "GDC官方新聞",
-      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
+      "source": "PC Gamer, GameSpace.com, GameSpot",
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     },
     {
-      "id": "brief-20260717-2eeea0dd",
+      "id": "brief-20260718-5d27ee2a",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "Evolution Gaming 2026年第二季度營收小幅下滑，但利潤增長",
+      "detail": "領先的真人娛樂場供應商Evolution Gaming報告稱，2026年第二季度淨收入同比下降1.2%至5.178億歐元，但淨利潤小幅增長1.3%至2.514億歐元。歐洲市場恢復季度增長。",
+      "action": "分析線上博弈市場的財務表現與區域增長動態。",
+      "platform": "info",
+      "source": "SiGMA World, Evolution官方報告",
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
+    },
+    {
+      "id": "brief-20260718-eddf6320",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "中國遊戲公司積極參與颱風災害救援，展現企業社會責任",
+      "detail": "2026年7月，中國沿海地區遭受颱風「米克薩」和「巴威」襲擊，造成嚴重洪災。騰訊、網易等多家遊戲公司迅速響應，捐贈資金和物資，協助災區救援工作。",
+      "action": "關注遊戲企業的社會責任行動，提升品牌形象。",
+      "platform": "info",
+      "source": "WN Hub",
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
+    },
+    {
+      "id": "brief-20260718-08c9c35e",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "《Pokémon GO》宣布舉辦10週年大型慶祝活動",
+      "detail": "《Pokémon GO》將於2026年7月6日宣布舉辦其10週年大型慶祝活動，預計將吸引全球玩家關注。",
+      "action": "關注長青手遊的營運策略和週年慶活動，學習其用戶維繫經驗。",
+      "platform": "mobile",
+      "source": "Mithrie - Gaming News",
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
+    },
+    {
+      "id": "brief-20260718-b9a9163f",
       "priority": "info",
       "icon": "📰",
-      "title": "Matt Damon Is In Fortnite Now, But He Was Almost In His Own Game Way Earlier",
-      "detail": "This week, Fortnite is adding multiple skins based on Christopher Nolan's The Odyssey film, including one of Matt Damon as Odysseus. While this is the first time the actor's likeness has been in a vid",
+      "title": "Marathon Game Director Leaves Bungie At A Tumultuous Time",
+      "detail": "Marathon game director Joe Ziegler has announced that he's leaving Bungie for a new job, and his departure comes at a tumultuous time for the studio.\n\n\n\nZiegler said in a note that taking over for him",
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     },
     {
-      "id": "brief-20260717-b0339b7b",
+      "id": "brief-20260718-71e03ef0",
       "priority": "info",
       "icon": "📰",
-      "title": "Luigi Replaces Mario Due To Immigration Issue",
-      "detail": "French metal band Gojira has confirmed that its drummer, Mario Duplantier, will not be able to perform on some upcoming shows, and he's being temporarily replaced by Luigi Paraventi. That's right, Lui",
+      "title": "Zero Parades Dev Announces Layoffs Despite Game’s Critical Acclaim",
+      "detail": "Another day, another layoff announcement. This time it comes from Zero Parades: For Dead Spies developer ZA/UM, which said on social media that despite the game's critical acclaim, the studio can't su",
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     },
     {
-      "id": "brief-20260717-07e9523b",
+      "id": "brief-20260718-b5983ab6",
       "priority": "info",
       "icon": "📰",
-      "title": "New Street Fighter 6 Fragrances Let Your Room Smell Like Juri’s Feet",
-      "detail": "There's a new Street Fighter 6 collaboration about to drop in mid-October that comes with three scents inspired by the \"signature moves\" of three brawlers from Capcom's fighting game, which, of course",
+      "title": "Todd Howard Addresses “Fan Chatter” About Bethesda-Obsidian Rivalry Conspiracies",
+      "detail": "Bethesda boss Todd Howard has addressed rumors of a rivalry between Bethesda Game Studios and Obsidian, saying the online discourse does not reflect reality.\n\n\n\nHe told Windows Central, \"I appreciate ",
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     },
     {
-      "id": "brief-20260717-97e7797d",
+      "id": "brief-20260718-fd93e854",
       "priority": "info",
       "icon": "📰",
-      "title": "Battlefield 6 Is Getting A Feature Not Seen In 21 Years And A Top Gun Crossover",
-      "detail": "Battlefield 6's next big update, 1.4.1.0, is launching on July 21, introducing Season 4 : Pacific Front and a naval warfare system. The update also brings back a feature that Battlefield hasn't had si",
+      "title": "Diablo 4 Season 14’s Worst Mythic Change Is No More: “Not Every Idea Lands”",
+      "detail": "Diablo 4 Season 14's most controversial change, only being able to equip one crafted-Mythic item at a time, is now a thing of the past.\n\n\n\nIn a surprise patch on July 16 for PC (and coming sometime on",
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     },
     {
-      "id": "brief-20260717-e013c267",
+      "id": "brief-20260718-26b0e02c",
       "priority": "info",
       "icon": "📰",
-      "title": "007 First Light Almost Turned James Bond Into “Mr. Gadget”",
-      "detail": "007 First Light strikes a key balance between keeping James Bond grounded while also placing him in believably outlandish sequences, but for longtime fans of the franchise, the lack of any over-the-to",
+      "title": "AC Black Flag Resynced Is A Hit With 3 Million Copies Sold, But People Are Parti",
+      "detail": "Assassin's Creed Black Flag Resynced launched on July 9, and the swashbuckling pirate adventure game got off to a great start. Vantage Studios, the new company in charge of the Assassin's Creed brand,",
       "action": "待審閱",
       "platform": "console",
       "source": "GameSpot",
-      "fetchedAt": "2026-07-17T03:44:46.684788+00:00"
+      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     }
   ]
 }

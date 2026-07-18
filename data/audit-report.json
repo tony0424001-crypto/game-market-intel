@@ -1,49 +1,8 @@
 {
-  "lastAudit": "2026-07-17T03:51:59.179803+00:00",
+  "lastAudit": "2026-07-18T03:42:02.954854+00:00",
   "totalProducts": 30,
-  "issuesFound": 5,
-  "updatesApplied": 18,
-  "findings": [
-    {
-      "name": "命運扳機",
-      "status": "warning",
-      "issue": "Early Access→延期搶先體驗",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    },
-    {
-      "name": "望月",
-      "status": "warning",
-      "issue": "實機演示公開 / 線下試玩會 / 完成度90%→線下試玩會已舉辦，預計開啟新一輪線上測試",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    },
-    {
-      "name": "數碼寶貝 UP",
-      "status": "warning",
-      "issue": "pre-reg→已正式上線",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    },
-    {
-      "name": "東離劍遊紀M",
-      "status": "warning",
-      "issue": "Shutdown→已停止營運",
-      "suggestion": "已自動更新",
-      "confidence": "high",
-      "autoFixed": true
-    },
-    {
-      "name": "東離劍遊紀M",
-      "status": "error",
-      "issue": "建議移除: 遊戲已於2024年8月24日停止營運。",
-      "suggestion": "需人工確認",
-      "confidence": "medium",
-      "autoFixed": false
-    }
-  ],
-  "nextAudit": "2026-07-18"
+  "issuesFound": 0,
+  "updatesApplied": 0,
+  "findings": [],
+  "nextAudit": "2026-07-19"
 }
