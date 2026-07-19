@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-18T03:39:34.864038+00:00",
-  "fetchCount": 65,
+  "lastUpdated": "2026-07-19T04:01:50.274181+00:00",
+  "fetchCount": 66,
   "items": [
     {
       "id": "brief-20260718-0d1c66b3",
@@ -124,6 +124,61 @@
       "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     },
     {
+      "id": "brief-20260719-b9a9163f",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Marathon Game Director Leaves Bungie At A Tumultuous Time",
+      "detail": "Marathon game director Joe Ziegler has announced that he's leaving Bungie for a new job, and his departure comes at a tumultuous time for the studio.\n\n\n\nZiegler said in a note that taking over for him",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-19T04:01:50.274181+00:00"
+    },
+    {
+      "id": "brief-20260719-71e03ef0",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Zero Parades Dev Announces Layoffs Despite Game’s Critical Acclaim",
+      "detail": "Another day, another layoff announcement. This time it comes from Zero Parades: For Dead Spies developer ZA/UM, which said on social media that despite the game's critical acclaim, the studio can't su",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-19T04:01:50.274181+00:00"
+    },
+    {
+      "id": "brief-20260719-b5983ab6",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Todd Howard Addresses “Fan Chatter” About Bethesda-Obsidian Rivalry Conspiracies",
+      "detail": "Bethesda boss Todd Howard has addressed rumors of a rivalry between Bethesda Game Studios and Obsidian, saying the online discourse does not reflect reality.\n\n\n\nHe told Windows Central, \"I appreciate ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-19T04:01:50.274181+00:00"
+    },
+    {
+      "id": "brief-20260719-fd93e854",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Diablo 4 Season 14’s Worst Mythic Change Is No More: “Not Every Idea Lands”",
+      "detail": "Diablo 4 Season 14's most controversial change, only being able to equip one crafted-Mythic item at a time, is now a thing of the past.\n\n\n\nIn a surprise patch on July 16 for PC (and coming sometime on",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-19T04:01:50.274181+00:00"
+    },
+    {
+      "id": "brief-20260719-26b0e02c",
+      "priority": "info",
+      "icon": "📰",
+      "title": "AC Black Flag Resynced Is A Hit With 3 Million Copies Sold, But People Are Parti",
+      "detail": "Assassin's Creed Black Flag Resynced launched on July 9, and the swashbuckling pirate adventure game got off to a great start. Vantage Studios, the new company in charge of the Assassin's Creed brand,",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-19T04:01:50.274181+00:00"
+    },
+    {
       "id": "brief-20260718-78f689df",
       "priority": "info",
       "icon": "ℹ️",
@@ -165,61 +220,6 @@
       "action": "關注長青手遊的營運策略和週年慶活動，學習其用戶維繫經驗。",
       "platform": "mobile",
       "source": "Mithrie - Gaming News",
-      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
-    },
-    {
-      "id": "brief-20260718-b9a9163f",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Marathon Game Director Leaves Bungie At A Tumultuous Time",
-      "detail": "Marathon game director Joe Ziegler has announced that he's leaving Bungie for a new job, and his departure comes at a tumultuous time for the studio.\n\n\n\nZiegler said in a note that taking over for him",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
-    },
-    {
-      "id": "brief-20260718-71e03ef0",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Zero Parades Dev Announces Layoffs Despite Game’s Critical Acclaim",
-      "detail": "Another day, another layoff announcement. This time it comes from Zero Parades: For Dead Spies developer ZA/UM, which said on social media that despite the game's critical acclaim, the studio can't su",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
-    },
-    {
-      "id": "brief-20260718-b5983ab6",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Todd Howard Addresses “Fan Chatter” About Bethesda-Obsidian Rivalry Conspiracies",
-      "detail": "Bethesda boss Todd Howard has addressed rumors of a rivalry between Bethesda Game Studios and Obsidian, saying the online discourse does not reflect reality.\n\n\n\nHe told Windows Central, \"I appreciate ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
-    },
-    {
-      "id": "brief-20260718-fd93e854",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Diablo 4 Season 14’s Worst Mythic Change Is No More: “Not Every Idea Lands”",
-      "detail": "Diablo 4 Season 14's most controversial change, only being able to equip one crafted-Mythic item at a time, is now a thing of the past.\n\n\n\nIn a surprise patch on July 16 for PC (and coming sometime on",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
-    },
-    {
-      "id": "brief-20260718-26b0e02c",
-      "priority": "info",
-      "icon": "📰",
-      "title": "AC Black Flag Resynced Is A Hit With 3 Million Copies Sold, But People Are Parti",
-      "detail": "Assassin's Creed Black Flag Resynced launched on July 9, and the swashbuckling pirate adventure game got off to a great start. Vantage Studios, the new company in charge of the Assassin's Creed brand,",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
       "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     }
   ]
