@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-19T04:01:50.274181+00:00",
-  "fetchCount": 66,
+  "lastUpdated": "2026-07-20T04:11:54.610599+00:00",
+  "fetchCount": 67,
   "items": [
     {
       "id": "brief-20260718-0d1c66b3",
@@ -124,6 +124,61 @@
       "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     },
     {
+      "id": "brief-20260720-b9a9163f",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Marathon Game Director Leaves Bungie At A Tumultuous Time",
+      "detail": "Marathon game director Joe Ziegler has announced that he's leaving Bungie for a new job, and his departure comes at a tumultuous time for the studio.\n\n\n\nZiegler said in a note that taking over for him",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-20T04:11:54.610599+00:00"
+    },
+    {
+      "id": "brief-20260720-71e03ef0",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Zero Parades Dev Announces Layoffs Despite Game’s Critical Acclaim",
+      "detail": "Another day, another layoff announcement. This time it comes from Zero Parades: For Dead Spies developer ZA/UM, which said on social media that despite the game's critical acclaim, the studio can't su",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-20T04:11:54.610599+00:00"
+    },
+    {
+      "id": "brief-20260720-b5983ab6",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Todd Howard Addresses “Fan Chatter” About Bethesda-Obsidian Rivalry Conspiracies",
+      "detail": "Bethesda boss Todd Howard has addressed rumors of a rivalry between Bethesda Game Studios and Obsidian, saying the online discourse does not reflect reality.\n\n\n\nHe told Windows Central, \"I appreciate ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-20T04:11:54.610599+00:00"
+    },
+    {
+      "id": "brief-20260720-fd93e854",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Diablo 4 Season 14’s Worst Mythic Change Is No More: “Not Every Idea Lands”",
+      "detail": "Diablo 4 Season 14's most controversial change, only being able to equip one crafted-Mythic item at a time, is now a thing of the past.\n\n\n\nIn a surprise patch on July 16 for PC (and coming sometime on",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-20T04:11:54.610599+00:00"
+    },
+    {
+      "id": "brief-20260720-26b0e02c",
+      "priority": "info",
+      "icon": "📰",
+      "title": "AC Black Flag Resynced Is A Hit With 3 Million Copies Sold, But People Are Parti",
+      "detail": "Assassin's Creed Black Flag Resynced launched on July 9, and the swashbuckling pirate adventure game got off to a great start. Vantage Studios, the new company in charge of the Assassin's Creed brand,",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-20T04:11:54.610599+00:00"
+    },
+    {
       "id": "brief-20260719-b9a9163f",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-07-19T04:01:50.274181+00:00"
-    },
-    {
-      "id": "brief-20260719-26b0e02c",
-      "priority": "info",
-      "icon": "📰",
-      "title": "AC Black Flag Resynced Is A Hit With 3 Million Copies Sold, But People Are Parti",
-      "detail": "Assassin's Creed Black Flag Resynced launched on July 9, and the swashbuckling pirate adventure game got off to a great start. Vantage Studios, the new company in charge of the Assassin's Creed brand,",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-19T04:01:50.274181+00:00"
-    },
-    {
-      "id": "brief-20260718-78f689df",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "《碧藍幻想 Relink》大型DLC「無盡的諸神黃昏」七月上線",
-      "detail": "《碧藍幻想 Relink》將於2026年7月9日推出大型DLC「無盡的諸神黃昏」，新增故事章節、強大召喚獸、合作任務和「匯流」新模式，支援PS5、PS4、Nintendo Switch 2和PC平台。",
-      "action": "評估DLC對遊戲社群的影響及潛在收入增長。",
-      "platform": "console",
-      "source": "PC Gamer, GameSpace.com, GameSpot",
-      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
-    },
-    {
-      "id": "brief-20260718-5d27ee2a",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "Evolution Gaming 2026年第二季度營收小幅下滑，但利潤增長",
-      "detail": "領先的真人娛樂場供應商Evolution Gaming報告稱，2026年第二季度淨收入同比下降1.2%至5.178億歐元，但淨利潤小幅增長1.3%至2.514億歐元。歐洲市場恢復季度增長。",
-      "action": "分析線上博弈市場的財務表現與區域增長動態。",
-      "platform": "info",
-      "source": "SiGMA World, Evolution官方報告",
-      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
-    },
-    {
-      "id": "brief-20260718-eddf6320",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "中國遊戲公司積極參與颱風災害救援，展現企業社會責任",
-      "detail": "2026年7月，中國沿海地區遭受颱風「米克薩」和「巴威」襲擊，造成嚴重洪災。騰訊、網易等多家遊戲公司迅速響應，捐贈資金和物資，協助災區救援工作。",
-      "action": "關注遊戲企業的社會責任行動，提升品牌形象。",
-      "platform": "info",
-      "source": "WN Hub",
-      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
-    },
-    {
-      "id": "brief-20260718-08c9c35e",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "《Pokémon GO》宣布舉辦10週年大型慶祝活動",
-      "detail": "《Pokémon GO》將於2026年7月6日宣布舉辦其10週年大型慶祝活動，預計將吸引全球玩家關注。",
-      "action": "關注長青手遊的營運策略和週年慶活動，學習其用戶維繫經驗。",
-      "platform": "mobile",
-      "source": "Mithrie - Gaming News",
-      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     }
   ]
 }
