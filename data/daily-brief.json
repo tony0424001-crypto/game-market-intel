@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-20T04:11:54.610599+00:00",
-  "fetchCount": 67,
+  "lastUpdated": "2026-07-21T03:52:50.969526+00:00",
+  "fetchCount": 68,
   "items": [
     {
       "id": "brief-20260718-0d1c66b3",
@@ -124,6 +124,61 @@
       "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     },
     {
+      "id": "brief-20260721-d32ee8ea",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Game Pass Was A Good Idea But It Didn’t Work, Forza Horizon 5 Creative Director ",
+      "detail": "Forza Horizon 5 creative director Mike Brown has weighed in with his thoughts on the situation at Xbox currently, and one of the things he commented on was Xbox Game Pass. He said in an interview that",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-21T03:52:50.969526+00:00"
+    },
+    {
+      "id": "brief-20260721-ac8997e3",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Call Of Duty: Modern Warfare 4 Beta: Dates, Content, And How To Get In",
+      "detail": "Activision has confirmed the Call of Duty: Modern Warfare 4 multiplayer beta dates, which begin on August 21. The company also revealed how you can get it, what's in the beta, and when to expect more ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-21T03:52:50.969526+00:00"
+    },
+    {
+      "id": "brief-20260721-bb8d2664",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Tides Of Annihilation Loses Expedition 33 Voice Actor Jennifer English",
+      "detail": "Tides of Annihilation developer Eclipse Glow Games has announced that voice actor Jennifer English will no longer be voicing the game's protagonist, Gwendolyn, due to personal health reasons. In an up",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-21T03:52:50.969526+00:00"
+    },
+    {
+      "id": "brief-20260721-0195ceb4",
+      "priority": "info",
+      "icon": "📰",
+      "title": "GameSpot’s Exclusive Magic: The Gathering – The Hobbit Cards Turn Death Into An ",
+      "detail": "Among the flurry of announcements presented at MagicCon Amsterdam was the debut of The Hobbit, Magic: The Gathering’s next expansion and a return to the universe of J.R.R. Tolkien. That debut was only",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-21T03:52:50.969526+00:00"
+    },
+    {
+      "id": "brief-20260721-8fbc81a6",
+      "priority": "info",
+      "icon": "📰",
+      "title": "The Next Game Of Thrones Game Has Been Delayed",
+      "detail": "The next Game of Thrones game, the RTS War for Westeros, has been delayed. The PC game was originally set for release in 2026, but developer Playside has announced that it's been delayed to \"early 202",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-21T03:52:50.969526+00:00"
+    },
+    {
       "id": "brief-20260720-b9a9163f",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-07-20T04:11:54.610599+00:00"
-    },
-    {
-      "id": "brief-20260720-26b0e02c",
-      "priority": "info",
-      "icon": "📰",
-      "title": "AC Black Flag Resynced Is A Hit With 3 Million Copies Sold, But People Are Parti",
-      "detail": "Assassin's Creed Black Flag Resynced launched on July 9, and the swashbuckling pirate adventure game got off to a great start. Vantage Studios, the new company in charge of the Assassin's Creed brand,",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-20T04:11:54.610599+00:00"
-    },
-    {
-      "id": "brief-20260719-b9a9163f",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Marathon Game Director Leaves Bungie At A Tumultuous Time",
-      "detail": "Marathon game director Joe Ziegler has announced that he's leaving Bungie for a new job, and his departure comes at a tumultuous time for the studio.\n\n\n\nZiegler said in a note that taking over for him",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-19T04:01:50.274181+00:00"
-    },
-    {
-      "id": "brief-20260719-71e03ef0",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Zero Parades Dev Announces Layoffs Despite Game’s Critical Acclaim",
-      "detail": "Another day, another layoff announcement. This time it comes from Zero Parades: For Dead Spies developer ZA/UM, which said on social media that despite the game's critical acclaim, the studio can't su",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-19T04:01:50.274181+00:00"
-    },
-    {
-      "id": "brief-20260719-b5983ab6",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Todd Howard Addresses “Fan Chatter” About Bethesda-Obsidian Rivalry Conspiracies",
-      "detail": "Bethesda boss Todd Howard has addressed rumors of a rivalry between Bethesda Game Studios and Obsidian, saying the online discourse does not reflect reality.\n\n\n\nHe told Windows Central, \"I appreciate ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-19T04:01:50.274181+00:00"
-    },
-    {
-      "id": "brief-20260719-fd93e854",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Diablo 4 Season 14’s Worst Mythic Change Is No More: “Not Every Idea Lands”",
-      "detail": "Diablo 4 Season 14's most controversial change, only being able to equip one crafted-Mythic item at a time, is now a thing of the past.\n\n\n\nIn a surprise patch on July 16 for PC (and coming sometime on",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-19T04:01:50.274181+00:00"
     }
   ]
 }
