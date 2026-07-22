@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-21T03:52:50.969526+00:00",
-  "fetchCount": 68,
+  "lastUpdated": "2026-07-22T03:54:30.074004+00:00",
+  "fetchCount": 69,
   "items": [
     {
       "id": "brief-20260718-0d1c66b3",
@@ -124,6 +124,61 @@
       "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     },
     {
+      "id": "brief-20260722-426abd39",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Darkest Dungeon Is Getting New DLC, Even Though It Has A Sequel",
+      "detail": "Red Hook Studios surprised Darkest Dungeon fans by announcing new DLC for the first game years after a sequel was already released. It's titled The Fire's Edge and will be out in August.\n\n\n\nDarkest Du",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-22T03:54:30.074004+00:00"
+    },
+    {
+      "id": "brief-20260722-4ae79a05",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Ubisoft Reacts To Ghost Recon Leaks, Promises News In August",
+      "detail": "Ubisoft has confirmed that it will share what's next for Ghost Recon when it celebrates the series' 25th anniversary on August 6. This comes after several reports and rumors about upcoming Ghost Recon",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-22T03:54:30.074004+00:00"
+    },
+    {
+      "id": "brief-20260722-bcd734c2",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Nintendo Basically Says That Splatoon 4 Will Happen",
+      "detail": "While Splatoon Raiders looks like a pivot from Nintendo's competitive multiplayer-focused franchise, a producer on the series confirmed that PvP gameplay in Splatoon will endure, even uttering the phr",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-22T03:54:30.074004+00:00"
+    },
+    {
+      "id": "brief-20260722-bcb62a2b",
+      "priority": "info",
+      "icon": "📰",
+      "title": "Hasbro Is Betting On Fewer, Bigger Video Games After $56 Million Write-Down",
+      "detail": "Hasbro's ambitious plan to expand into video games appears to have hit an expensive snag, as the company has recorded a $56 million impairment charge related to its video games portfolio for 2028 and ",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-22T03:54:30.074004+00:00"
+    },
+    {
+      "id": "brief-20260722-86fa7868",
+      "priority": "info",
+      "icon": "📰",
+      "title": "We Finally Know Xal’atath’s Evil Plan For The World Of Warcraft",
+      "detail": "After years of theories and speculation, World of Warcraft players may have finally uncovered the real endgame of its current main villain, Xal'atath.\n\n\n\nXal'atath has been Azeroth's big bad for the p",
+      "action": "待審閱",
+      "platform": "console",
+      "source": "GameSpot",
+      "fetchedAt": "2026-07-22T03:54:30.074004+00:00"
+    },
+    {
       "id": "brief-20260721-d32ee8ea",
       "priority": "info",
       "icon": "📰",
@@ -166,61 +221,6 @@
       "platform": "console",
       "source": "GameSpot",
       "fetchedAt": "2026-07-21T03:52:50.969526+00:00"
-    },
-    {
-      "id": "brief-20260721-8fbc81a6",
-      "priority": "info",
-      "icon": "📰",
-      "title": "The Next Game Of Thrones Game Has Been Delayed",
-      "detail": "The next Game of Thrones game, the RTS War for Westeros, has been delayed. The PC game was originally set for release in 2026, but developer Playside has announced that it's been delayed to \"early 202",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-21T03:52:50.969526+00:00"
-    },
-    {
-      "id": "brief-20260720-b9a9163f",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Marathon Game Director Leaves Bungie At A Tumultuous Time",
-      "detail": "Marathon game director Joe Ziegler has announced that he's leaving Bungie for a new job, and his departure comes at a tumultuous time for the studio.\n\n\n\nZiegler said in a note that taking over for him",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-20T04:11:54.610599+00:00"
-    },
-    {
-      "id": "brief-20260720-71e03ef0",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Zero Parades Dev Announces Layoffs Despite Game’s Critical Acclaim",
-      "detail": "Another day, another layoff announcement. This time it comes from Zero Parades: For Dead Spies developer ZA/UM, which said on social media that despite the game's critical acclaim, the studio can't su",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-20T04:11:54.610599+00:00"
-    },
-    {
-      "id": "brief-20260720-b5983ab6",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Todd Howard Addresses “Fan Chatter” About Bethesda-Obsidian Rivalry Conspiracies",
-      "detail": "Bethesda boss Todd Howard has addressed rumors of a rivalry between Bethesda Game Studios and Obsidian, saying the online discourse does not reflect reality.\n\n\n\nHe told Windows Central, \"I appreciate ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-20T04:11:54.610599+00:00"
-    },
-    {
-      "id": "brief-20260720-fd93e854",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Diablo 4 Season 14’s Worst Mythic Change Is No More: “Not Every Idea Lands”",
-      "detail": "Diablo 4 Season 14's most controversial change, only being able to equip one crafted-Mythic item at a time, is now a thing of the past.\n\n\n\nIn a surprise patch on July 16 for PC (and coming sometime on",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-20T04:11:54.610599+00:00"
     }
   ]
 }
