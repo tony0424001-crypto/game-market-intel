@@ -25,7 +25,7 @@
       "二次元",
       "免費角色"
     ],
-    "threatAnalysis": "【結構性威脅】角色全免費模式已確認，並獲得市場高度關注，預註冊人數突破1100萬，顯示玩家對此模式的接受度與期待極高。這將對現有及未來同品類產品的角色抽卡營收模式構成顛覆性挑戰，可能迫使市場重新評估角色獲取與付費設計。\n\n▶ 建議行動：\n(1) 立即啟動內部研討，評估「角色免費」模式對我方產品長期營收模型的潛在衝擊，並探索應對策略，例如強化外觀付費、戰令系統或差異化內容付費。\n(2) 密切監測《無限大》上線後的玩家留存、付費行為數據及市場輿論，特別是其角色免費模式的實際商業化表現。\n(3) 考慮在我方產品的未來版本或新產品中，試驗性導入部分「非抽卡」的角色獲取機制，以測試市場反應並逐步調整玩家預期。",
+    "threatAnalysis": "【潛在延遲風險】儘管官方定檔2026年7月進行不刪檔公測，但部分社群討論顯示對實際公測時間存在不確定性，且遊戲發行日期尚未完全確認。\n\n▶ 建議行動：\n(1). 持續追蹤官方公告，特別是針對公測與正式上線日期的最終確認。\n(2). 關注遊戲開發進度與社群反饋，評估潛在的延遲風險。\n(3). 準備應對公測或上線日期變動的應變計畫。",
     "verified": "網易 520 發布會、蘋果仁、VNG 情報站",
     "history": [
       {
@@ -37,7 +37,7 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-04",
+    "updatedAt": "2026-07-23",
     "category": "active",
     "launchRegions": [
       {
@@ -72,21 +72,18 @@
     "publisher_global": "網易",
     "testType": "不刪檔公測",
     "testDateStart": "2026-07（定檔）",
-    "testDateEnd": "持續",
+    "testDateEnd": "不刪檔公測 2026-07（定檔）~持續",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/app/315024"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E7%84%A1%E9%99%90%E5%A4%A7&t=1"
-      },
-      {
         "label": "官網",
-        "url": "https://mugen.163.com/"
+        "url": "https://ananta.163.com/"
+      },
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/233075"
       }
-    ]
+    ],
+    "lastChecked": "2026-07-23"
   },
   {
     "id": 2,
@@ -106,7 +103,7 @@
     "threat": "high",
     "prereg": 18000000,
     "sentiment": 82,
-    "launchEst": "2026-04",
+    "launchEst": "2026-04-23",
     "desc": "幻塔團隊新作，超自然都市開放世界 RPG。4/23 全平台公測，結合都市生活與超自然冒險。",
     "tags": [
       "都市",
@@ -114,7 +111,7 @@
       "二次元",
       "幻塔團隊"
     ],
-    "threatAnalysis": "【直接競品】都市開放世界題材與多家產品重疊，台灣已本地化。公測首週表現超預期，搶佔了二次元用戶的遊玩。作為已上線的直接競品，其持續的運營活動和版本更新將直接影響市場份額。\n\n▶ 建議行動：\n(1) 定期監測其版本更新內容、活動頻率及玩家社群反饋，了解其長線運營策略與用戶留存情況。\n(2) 分析其營收數據與用戶活躍度變化，評估其對二次元開放世界市場的持續影響力。\n(3) 針對其成功經驗（如公測表現超預期）進行復盤，找出可借鑒之處，並強化我方產品在都市題材或二次元用戶群體中的差異化優勢。",
+    "threatAnalysis": "【市場表現強勁】《異環》自4月23日全球公測以來，營收表現超出預期，尤其在日本市場獲得巨大成功，顯示其在超自然都市開放世界RPG品類的競爭力。\n\n▶ 建議行動：\n(1). 持續關注遊戲的全球營收數據與市場趨勢，特別是海外市場的表現。\n(2). 分析其成功因素，如美術風格、玩法設計、在地化行銷策略等，作為未來產品借鑒。\n(3). 密切追蹤遊戲內容更新與營運活動，評估其長線營運潛力。",
     "verified": "蘋果仁、巴哈姆特、Yahoo 遊戲 - 三個以上來源",
     "history": [
       {
@@ -130,7 +127,7 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-06-26",
+    "updatedAt": "2026-07-23",
     "category": "active",
     "launchRegions": [
       {
@@ -160,17 +157,18 @@
     "publisher_global": "Level Infinite",
     "testType": "不刪檔公測",
     "testDateStart": "2026-04-23",
-    "testDateEnd": "持續營運中",
+    "testDateEnd": "不刪檔公測 2026-04-23~持續營運中",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/app/360498"
+        "label": "官網",
+        "url": "https://yh.wanmei.com/"
       },
       {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E7%95%B0%E7%92%B0&t=1"
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/233076"
       }
-    ]
+    ],
+    "lastChecked": "2026-07-23"
   },
   {
     "id": 3,
@@ -190,7 +188,7 @@
     "threat": "high",
     "prereg": 35000000,
     "sentiment": 85,
-    "launchEst": "2026-01",
+    "launchEst": "2026-01-22",
     "desc": "明日方舟 IP 衍生 3D 即時策略 RPG，結合小隊戰鬥與自動化基地建設。1/22 全球公測，預約 3500 萬。",
     "tags": [
       "策略",
@@ -198,7 +196,7 @@
       "IP衍生",
       "明日方舟"
     ],
-    "threatAnalysis": "【IP 擴張威脅】明日方舟龐大用戶基數的延伸，即時策略+基地建設的創新組合吸引了策略品類玩家。上線後其IP影響力與創新玩法可能持續吸引策略與二次元用戶。\n\n▶ 建議行動：\n(1) 密切關注其後續版本更新內容，特別是策略玩法與基地建設的深度與廣度，評估其對策略遊戲市場的影響。\n(2) 分析其IP用戶轉化率與新用戶獲取成本，了解其IP擴張的實際效益。\n(3) 思考我方產品如何利用自身IP優勢或創新玩法，在策略或二次元市場中建立獨特競爭力。",
+    "threatAnalysis": "【IP影響力與市場接受度】《明日方舟：終末地》憑藉強大IP影響力，在全球市場，特別是日本，取得了顯著的商業成功。 持續的內容更新也顯示其積極的營運策略。\n\n▶ 建議行動：\n(1). 分析其IP衍生作品的成功模式，研究如何將既有IP優勢轉化為新產品的市場競爭力。\n(2). 關注其全球市場，尤其是日本市場的營運策略，學習其用戶獲取與留存經驗。\n(3). 追蹤其版本更新內容與玩家反饋，評估其長線營運的穩定性。",
     "verified": "維基百科、巴哈姆特、QooApp、GNN",
     "history": [
       {
@@ -214,7 +212,7 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-06-26",
+    "updatedAt": "2026-07-23",
     "category": "active",
     "launchRegions": [
       {
@@ -249,21 +247,18 @@
     "publisher_global": "獅鷲邊境",
     "testType": "不刪檔公測",
     "testDateStart": "2026-01-22",
-    "testDateEnd": "持續營運中",
+    "testDateEnd": "不刪檔公測 2026-01-22~持續營運中",
     "sourceLinks": [
       {
+        "label": "官網",
+        "url": "https://ak.hypergryph.com/endfield/"
+      },
+      {
         "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%EF%BC%9A%E7%B5%82%E6%9C%AB%E5%9C%B0"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%EF%BC%9A%E7%B5%82%E6%9C%AB%E5%9C%B0&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Arknights%3A%20Endfield"
+        "url": "https://www.taptap.cn/app/233077"
       }
-    ]
+    ],
+    "lastChecked": "2026-07-23"
   },
   {
     "id": 4,
@@ -278,7 +273,7 @@
     ],
     "region": "CN/Global",
     "model": "F2P",
-    "stage": "live-ops",
+    "stage": "pre-reg",
     "threat": "critical",
     "prereg": 32000000,
     "sentiment": 80,
@@ -292,7 +287,7 @@
       "Rust授權",
       "多端互通"
     ],
-    "threatAnalysis": "【市場擠壓】騰訊旗艦級生存對抗產品，Rust 正版授權，預約 3200 萬。7 月9 日全平台上線時將吸走大量生存對抗品類玩家的注意力與時間。其多端互通和不賣數值道具的承諾，將對市場產生巨大衝擊。\n\n▶ 建議行動：\n(1) 立即啟動應對策略，評估其上線後對我方產品用戶活躍度及新增的影響，特別是生存對抗品類用戶。\n(2) 深入分析其核心玩法、付費模式（強調不賣數值）和運營活動，找出我方產品的差異化競爭點或可借鑒的優化方向。\n(3) 考慮在7月9日前後推出我方產品的重大版本更新或營銷活動，以鞏固現有用戶並吸引潛在用戶的關注。",
+    "threatAnalysis": "【即將上線與跨平台策略】《失控進化》即將於2026年7月9日在中國市場正式上線，並主打PC與手機跨平台遊玩，此策略有助於擴大用戶基礎。\n\n▶ 建議行動：\n(1). 密切關注遊戲上線後的初期市場表現，特別是跨平台數據互通的實際效果。\n(2). 分析其「Rust正版玩法授權」的市場接受度，以及硬派生存對抗玩法的用戶黏性。\n(3). 追蹤其營運活動與版本更新，評估其在中國生存遊戲市場的競爭力。",
     "verified": "快科技（4/29報導）、VNG 情報站",
     "history": [
       {
@@ -306,9 +301,13 @@
       {
         "date": "2026-06",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-07",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-06-26",
+    "updatedAt": "2026-07-23",
     "category": "active",
     "launchRegions": [
       {
@@ -333,21 +332,18 @@
     "publisher_global": "騰訊",
     "testType": "刪檔不計費（鴻蒙版技測）",
     "testDateStart": "2026-05-11",
-    "testDateEnd": "持續（全平台7月）",
+    "testDateEnd": "刪檔不計費（鴻蒙版技測） 2026-05-11~持續（全平台7月）",
     "sourceLinks": [
       {
+        "label": "官網",
+        "url": "https://rust.qq.com/"
+      },
+      {
         "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E5%A4%B1%E6%8E%A7%E9%80%B2%E5%8C%96"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E5%A4%B1%E6%8E%A7%E9%80%B2%E5%8C%96&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Out%20of%20Control"
+        "url": "https://www.taptap.cn/app/233078"
       }
-    ]
+    ],
+    "lastChecked": "2026-07-23"
   },
   {
     "id": 5,
@@ -375,7 +371,7 @@
       "UE5",
       "手機核心"
     ],
-    "threatAnalysis": "【核彈級威脅】預註冊 6800 萬，騰訊傾全力打造。作為已上線的產品，其龐大的IP用戶基礎和多端互通特性，將持續搶佔中國手遊市場最大量的用戶注意力。\n\n▶ 建議行動：\n(1) 持續監測其上線後的用戶數據、營收表現及玩家反饋，特別是其開放世界玩法的長線吸引力。\n(2) 分析其IP影響力如何轉化為實際用戶活躍和付費，評估對我方產品用戶獲取和留存的長期影響。\n(3) 針對其強大的IP和用戶基礎，思考我方產品如何通過獨特的玩法、美術風格或社群運營，在細分市場中尋求突破口。",
+    "threatAnalysis": "【IP延伸與多平台發行】《王者榮耀：世界》作為國民級IP的開放世界衍生作，已成功在PC與手機平台於中國市場上線。 其IP影響力與多平台策略是主要優勢。\n\n▶ 建議行動：\n(1). 深入分析其IP粉絲轉化率與新用戶獲取成本，評估IP延伸的商業價值。\n(2). 關注其PC與手機雙端營運數據，特別是跨平台用戶行為與付費習慣。\n(3). 追蹤遊戲內容更新與社群反饋，確保其開放世界體驗能持續吸引玩家。",
     "verified": "VNG 情報站、GameLook",
     "history": [
       {
@@ -391,7 +387,7 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-06-26",
+    "updatedAt": "2026-07-23",
     "category": "active",
     "launchRegions": [
       {
@@ -416,17 +412,97 @@
     "publisher_global": "待定",
     "testType": "刪檔不計費（PC限號）",
     "testDateStart": "2026-04-10",
-    "testDateEnd": "持續",
+    "testDateEnd": "刪檔不計費（PC限號） 2026-04-10~持續",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/app/231277"
+        "label": "官網",
+        "url": "https://world.qq.com/"
       },
       {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E7%8E%8B%E8%80%85%E6%A6%AE%E8%80%80%E4%B8%96%E7%95%8C&t=1"
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/233079"
       }
-    ]
+    ],
+    "lastChecked": "2026-07-23"
+  },
+  {
+    "id": 6,
+    "name": "鳴潮",
+    "nameEn": "Wuthering Waves",
+    "studio": "庫洛遊戲",
+    "publisher": "庫洛遊戲",
+    "genre": "動作 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 76,
+    "launchEst": "2024-05",
+    "desc": "二次元開放世界動作 RPG，3.3 二週年慶典版本更新中。持續與原神正面競爭。",
+    "tags": [
+      "二次元",
+      "開放世界",
+      "動作",
+      "版本更新"
+    ],
+    "threatAnalysis": "【直接競品/用戶增長趨緩】《鳴潮》作為開放世界動作 RPG 的直接競品，雖然週年慶版本提升了品質，但用戶增長已趨緩。這表明其在市場上的競爭力可能受到挑戰，但仍佔據一定市場份額。\n\n▶ 建議行動：\n(1) 持續監測《鳴潮》的內容更新頻率、新角色推出和活動設計，分析其對用戶留存和付費的影響。\n(2) 深入研究《鳴潮》用戶增長趨緩的原因，是否為內容消耗過快、玩法疲勞或新競品衝擊，從中吸取經驗教訓。\n(3) 針對其用戶增長瓶頸，思考自家產品如何透過創新玩法或差異化內容來吸引和留住開放世界動作 RPG 玩家。",
+    "verified": "VNG 情報站、巴哈姆特",
+    "history": [
+      {
+        "date": "2024-05",
+        "s": "launched"
+      },
+      {
+        "date": "2026-04",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-06-06",
+    "category": "tracking",
+    "currentEvent": "No specific major recent event found beyond general live-ops updates. Existing analysis mentions anniversary version quality improvement but slowing user growth.",
+    "eventNote": "No specific major recent event found beyond general live-ops updates. Existing analysis mentions anniversary version quality improvement but slowing user growth.",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2024-05-22"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2024-05-22"
+      },
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2024-05-22"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2024-05-22"
+      }
+    ],
+    "developer": "庫洛遊戲",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "巴哈姆特",
+        "url": "https://forum.gamer.com.tw/A.php?bsn=44498"
+      },
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/app/191499"
+      }
+    ],
+    "lastChecked": "2000-01-01"
   },
   {
     "id": 7,
@@ -504,7 +580,8 @@
         "label": "QooApp",
         "url": "https://apps.qoo-app.com/en/search?keyword=Sea%20of%20Oblivion"
       }
-    ]
+    ],
+    "lastChecked": "2000-01-01"
   },
   {
     "id": 8,
@@ -591,7 +668,8 @@
         "label": "QooApp",
         "url": "https://apps.qoo-app.com/en/search?keyword=Calth%27s%20Dream"
       }
-    ]
+    ],
+    "lastChecked": "2000-01-01"
   },
   {
     "id": 10,
@@ -677,7 +755,8 @@
         "label": "QooApp",
         "url": "https://apps.qoo-app.com/en/search?keyword=Blue%20Waves%3A%20Melody"
       }
-    ]
+    ],
+    "lastChecked": "2000-01-01"
   },
   {
     "id": 11,
@@ -756,7 +835,8 @@
         "label": "QooApp",
         "url": "https://apps.qoo-app.com/en/search?keyword=Breakers%3A%20Zero%20Limit"
       }
-    ]
+    ],
+    "lastChecked": "2000-01-01"
   },
   {
     "id": 12,
@@ -826,874 +906,8 @@
         "label": "QooApp",
         "url": "https://apps.qoo-app.com/en/search?keyword=Creator%3A%20Exile"
       }
-    ]
-  },
-  {
-    "id": 16,
-    "name": "白銀之城",
-    "nameEn": "Silver City",
-    "studio": "樂元素",
-    "publisher": "樂元素",
-    "genre": "RPG",
-    "platform": [
-      "PC",
-      "Mobile"
     ],
-    "region": "CN/JP",
-    "model": "F2P",
-    "stage": "cbt",
-    "threat": "medium",
-    "prereg": 6000000,
-    "sentiment": 77,
-    "launchEst": "2026-Q3",
-    "desc": "樂元素二次元新作，高品質美術與劇情為賣點。",
-    "tags": [
-      "二次元",
-      "劇情",
-      "美術"
-    ],
-    "threatAnalysis": "【資訊不足威脅】目前關於《白銀之城》的最新資訊極少，無法有效評估其CBT進度與市場反應。這對我們了解潛在競品的開發狀況構成威脅，可能導致我們錯失預判市場趨勢或調整產品策略的機會。\n\n▶ 建議行動：\n(1) 持續監控樂元素官方管道及遊戲媒體，設定關鍵字警報，一旦有新消息立即匯報。\n(2) 嘗試透過業界人脈或第三方數據分析機構，探詢CBT的實際參與人數、玩家留存率及核心玩法評價等非公開資訊。\n(3) 針對同品類（RPG）且預計Q3上線的競品進行更深入的分析，以彌補《白銀之城》資訊不足的空缺，提前制定應對策略。",
-    "verified": "36kr 二遊大年報導、TGS 2025 - 兩個來源但細節有限",
-    "history": [
-      {
-        "date": "2025-08",
-        "s": "announced"
-      },
-      {
-        "date": "2026-02",
-        "s": "cbt"
-      }
-    ],
-    "updatedAt": "2026-07-17",
-    "category": "active",
-    "launchRegions": [
-      {
-        "region": "CN",
-        "status": "封測中",
-        "date": "2026-Q3（預計）"
-      },
-      {
-        "region": "JP",
-        "status": "封測中",
-        "date": "待定"
-      }
-    ],
-    "developer": "樂元素",
-    "publisher_cn": "樂元素",
-    "testType": "封測中",
-    "testDateStart": "2026-02（估）",
-    "testDateEnd": "待定",
-    "sourceLinks": [
-      {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E7%99%BD%E9%8A%80%E4%B9%8B%E5%9F%8E"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E7%99%BD%E9%8A%80%E4%B9%8B%E5%9F%8E&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Silver%20City"
-      }
-    ]
-  },
-  {
-    "id": 18,
-    "name": "命運扳機",
-    "nameEn": "Fate Trigger",
-    "studio": "騰訊",
-    "publisher": "騰訊",
-    "genre": "射擊 RPG",
-    "platform": [
-      "PC",
-      "Mobile"
-    ],
-    "region": "CN/Global",
-    "model": "F2P",
-    "stage": "延期搶先體驗",
-    "threat": "low",
-    "prereg": 5000000,
-    "sentiment": 70,
-    "launchEst": "待定",
-    "desc": "騰訊二次元射擊新作，TGS 2025 首度曝光。目前僅有概念階段資訊，無具體開測計劃。",
-    "tags": [
-      "二次元",
-      "射擊",
-      "騰訊"
-    ],
-    "threatAnalysis": "【品類攪局威脅】《命運扳機》作為騰訊出品的射擊RPG，原定Q1搶先體驗，現已延期。這顯示其開發進度可能遇到挑戰，但騰訊的資源投入與其對品質的追求，意味著一旦推出，仍可能對射擊RPG市場造成巨大衝擊。延期也給予我們更多時間觀察其調整方向，特別是可能轉向「搜打撤」模式的傳聞，這將直接影響品類競爭格局。\n\n▶ 建議行動：\n(1) 密切追蹤騰訊Saroasis Studios的官方公告，特別關注新的搶先體驗時程和遊戲模式（尤其是「搜打撤」模式）的具體細節。\n(2) 分析其延期原因，評估其對遊戲品質提升的潛在影響，並思考我們產品在內容深度和創新玩法上是否有可借鑒或超越的空間。\n(3) 準備應對策略，一旦《命運扳機》重新公布上線日期，需立即評估其對我們產品的潛在用戶分流影響，並考慮是否調整我們的宣發節奏或內容更新計畫。",
-    "verified": "36kr（TGS 報導）- 僅單一來源，資訊有限",
-    "history": [
-      {
-        "date": "2025-09",
-        "s": "announced"
-      },
-      {
-        "date": "2026-06",
-        "s": "Early Access"
-      },
-      {
-        "date": "2026-07",
-        "s": "延期搶先體驗"
-      }
-    ],
-    "updatedAt": "2026-07-17",
-    "category": "active",
-    "launchRegions": [
-      {
-        "region": "CN",
-        "status": "已公佈",
-        "date": "待定"
-      }
-    ],
-    "developer": "騰訊",
-    "testType": "未知",
-    "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [
-      {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E5%91%BD%E9%81%8B%E6%89%B3%E6%A9%9F"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E5%91%BD%E9%81%8B%E6%89%B3%E6%A9%9F&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Fate%20Trigger"
-      }
-    ]
-  },
-  {
-    "id": 19,
-    "name": "追逐卡蕾多",
-    "nameEn": "Chasing Kaledo",
-    "studio": "騰訊",
-    "publisher": "騰訊",
-    "genre": "RPG",
-    "platform": [
-      "Mobile"
-    ],
-    "region": "CN",
-    "model": "F2P",
-    "stage": "海外測試中 / 已獲中國版號",
-    "threat": "low",
-    "prereg": 2000000,
-    "sentiment": 65,
-    "launchEst": "2027-Q1",
-    "desc": "騰訊二次元 RPG 新作，TGS 2025 首次曝光。",
-    "tags": [
-      "二次元",
-      "RPG",
-      "騰訊"
-    ],
-    "threatAnalysis": "【直接競品威脅】《追逐卡蕾多》已進入海外測試並取得中國版號，預計2027年Q1上線，顯示其開發進度良好且市場佈局明確。作為騰訊出品的RPG，其潛在的資源投入和用戶導量能力不容小覷，將對我們同品類產品構成直接競爭威脅。\n\n▶ 建議行動：\n(1) 持續監控其海外測試的玩家反饋、遊戲數據及社群討論，分析其核心玩法優劣勢和潛在的市場接受度。\n(2) 針對其已獲中國版號的優勢，評估其在中國市場的潛在爆發力，並思考我們產品在中國市場的差異化競爭策略。\n(3) 提前規劃2027年Q1前後的產品更新與營銷活動，確保我們產品在面對其上線時能保持足夠的市場聲量和用戶黏性。",
-    "verified": "36kr（TGS 報導）- 僅單一來源，資訊有限",
-    "history": [
-      {
-        "date": "2025-09",
-        "s": "announced"
-      },
-      {
-        "date": "2026-06",
-        "s": "海外測試中 / 已獲中國版號"
-      }
-    ],
-    "updatedAt": "2026-07-17",
-    "category": "active",
-    "launchRegions": [
-      {
-        "region": "CN",
-        "status": "已公佈",
-        "date": "待定"
-      }
-    ],
-    "developer": "騰訊",
-    "testType": "未知",
-    "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [
-      {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E8%BF%BD%E9%80%90%E5%8D%A1%E8%95%BE%E5%A4%9A"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E8%BF%BD%E9%80%90%E5%8D%A1%E8%95%BE%E5%A4%9A&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Chasing%20Kaledo"
-      }
-    ]
-  },
-  {
-    "id": 20,
-    "name": "望月",
-    "nameEn": "Gazing Moon",
-    "studio": "詩悅",
-    "publisher": "詩悅",
-    "genre": "開放世界 RPG",
-    "platform": [
-      "PC",
-      "Mobile"
-    ],
-    "region": "CN",
-    "model": "F2P",
-    "stage": "線下試玩會已舉辦，預計開啟新一輪線上測試",
-    "threat": "medium",
-    "prereg": 3000000,
-    "sentiment": 68,
-    "launchEst": "2026-Q4",
-    "desc": "國風開放世界探索 RPG，嘗試打破傳統二遊框架，探索新商業模式。",
-    "tags": [
-      "國風",
-      "開放世界",
-      "創新"
-    ],
-    "threatAnalysis": "【品類攪局威脅】《望月》作為一款中國都市開放世界捉寵RPG，其國風差異化與新商業模式探索具有潛力。近期實機演示和線下試玩會的舉辦，顯示其開發進度穩定且已達到高完成度。玩家對其載具系統和城市探索玩法表現出濃厚興趣，這可能對傳統開放世界RPG市場造成衝擊。\n\n▶ 建議行動：\n(1) 深入分析《望月》線下試玩會的玩家評價與媒體報導，特別關注其「捉寵」與「都市開放世界」結合的創新點，以及玩家對其商業模式（若有透露）的反應。\n(2) 評估其國風差異化對目標用戶的吸引力，思考我們產品在美術風格或文化元素上是否有可借鑒或進一步深挖的空間。\n(3) 監控其新一輪線上測試的動態，嘗試獲取測試資格進行競品分析，了解其核心系統的實際體驗和潛在問題，以便我們提前應對。",
-    "verified": "36kr 報導 - 僅單一來源，資訊有限",
-    "history": [
-      {
-        "date": "2025-10",
-        "s": "announced"
-      },
-      {
-        "date": "2026-06",
-        "s": "實機演示公開 / 線下試玩會"
-      },
-      {
-        "date": "2026-06",
-        "s": "實機演示公開 / 線下試玩會 / 完成度90%"
-      },
-      {
-        "date": "2026-07",
-        "s": "線下試玩會已舉辦，預計開啟新一輪線上測試"
-      }
-    ],
-    "updatedAt": "2026-07-17",
-    "category": "active",
-    "launchRegions": [
-      {
-        "region": "CN",
-        "status": "已公佈",
-        "date": "待定"
-      }
-    ],
-    "developer": "詩悅",
-    "testType": "未知",
-    "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [
-      {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E6%9C%9B%E6%9C%88"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E6%9C%9B%E6%9C%88&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Gazing%20Moon"
-      }
-    ]
-  },
-  {
-    "id": 21,
-    "name": "數碼寶貝 UP",
-    "nameEn": "Digimon UP",
-    "studio": "Bandai Namco",
-    "publisher": "Bandai Namco",
-    "genre": "養成 RPG",
-    "platform": [
-      "Mobile"
-    ],
-    "region": "JP/Global",
-    "model": "F2P",
-    "stage": "已正式上線",
-    "threat": "medium",
-    "prereg": 1000000,
-    "sentiment": 72,
-    "launchEst": "2026年7月15日",
-    "desc": "數碼寶貝系列全新手遊，點陣圖風格養成 RPG。已開放全球事前登錄。",
-    "tags": [
-      "IP",
-      "養成",
-      "數碼寶貝",
-      "復古"
-    ],
-    "threatAnalysis": "【IP降維威脅】《數碼寶貝 UP》憑藉強大IP情懷，事前登錄人數已突破100萬人，並於2026年7月15日正式上線，顯示其在粉絲群體中具有極高的號召力。其成功上線將直接瓜分養成RPG市場的用戶注意力，特別是那些對經典IP有情感連結的玩家。\n\n▶ 建議行動：\n(1) 立即分析《數碼寶貝 UP》上線後的營收表現、用戶留存數據及社群討論熱度，評估其對養成RPG市場的實際影響。\n(2) 針對其IP優勢，思考我們產品如何透過獨特的玩法創新、美術風格或社群營運來吸引非IP導向的玩家，或在特定細分市場中建立競爭壁壘。\n(3) 檢視我們產品的近期活動和內容更新計畫，考慮是否需要調整以應對《數碼寶貝 UP》帶來的市場壓力，例如推出更具吸引力的福利活動或限時內容。",
-    "verified": "QooApp",
-    "history": [
-      {
-        "date": "2026-05",
-        "s": "pre-reg"
-      },
-      {
-        "date": "2026-07",
-        "s": "已正式上線"
-      }
-    ],
-    "updatedAt": "2026-07-17",
-    "category": "active",
-    "launchRegions": [
-      {
-        "region": "JP",
-        "status": "預註冊",
-        "date": "2026 年內"
-      },
-      {
-        "region": "Global",
-        "status": "預註冊",
-        "date": "2026 年內"
-      }
-    ],
-    "developer": "Bandai Namco",
-    "testType": "未知",
-    "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [
-      {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E6%95%B8%E7%A2%BC%E5%AF%B6%E8%B2%9D%20UP"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E6%95%B8%E7%A2%BC%E5%AF%B6%E8%B2%9D%20UP&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Digimon%20UP"
-      }
-    ]
-  },
-  {
-    "id": 22,
-    "name": "勇者鬥惡龍：破限亂鬥",
-    "nameEn": "DQ: Limit Breakers",
-    "studio": "Square Enix",
-    "publisher": "Square Enix",
-    "genre": "Roguelite RPG",
-    "platform": [
-      "Mobile"
-    ],
-    "region": "JP/Global",
-    "model": "F2P",
-    "stage": "live-ops",
-    "threat": "medium",
-    "prereg": 4000000,
-    "sentiment": 73,
-    "launchEst": "2026-04-21",
-    "desc": "DQ 系列 Roguelite RPG，直向操作爽快感。4/21 正式上線。",
-    "tags": [
-      "DQ",
-      "Roguelite",
-      "IP"
-    ],
-    "threatAnalysis": "【品類攪局威脅】《勇者鬥惡龍：破限亂鬥》作為DQ超強IP的Roguelite RPG，已於2026年4月21日正式上線。其結合經典IP與Roguelite玩法的創新嘗試，成功吸引了大量玩家，並在上市初期獲得好評。這對我們產品在RPG市場的競爭力構成威脅，特別是對於追求新鮮感和重複可玩性的玩家。\n\n▶ 建議行動：\n(1) 深入研究《勇者鬥惡龍：破限亂鬥》的Roguelite機制和玩家反饋，分析其成功之處，思考我們產品在玩法深度和隨機性設計上是否有可借鑒的元素。\n(2) 評估其IP影響力對用戶獲取的貢獻，並思考我們產品如何透過自身特色或合作來提升品牌知名度和用戶吸引力。\n(3) 監控其上市後的營運數據和版本更新，特別是內容擴展和活動設計，以便我們及時調整產品策略，確保在競爭激烈的市場中保持優勢。",
-    "verified": "蘋果仁",
-    "history": [
-      {
-        "date": "2025-12",
-        "s": "announced"
-      },
-      {
-        "date": "2026-04",
-        "s": "launched"
-      },
-      {
-        "date": "2026-06",
-        "s": "live-ops"
-      },
-      {
-        "date": "2026-06",
-        "s": "live-ops"
-      }
-    ],
-    "updatedAt": "2026-07-17",
-    "category": "active",
-    "launchRegions": [
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2026-04-21"
-      },
-      {
-        "region": "Global",
-        "status": "已上線",
-        "date": "2026-04-21"
-      }
-    ],
-    "developer": "Square Enix",
-    "testType": "未知",
-    "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [
-      {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%EF%BC%9A%E7%A0%B4%E9%99%90%E4%BA%82%E9%AC%A5"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%EF%BC%9A%E7%A0%B4%E9%99%90%E4%BA%82%E9%AC%A5&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=DQ%3A%20Limit%20Breakers"
-      }
-    ]
-  },
-  {
-    "id": 23,
-    "name": "魔御：STAR DIVE",
-    "nameEn": "STAR DIVE",
-    "studio": "Netmarble",
-    "publisher": "Netmarble",
-    "genre": "動作 RPG",
-    "platform": [
-      "PC",
-      "Mobile"
-    ],
-    "region": "KR/Global",
-    "model": "F2P",
-    "stage": "live-ops",
-    "threat": "low",
-    "prereg": 3000000,
-    "sentiment": 62,
-    "launchEst": "2026-04-15",
-    "desc": "UE5 動作 RPG，魔物馴服核心玩法。4/15 上線。",
-    "tags": [
-      "動作",
-      "UE5",
-      "魔物馴服"
-    ],
-    "threatAnalysis": "【直接競品威脅】《魔御：STAR DIVE》於2026年4月15日全球上市後，迅速在7月8日推出大規模1.2版本夏日更新，新增角色、活動及派遣系統，顯示其營運節奏快速且內容更新頻繁。作為幻獸養成動作RPG，其持續的內容輸出將有效維持玩家活躍度，對我們同品類產品構成直接競爭壓力。\n\n▶ 建議行動：\n(1) 密切關注《魔御：STAR DIVE》的更新內容和活動設計，分析其對玩家活躍度和付費轉化的影響，並思考我們產品在內容更新頻率和活動吸引力上是否有提升空間。\n(2) 深入研究其新推出的「派遣系統」等玩法創新，評估其對用戶體驗和留存的影響，考慮是否能從中獲得啟發，優化我們產品的掛機或自動化玩法。\n(3) 檢視我們產品的近期營運數據，特別是與其更新節奏相關的用戶流失情況，並制定應對策略，例如推出更具競爭力的版本更新或福利活動。",
-    "verified": "蘋果仁",
-    "history": [
-      {
-        "date": "2025-11",
-        "s": "announced"
-      },
-      {
-        "date": "2026-04",
-        "s": "launched"
-      },
-      {
-        "date": "2026-06",
-        "s": "live-ops"
-      },
-      {
-        "date": "2026-06",
-        "s": "live-ops"
-      }
-    ],
-    "updatedAt": "2026-07-17",
-    "category": "active",
-    "launchRegions": [
-      {
-        "region": "KR",
-        "status": "已上線",
-        "date": "2026-04-15"
-      },
-      {
-        "region": "Global",
-        "status": "已上線",
-        "date": "2026-04-15"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2026-04-15"
-      }
-    ],
-    "developer": "Netmarble",
-    "testType": "未知",
-    "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [
-      {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E9%AD%94%E5%BE%A1%EF%BC%9ASTAR%20DIVE"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E9%AD%94%E5%BE%A1%EF%BC%9ASTAR%20DIVE&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=STAR%20DIVE"
-      }
-    ]
-  },
-  {
-    "id": 24,
-    "name": "東離劍遊紀M",
-    "nameEn": "Thunderbolt Fantasy M",
-    "studio": "霹靂",
-    "publisher": "霹靂",
-    "genre": "RPG",
-    "platform": [
-      "Mobile"
-    ],
-    "region": "TW",
-    "model": "F2P",
-    "stage": "已停止營運",
-    "threat": "low",
-    "prereg": 500000,
-    "sentiment": 65,
-    "launchEst": "2026-Q3 (預計)",
-    "desc": "霹靂 IP 改編手遊，5/8 公測上線。台港澳限定。",
-    "tags": [
-      "IP",
-      "布袋戲",
-      "台灣"
-    ],
-    "threatAnalysis": "【結構性威脅】《東離劍遊紀M》已於2024年8月24日停止營運。雖然該遊戲已下架，但其失敗案例仍值得我們深入分析，以避免重蹈覆轍。特別是對於IP改編遊戲，其營運失敗可能反映出IP粉絲轉化、遊戲品質、商業模式或市場定位上的問題。\n\n▶ 建議行動：\n(1) 收集並分析《東離劍遊紀M》停止營運的具體原因，包括但不限於玩家評價、營收數據、社群討論，以及開發商霹靂的官方聲明，從中吸取教訓。\n(2) 若我們產品涉及IP改編，需特別檢視IP授權、遊戲內容與IP契合度、粉絲期待管理等環節，確保能有效利用IP優勢並避免潛在風險。\n(3) 將其作為負面案例納入產品開發與營運的風險評估中，定期檢討我們產品的市場競爭力、用戶滿意度及財務表現，及早發現並解決潛在問題。",
-    "verified": "VNG 情報站",
-    "history": [
-      {
-        "date": "2026-03",
-        "s": "announced"
-      },
-      {
-        "date": "2026-05",
-        "s": "launched"
-      },
-      {
-        "date": "2026-06",
-        "s": "事前登錄"
-      },
-      {
-        "date": "2026-06",
-        "s": "Shutdown"
-      },
-      {
-        "date": "2026-06",
-        "s": "Shutdown"
-      },
-      {
-        "date": "2026-07",
-        "s": "已停止營運"
-      }
-    ],
-    "updatedAt": "2026-07-17",
-    "category": "tracking",
-    "launchRegions": [
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2026-05-08"
-      }
-    ],
-    "developer": "霹靂",
-    "publisher_tw": "霹靂",
-    "testType": "不刪檔公測",
-    "testDateStart": "2026-05-08",
-    "testDateEnd": "持續營運中",
-    "sourceLinks": [
-      {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E6%9D%B1%E9%9B%A2%E5%8A%8D%E9%81%8A%E7%B4%80M"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E6%9D%B1%E9%9B%A2%E5%8A%8D%E9%81%8A%E7%B4%80M&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Thunderbolt%20Fantasy%20M"
-      }
-    ],
-    "currentEvent": "已於2024年8月24日停止營運。",
-    "eventNote": "已於2024年8月24日停止營運。"
-  },
-  {
-    "id": 25,
-    "name": "奇幻生活 i",
-    "nameEn": "Fantasy Life i",
-    "studio": "Level-5",
-    "publisher": "Level-5",
-    "genre": "生活模擬 RPG",
-    "platform": [
-      "Mobile",
-      "NS2"
-    ],
-    "region": "JP/Global",
-    "model": "Buy-to-Play",
-    "stage": "手機版預計2026年夏季推出",
-    "threat": "low",
-    "prereg": 2000000,
-    "sentiment": 78,
-    "launchEst": "2026年夏季 (手機版)",
-    "desc": "類動森慢活 RPG，14 種職業體驗。",
-    "tags": [
-      "生活模擬",
-      "休閒",
-      "Level-5"
-    ],
-    "threatAnalysis": "【品類攪局威脅】《奇幻生活 i》作為休閒生活模擬RPG，其手機版預計於2026年夏季推出，並支援跨平台連線與存檔，成功避開激烈二遊戰場。這種跨平台策略和休閒品類定位，使其能夠吸引更廣泛的用戶群，對我們產品在用戶時間和注意力上構成潛在競爭。\n\n▶ 建議行動：\n(1) 密切關注《奇幻生活 i》手機版的具體上線日期和營運表現，特別是其跨平台策略對用戶活躍度和留存的影響。\n(2) 分析其休閒生活模擬玩法的吸引力，思考我們產品在提供輕鬆、長期可玩內容方面是否有提升空間，以滿足不同用戶的需求。\n(3) 評估其買斷制商業模式的市場反應，並思考我們產品在付費設計上是否能從中獲得啟發，例如提供更多一次性購買的內容包或通行證，以增加用戶價值。",
-    "verified": "蘋果仁",
-    "history": [
-      {
-        "date": "2025-10",
-        "s": "announced"
-      },
-      {
-        "date": "2026-04",
-        "s": "launched"
-      },
-      {
-        "date": "2026-06",
-        "s": "手機版預計2026年夏季推出"
-      }
-    ],
-    "updatedAt": "2026-07-17",
-    "category": "active",
-    "launchRegions": [
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2026-04"
-      },
-      {
-        "region": "Global",
-        "status": "已上線",
-        "date": "2026-04"
-      }
-    ],
-    "developer": "Level-5",
-    "testType": "未知",
-    "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [
-      {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E5%A5%87%E5%B9%BB%E7%94%9F%E6%B4%BB%20i"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E5%A5%87%E5%B9%BB%E7%94%9F%E6%B4%BB%20i&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Fantasy%20Life%20i"
-      }
-    ]
-  },
-  {
-    "id": 26,
-    "name": "Pictonico!",
-    "nameEn": "Pictonico!",
-    "studio": "Nintendo",
-    "publisher": "Nintendo",
-    "genre": "派對遊戲",
-    "platform": [
-      "Mobile"
-    ],
-    "region": "Global",
-    "model": "F2P",
-    "stage": "live-ops",
-    "threat": "low",
-    "prereg": 3000000,
-    "sentiment": 70,
-    "launchEst": "2026-05-28",
-    "desc": "任天堂全新手遊，照片變小遊戲，80+ 種遊戲。5/28 上線。",
-    "tags": [
-      "任天堂",
-      "派對",
-      "休閒"
-    ],
-    "threatAnalysis": "【市場擠壓威脅】《Pictonico!》作為任天堂品牌下的純休閒派對遊戲，已於2026年5月28日正式上線。其獨特的「照片變遊戲」概念和任天堂的品牌號召力，使其在休閒遊戲市場中佔據一席之地，可能擠壓我們產品的用戶時間和市場聲量，特別是對於輕度玩家。\n\n▶ 建議行動：\n(1) 分析《Pictonico!》上線後的用戶數據，特別是其在社群分享和病毒式傳播方面的表現，了解其如何利用用戶生成內容來擴大影響力。\n(2) 評估其對休閒遊戲市場的影響，思考我們產品在輕度玩法、社交互動或創意內容生成方面是否有可借鑒之處，以提升用戶參與度。\n(3) 檢視我們產品的用戶獲取策略，考慮是否需要調整以應對休閒遊戲市場的競爭加劇，例如加強社群營運或推出更具吸引力的入門級內容。",
-    "verified": "蘋果仁",
-    "history": [
-      {
-        "date": "2026-04",
-        "s": "announced"
-      },
-      {
-        "date": "2026-05",
-        "s": "launched"
-      },
-      {
-        "date": "2026-06",
-        "s": "live-ops"
-      },
-      {
-        "date": "2026-06",
-        "s": "live-ops"
-      }
-    ],
-    "updatedAt": "2026-07-17",
-    "category": "active",
-    "launchRegions": [
-      {
-        "region": "Global",
-        "status": "已上線",
-        "date": "2026-05-28"
-      }
-    ],
-    "developer": "Nintendo",
-    "testType": "未知",
-    "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [
-      {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=Pictonico%21"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=Pictonico%21&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Pictonico%21"
-      }
-    ]
-  },
-  {
-    "id": 27,
-    "name": "GTA VI",
-    "nameEn": "Grand Theft Auto VI",
-    "studio": "Rockstar Games",
-    "publisher": "Take-Two",
-    "genre": "開放世界動作",
-    "platform": [
-      "Console"
-    ],
-    "region": "Global",
-    "model": "Buy-to-Play",
-    "stage": "pre-reg",
-    "threat": "critical",
-    "prereg": null,
-    "sentiment": 97,
-    "launchEst": "2026-11-19",
-    "desc": "史上最受期待遊戲續作。二度延期後確認 11/19 發售，僅 PS5/Xbox Series。PC 版延後。",
-    "tags": [
-      "開放世界",
-      "犯罪",
-      "AAA",
-      "主機獨佔"
-    ],
-    "threatAnalysis": "【結構性威脅/市場擠壓】《GTA VI》作為開放世界動作遊戲的頂級IP，其全球預購已於2026年6月25日開啟，並預計在2026年11月19日上線。分析師預測其首週銷售額將達到33億至52億美元，這將是遊戲史上最強勁的預購表現。如此巨大的市場吸金能力和玩家關注度，將對所有同期及前後上線的開放世界動作類遊戲造成毀滅性的市場擠壓，嚴重瓜分玩家時間與消費預算。其延遲PC版發布的策略，也可能在未來再次引發一波市場熱潮。\n\n▶ 建議行動：\n(1) 重新評估產品發布時間表：若我方產品發布時間與《GTA VI》過於接近，應考慮延期或提前，避開其上線前後至少三個月的黃金期，以減少直接衝擊。\n(2) 強化核心玩法差異化與社群維繫：針對《GTA VI》的單人體驗特性，我方產品應著重於多人互動、獨特社群活動或創新玩法，提供《GTA VI》無法滿足的玩家需求，並透過社群活動提前鎖定用戶。\n(3) 準備應對市場聲量下降的行銷策略：在《GTA VI》上線期間，預期整體遊戲市場的媒體關注度將被其主導。我方應準備針對性的行銷內容，例如與《GTA VI》形成對比的獨特賣點，或針對特定小眾市場進行精準投放，以維持品牌曝光。",
-    "verified": "Rockstar 官方、Yahoo 遊戲、多家媒體",
-    "history": [
-      {
-        "date": "2023-12",
-        "s": "announced"
-      },
-      {
-        "date": "2025-05",
-        "s": "pre-reg"
-      }
-    ],
-    "updatedAt": "2026-07-17",
-    "category": "tracking",
-    "launchRegions": [
-      {
-        "region": "Global",
-        "status": "預註冊",
-        "date": "2026-11-19（PS5/Xbox）"
-      }
-    ],
-    "developer": "Rockstar Games",
-    "publisher_global": "Take-Two",
-    "testType": "買斷制發售",
-    "testDateStart": "2026-11-19",
-    "testDateEnd": "N/A",
-    "sourceLinks": [
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=GTA+VI&t=1"
-      },
-      {
-        "label": "Rockstar",
-        "url": "https://www.rockstargames.com/VI"
-      }
-    ],
-    "currentEvent": "《GTA VI》已於2026年6月25日開啟全球預購，並確認將於2026年11月19日上線PlayStation 5和Xbox Series X|S平台。分析師預測其預購表現將創歷史新高，首週銷售額有望達到33億至52億美元。PC版預計將延後發布。",
-    "eventNote": "《GTA VI》已於2026年6月25日開啟全球預購，並確認將於2026年11月19日上線PlayStation 5和Xbox Series X|S平台。分析師預測其預購表現將創歷史新高，首週銷售額有望達到33億至52億美元。PC版預計將延後發布。"
-  },
-  {
-    "id": 6,
-    "name": "鳴潮",
-    "nameEn": "Wuthering Waves",
-    "studio": "庫洛遊戲",
-    "publisher": "庫洛遊戲",
-    "genre": "動作 RPG",
-    "platform": [
-      "PC",
-      "Mobile"
-    ],
-    "region": "CN/Global",
-    "model": "F2P",
-    "stage": "live-ops",
-    "threat": "medium",
-    "prereg": null,
-    "sentiment": 76,
-    "launchEst": "2024-05",
-    "desc": "二次元開放世界動作 RPG，3.3 二週年慶典版本更新中。持續與原神正面競爭。",
-    "tags": [
-      "二次元",
-      "開放世界",
-      "動作",
-      "版本更新"
-    ],
-    "threatAnalysis": "【直接競品/用戶增長趨緩】《鳴潮》作為開放世界動作 RPG 的直接競品，雖然週年慶版本提升了品質，但用戶增長已趨緩。這表明其在市場上的競爭力可能受到挑戰，但仍佔據一定市場份額。\n\n▶ 建議行動：\n(1) 持續監測《鳴潮》的內容更新頻率、新角色推出和活動設計，分析其對用戶留存和付費的影響。\n(2) 深入研究《鳴潮》用戶增長趨緩的原因，是否為內容消耗過快、玩法疲勞或新競品衝擊，從中吸取經驗教訓。\n(3) 針對其用戶增長瓶頸，思考自家產品如何透過創新玩法或差異化內容來吸引和留住開放世界動作 RPG 玩家。",
-    "verified": "VNG 情報站、巴哈姆特",
-    "history": [
-      {
-        "date": "2024-05",
-        "s": "launched"
-      },
-      {
-        "date": "2026-04",
-        "s": "live-ops"
-      }
-    ],
-    "updatedAt": "2026-06-06",
-    "category": "tracking",
-    "currentEvent": "No specific major recent event found beyond general live-ops updates. Existing analysis mentions anniversary version quality improvement but slowing user growth.",
-    "eventNote": "No specific major recent event found beyond general live-ops updates. Existing analysis mentions anniversary version quality improvement but slowing user growth.",
-    "launchRegions": [
-      {
-        "region": "CN",
-        "status": "已上線",
-        "date": "2024-05-22"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2024-05-22"
-      },
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2024-05-22"
-      },
-      {
-        "region": "Global",
-        "status": "已上線",
-        "date": "2024-05-22"
-      }
-    ],
-    "developer": "庫洛遊戲",
-    "testType": "未知",
-    "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [
-      {
-        "label": "巴哈姆特",
-        "url": "https://forum.gamer.com.tw/A.php?bsn=44498"
-      },
-      {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/app/191499"
-      }
-    ]
+    "lastChecked": "2000-01-01"
   },
   {
     "id": 13,
@@ -1773,7 +987,8 @@
         "label": "HoYoLAB",
         "url": "https://www.hoyolab.com/genshin/"
       }
-    ]
+    ],
+    "lastChecked": "2000-01-01"
   },
   {
     "id": 14,
@@ -1852,7 +1067,8 @@
         "label": "QooApp",
         "url": "https://apps.qoo-app.com/en/search?keyword=Zenless%20Zone%20Zero"
       }
-    ]
+    ],
+    "lastChecked": "2000-01-01"
   },
   {
     "id": 15,
@@ -1927,7 +1143,79 @@
         "label": "HoYoLAB",
         "url": "https://www.hoyolab.com/starrail/"
       }
-    ]
+    ],
+    "lastChecked": "2000-01-01"
+  },
+  {
+    "id": 16,
+    "name": "白銀之城",
+    "nameEn": "Silver City",
+    "studio": "樂元素",
+    "publisher": "樂元素",
+    "genre": "RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN/JP",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "medium",
+    "prereg": 6000000,
+    "sentiment": 77,
+    "launchEst": "2026-Q3",
+    "desc": "樂元素二次元新作，高品質美術與劇情為賣點。",
+    "tags": [
+      "二次元",
+      "劇情",
+      "美術"
+    ],
+    "threatAnalysis": "【資訊不足威脅】目前關於《白銀之城》的最新資訊極少，無法有效評估其CBT進度與市場反應。這對我們了解潛在競品的開發狀況構成威脅，可能導致我們錯失預判市場趨勢或調整產品策略的機會。\n\n▶ 建議行動：\n(1) 持續監控樂元素官方管道及遊戲媒體，設定關鍵字警報，一旦有新消息立即匯報。\n(2) 嘗試透過業界人脈或第三方數據分析機構，探詢CBT的實際參與人數、玩家留存率及核心玩法評價等非公開資訊。\n(3) 針對同品類（RPG）且預計Q3上線的競品進行更深入的分析，以彌補《白銀之城》資訊不足的空缺，提前制定應對策略。",
+    "verified": "36kr 二遊大年報導、TGS 2025 - 兩個來源但細節有限",
+    "history": [
+      {
+        "date": "2025-08",
+        "s": "announced"
+      },
+      {
+        "date": "2026-02",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-07-17",
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "封測中",
+        "date": "2026-Q3（預計）"
+      },
+      {
+        "region": "JP",
+        "status": "封測中",
+        "date": "待定"
+      }
+    ],
+    "developer": "樂元素",
+    "publisher_cn": "樂元素",
+    "testType": "封測中",
+    "testDateStart": "2026-02（估）",
+    "testDateEnd": "待定",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E7%99%BD%E9%8A%80%E4%B9%8B%E5%9F%8E"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E7%99%BD%E9%8A%80%E4%B9%8B%E5%9F%8E&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Silver%20City"
+      }
+    ],
+    "lastChecked": "2000-01-01"
   },
   {
     "id": 17,
@@ -2014,7 +1302,737 @@
         "label": "QooApp",
         "url": "https://apps.qoo-app.com/en/search?keyword=Double%20Helix"
       }
-    ]
+    ],
+    "lastChecked": "2000-01-01"
+  },
+  {
+    "id": 18,
+    "name": "命運扳機",
+    "nameEn": "Fate Trigger",
+    "studio": "騰訊",
+    "publisher": "騰訊",
+    "genre": "射擊 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "延期搶先體驗",
+    "threat": "low",
+    "prereg": 5000000,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "騰訊二次元射擊新作，TGS 2025 首度曝光。目前僅有概念階段資訊，無具體開測計劃。",
+    "tags": [
+      "二次元",
+      "射擊",
+      "騰訊"
+    ],
+    "threatAnalysis": "【品類攪局威脅】《命運扳機》作為騰訊出品的射擊RPG，原定Q1搶先體驗，現已延期。這顯示其開發進度可能遇到挑戰，但騰訊的資源投入與其對品質的追求，意味著一旦推出，仍可能對射擊RPG市場造成巨大衝擊。延期也給予我們更多時間觀察其調整方向，特別是可能轉向「搜打撤」模式的傳聞，這將直接影響品類競爭格局。\n\n▶ 建議行動：\n(1) 密切追蹤騰訊Saroasis Studios的官方公告，特別關注新的搶先體驗時程和遊戲模式（尤其是「搜打撤」模式）的具體細節。\n(2) 分析其延期原因，評估其對遊戲品質提升的潛在影響，並思考我們產品在內容深度和創新玩法上是否有可借鑒或超越的空間。\n(3) 準備應對策略，一旦《命運扳機》重新公布上線日期，需立即評估其對我們產品的潛在用戶分流影響，並考慮是否調整我們的宣發節奏或內容更新計畫。",
+    "verified": "36kr（TGS 報導）- 僅單一來源，資訊有限",
+    "history": [
+      {
+        "date": "2025-09",
+        "s": "announced"
+      },
+      {
+        "date": "2026-06",
+        "s": "Early Access"
+      },
+      {
+        "date": "2026-07",
+        "s": "延期搶先體驗"
+      }
+    ],
+    "updatedAt": "2026-07-17",
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已公佈",
+        "date": "待定"
+      }
+    ],
+    "developer": "騰訊",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E5%91%BD%E9%81%8B%E6%89%B3%E6%A9%9F"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E5%91%BD%E9%81%8B%E6%89%B3%E6%A9%9F&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Fate%20Trigger"
+      }
+    ],
+    "lastChecked": "2000-01-01"
+  },
+  {
+    "id": 19,
+    "name": "追逐卡蕾多",
+    "nameEn": "Chasing Kaledo",
+    "studio": "騰訊",
+    "publisher": "騰訊",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "海外測試中 / 已獲中國版號",
+    "threat": "low",
+    "prereg": 2000000,
+    "sentiment": 65,
+    "launchEst": "2027-Q1",
+    "desc": "騰訊二次元 RPG 新作，TGS 2025 首次曝光。",
+    "tags": [
+      "二次元",
+      "RPG",
+      "騰訊"
+    ],
+    "threatAnalysis": "【直接競品威脅】《追逐卡蕾多》已進入海外測試並取得中國版號，預計2027年Q1上線，顯示其開發進度良好且市場佈局明確。作為騰訊出品的RPG，其潛在的資源投入和用戶導量能力不容小覷，將對我們同品類產品構成直接競爭威脅。\n\n▶ 建議行動：\n(1) 持續監控其海外測試的玩家反饋、遊戲數據及社群討論，分析其核心玩法優劣勢和潛在的市場接受度。\n(2) 針對其已獲中國版號的優勢，評估其在中國市場的潛在爆發力，並思考我們產品在中國市場的差異化競爭策略。\n(3) 提前規劃2027年Q1前後的產品更新與營銷活動，確保我們產品在面對其上線時能保持足夠的市場聲量和用戶黏性。",
+    "verified": "36kr（TGS 報導）- 僅單一來源，資訊有限",
+    "history": [
+      {
+        "date": "2025-09",
+        "s": "announced"
+      },
+      {
+        "date": "2026-06",
+        "s": "海外測試中 / 已獲中國版號"
+      }
+    ],
+    "updatedAt": "2026-07-17",
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已公佈",
+        "date": "待定"
+      }
+    ],
+    "developer": "騰訊",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E8%BF%BD%E9%80%90%E5%8D%A1%E8%95%BE%E5%A4%9A"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E8%BF%BD%E9%80%90%E5%8D%A1%E8%95%BE%E5%A4%9A&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Chasing%20Kaledo"
+      }
+    ],
+    "lastChecked": "2000-01-01"
+  },
+  {
+    "id": 20,
+    "name": "望月",
+    "nameEn": "Gazing Moon",
+    "studio": "詩悅",
+    "publisher": "詩悅",
+    "genre": "開放世界 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "線下試玩會已舉辦，預計開啟新一輪線上測試",
+    "threat": "medium",
+    "prereg": 3000000,
+    "sentiment": 68,
+    "launchEst": "2026-Q4",
+    "desc": "國風開放世界探索 RPG，嘗試打破傳統二遊框架，探索新商業模式。",
+    "tags": [
+      "國風",
+      "開放世界",
+      "創新"
+    ],
+    "threatAnalysis": "【品類攪局威脅】《望月》作為一款中國都市開放世界捉寵RPG，其國風差異化與新商業模式探索具有潛力。近期實機演示和線下試玩會的舉辦，顯示其開發進度穩定且已達到高完成度。玩家對其載具系統和城市探索玩法表現出濃厚興趣，這可能對傳統開放世界RPG市場造成衝擊。\n\n▶ 建議行動：\n(1) 深入分析《望月》線下試玩會的玩家評價與媒體報導，特別關注其「捉寵」與「都市開放世界」結合的創新點，以及玩家對其商業模式（若有透露）的反應。\n(2) 評估其國風差異化對目標用戶的吸引力，思考我們產品在美術風格或文化元素上是否有可借鑒或進一步深挖的空間。\n(3) 監控其新一輪線上測試的動態，嘗試獲取測試資格進行競品分析，了解其核心系統的實際體驗和潛在問題，以便我們提前應對。",
+    "verified": "36kr 報導 - 僅單一來源，資訊有限",
+    "history": [
+      {
+        "date": "2025-10",
+        "s": "announced"
+      },
+      {
+        "date": "2026-06",
+        "s": "實機演示公開 / 線下試玩會"
+      },
+      {
+        "date": "2026-06",
+        "s": "實機演示公開 / 線下試玩會 / 完成度90%"
+      },
+      {
+        "date": "2026-07",
+        "s": "線下試玩會已舉辦，預計開啟新一輪線上測試"
+      }
+    ],
+    "updatedAt": "2026-07-17",
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已公佈",
+        "date": "待定"
+      }
+    ],
+    "developer": "詩悅",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E6%9C%9B%E6%9C%88"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E6%9C%9B%E6%9C%88&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Gazing%20Moon"
+      }
+    ],
+    "lastChecked": "2000-01-01"
+  },
+  {
+    "id": 21,
+    "name": "數碼寶貝 UP",
+    "nameEn": "Digimon UP",
+    "studio": "Bandai Namco",
+    "publisher": "Bandai Namco",
+    "genre": "養成 RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP/Global",
+    "model": "F2P",
+    "stage": "已正式上線",
+    "threat": "medium",
+    "prereg": 1000000,
+    "sentiment": 72,
+    "launchEst": "2026年7月15日",
+    "desc": "數碼寶貝系列全新手遊，點陣圖風格養成 RPG。已開放全球事前登錄。",
+    "tags": [
+      "IP",
+      "養成",
+      "數碼寶貝",
+      "復古"
+    ],
+    "threatAnalysis": "【IP降維威脅】《數碼寶貝 UP》憑藉強大IP情懷，事前登錄人數已突破100萬人，並於2026年7月15日正式上線，顯示其在粉絲群體中具有極高的號召力。其成功上線將直接瓜分養成RPG市場的用戶注意力，特別是那些對經典IP有情感連結的玩家。\n\n▶ 建議行動：\n(1) 立即分析《數碼寶貝 UP》上線後的營收表現、用戶留存數據及社群討論熱度，評估其對養成RPG市場的實際影響。\n(2) 針對其IP優勢，思考我們產品如何透過獨特的玩法創新、美術風格或社群營運來吸引非IP導向的玩家，或在特定細分市場中建立競爭壁壘。\n(3) 檢視我們產品的近期活動和內容更新計畫，考慮是否需要調整以應對《數碼寶貝 UP》帶來的市場壓力，例如推出更具吸引力的福利活動或限時內容。",
+    "verified": "QooApp",
+    "history": [
+      {
+        "date": "2026-05",
+        "s": "pre-reg"
+      },
+      {
+        "date": "2026-07",
+        "s": "已正式上線"
+      }
+    ],
+    "updatedAt": "2026-07-17",
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "預註冊",
+        "date": "2026 年內"
+      },
+      {
+        "region": "Global",
+        "status": "預註冊",
+        "date": "2026 年內"
+      }
+    ],
+    "developer": "Bandai Namco",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E6%95%B8%E7%A2%BC%E5%AF%B6%E8%B2%9D%20UP"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E6%95%B8%E7%A2%BC%E5%AF%B6%E8%B2%9D%20UP&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Digimon%20UP"
+      }
+    ],
+    "lastChecked": "2000-01-01"
+  },
+  {
+    "id": 22,
+    "name": "勇者鬥惡龍：破限亂鬥",
+    "nameEn": "DQ: Limit Breakers",
+    "studio": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "Roguelite RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": 4000000,
+    "sentiment": 73,
+    "launchEst": "2026-04-21",
+    "desc": "DQ 系列 Roguelite RPG，直向操作爽快感。4/21 正式上線。",
+    "tags": [
+      "DQ",
+      "Roguelite",
+      "IP"
+    ],
+    "threatAnalysis": "【品類攪局威脅】《勇者鬥惡龍：破限亂鬥》作為DQ超強IP的Roguelite RPG，已於2026年4月21日正式上線。其結合經典IP與Roguelite玩法的創新嘗試，成功吸引了大量玩家，並在上市初期獲得好評。這對我們產品在RPG市場的競爭力構成威脅，特別是對於追求新鮮感和重複可玩性的玩家。\n\n▶ 建議行動：\n(1) 深入研究《勇者鬥惡龍：破限亂鬥》的Roguelite機制和玩家反饋，分析其成功之處，思考我們產品在玩法深度和隨機性設計上是否有可借鑒的元素。\n(2) 評估其IP影響力對用戶獲取的貢獻，並思考我們產品如何透過自身特色或合作來提升品牌知名度和用戶吸引力。\n(3) 監控其上市後的營運數據和版本更新，特別是內容擴展和活動設計，以便我們及時調整產品策略，確保在競爭激烈的市場中保持優勢。",
+    "verified": "蘋果仁",
+    "history": [
+      {
+        "date": "2025-12",
+        "s": "announced"
+      },
+      {
+        "date": "2026-04",
+        "s": "launched"
+      },
+      {
+        "date": "2026-06",
+        "s": "live-ops"
+      },
+      {
+        "date": "2026-06",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-07-17",
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2026-04-21"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-04-21"
+      }
+    ],
+    "developer": "Square Enix",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%EF%BC%9A%E7%A0%B4%E9%99%90%E4%BA%82%E9%AC%A5"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E5%8B%87%E8%80%85%E9%AC%A5%E6%83%A1%E9%BE%8D%EF%BC%9A%E7%A0%B4%E9%99%90%E4%BA%82%E9%AC%A5&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=DQ%3A%20Limit%20Breakers"
+      }
+    ],
+    "lastChecked": "2000-01-01"
+  },
+  {
+    "id": 23,
+    "name": "魔御：STAR DIVE",
+    "nameEn": "STAR DIVE",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "動作 RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "low",
+    "prereg": 3000000,
+    "sentiment": 62,
+    "launchEst": "2026-04-15",
+    "desc": "UE5 動作 RPG，魔物馴服核心玩法。4/15 上線。",
+    "tags": [
+      "動作",
+      "UE5",
+      "魔物馴服"
+    ],
+    "threatAnalysis": "【直接競品威脅】《魔御：STAR DIVE》於2026年4月15日全球上市後，迅速在7月8日推出大規模1.2版本夏日更新，新增角色、活動及派遣系統，顯示其營運節奏快速且內容更新頻繁。作為幻獸養成動作RPG，其持續的內容輸出將有效維持玩家活躍度，對我們同品類產品構成直接競爭壓力。\n\n▶ 建議行動：\n(1) 密切關注《魔御：STAR DIVE》的更新內容和活動設計，分析其對玩家活躍度和付費轉化的影響，並思考我們產品在內容更新頻率和活動吸引力上是否有提升空間。\n(2) 深入研究其新推出的「派遣系統」等玩法創新，評估其對用戶體驗和留存的影響，考慮是否能從中獲得啟發，優化我們產品的掛機或自動化玩法。\n(3) 檢視我們產品的近期營運數據，特別是與其更新節奏相關的用戶流失情況，並制定應對策略，例如推出更具競爭力的版本更新或福利活動。",
+    "verified": "蘋果仁",
+    "history": [
+      {
+        "date": "2025-11",
+        "s": "announced"
+      },
+      {
+        "date": "2026-04",
+        "s": "launched"
+      },
+      {
+        "date": "2026-06",
+        "s": "live-ops"
+      },
+      {
+        "date": "2026-06",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-07-17",
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "已上線",
+        "date": "2026-04-15"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-04-15"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2026-04-15"
+      }
+    ],
+    "developer": "Netmarble",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E9%AD%94%E5%BE%A1%EF%BC%9ASTAR%20DIVE"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E9%AD%94%E5%BE%A1%EF%BC%9ASTAR%20DIVE&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=STAR%20DIVE"
+      }
+    ],
+    "lastChecked": "2000-01-01"
+  },
+  {
+    "id": 24,
+    "name": "東離劍遊紀M",
+    "nameEn": "Thunderbolt Fantasy M",
+    "studio": "霹靂",
+    "publisher": "霹靂",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "TW",
+    "model": "F2P",
+    "stage": "已停止營運",
+    "threat": "low",
+    "prereg": 500000,
+    "sentiment": 65,
+    "launchEst": "2026-Q3 (預計)",
+    "desc": "霹靂 IP 改編手遊，5/8 公測上線。台港澳限定。",
+    "tags": [
+      "IP",
+      "布袋戲",
+      "台灣"
+    ],
+    "threatAnalysis": "【結構性威脅】《東離劍遊紀M》已於2024年8月24日停止營運。雖然該遊戲已下架，但其失敗案例仍值得我們深入分析，以避免重蹈覆轍。特別是對於IP改編遊戲，其營運失敗可能反映出IP粉絲轉化、遊戲品質、商業模式或市場定位上的問題。\n\n▶ 建議行動：\n(1) 收集並分析《東離劍遊紀M》停止營運的具體原因，包括但不限於玩家評價、營收數據、社群討論，以及開發商霹靂的官方聲明，從中吸取教訓。\n(2) 若我們產品涉及IP改編，需特別檢視IP授權、遊戲內容與IP契合度、粉絲期待管理等環節，確保能有效利用IP優勢並避免潛在風險。\n(3) 將其作為負面案例納入產品開發與營運的風險評估中，定期檢討我們產品的市場競爭力、用戶滿意度及財務表現，及早發現並解決潛在問題。",
+    "verified": "VNG 情報站",
+    "history": [
+      {
+        "date": "2026-03",
+        "s": "announced"
+      },
+      {
+        "date": "2026-05",
+        "s": "launched"
+      },
+      {
+        "date": "2026-06",
+        "s": "事前登錄"
+      },
+      {
+        "date": "2026-06",
+        "s": "Shutdown"
+      },
+      {
+        "date": "2026-06",
+        "s": "Shutdown"
+      },
+      {
+        "date": "2026-07",
+        "s": "已停止營運"
+      }
+    ],
+    "updatedAt": "2026-07-17",
+    "category": "tracking",
+    "launchRegions": [
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2026-05-08"
+      }
+    ],
+    "developer": "霹靂",
+    "publisher_tw": "霹靂",
+    "testType": "不刪檔公測",
+    "testDateStart": "2026-05-08",
+    "testDateEnd": "持續營運中",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E6%9D%B1%E9%9B%A2%E5%8A%8D%E9%81%8A%E7%B4%80M"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E6%9D%B1%E9%9B%A2%E5%8A%8D%E9%81%8A%E7%B4%80M&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Thunderbolt%20Fantasy%20M"
+      }
+    ],
+    "currentEvent": "已於2024年8月24日停止營運。",
+    "eventNote": "已於2024年8月24日停止營運。",
+    "lastChecked": "2000-01-01"
+  },
+  {
+    "id": 25,
+    "name": "奇幻生活 i",
+    "nameEn": "Fantasy Life i",
+    "studio": "Level-5",
+    "publisher": "Level-5",
+    "genre": "生活模擬 RPG",
+    "platform": [
+      "Mobile",
+      "NS2"
+    ],
+    "region": "JP/Global",
+    "model": "Buy-to-Play",
+    "stage": "手機版預計2026年夏季推出",
+    "threat": "low",
+    "prereg": 2000000,
+    "sentiment": 78,
+    "launchEst": "2026年夏季 (手機版)",
+    "desc": "類動森慢活 RPG，14 種職業體驗。",
+    "tags": [
+      "生活模擬",
+      "休閒",
+      "Level-5"
+    ],
+    "threatAnalysis": "【品類攪局威脅】《奇幻生活 i》作為休閒生活模擬RPG，其手機版預計於2026年夏季推出，並支援跨平台連線與存檔，成功避開激烈二遊戰場。這種跨平台策略和休閒品類定位，使其能夠吸引更廣泛的用戶群，對我們產品在用戶時間和注意力上構成潛在競爭。\n\n▶ 建議行動：\n(1) 密切關注《奇幻生活 i》手機版的具體上線日期和營運表現，特別是其跨平台策略對用戶活躍度和留存的影響。\n(2) 分析其休閒生活模擬玩法的吸引力，思考我們產品在提供輕鬆、長期可玩內容方面是否有提升空間，以滿足不同用戶的需求。\n(3) 評估其買斷制商業模式的市場反應，並思考我們產品在付費設計上是否能從中獲得啟發，例如提供更多一次性購買的內容包或通行證，以增加用戶價值。",
+    "verified": "蘋果仁",
+    "history": [
+      {
+        "date": "2025-10",
+        "s": "announced"
+      },
+      {
+        "date": "2026-04",
+        "s": "launched"
+      },
+      {
+        "date": "2026-06",
+        "s": "手機版預計2026年夏季推出"
+      }
+    ],
+    "updatedAt": "2026-07-17",
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2026-04"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-04"
+      }
+    ],
+    "developer": "Level-5",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=%E5%A5%87%E5%B9%BB%E7%94%9F%E6%B4%BB%20i"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=%E5%A5%87%E5%B9%BB%E7%94%9F%E6%B4%BB%20i&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Fantasy%20Life%20i"
+      }
+    ],
+    "lastChecked": "2000-01-01"
+  },
+  {
+    "id": 26,
+    "name": "Pictonico!",
+    "nameEn": "Pictonico!",
+    "studio": "Nintendo",
+    "publisher": "Nintendo",
+    "genre": "派對遊戲",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "low",
+    "prereg": 3000000,
+    "sentiment": 70,
+    "launchEst": "2026-05-28",
+    "desc": "任天堂全新手遊，照片變小遊戲，80+ 種遊戲。5/28 上線。",
+    "tags": [
+      "任天堂",
+      "派對",
+      "休閒"
+    ],
+    "threatAnalysis": "【市場擠壓威脅】《Pictonico!》作為任天堂品牌下的純休閒派對遊戲，已於2026年5月28日正式上線。其獨特的「照片變遊戲」概念和任天堂的品牌號召力，使其在休閒遊戲市場中佔據一席之地，可能擠壓我們產品的用戶時間和市場聲量，特別是對於輕度玩家。\n\n▶ 建議行動：\n(1) 分析《Pictonico!》上線後的用戶數據，特別是其在社群分享和病毒式傳播方面的表現，了解其如何利用用戶生成內容來擴大影響力。\n(2) 評估其對休閒遊戲市場的影響，思考我們產品在輕度玩法、社交互動或創意內容生成方面是否有可借鑒之處，以提升用戶參與度。\n(3) 檢視我們產品的用戶獲取策略，考慮是否需要調整以應對休閒遊戲市場的競爭加劇，例如加強社群營運或推出更具吸引力的入門級內容。",
+    "verified": "蘋果仁",
+    "history": [
+      {
+        "date": "2026-04",
+        "s": "announced"
+      },
+      {
+        "date": "2026-05",
+        "s": "launched"
+      },
+      {
+        "date": "2026-06",
+        "s": "live-ops"
+      },
+      {
+        "date": "2026-06",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-07-17",
+    "category": "active",
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-05-28"
+      }
+    ],
+    "developer": "Nintendo",
+    "testType": "未知",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/search?kw=Pictonico%21"
+      },
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=Pictonico%21&t=1"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/en/search?keyword=Pictonico%21"
+      }
+    ],
+    "lastChecked": "2000-01-01"
+  },
+  {
+    "id": 27,
+    "name": "GTA VI",
+    "nameEn": "Grand Theft Auto VI",
+    "studio": "Rockstar Games",
+    "publisher": "Take-Two",
+    "genre": "開放世界動作",
+    "platform": [
+      "Console"
+    ],
+    "region": "Global",
+    "model": "Buy-to-Play",
+    "stage": "pre-reg",
+    "threat": "critical",
+    "prereg": null,
+    "sentiment": 97,
+    "launchEst": "2026-11-19",
+    "desc": "史上最受期待遊戲續作。二度延期後確認 11/19 發售，僅 PS5/Xbox Series。PC 版延後。",
+    "tags": [
+      "開放世界",
+      "犯罪",
+      "AAA",
+      "主機獨佔"
+    ],
+    "threatAnalysis": "【結構性威脅/市場擠壓】《GTA VI》作為開放世界動作遊戲的頂級IP，其全球預購已於2026年6月25日開啟，並預計在2026年11月19日上線。分析師預測其首週銷售額將達到33億至52億美元，這將是遊戲史上最強勁的預購表現。如此巨大的市場吸金能力和玩家關注度，將對所有同期及前後上線的開放世界動作類遊戲造成毀滅性的市場擠壓，嚴重瓜分玩家時間與消費預算。其延遲PC版發布的策略，也可能在未來再次引發一波市場熱潮。\n\n▶ 建議行動：\n(1) 重新評估產品發布時間表：若我方產品發布時間與《GTA VI》過於接近，應考慮延期或提前，避開其上線前後至少三個月的黃金期，以減少直接衝擊。\n(2) 強化核心玩法差異化與社群維繫：針對《GTA VI》的單人體驗特性，我方產品應著重於多人互動、獨特社群活動或創新玩法，提供《GTA VI》無法滿足的玩家需求，並透過社群活動提前鎖定用戶。\n(3) 準備應對市場聲量下降的行銷策略：在《GTA VI》上線期間，預期整體遊戲市場的媒體關注度將被其主導。我方應準備針對性的行銷內容，例如與《GTA VI》形成對比的獨特賣點，或針對特定小眾市場進行精準投放，以維持品牌曝光。",
+    "verified": "Rockstar 官方、Yahoo 遊戲、多家媒體",
+    "history": [
+      {
+        "date": "2023-12",
+        "s": "announced"
+      },
+      {
+        "date": "2025-05",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-07-17",
+    "category": "tracking",
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "預註冊",
+        "date": "2026-11-19（PS5/Xbox）"
+      }
+    ],
+    "developer": "Rockstar Games",
+    "publisher_global": "Take-Two",
+    "testType": "買斷制發售",
+    "testDateStart": "2026-11-19",
+    "testDateEnd": "N/A",
+    "sourceLinks": [
+      {
+        "label": "巴哈姆特",
+        "url": "https://acg.gamer.com.tw/search.php?s=GTA+VI&t=1"
+      },
+      {
+        "label": "Rockstar",
+        "url": "https://www.rockstargames.com/VI"
+      }
+    ],
+    "currentEvent": "《GTA VI》已於2026年6月25日開啟全球預購，並確認將於2026年11月19日上線PlayStation 5和Xbox Series X|S平台。分析師預測其預購表現將創歷史新高，首週銷售額有望達到33億至52億美元。PC版預計將延後發布。",
+    "eventNote": "《GTA VI》已於2026年6月25日開啟全球預購，並確認將於2026年11月19日上線PlayStation 5和Xbox Series X|S平台。分析師預測其預購表現將創歷史新高，首週銷售額有望達到33億至52億美元。PC版預計將延後發布。",
+    "lastChecked": "2000-01-01"
   },
   {
     "id": 28,
@@ -2085,7 +2103,8 @@
         "label": "QooApp",
         "url": "https://apps.qoo-app.com/en/search?keyword=Monster%20Hunter%20Wilds"
       }
-    ]
+    ],
+    "lastChecked": "2000-01-01"
   },
   {
     "id": 29,
@@ -2168,7 +2187,8 @@
       }
     ],
     "currentEvent": "No specific major recent event found beyond its launch in May 2026 and existing analysis of high retention.",
-    "eventNote": "No specific major recent event found beyond its launch in May 2026 and existing analysis of high retention."
+    "eventNote": "No specific major recent event found beyond its launch in May 2026 and existing analysis of high retention.",
+    "lastChecked": "2000-01-01"
   },
   {
     "id": 30,
@@ -2235,7 +2255,8 @@
       }
     ],
     "currentEvent": "No specific major recent event found beyond its CBT status and estimated Q3 2026 launch.",
-    "eventNote": "No specific major recent event found beyond its CBT status and estimated Q3 2026 launch."
+    "eventNote": "No specific major recent event found beyond its CBT status and estimated Q3 2026 launch.",
+    "lastChecked": "2000-01-01"
   },
   {
     "id": 31,
@@ -2297,6 +2318,7 @@
       }
     ],
     "currentEvent": "No specific major recent event found beyond its announced status and estimated 2027 launch.",
-    "eventNote": "No specific major recent event found beyond its announced status and estimated 2027 launch."
+    "eventNote": "No specific major recent event found beyond its announced status and estimated 2027 launch.",
+    "lastChecked": "2000-01-01"
   }
 ]
