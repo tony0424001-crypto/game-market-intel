@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-07-23T03:51:20.433128+00:00",
-  "fetchCount": 70,
+  "lastUpdated": "2026-07-24T03:51:13.230610+00:00",
+  "fetchCount": 71,
   "items": [
+    {
+      "id": "brief-20260724-60b1cb91",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Garena 宣布將於臺港澳發行《魔物獵人：旅人》 預約網站同步開啟",
+      "detail": "由 Capcom 授權、TiMi Studio Group 研發的《魔物獵人》系列最新生存狩獵動作手遊《魔物獵人：旅人》將由 Garena 代理發行，預約網站已同步開放。",
+      "action": "評估競品策略與預約獎勵，研究其市場定位，特別關注其在臺港澳的推廣方式。",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN, 4Gamers",
+      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
+    },
     {
       "id": "brief-20260718-0d1c66b3",
       "priority": "urgent",
@@ -80,6 +91,83 @@
       "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
     },
     {
+      "id": "brief-20260724-cf799cf3",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《鋼彈》系列新作動畫《機動戰士鋼彈 RG XARX-ZERO》正式發表 預定 2027 年推出",
+      "detail": "《鋼彈》系列發表全新跨媒體企劃「RG Project」，新作動畫《機動戰士鋼彈 RG XARX-ZERO》預計於 2027 年推出，並與遊戲《GUNDAM 異軌征途》共享世界觀。",
+      "action": "追蹤此跨媒體企劃的後續發展，特別是遊戲部分的情報，評估IP聯動對遊戲產品的潛在影響。",
+      "platform": "console",
+      "source": "巴哈姆特GNN, 4Gamers",
+      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
+    },
+    {
+      "id": "brief-20260724-0195d78f",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《阿爾比恩 Online》大型更新「龍焰」將於 8 月底推出 獲取專屬火焰幼龍坐騎",
+      "detail": "免費奇幻沙盒 MMORPG《阿爾比恩 Online》宣布大型內容更新「龍焰」將於 8 月 31 日登陸多平台，本次更新將讓沉睡的巨龍重返阿爾比恩世界。",
+      "action": "分析「龍焰」更新內容，評估對沙盒MMORPG市場的影響，特別是新內容與玩家留存的策略。",
+      "platform": "mobile/console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
+    },
+    {
+      "id": "brief-20260724-71a827b2",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《燕雲十六聲》2.0 版今日上線新武器、新門派登場　漫博「不見山」展區亮相",
+      "detail": "網易遊戲旗下 Everstone Studio 打造的武俠開放世界動作冒險 RPG《燕雲十六聲》2.0 版本今日上線，並同步參展漫畫博覽會，開放全新山地區域「不見山」供玩家體驗。",
+      "action": "關注2.0版本更新內容與漫博現場玩家反應，分析其開放世界RPG的營運策略與內容更新頻率。",
+      "platform": "mobile/console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
+    },
+    {
+      "id": "brief-20260724-dcb03529",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《空之軌跡 the 2nd》公開追加首批暨預購特典詳情及「釣魚」「鑑賞模式」等系統詳情",
+      "detail": "Nihon Falcom 開發的劇情角色扮演遊戲《空之軌跡 the 2nd》繁體中文版將於 9 月 17 日推出，並公開了首批購買特典、預購特典以及遊戲系統詳情。",
+      "action": "留意此經典JRPG重製版的市場表現與玩家評價，特別是其在多平台發行的策略。",
+      "platform": "console",
+      "source": "巴哈姆特GNN, 4Gamers",
+      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
+    },
+    {
+      "id": "brief-20260724-6ef0ed7a",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《辟邪除妖 Variants Daphne》×《FINAL FANTASY XI》宣布 7 月 30 日起舉辦合作活動",
+      "detail": "Drecom 旗下「Wizardry」系列 3D 地下城 RPG《辟邪除妖 Variants Daphne》將於 7 月 30 日起舉辦與《FINAL FANTASY XI》的合作活動。",
+      "action": "研究此次IP合作的內容與成效，作為未來自家產品尋求合作夥伴的參考。",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
+    },
+    {
+      "id": "brief-20260724-d919bc60",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《PTCG Pocket》新擴充包「天空主宰」將在 7 月 30 日推出 「超級烈空坐」將首次登場",
+      "detail": "《寶可夢集換式卡牌遊戲口袋版》宣布新擴充包「天空主宰」將自 7 月 30 日推出，其中「超級烈空坐」將首次登場。",
+      "action": "分析新擴充包「天空主宰」的卡牌設計與營運策略，評估其對行動卡牌遊戲市場的影響。",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
+    },
+    {
+      "id": "brief-20260724-5b614bc1",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "敘事卡牌 RPG《蘇丹的遊戲》手機版明日登場　漫博現場 Cosplayer 為上市熱身",
+      "detail": "敘事導向卡牌生存 RPG《蘇丹的遊戲》為迎接手機版即將於 7 月 24 日上市，官方今日在漫畫博覽會現場派出 Cosplayer 進行宣傳。",
+      "action": "觀察手機版上市後的市場反應與玩家評價，評估敘事卡牌RPG的潛力與推廣策略。",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
+    },
+    {
       "id": "brief-20260718-9021758b",
       "priority": "watch",
       "icon": "👁",
@@ -113,114 +201,26 @@
       "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
     },
     {
-      "id": "brief-20260718-32afde33",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "Roblox推出AI驅動的遊戲創作工具「Build」，簡化遊戲開發",
-      "detail": "Roblox於7月17日推出AI驅動的工具「Build」，允許用戶透過文字提示在Roblox手機應用程式中創建基本的可玩遊戲。該工具將於7月28日在紐西蘭開始測試，旨在降低遊戲創作門檻。",
-      "action": "研究AI在用戶生成內容（UGC）遊戲平台的應用，探索新的開發模式。",
-      "platform": "mobile",
-      "source": "Business Insider",
-      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
+      "id": "brief-20260724-99255a5a",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "高難度動作 RPG《這龍帶刀 DINOBLADE》今日問世 恐龍為何能夠揮舞武器？",
+      "detail": "由獨立研發團隊 Team Spino LLC 開發的類魂動作 RPG《這龍帶刀（DINOBLADE）》今（24）日於 Steam 平台上市，玩家將扮演一隻與神祕靈魂夥伴締結契約的年輕棘龍。",
+      "action": "了解此類魂動作RPG的市場接受度與玩家反饋，分析其獨特題材（恐龍）的吸引力。",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
     },
     {
-      "id": "brief-20260722-426abd39",
+      "id": "brief-20260724-4bb343fd",
       "priority": "info",
-      "icon": "📰",
-      "title": "Darkest Dungeon Is Getting New DLC, Even Though It Has A Sequel",
-      "detail": "Red Hook Studios surprised Darkest Dungeon fans by announcing new DLC for the first game years after a sequel was already released. It's titled The Fire's Edge and will be out in August.\n\n\n\nDarkest Du",
-      "action": "待審閱",
+      "icon": "ℹ️",
+      "title": "前往狂風呼嘯之地 《不朽之樹》開發者日誌第 4 期展示高原地區生態與生物",
+      "detail": "MMORPG《不朽之樹》公開第 4 期開發者日誌影片，主要關注高原區域的開發進展，包含風嘯高原和遠古遺跡，以及新的生物夥伴。",
+      "action": "持續關注此MMORPG的開發進度與特色，評估其市場潛力與內容更新方向。",
       "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-22T03:54:30.074004+00:00"
-    },
-    {
-      "id": "brief-20260722-4ae79a05",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Ubisoft Reacts To Ghost Recon Leaks, Promises News In August",
-      "detail": "Ubisoft has confirmed that it will share what's next for Ghost Recon when it celebrates the series' 25th anniversary on August 6. This comes after several reports and rumors about upcoming Ghost Recon",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-22T03:54:30.074004+00:00"
-    },
-    {
-      "id": "brief-20260722-bcd734c2",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Nintendo Basically Says That Splatoon 4 Will Happen",
-      "detail": "While Splatoon Raiders looks like a pivot from Nintendo's competitive multiplayer-focused franchise, a producer on the series confirmed that PvP gameplay in Splatoon will endure, even uttering the phr",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-22T03:54:30.074004+00:00"
-    },
-    {
-      "id": "brief-20260722-bcb62a2b",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Hasbro Is Betting On Fewer, Bigger Video Games After $56 Million Write-Down",
-      "detail": "Hasbro's ambitious plan to expand into video games appears to have hit an expensive snag, as the company has recorded a $56 million impairment charge related to its video games portfolio for 2028 and ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-22T03:54:30.074004+00:00"
-    },
-    {
-      "id": "brief-20260722-86fa7868",
-      "priority": "info",
-      "icon": "📰",
-      "title": "We Finally Know Xal’atath’s Evil Plan For The World Of Warcraft",
-      "detail": "After years of theories and speculation, World of Warcraft players may have finally uncovered the real endgame of its current main villain, Xal'atath.\n\n\n\nXal'atath has been Azeroth's big bad for the p",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-22T03:54:30.074004+00:00"
-    },
-    {
-      "id": "brief-20260721-d32ee8ea",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Game Pass Was A Good Idea But It Didn’t Work, Forza Horizon 5 Creative Director ",
-      "detail": "Forza Horizon 5 creative director Mike Brown has weighed in with his thoughts on the situation at Xbox currently, and one of the things he commented on was Xbox Game Pass. He said in an interview that",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-21T03:52:50.969526+00:00"
-    },
-    {
-      "id": "brief-20260721-ac8997e3",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Call Of Duty: Modern Warfare 4 Beta: Dates, Content, And How To Get In",
-      "detail": "Activision has confirmed the Call of Duty: Modern Warfare 4 multiplayer beta dates, which begin on August 21. The company also revealed how you can get it, what's in the beta, and when to expect more ",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-21T03:52:50.969526+00:00"
-    },
-    {
-      "id": "brief-20260721-bb8d2664",
-      "priority": "info",
-      "icon": "📰",
-      "title": "Tides Of Annihilation Loses Expedition 33 Voice Actor Jennifer English",
-      "detail": "Tides of Annihilation developer Eclipse Glow Games has announced that voice actor Jennifer English will no longer be voicing the game's protagonist, Gwendolyn, due to personal health reasons. In an up",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-21T03:52:50.969526+00:00"
-    },
-    {
-      "id": "brief-20260721-0195ceb4",
-      "priority": "info",
-      "icon": "📰",
-      "title": "GameSpot’s Exclusive Magic: The Gathering – The Hobbit Cards Turn Death Into An ",
-      "detail": "Among the flurry of announcements presented at MagicCon Amsterdam was the debut of The Hobbit, Magic: The Gathering’s next expansion and a return to the universe of J.R.R. Tolkien. That debut was only",
-      "action": "待審閱",
-      "platform": "console",
-      "source": "GameSpot",
-      "fetchedAt": "2026-07-21T03:52:50.969526+00:00"
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
     }
   ]
 }

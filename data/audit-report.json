@@ -1,27 +1,51 @@
 {
-  "lastAudit": "2026-07-23T03:51:54.525307+00:00",
+  "lastAudit": "2026-07-24T03:51:33.787780+00:00",
   "totalProducts": 30,
-  "updatesApplied": 18,
+  "updatesApplied": 21,
   "findings": [
     {
-      "name": "失控進化",
+      "name": "鳴潮",
       "status": "warning",
-      "issue": "狀態: live-ops→pre-reg",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "遺忘之海",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "卡厄思夢境",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "藍色星原：旅謠",
+      "status": "warning",
+      "issue": "狀態: cbt (ended)→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "破界：界限終零",
+      "status": "warning",
+      "issue": "狀態: cbt (ended)→pre-reg",
       "autoFixed": true
     }
   ],
   "checked": [
-    "無限大",
-    "異環",
-    "明日方舟：終末地",
-    "失控進化",
-    "王者榮耀：世界"
-  ],
-  "nextBatch": [
     "鳴潮",
     "遺忘之海",
     "卡厄思夢境",
     "藍色星原：旅謠",
     "破界：界限終零"
+  ],
+  "nextBatch": [
+    "無限大",
+    "異環",
+    "明日方舟：終末地",
+    "失控進化",
+    "王者榮耀：世界"
   ]
 }

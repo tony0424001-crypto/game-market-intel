@@ -450,7 +450,7 @@
       "動作",
       "版本更新"
     ],
-    "threatAnalysis": "【直接競品/用戶增長趨緩】《鳴潮》作為開放世界動作 RPG 的直接競品，雖然週年慶版本提升了品質，但用戶增長已趨緩。這表明其在市場上的競爭力可能受到挑戰，但仍佔據一定市場份額。\n\n▶ 建議行動：\n(1) 持續監測《鳴潮》的內容更新頻率、新角色推出和活動設計，分析其對用戶留存和付費的影響。\n(2) 深入研究《鳴潮》用戶增長趨緩的原因，是否為內容消耗過快、玩法疲勞或新競品衝擊，從中吸取經驗教訓。\n(3) 針對其用戶增長瓶頸，思考自家產品如何透過創新玩法或差異化內容來吸引和留住開放世界動作 RPG 玩家。",
+    "threatAnalysis": "【威脅類型】營運穩定性/玩家滿意度\n\n▶ 建議行動：\n(1). 持續關注遊戲版本更新內容與玩家社群回饋，特別是福利活動的規劃，避免重蹈一週年福利爭議。\n(2). 監測跨平台表現，尤其是PC端與主機平台的營收與玩家活躍度，因其可能佔據重要份額。\n(3). 留意海外市場（如日本）的營運與宣發策略，確保在地化執行品質，避免因宣發失誤影響玩家觀感。",
     "verified": "VNG 情報站、巴哈姆特",
     "history": [
       {
@@ -460,12 +460,16 @@
       {
         "date": "2026-04",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-07",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-06-06",
+    "updatedAt": "2026-07-24",
     "category": "tracking",
-    "currentEvent": "No specific major recent event found beyond general live-ops updates. Existing analysis mentions anniversary version quality improvement but slowing user growth.",
-    "eventNote": "No specific major recent event found beyond general live-ops updates. Existing analysis mentions anniversary version quality improvement but slowing user growth.",
+    "currentEvent": "Ver.3.5更新於2026年7月10日上線，新增星5共鳴者秧秧・玄翎、穗穗，並將推出Xbox版。",
+    "eventNote": "Ver.3.5更新於2026年7月10日上線，新增星5共鳴者秧秧・玄翎、穗穗，並將推出Xbox版。",
     "launchRegions": [
       {
         "region": "CN",
@@ -491,18 +495,18 @@
     "developer": "庫洛遊戲",
     "testType": "未知",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2024-03-17",
     "sourceLinks": [
       {
-        "label": "巴哈姆特",
-        "url": "https://forum.gamer.com.tw/A.php?bsn=44498"
+        "label": "官網",
+        "url": "https://wutheringwaves.kurogame.com/en/"
       },
       {
         "label": "TapTap",
-        "url": "https://www.taptap.io/app/191499"
+        "url": "https://www.taptap.cn/app/215243"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-24"
   },
   {
     "id": 7,
@@ -527,7 +531,7 @@
       "動作",
       "網易"
     ],
-    "threatAnalysis": "【網易重點佈局】版號已到手代表商業化箭在弦上。三測規模擴大顯示網易對品質有信心，Q3 上線機率極高。現已確認7月公測，其獨特的海洋冒險RPG題材和《第五人格》團隊的品質保證，將對動作RPG市場產生影響。\n\n▶ 建議行動：\n(1) 密切關注其7月公測的具體日期和初期市場表現，特別是其「海洋冒險」和「木偶人水手」的差異化設定是否能吸引大量玩家。\n(2) 分析其戰鬥系統、開放世界探索和商業化模式，評估對我方動作RPG產品的潛在競爭壓力。\n(3) 考慮在公測前後加強我方產品的宣傳力度，突出自身獨特賣點，或針對其弱點進行產品優化。",
+    "threatAnalysis": "【威脅類型】初期營運挑戰/玩家滿意度\n\n▶ 建議行動：\n(1). 密切關注遊戲上線後的玩家評價與社群討論，特別是針對遊戲機制、肝度與商業化模式的調整是否有效。\n(2). 評估網易快速回應玩家反饋並進行大改的策略效果，這可能影響遊戲的長期留存率。\n(3). 監測多平台數據表現，尤其是移動端與PC端的用戶活躍度與營收，確保跨平台體驗的一致性與優化。",
     "verified": "VNG 情報站、網易 520 發布會",
     "history": [
       {
@@ -541,9 +545,13 @@
       {
         "date": "2026-06",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-07",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-06-26",
+    "updatedAt": "2026-07-24",
     "category": "active",
     "launchRegions": [
       {
@@ -566,22 +574,18 @@
     "publisher_cn": "網易",
     "testType": "刪檔不計費（三測）",
     "testDateStart": "2026-05-22 招募",
-    "testDateEnd": "待5/22直播公布",
+    "testDateEnd": "2026-06-19",
     "sourceLinks": [
       {
+        "label": "官網",
+        "url": "https://www.seaofremnants.com/"
+      },
+      {
         "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E9%81%BA%E5%BF%98%E4%B9%8B%E6%B5%B7"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E9%81%BA%E5%BF%98%E4%B9%8B%E6%B5%B7&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Sea%20of%20Oblivion"
+        "url": "https://www.taptap.cn/app/223849"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-24"
   },
   {
     "id": 8,
@@ -606,7 +610,7 @@
       "二次元",
       "騰訊代理"
     ],
-    "threatAnalysis": "【品類攪局】差異化克蘇魯題材，騰訊渠道加持。但小眾題材天花板有限。儘管全球已上線，中國服也已公測，並進行了半週年更新，但其小眾題材的特性決定了其市場規模。\n\n▶ 建議行動：\n(1) 監測其全球及中國市場的營收和用戶數據，評估克蘇魯題材RPG的實際市場潛力與用戶天花板。\n(2) 分析其半週年更新內容和運營策略，了解其如何維持用戶活躍度並拓展小眾題材的深度。\n(3) 若我方產品非直接競品，可將其視為市場多元化的觀察對象，研究小眾題材遊戲的成功與挑戰，為未來產品立項提供參考。",
+    "threatAnalysis": "【威脅類型】營運穩定性/玩家滿意度\n\n▶ 建議行動：\n(1). 密切關注遊戲在中國市場的表現，因其為近期新上線區域，需評估其營收與玩家活躍度。\n(2). 持續監測全球營收數據，特別是2026年初出現的營收下滑趨勢，需分析原因並評估官方後續調整策略的有效性。\n(3). 關注玩家社群對遊戲內容更新、平衡性及福利活動的反應，確保遊戲能持續吸引並留住玩家。",
     "verified": "VNG 情報站、TGS 2025 報導",
     "history": [
       {
@@ -624,10 +628,14 @@
       {
         "date": "2026-06",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-07",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-06-26",
-    "category": "active",
+    "updatedAt": "2026-07-24",
+    "category": "tracking",
     "launchRegions": [
       {
         "region": "CN",
@@ -654,22 +662,24 @@
     "publisher_cn": "騰訊代理",
     "testType": "不刪檔公測",
     "testDateStart": "2026-05-28",
-    "testDateEnd": "持續營運中",
+    "testDateEnd": "2025-09-25",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E5%8D%A1%E5%8E%84%E6%80%9D%E5%A4%A2%E5%A2%83"
+        "label": "官網",
+        "url": "https://chaoszeronightmare.onstove.com/zh-tw"
       },
       {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E5%8D%A1%E5%8E%84%E6%80%9D%E5%A4%A2%E5%A2%83&t=1"
+        "label": "TapTap (CN)",
+        "url": "https://www.taptap.cn/app/235732"
       },
       {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Calth%27s%20Dream"
+        "label": "TapTap (Global)",
+        "url": "https://www.taptap.io/app/235732"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-24",
+    "currentEvent": "遊戲已於2025年10月22日全球上線，並於2026年5月28日於中國市場公測。 遊戲持續更新中，例如2026年4月29日更新了S3賽季「回蕩在銀河中的歌聲」並新增季節性戰鬥員「海德瑪麗」。",
+    "eventNote": "遊戲已於2025年10月22日全球上線，並於2026年5月28日於中國市場公測。 遊戲持續更新中，例如2026年4月29日更新了S3賽季「回蕩在銀河中的歌聲」並新增季節性戰鬥員「海德瑪麗」。"
   },
   {
     "id": 10,
@@ -684,7 +694,7 @@
     ],
     "region": "CN/TW/Global",
     "model": "F2P",
-    "stage": "cbt (ended)",
+    "stage": "pre-reg",
     "threat": "high",
     "prereg": 12000000,
     "sentiment": 86,
@@ -696,7 +706,7 @@
       "二次元",
       "碧藍航線團隊"
     ],
-    "threatAnalysis": "【差異化競品】碧藍航線團隊的品牌效應 + 獨特星寵系統，在二次元大年中有明確的差異化定位。台服封測已結束，官方正根據反饋進行優化，Q3上線的可能性依然很高。\n\n▶ 建議行動：\n(1) 密切關注其後續測試進度與Q3的正式上線日期，特別是官方針對CBT反饋的優化內容，如性能、視聽體驗、劇情和戰鬥等。\n(2) 深入分析其「星寵系統」的獨特性和對玩家的吸引力，評估其是否能成為二次元開放世界品類的新亮點。\n(3) 考慮我方產品是否能在「星寵」或類似的陪伴系統上進行創新，以應對其差異化競爭。",
+    "threatAnalysis": "【威脅類型】上市時程不確定性/市場競爭\n\n▶ 建議行動：\n(1). 密切關注官方是否公布確切的全球上市日期，並評估其是否能如期在2026年Q3推出。\n(2). 監測玩家社群對多次封閉測試的評價與反饋，特別是遊戲優化進度與核心玩法的接受度。\n(3). 考量同類型開放世界RPG市場競爭激烈，需評估遊戲在正式上市時的差異化競爭力與宣發策略。",
     "verified": "蘋果仁、36kr、TGS 2025 報導",
     "history": [
       {
@@ -710,9 +720,13 @@
       {
         "date": "2026-06",
         "s": "cbt (ended)"
+      },
+      {
+        "date": "2026-07",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-06-26",
+    "updatedAt": "2026-07-24",
     "category": "active",
     "launchRegions": [
       {
@@ -741,22 +755,18 @@
     "publisher_tw": "NIJIGEN",
     "testType": "限量刪檔測試",
     "testDateStart": "2026-05（台服截止5/29）",
-    "testDateEnd": "待定",
+    "testDateEnd": "2026-07-10",
     "sourceLinks": [
       {
+        "label": "官網",
+        "url": "https://azurpromilia.manjuu.com/"
+      },
+      {
         "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E8%97%8D%E8%89%B2%E6%98%9F%E5%8E%9F%EF%BC%9A%E6%97%85%E8%AC%A0"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E8%97%8D%E8%89%B2%E6%98%9F%E5%8E%9F%EF%BC%9A%E6%97%85%E8%AC%A0&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Blue%20Waves%3A%20Melody"
+        "url": "https://www.taptap.cn/app/235314"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-24"
   },
   {
     "id": 11,
@@ -771,7 +781,7 @@
     ],
     "region": "KR/Global",
     "model": "F2P",
-    "stage": "cbt (ended)",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": 2000000,
     "sentiment": 70,
@@ -782,7 +792,7 @@
       "ARPG",
       "NCsoft"
     ],
-    "threatAnalysis": "【品類攪局】NC 首次進軍二遊市場，研發實力強但二遊運營經驗不足。序幕測試反饋是關鍵。全球CBT已結束，官方將根據反饋進行優化，預計Q3上線。其動畫風格動作RPG和3人共鬥Boss機制可能吸引特定玩家群體。\n\n▶ 建議行動：\n(1) 獲取並分析「序幕測試」的玩家反饋報告，特別是關於其二次元美術風格、戰鬥手感和多人共鬥體驗的評價，評估其市場潛力。\n(2) 關注NCsoft在二遊運營方面的策略調整，以及其如何彌補經驗不足的劣勢。\n(3) 若我方產品為動作RPG，應分析其戰鬥系統的創新點，思考如何在我方產品中強化核心戰鬥體驗，以應對潛在競爭。",
+    "threatAnalysis": "【威脅類型】上市時程不確定性/玩家對發行商的疑慮\n\n▶ 建議行動：\n(1). 密切關注NCsoft是否公布確切的全球上市日期，並評估其能否在2026年內推出。\n(2). 監測玩家社群對「序幕測試」的評價，特別是針對遊戲操作、戰鬥深度及NCsoft營運模式的擔憂。\n(3). 建議NCsoft加強與玩家的溝通，透明化開發進度與未來的營運策略，以重建玩家信任。",
     "verified": "蘋果仁",
     "history": [
       {
@@ -796,9 +806,13 @@
       {
         "date": "2026-06",
         "s": "cbt (ended)"
+      },
+      {
+        "date": "2026-07",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-06-26",
+    "updatedAt": "2026-07-24",
     "category": "active",
     "launchRegions": [
       {
@@ -821,22 +835,18 @@
     "publisher_global": "NCsoft",
     "testType": "刪檔不計費（序幕測試）",
     "testDateStart": "2026-06-11",
-    "testDateEnd": "2026-06-15（5天）",
+    "testDateEnd": "2026-06-15",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E7%A0%B4%E7%95%8C%EF%BC%9A%E7%95%8C%E9%99%90%E7%B5%82%E9%9B%B6"
+        "label": "官網",
+        "url": "https://breakers.plaync.com/zh-tw/index"
       },
       {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E7%A0%B4%E7%95%8C%EF%BC%9A%E7%95%8C%E9%99%90%E7%B5%82%E9%9B%B6&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Breakers%3A%20Zero%20Limit"
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3764400"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-24"
   },
   {
     "id": 12,
