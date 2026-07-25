@@ -1,45 +1,14 @@
 {
-  "lastAudit": "2026-07-24T03:51:33.787780+00:00",
+  "lastAudit": "2026-07-25T03:45:57.801148+00:00",
   "totalProducts": 30,
-  "updatesApplied": 21,
-  "findings": [
-    {
-      "name": "鳴潮",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "遺忘之海",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "卡厄思夢境",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "藍色星原：旅謠",
-      "status": "warning",
-      "issue": "狀態: cbt (ended)→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "破界：界限終零",
-      "status": "warning",
-      "issue": "狀態: cbt (ended)→pre-reg",
-      "autoFixed": true
-    }
-  ],
+  "updatesApplied": 0,
+  "findings": [],
   "checked": [
-    "鳴潮",
-    "遺忘之海",
-    "卡厄思夢境",
-    "藍色星原：旅謠",
-    "破界：界限終零"
+    "締造者：放逐之境",
+    "原神",
+    "絕區零",
+    "崩壞：星穹鐵道",
+    "白銀之城"
   ],
   "nextBatch": [
     "無限大",
