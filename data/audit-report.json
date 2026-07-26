@@ -1,8 +1,21 @@
 {
-  "lastAudit": "2026-07-25T03:45:57.801148+00:00",
+  "lastAudit": "2026-07-26T04:04:19.594363+00:00",
   "totalProducts": 30,
-  "updatesApplied": 0,
-  "findings": [],
+  "updatesApplied": 14,
+  "findings": [
+    {
+      "name": "締造者：放逐之境",
+      "status": "warning",
+      "issue": "狀態: cbt→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "白銀之城",
+      "status": "warning",
+      "issue": "狀態: cbt→cbt",
+      "autoFixed": true
+    }
+  ],
   "checked": [
     "締造者：放逐之境",
     "原神",

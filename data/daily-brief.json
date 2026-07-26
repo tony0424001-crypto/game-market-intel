@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-07-25T03:45:25.635189+00:00",
-  "fetchCount": 72,
+  "lastUpdated": "2026-07-26T04:03:59.321515+00:00",
+  "fetchCount": 73,
   "items": [
+    {
+      "id": "brief-20260726-9fcdea4e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《戰神：勞菲》定檔2027年2月16日獨家登陸PS5",
+      "detail": "索尼互動娛樂與Santa Monica Studio宣布，PS5獨佔動作冒險遊戲《戰神：勞菲》將於2027年2月16日發售，現已開放願望清單。",
+      "action": "密切關注競品發售時程與宣傳策略，評估對我方產品的潛在影響。",
+      "platform": "console",
+      "source": "巴哈姆特GNN, 4Gamers, Gematsu",
+      "fetchedAt": "2026-07-26T04:03:59.321515+00:00"
+    },
     {
       "id": "brief-20260724-60b1cb91",
       "priority": "urgent",
@@ -91,6 +102,50 @@
       "fetchedAt": "2026-07-08T07:59:43.428826+00:00"
     },
     {
+      "id": "brief-20260726-b7e4bea3",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "人中之龍工作室新作《異於天堂》公開戰鬥系統影片",
+      "detail": "SEGA旗下人中之龍工作室開發的動作冒險遊戲《異於天堂》公開全新戰鬥系統宣傳影片，預計2027年1月15日發售於Xbox Series X|S、PC及PS5平台。",
+      "action": "分析其戰鬥系統特色，了解競品在動作遊戲設計上的創新點。",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-07-26T04:03:59.321515+00:00"
+    },
+    {
+      "id": "brief-20260726-65f65da8",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《漫威鬥魂》PS5及PC公開測試今日展開",
+      "detail": "PlayStation Studios、Arc System Works與Marvel Games聯手打造的4v4團隊格鬥遊戲《漫威鬥魂》於今日展開PS5及PC公開測試。",
+      "action": "參與公測體驗遊戲，分析其團隊格鬥玩法與漫威IP結合的市場反應。",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-07-26T04:03:59.321515+00:00"
+    },
+    {
+      "id": "brief-20260726-7ee4f2c4",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "手機週報介紹《瑪奇 Mobile》、《數碼寶貝 UP》等多款新作",
+      "detail": "巴哈姆特電玩瘋本週介紹11款手機遊戲，包含MMORPG《瑪奇 Mobile》、養成RPG《數碼寶貝 UP》及Roguelite遊戲《陰屍路》宇宙新作等。",
+      "action": "若我方有手機遊戲產品，需關注這些新作的類型、IP與市場表現，評估潛在競爭。",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-07-26T04:03:59.321515+00:00"
+    },
+    {
+      "id": "brief-20260726-73706f38",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《FF14》新資料片《白銀的探求者》將導入自動尋路並登陸Switch 2",
+      "detail": "《Final Fantasy XIV》總監吉田直樹宣布，最新資料片《白銀的探求者》將導入自動任務導航等便利措施，並確認Switch 2版本將於8月4日推出。",
+      "action": "關注MMORPG競品在玩家體驗優化（如自動尋路）與新平台拓展的策略。",
+      "platform": "console",
+      "source": "4Gamers, Gematsu",
+      "fetchedAt": "2026-07-26T04:03:59.321515+00:00"
+    },
+    {
       "id": "brief-20260724-cf799cf3",
       "priority": "watch",
       "icon": "👁",
@@ -124,103 +179,48 @@
       "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
     },
     {
-      "id": "brief-20260724-dcb03529",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《空之軌跡 the 2nd》公開追加首批暨預購特典詳情及「釣魚」「鑑賞模式」等系統詳情",
-      "detail": "Nihon Falcom 開發的劇情角色扮演遊戲《空之軌跡 the 2nd》繁體中文版將於 9 月 17 日推出，並公開了首批購買特典、預購特典以及遊戲系統詳情。",
-      "action": "留意此經典JRPG重製版的市場表現與玩家評價，特別是其在多平台發行的策略。",
-      "platform": "console",
-      "source": "巴哈姆特GNN, 4Gamers",
-      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
-    },
-    {
-      "id": "brief-20260724-6ef0ed7a",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《辟邪除妖 Variants Daphne》×《FINAL FANTASY XI》宣布 7 月 30 日起舉辦合作活動",
-      "detail": "Drecom 旗下「Wizardry」系列 3D 地下城 RPG《辟邪除妖 Variants Daphne》將於 7 月 30 日起舉辦與《FINAL FANTASY XI》的合作活動。",
-      "action": "研究此次IP合作的內容與成效，作為未來自家產品尋求合作夥伴的參考。",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
-    },
-    {
-      "id": "brief-20260724-d919bc60",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《PTCG Pocket》新擴充包「天空主宰」將在 7 月 30 日推出 「超級烈空坐」將首次登場",
-      "detail": "《寶可夢集換式卡牌遊戲口袋版》宣布新擴充包「天空主宰」將自 7 月 30 日推出，其中「超級烈空坐」將首次登場。",
-      "action": "分析新擴充包「天空主宰」的卡牌設計與營運策略，評估其對行動卡牌遊戲市場的影響。",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
-    },
-    {
-      "id": "brief-20260724-5b614bc1",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "敘事卡牌 RPG《蘇丹的遊戲》手機版明日登場　漫博現場 Cosplayer 為上市熱身",
-      "detail": "敘事導向卡牌生存 RPG《蘇丹的遊戲》為迎接手機版即將於 7 月 24 日上市，官方今日在漫畫博覽會現場派出 Cosplayer 進行宣傳。",
-      "action": "觀察手機版上市後的市場反應與玩家評價，評估敘事卡牌RPG的潛力與推廣策略。",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
-    },
-    {
-      "id": "brief-20260718-9021758b",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "中國遊戲「出海」戰略成果豐碩，海外收入持續增長",
-      "detail": "自2019年以來，中國發行商在全球玩家消費增長中佔據約一半份額。2026年第一季度，中國自主研發遊戲在國際市場的收入達到20.77億美元，同比增長24.05%。中國遊戲公司在海外的用戶獲取支出同比增長22%，佔全球遊戲應用獲取支出的35%。",
-      "action": "研究中國遊戲出海策略，探索合作與市場拓展機會。",
-      "platform": "mobile/console",
-      "source": "Niko Partners, CGTN, Chinadaily.com.cn",
-      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
-    },
-    {
-      "id": "brief-20260718-f9d0b653",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《最後一戰：戰鬥進化》重製版與《刺客教條：黑旗 重同步》將於七月推出",
-      "detail": "《最後一戰：戰鬥進化》重製版將於2026年7月28日在PC、PS5和Xbox Series X|S平台發布，帶來升級的畫面和新增內容。同時，《刺客教條：黑旗 重同步》也將於2026年7月推出PC版，對經典作品進行強化。",
-      "action": "關注重製版遊戲的市場表現，評估經典IP的商業價值。",
-      "platform": "console",
-      "source": "PC Gamer, GameSpot, PlayStation.Blog",
-      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
-    },
-    {
-      "id": "brief-20260718-0d952ea8",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "中國第二季度遊戲版號審批數量增加，監管趨於常態化",
-      "detail": "中國國家新聞出版署（NPPA）在2026年第二季度共發放了483個遊戲版號，同比增長13%。Morningstar分析師指出，隨著審批常態化，監管供應不再是影響開發商收益的主要因素。",
-      "action": "持續關注版號發放政策，調整中國市場遊戲發行策略。",
-      "platform": "info",
-      "source": "華爾街日報",
-      "fetchedAt": "2026-07-18T03:39:34.864038+00:00"
-    },
-    {
-      "id": "brief-20260724-99255a5a",
+      "id": "brief-20260726-7f442e74",
       "priority": "info",
       "icon": "ℹ️",
-      "title": "高難度動作 RPG《這龍帶刀 DINOBLADE》今日問世 恐龍為何能夠揮舞武器？",
-      "detail": "由獨立研發團隊 Team Spino LLC 開發的類魂動作 RPG《這龍帶刀（DINOBLADE）》今（24）日於 Steam 平台上市，玩家將扮演一隻與神祕靈魂夥伴締結契約的年輕棘龍。",
-      "action": "了解此類魂動作RPG的市場接受度與玩家反饋，分析其獨特題材（恐龍）的吸引力。",
+      "title": "《斯普拉遁 塗擊隊》發售後攻略與速刷玩法浮現",
+      "detail": "任天堂新作《斯普拉遁 塗擊隊》於上週推出，已有玩家分享新手攻略與速刷五星武器的方法，最快30秒一場。",
+      "action": "觀察新發售遊戲的玩家社群動態與攻略內容，了解玩家對遊戲進度與效率的追求。",
       "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
+      "source": "4Gamers",
+      "fetchedAt": "2026-07-26T04:03:59.321515+00:00"
     },
     {
-      "id": "brief-20260724-4bb343fd",
+      "id": "brief-20260726-56fff2d8",
       "priority": "info",
       "icon": "ℹ️",
-      "title": "前往狂風呼嘯之地 《不朽之樹》開發者日誌第 4 期展示高原地區生態與生物",
-      "detail": "MMORPG《不朽之樹》公開第 4 期開發者日誌影片，主要關注高原區域的開發進展，包含風嘯高原和遠古遺跡，以及新的生物夥伴。",
-      "action": "持續關注此MMORPG的開發進度與特色，評估其市場潛力與內容更新方向。",
+      "title": "《明末：淵虛之羽》上市一週年全球玩家突破500萬",
+      "detail": "505 Games慶祝《明末：淵虛之羽》上市一週年，並宣布全球玩家數已突破500萬大關，同時釋出週年回顧影片與慶祝海報。",
+      "action": "參考同類型遊戲的長線營運與里程碑宣傳策略，評估其成功因素。",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-07-24T03:51:13.230610+00:00"
+      "fetchedAt": "2026-07-26T04:03:59.321515+00:00"
+    },
+    {
+      "id": "brief-20260726-a683a061",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "《卡莉亞的鍊金工房》主角體型變化系統引發熱議",
+      "detail": "光榮特庫摩與Gust開發中的《卡莉亞的鍊金工房》公開問卷徵求玩家建議，其中主角暴食會變胖的體型變化系統引起社群熱烈討論。",
+      "action": "觀察玩家對遊戲中角色個性化與細節互動的反應，思考如何在產品中加入類似的趣味元素。",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-07-26T04:03:59.321515+00:00"
+    },
+    {
+      "id": "brief-20260726-6e546034",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "《地球防衛軍 5》Switch 2中文版10/8發售，《6》冬季登場",
+      "detail": "雲豹娛樂宣布《地球防衛軍 5 for Nintendo Switch 2》繁體中文版將於10月8日與日本同步發售，續作《地球防衛軍 6》Switch 2版則預計冬季推出。",
+      "action": "關注Switch 2平台新作的發售動態，評估新主機市場的潛力。",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-07-26T04:03:59.321515+00:00"
     }
   ]
 }

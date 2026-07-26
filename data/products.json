@@ -861,7 +861,7 @@
     ],
     "region": "KR/Global",
     "model": "F2P",
-    "stage": "cbt",
+    "stage": "announced",
     "threat": "medium",
     "prereg": 1500000,
     "sentiment": 68,
@@ -872,7 +872,7 @@
       "UE5",
       "大世界"
     ],
-    "threatAnalysis": "【品類攪局】天堂團隊 MMORPG 經驗豐富，UE5 畫質優勢。但手遊 MMORPG 品類已趨飽和。儘管有強大的開發背景和技術優勢，但在飽和市場中脫穎而出仍是挑戰。\n\n▶ 建議行動：\n(1) 密切關注其後續測試進度與Q4的正式上線日期，特別是其UE5畫質的實際表現和對玩家的吸引力。\n(2) 分析其在飽和MMORPG市場中如何尋求差異化，例如在社交系統、PVP/PVE玩法或商業化模式上的創新。\n(3) 若我方產品為MMORPG，應思考如何利用自身優勢，或借鑒其成功經驗，在競爭激烈的市場中保持競爭力。",
+    "threatAnalysis": "【威脅類型】CBT結束後，正式上市日期仍未確定，可能影響玩家期待度。\n\n▶ 建議行動：\n(1). 密切關注官方公告，確認正式上市日期。\n(2). 評估CBT玩家回饋，了解遊戲優化方向。\n(3). 準備上市前的行銷活動，維持玩家熱度。",
     "verified": "蘋果仁",
     "history": [
       {
@@ -882,9 +882,13 @@
       {
         "date": "2026-06",
         "s": "cbt"
+      },
+      {
+        "date": "2026-07",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-06-26",
+    "updatedAt": "2026-07-26",
     "category": "active",
     "launchRegions": [
       {
@@ -902,22 +906,18 @@
     "publisher_global": "AQUA TREE",
     "testType": "刪檔不計費（CBT）",
     "testDateStart": "2026-06-18",
-    "testDateEnd": "待定（預約截止6/17）",
+    "testDateEnd": "2026-06-24",
     "sourceLinks": [
       {
         "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E7%B7%A0%E9%80%A0%E8%80%85%EF%BC%9A%E6%94%BE%E9%80%90%E4%B9%8B%E5%A2%83"
+        "url": "https://www.taptap.cn/app/237730"
       },
       {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E7%B7%A0%E9%80%A0%E8%80%85%EF%BC%9A%E6%94%BE%E9%80%90%E4%B9%8B%E5%A2%83&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Creator%3A%20Exile"
+        "label": "官網",
+        "url": "https://thecreator.drimage.game/"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-26"
   },
   {
     "id": 13,
@@ -945,7 +945,7 @@
       "米哈遊",
       "長期營運"
     ],
-    "threatAnalysis": "【行業標竿/增長放緩】《原神》作為開放世界 RPG 的行業標竿，儘管版本品質穩定，但增長放緩且面臨新競品瓜分用戶時間的挑戰。其持續的內容更新（如「月之七」版本和新角色推出）是其護城河，但市場競爭日益激烈。\n\n▶ 建議行動：\n(1) 深入分析《原神》新版本「虛空劫灰往世書」的內容更新策略，特別是新角色和活動如何刺激用戶活躍和付費。\n(2) 密切關注其在面對新競品（如《無限大》、《異環》）時的應對措施，學習其如何維持用戶黏著度。\n(3) 思考自家產品如何在保持內容品質的同時，探索新的增長點或差異化玩法，以應對市場飽和和用戶時間碎片化的挑戰。",
+    "threatAnalysis": "【威脅類型】無。\n\n▶ 建議行動：\n(1). 持續關注遊戲版本更新與新角色/活動推出。\n(2). 分析玩家對新內容的反應，優化營運策略。\n(3). 探索跨界合作機會，擴大品牌影響力。",
     "verified": "公開資訊",
     "history": [
       {
@@ -953,10 +953,10 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-06-06",
+    "updatedAt": "2026-07-26",
     "category": "tracking",
-    "currentEvent": "The game launched its new \"Moon Seven\" version \"Void Dust and Past Books\" on April 8, 2026. Also, there are recent news about the 6.7 version and new characters like 'Puppet' and 'Ice God' entering the pool.",
-    "eventNote": "The game launched its new \"Moon Seven\" version \"Void Dust and Past Books\" on April 8, 2026. Also, there are recent news about the 6.7 version and new characters like 'Puppet' and 'Ice God' entering the pool.",
+    "currentEvent": "遊戲持續更新中，近期活動包括2026年7月1日的「輝天的星告」與「神鑄賦形」祈願活動，以及7月6日的「幽境危戰」活動。2026年1月14日上線了6.3版本「月之四如果在冬夜一個旅人」。",
+    "eventNote": "遊戲持續更新中，近期活動包括2026年7月1日的「輝天的星告」與「神鑄賦形」祈願活動，以及7月6日的「幽境危戰」活動。2026年1月14日上線了6.3版本「月之四如果在冬夜一個旅人」。",
     "launchRegions": [
       {
         "region": "CN",
@@ -990,15 +990,11 @@
     "testDateEnd": "待確認",
     "sourceLinks": [
       {
-        "label": "巴哈姆特",
-        "url": "https://forum.gamer.com.tw/A.php?bsn=36730"
-      },
-      {
-        "label": "HoYoLAB",
-        "url": "https://www.hoyolab.com/genshin/"
+        "label": "官網",
+        "url": "https://genshin.hoyoverse.com/zh-tw/"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-26"
   },
   {
     "id": 14,
@@ -1026,7 +1022,7 @@
       "二次元",
       "米哈遊"
     ],
-    "threatAnalysis": "【米哈遊品牌保證/營收低於預期但有反彈】《絕區零》憑藉米哈遊的品牌保證獲得基礎流量，但初期營收低於預期，差異化不足是挑戰。然而，2.8版本「新·艾利都日落時」已於 2026 年 5 月 6 日上線，且有 3.0 版本前瞻直播，顯示其持續的內容更新。特別是 1.4 版本曾創下營收新高，證明其具備反彈潛力。\n\n▶ 建議行動：\n(1) 深入分析《絕區零》2.8 和 3.0 版本的更新內容，特別是其如何解決「差異化不足」的問題，以及哪些新角色或玩法成功刺激了用戶活躍和付費。\n(2) 關注其在不同市場（尤其是日本市場 RPD 較高）的表現，學習其在地化策略和用戶偏好。\n(3) 評估自家產品在動作 RPG 品類中的競爭力，思考如何透過獨特的玩法機制或美術風格來建立差異化優勢，避免重蹈《絕區零》初期營收低於預期的覆轍。",
+    "threatAnalysis": "【威脅類型】無。\n\n▶ 建議行動：\n(1). 持續關注遊戲版本更新與新角色/活動推出。\n(2). 積極參與線下慶典活動，提升玩家社群活躍度。\n(3). 分析玩家對新內容的反應，優化營運策略。",
     "verified": "公開資訊",
     "history": [
       {
@@ -1034,10 +1030,10 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-06-06",
+    "updatedAt": "2026-07-26",
     "category": "tracking",
-    "currentEvent": "The 2.8 version \"New Eridu Sunset\" was launched on May 6, 2026. There was also a 3.0 version preview livestream on June 6, 2026. The game's revenue in its first month was around $99.8 million, with China being the highest market. Japan's RPD is twice that of China. The game achieved its best sales performance in the 1.4 version, reaching the top of the iOS game sales chart in China.",
-    "eventNote": "The 2.8 version \"New Eridu Sunset\" was launched on May 6, 2026. There was also a 3.0 version preview livestream on June 6, 2026. The game's revenue in its first month was around $99.8 million, with China being the highest market. Japan's RPD is twice that of China. The game achieved its best sales performance in the 1.4 version, reaching the top of the iOS game sales chart in China.",
+    "currentEvent": "遊戲持續更新中，近期活動包括2026年7月17日3.1版本「漫長的告別」前瞻特別節目，以及「2026美味大作戰」活動。遊戲將於2026年8月8日至9日在台北舉辦二週年線下慶典「Zenless LIVE 2026 —— 台北站」。",
+    "eventNote": "⚡ 遊戲持續更新中，近期活動包括2026年7月17日3.1版本「漫長的告別」前瞻特別節目，以及「2026美味大作戰」活動。遊戲將於2026年8月8日至9日在台北舉辦二週年線下慶典「Zenless LIVE 2026 —— 台北站」。",
     "launchRegions": [
       {
         "region": "CN",
@@ -1066,19 +1062,11 @@
     "testDateEnd": "待確認",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E7%B5%95%E5%8D%80%E9%9B%B6"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E7%B5%95%E5%8D%80%E9%9B%B6&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Zenless%20Zone%20Zero"
+        "label": "官網",
+        "url": "https://zenless.hoyoverse.com/zh-tw/"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-26"
   },
   {
     "id": 15,
@@ -1106,7 +1094,7 @@
       "二次元",
       "米哈遊"
     ],
-    "threatAnalysis": "【米哈遊最賺錢產品/回合制 RPG 王者】《崩壞：星穹鐵道》是米哈遊最賺錢的產品之一，穩定的內容更新節奏是其競爭壁壘，並在 2025 年登頂全球二次元手遊營收榜首。其在日本市場的 RPD 甚至高於中國，顯示其在全球範圍內的強勁表現。\n\n▶ 建議行動：\n(1) 深入研究《崩壞：星穹鐵道》的內容更新節奏和活動設計，分析其如何持續吸引玩家付費和保持高活躍度。\n(2) 學習其在回合制 RPG 品類中建立的競爭壁壘，包括角色設計、劇情敘事和戰鬥系統的優勢。\n(3) 評估自家產品在內容更新和用戶維護方面的策略，思考如何借鑒其成功經驗，提升產品的長期生命週期和盈利能力。",
+    "threatAnalysis": "【威脅類型】無。\n\n▶ 建議行動：\n(1). 持續關注遊戲版本更新與新角色/活動推出。\n(2). 積極規劃並執行周年慶等大型活動，維持玩家參與度。\n(3). 探索與其他品牌的合作，擴大遊戲影響力。",
     "verified": "公開資訊",
     "history": [
       {
@@ -1114,10 +1102,10 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-06-06",
+    "updatedAt": "2026-07-26",
     "category": "tracking",
-    "currentEvent": "The game's mobile version generated 40% of its global revenue from China and over 20% from Japan between April 2023 and April 2024. It was the highest-grossing anime-style mobile game globally in 2025. The game achieved $500 million in global revenue by July 2023.",
-    "eventNote": "The game's mobile version generated 40% of its global revenue from China and over 20% from Japan between April 2023 and April 2024. It was the highest-grossing anime-style mobile game globally in 2025. The game achieved $500 million in global revenue by July 2023.",
+    "currentEvent": "遊戲持續更新中，2026年4月18日啟動三週年慶祝活動，包括全球線下活動、線上活動及音樂會。2026年4月22日上線4.2版本，並於4月26日迎來三週年紀念日。2026年7月15日啟動4.4版本「鳴笛於歸寂之時」激勵計畫。",
+    "eventNote": "⚡ 遊戲持續更新中，2026年4月18日啟動三週年慶祝活動，包括全球線下活動、線上活動及音樂會。2026年4月22日上線4.2版本，並於4月26日迎來三週年紀念日。2026年7月15日啟動4.4版本「鳴笛於歸寂之時」激勵計畫。",
     "launchRegions": [
       {
         "region": "CN",
@@ -1146,15 +1134,11 @@
     "testDateEnd": "待確認",
     "sourceLinks": [
       {
-        "label": "巴哈姆特",
-        "url": "https://forum.gamer.com.tw/A.php?bsn=39349"
-      },
-      {
-        "label": "HoYoLAB",
-        "url": "https://www.hoyolab.com/starrail/"
+        "label": "官網",
+        "url": "https://hsr.hoyoverse.com/zh-tw/"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-26"
   },
   {
     "id": 16,
@@ -1180,7 +1164,7 @@
       "劇情",
       "美術"
     ],
-    "threatAnalysis": "【資訊不足威脅】目前關於《白銀之城》的最新資訊極少，無法有效評估其CBT進度與市場反應。這對我們了解潛在競品的開發狀況構成威脅，可能導致我們錯失預判市場趨勢或調整產品策略的機會。\n\n▶ 建議行動：\n(1) 持續監控樂元素官方管道及遊戲媒體，設定關鍵字警報，一旦有新消息立即匯報。\n(2) 嘗試透過業界人脈或第三方數據分析機構，探詢CBT的實際參與人數、玩家留存率及核心玩法評價等非公開資訊。\n(3) 針對同品類（RPG）且預計Q3上線的競品進行更深入的分析，以彌補《白銀之城》資訊不足的空缺，提前制定應對策略。",
+    "threatAnalysis": "【威脅類型】CBT測試頻繁，正式上市日期仍未確定，可能影響玩家期待度。\n\n▶ 建議行動：\n(1). 密切關注「二分法測試」的玩家回饋，評估遊戲核心玩法與優化方向。\n(2). 根據測試結果，調整上市前行銷策略。\n(3). 盡快確認並公布正式上市日期，穩定玩家信心。",
     "verified": "36kr 二遊大年報導、TGS 2025 - 兩個來源但細節有限",
     "history": [
       {
@@ -1190,9 +1174,13 @@
       {
         "date": "2026-02",
         "s": "cbt"
+      },
+      {
+        "date": "2026-07",
+        "s": "cbt"
       }
     ],
-    "updatedAt": "2026-07-17",
+    "updatedAt": "2026-07-26",
     "category": "active",
     "launchRegions": [
       {
@@ -1210,22 +1198,18 @@
     "publisher_cn": "樂元素",
     "testType": "封測中",
     "testDateStart": "2026-02（估）",
-    "testDateEnd": "待定",
+    "testDateEnd": "2026-08-13",
     "sourceLinks": [
       {
         "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E7%99%BD%E9%8A%80%E4%B9%8B%E5%9F%8E"
+        "url": "https://www.taptap.cn/app/233076"
       },
       {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E7%99%BD%E9%8A%80%E4%B9%8B%E5%9F%8E&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Silver%20City"
+        "label": "官網",
+        "url": "https://www.silverpalace.com/"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-26"
   },
   {
     "id": 17,
