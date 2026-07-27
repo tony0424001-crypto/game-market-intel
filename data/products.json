@@ -1228,7 +1228,7 @@
     "threat": "high",
     "prereg": null,
     "sentiment": 79,
-    "launchEst": "2025-10",
+    "launchEst": "2025-10-28",
     "desc": "雙線幻想多維戰鬥 RPG，2025/10/28 全球公測。全角色與武器免費取得，商業化以外觀為主。目前「銀星奔流」新版本 6/2 上線。",
     "tags": [
       "動作",
@@ -1237,7 +1237,7 @@
       "雙線敘事",
       "外觀商城"
     ],
-    "threatAnalysis": "【商業模式驗證者/品類創新】《二重螺旋》以其「免費角色與武器獲取、取消體力限制、轉向外觀付費」的商業模式，證明了這種模式在二次元動作 RPG 市場的可行性，並可能引發行業跟進。其新版本「銀星奔流」已於 2026 年 6 月 2 日上線，持續提供新內容。\n\n▶ 建議行動：\n(1) 密切追蹤《二重螺旋》新版本上線後的用戶反饋和營收表現，特別是其創新商業模式的長期影響。\n(2) 深入分析其外觀付費內容的設計和定價策略，評估其對玩家消費意願的影響。\n(3) 評估自家產品是否有可能借鑒或調整商業模式，以降低玩家進入門檻，吸引更廣泛的用戶群體，並探索新的盈利增長點。",
+    "threatAnalysis": "【威脅類型】持續營運與內容更新\n\n▶ 建議行動：\n(1). 密切關注新版本「銀星奔流」的玩家反饋與營收表現。\n(2). 分析新角色與武器的推出對遊戲生態的影響。\n(3). 評估其免費獲取角色與武器的商業模式是否能持續吸引玩家並產生足夠收益。",
     "verified": "TapTap、GNN 巴哈、Paradaily",
     "history": [
       {
@@ -1251,12 +1251,16 @@
       {
         "date": "2025-10",
         "s": "launched"
+      },
+      {
+        "date": "2026-07",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-06-06",
+    "updatedAt": "2026-07-27",
     "category": "tracking",
-    "currentEvent": "The new version \"Silver Star Torrent\" was officially launched on June 2, 2026, bringing new main story chapters, new areas, and new characters. The game's business model, which removes gacha and stamina limits and focuses on cosmetic sales, is seen as an innovation in the industry. There were recent login anomalies on June 5, 2026.",
-    "eventNote": "The new version \"Silver Star Torrent\" was officially launched on June 2, 2026, bringing new main story chapters, new areas, and new characters. The game's business model, which removes gacha and stamina limits and focuses on cosmetic sales, is seen as an innovation in the industry. There were recent login anomalies on June 5, 2026.",
+    "currentEvent": "遊戲已於2025年10月28日全球多平台同步上線，並於2026年6月2日推出新版本「銀星奔流」，帶來新劇情、角色與福利。",
+    "eventNote": "⚡ 遊戲已於2025年10月28日全球多平台同步上線，並於2026年6月2日推出新版本「銀星奔流」，帶來新劇情、角色與福利。",
     "launchRegions": [
       {
         "region": "CN",
@@ -1282,22 +1286,14 @@
     "developer": "潘神工作室",
     "testType": "未知",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2025-02-28",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E4%BA%8C%E9%87%8D%E8%9E%BA%E6%97%8B"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E4%BA%8C%E9%87%8D%E8%9E%BA%E6%97%8B&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Double%20Helix"
+        "label": "官網",
+        "url": "https://duetnightabyss.herogame.com/"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-27"
   },
   {
     "id": 18,
@@ -1312,7 +1308,7 @@
     ],
     "region": "CN/Global",
     "model": "F2P",
-    "stage": "延期搶先體驗",
+    "stage": "delayed-early-access",
     "threat": "low",
     "prereg": 5000000,
     "sentiment": 70,
@@ -1323,7 +1319,7 @@
       "射擊",
       "騰訊"
     ],
-    "threatAnalysis": "【品類攪局威脅】《命運扳機》作為騰訊出品的射擊RPG，原定Q1搶先體驗，現已延期。這顯示其開發進度可能遇到挑戰，但騰訊的資源投入與其對品質的追求，意味著一旦推出，仍可能對射擊RPG市場造成巨大衝擊。延期也給予我們更多時間觀察其調整方向，特別是可能轉向「搜打撤」模式的傳聞，這將直接影響品類競爭格局。\n\n▶ 建議行動：\n(1) 密切追蹤騰訊Saroasis Studios的官方公告，特別關注新的搶先體驗時程和遊戲模式（尤其是「搜打撤」模式）的具體細節。\n(2) 分析其延期原因，評估其對遊戲品質提升的潛在影響，並思考我們產品在內容深度和創新玩法上是否有可借鑒或超越的空間。\n(3) 準備應對策略，一旦《命運扳機》重新公布上線日期，需立即評估其對我們產品的潛在用戶分流影響，並考慮是否調整我們的宣發節奏或內容更新計畫。",
+    "threatAnalysis": "【威脅類型】開發進度延遲與內容品質挑戰\n\n▶ 建議行動：\n(1). 密切關注官方關於新搶先體驗時程的公告。\n(2). 分析Steam新品節測試的玩家反饋，評估遊戲核心玩法與內容的接受度。\n(3). 評估延期是否會影響玩家期待度與市場競爭力。",
     "verified": "36kr（TGS 報導）- 僅單一來源，資訊有限",
     "history": [
       {
@@ -1337,9 +1333,13 @@
       {
         "date": "2026-07",
         "s": "延期搶先體驗"
+      },
+      {
+        "date": "2026-07",
+        "s": "delayed-early-access"
       }
     ],
-    "updatedAt": "2026-07-17",
+    "updatedAt": "2026-07-27",
     "category": "active",
     "launchRegions": [
       {
@@ -1351,22 +1351,14 @@
     "developer": "騰訊",
     "testType": "未知",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2026-02-20",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E5%91%BD%E9%81%8B%E6%89%B3%E6%A9%9F"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E5%91%BD%E9%81%8B%E6%89%B3%E6%A9%9F&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Fate%20Trigger"
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2260680/Fate_Trigger/"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-27"
   },
   {
     "id": 19,
@@ -1380,7 +1372,7 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "海外測試中 / 已獲中國版號",
+    "stage": "cbt",
     "threat": "low",
     "prereg": 2000000,
     "sentiment": 65,
@@ -1391,7 +1383,7 @@
       "RPG",
       "騰訊"
     ],
-    "threatAnalysis": "【直接競品威脅】《追逐卡蕾多》已進入海外測試並取得中國版號，預計2027年Q1上線，顯示其開發進度良好且市場佈局明確。作為騰訊出品的RPG，其潛在的資源投入和用戶導量能力不容小覷，將對我們同品類產品構成直接競爭威脅。\n\n▶ 建議行動：\n(1) 持續監控其海外測試的玩家反饋、遊戲數據及社群討論，分析其核心玩法優劣勢和潛在的市場接受度。\n(2) 針對其已獲中國版號的優勢，評估其在中國市場的潛在爆發力，並思考我們產品在中國市場的差異化競爭策略。\n(3) 提前規劃2027年Q1前後的產品更新與營銷活動，確保我們產品在面對其上線時能保持足夠的市場聲量和用戶黏性。",
+    "threatAnalysis": "【威脅類型】測試階段進展與市場反饋\n\n▶ 建議行動：\n(1). 密切關注最新一輪封測的玩家反饋，特別是關於遊戲核心玩法與重機美少女元素的接受度。\n(2). 評估測試數據，確保遊戲在2027年Q1上線前能達到預期品質。\n(3). 考慮中國版號已獲，需規劃國內外市場的差異化營銷策略。",
     "verified": "36kr（TGS 報導）- 僅單一來源，資訊有限",
     "history": [
       {
@@ -1401,9 +1393,13 @@
       {
         "date": "2026-06",
         "s": "海外測試中 / 已獲中國版號"
+      },
+      {
+        "date": "2026-07",
+        "s": "cbt"
       }
     ],
-    "updatedAt": "2026-07-17",
+    "updatedAt": "2026-07-27",
     "category": "active",
     "launchRegions": [
       {
@@ -1415,22 +1411,14 @@
     "developer": "騰訊",
     "testType": "未知",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2026-07-16",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E8%BF%BD%E9%80%90%E5%8D%A1%E8%95%BE%E5%A4%9A"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E8%BF%BD%E9%80%90%E5%8D%A1%E8%95%BE%E5%A4%9A&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Chasing%20Kaledo"
+        "label": "官網",
+        "url": "https://kaleidorider.cm/tw"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-27"
   },
   {
     "id": 20,
@@ -1456,7 +1444,7 @@
       "開放世界",
       "創新"
     ],
-    "threatAnalysis": "【品類攪局威脅】《望月》作為一款中國都市開放世界捉寵RPG，其國風差異化與新商業模式探索具有潛力。近期實機演示和線下試玩會的舉辦，顯示其開發進度穩定且已達到高完成度。玩家對其載具系統和城市探索玩法表現出濃厚興趣，這可能對傳統開放世界RPG市場造成衝擊。\n\n▶ 建議行動：\n(1) 深入分析《望月》線下試玩會的玩家評價與媒體報導，特別關注其「捉寵」與「都市開放世界」結合的創新點，以及玩家對其商業模式（若有透露）的反應。\n(2) 評估其國風差異化對目標用戶的吸引力，思考我們產品在美術風格或文化元素上是否有可借鑒或進一步深挖的空間。\n(3) 監控其新一輪線上測試的動態，嘗試獲取測試資格進行競品分析，了解其核心系統的實際體驗和潛在問題，以便我們提前應對。",
+    "threatAnalysis": "【威脅類型】資訊不透明與潛在開發風險\n\n▶ 建議行動：\n(1). 需主動聯繫開發商詩悅，確認遊戲的最新開發進度與測試計畫。\n(2). 評估資訊缺乏是否暗示開發進度不如預期，或有潛在延期風險。\n(3). 建議持續追蹤相關遊戲媒體與社群，以獲取任何潛在的更新消息。",
     "verified": "36kr 報導 - 僅單一來源，資訊有限",
     "history": [
       {
@@ -1476,7 +1464,7 @@
         "s": "線下試玩會已舉辦，預計開啟新一輪線上測試"
       }
     ],
-    "updatedAt": "2026-07-17",
+    "updatedAt": "2026-07-27",
     "category": "active",
     "launchRegions": [
       {
@@ -1503,7 +1491,7 @@
         "url": "https://apps.qoo-app.com/en/search?keyword=Gazing%20Moon"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-27"
   },
   {
     "id": 21,
@@ -1521,7 +1509,7 @@
     "threat": "medium",
     "prereg": 1000000,
     "sentiment": 72,
-    "launchEst": "2026年7月15日",
+    "launchEst": "2026-07-15",
     "desc": "數碼寶貝系列全新手遊，點陣圖風格養成 RPG。已開放全球事前登錄。",
     "tags": [
       "IP",
@@ -1529,7 +1517,7 @@
       "數碼寶貝",
       "復古"
     ],
-    "threatAnalysis": "【IP降維威脅】《數碼寶貝 UP》憑藉強大IP情懷，事前登錄人數已突破100萬人，並於2026年7月15日正式上線，顯示其在粉絲群體中具有極高的號召力。其成功上線將直接瓜分養成RPG市場的用戶注意力，特別是那些對經典IP有情感連結的玩家。\n\n▶ 建議行動：\n(1) 立即分析《數碼寶貝 UP》上線後的營收表現、用戶留存數據及社群討論熱度，評估其對養成RPG市場的實際影響。\n(2) 針對其IP優勢，思考我們產品如何透過獨特的玩法創新、美術風格或社群營運來吸引非IP導向的玩家，或在特定細分市場中建立競爭壁壘。\n(3) 檢視我們產品的近期活動和內容更新計畫，考慮是否需要調整以應對《數碼寶貝 UP》帶來的市場壓力，例如推出更具吸引力的福利活動或限時內容。",
+    "threatAnalysis": "【威脅類型】新遊戲上線與初期營運表現\n\n▶ 建議行動：\n(1). 密切追蹤遊戲上線後的玩家評價、下載量與營收數據。\n(2). 分析上市紀念活動的成效，以及對玩家留存率的影響。\n(3). 關注遊戲內容更新頻率與社群互動，確保長期營運的穩定性。",
     "verified": "QooApp",
     "history": [
       {
@@ -1541,7 +1529,7 @@
         "s": "已正式上線"
       }
     ],
-    "updatedAt": "2026-07-17",
+    "updatedAt": "2026-07-27",
     "category": "active",
     "launchRegions": [
       {
@@ -1561,19 +1549,23 @@
     "testDateEnd": "待確認",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E6%95%B8%E7%A2%BC%E5%AF%B6%E8%B2%9D%20UP"
+        "label": "App Store",
+        "url": "https://apps.apple.com/app/id6476100780"
       },
       {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E6%95%B8%E7%A2%BC%E5%AF%B6%E8%B2%9D%20UP&t=1"
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.bandainamcoent.digimonup"
       },
       {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Digimon%20UP"
+        "label": "官網",
+        "url": "https://dgup.bn-ent.net/tc/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/digimon.up.tc/"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-27"
   },
   {
     "id": 22,
@@ -2314,5 +2306,387 @@
     "currentEvent": "No specific major recent event found beyond its announced status and estimated 2027 launch.",
     "eventNote": "No specific major recent event found beyond its announced status and estimated 2027 launch.",
     "lastChecked": "2000-01-01"
+  },
+  {
+    "id": 32,
+    "name": "二十世紀電氣目錄",
+    "nameEn": "Twentieth Century Electric Catalog",
+    "developer": "京都動畫",
+    "studio": "京都動畫",
+    "publisher": "京都動畫",
+    "genre": "冒險視覺小說",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "",
+    "desc": "京都動畫新作，在蒸氣世界中追逐著電氣時代夢想的冒險遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 33,
+    "name": "陰影之村",
+    "nameEn": "Village in the Shade",
+    "developer": "Unknown",
+    "studio": "Unknown",
+    "publisher": "Unknown",
+    "genre": "恐怖解謎",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-07",
+    "desc": "一款在日本發行的恐怖解謎遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-07-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 34,
+    "name": "君色帕特拉 IF",
+    "nameEn": "Kimiiro Patra IF",
+    "developer": "Unknown",
+    "studio": "Unknown",
+    "publisher": "Unknown",
+    "genre": "視覺小說",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-11",
+    "desc": "一款將於11月26日在日本發售的視覺小說遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 35,
+    "name": "為美好的世界獻上祝福！為這摯愛的城鎮獻上繁榮！",
+    "nameEn": "KONOSUBA – God’s Blessing on This Wonderful World! Prosperity to This Beloved Town!",
+    "developer": "Unknown",
+    "studio": "Unknown",
+    "publisher": "Unknown",
+    "genre": "角色扮演",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "",
+    "desc": "一款改編自《為美好的世界獻上祝福！》的全新角色扮演遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 36,
+    "name": "戰神：勞菲",
+    "nameEn": "God of War Laufey",
+    "developer": "Santa Monica Studio",
+    "studio": "Santa Monica Studio",
+    "publisher": "Santa Monica Studio",
+    "genre": "動作冒險",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-02",
+    "desc": "一款預計於2027年2月發售的全新《戰神》系列動作冒險遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 37,
+    "name": "海綿破壞",
+    "nameEn": "Sponge Break",
+    "developer": "Unknown",
+    "studio": "Unknown",
+    "publisher": "Unknown",
+    "genre": "益智街機",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-07",
+    "desc": "一款預計於7月30日發售的全新益智街機遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 38,
+    "name": "蝙蝠俠：披風鬥士編年史",
+    "nameEn": "Batman: Caped Crusader – Chronicles",
+    "developer": "Unknown",
+    "studio": "Unknown",
+    "publisher": "Unknown",
+    "genre": "犯罪解謎派對",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "",
+    "desc": "一款以蝙蝠俠為主題的犯罪解謎派對遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 39,
+    "name": "赤鳥",
+    "nameEn": "Akatori",
+    "developer": "Unknown",
+    "studio": "Unknown",
+    "publisher": "Unknown",
+    "genre": "動作平台",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "一款預計於8月5日在PC平台發售的全新動作平台遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 40,
+    "name": "異形：火力小隊精英2",
+    "nameEn": "Aliens: Fireteam Elite 2",
+    "developer": "Cold Iron Studios",
+    "studio": "Cold Iron Studios",
+    "publisher": "Cold Iron Studios",
+    "genre": "射擊遊戲",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "一款預計於8月25日發售的全新《異形》系列射擊遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 41,
+    "name": "在虛假中",
+    "nameEn": "In Falsus",
+    "developer": "Arcaea studio",
+    "studio": "Arcaea studio",
+    "publisher": "Arcaea studio",
+    "genre": "節奏視覺小說",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "一款結合了鍵盤滑鼠節奏玩法與近未來懸疑視覺小說的全新遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
   }
 ]

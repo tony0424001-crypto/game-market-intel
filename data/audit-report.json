@@ -1,27 +1,33 @@
 {
-  "lastAudit": "2026-07-26T04:04:19.594363+00:00",
+  "lastAudit": "2026-07-27T04:11:38.976849+00:00",
   "totalProducts": 30,
-  "updatesApplied": 14,
+  "updatesApplied": 17,
   "findings": [
     {
-      "name": "締造者：放逐之境",
+      "name": "二重螺旋",
       "status": "warning",
-      "issue": "狀態: cbt→announced",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "白銀之城",
+      "name": "命運扳機",
       "status": "warning",
-      "issue": "狀態: cbt→cbt",
+      "issue": "狀態: 延期搶先體驗→delayed-early-access",
+      "autoFixed": true
+    },
+    {
+      "name": "追逐卡蕾多",
+      "status": "warning",
+      "issue": "狀態: 海外測試中 / 已獲中國版號→cbt",
       "autoFixed": true
     }
   ],
   "checked": [
-    "締造者：放逐之境",
-    "原神",
-    "絕區零",
-    "崩壞：星穹鐵道",
-    "白銀之城"
+    "二重螺旋",
+    "命運扳機",
+    "追逐卡蕾多",
+    "望月",
+    "數碼寶貝 UP"
   ],
   "nextBatch": [
     "無限大",
