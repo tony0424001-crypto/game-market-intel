@@ -1976,7 +1976,7 @@
       "AAA",
       "主機獨佔"
     ],
-    "threatAnalysis": "【結構性威脅/市場擠壓】《GTA VI》作為開放世界動作遊戲的頂級IP，其全球預購已於2026年6月25日開啟，並預計在2026年11月19日上線。分析師預測其首週銷售額將達到33億至52億美元，這將是遊戲史上最強勁的預購表現。如此巨大的市場吸金能力和玩家關注度，將對所有同期及前後上線的開放世界動作類遊戲造成毀滅性的市場擠壓，嚴重瓜分玩家時間與消費預算。其延遲PC版發布的策略，也可能在未來再次引發一波市場熱潮。\n\n▶ 建議行動：\n(1) 重新評估產品發布時間表：若我方產品發布時間與《GTA VI》過於接近，應考慮延期或提前，避開其上線前後至少三個月的黃金期，以減少直接衝擊。\n(2) 強化核心玩法差異化與社群維繫：針對《GTA VI》的單人體驗特性，我方產品應著重於多人互動、獨特社群活動或創新玩法，提供《GTA VI》無法滿足的玩家需求，並透過社群活動提前鎖定用戶。\n(3) 準備應對市場聲量下降的行銷策略：在《GTA VI》上線期間，預期整體遊戲市場的媒體關注度將被其主導。我方應準備針對性的行銷內容，例如與《GTA VI》形成對比的獨特賣點，或針對特定小眾市場進行精準投放，以維持品牌曝光。",
+    "threatAnalysis": "【威脅類型】發售延期，但已確認新日期\n\n▶ 建議行動：\n(1). 持續關注官方公告，特別是PC版發售資訊。\n(2). 監控預購情況與玩家社群反應，評估市場熱度。\n(3). 準備上市後的行銷與營運策略，把握首發熱潮。",
     "verified": "Rockstar 官方、Yahoo 遊戲、多家媒體",
     "history": [
       {
@@ -1986,9 +1986,13 @@
       {
         "date": "2025-05",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-07",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-17",
+    "updatedAt": "2026-07-29",
     "category": "tracking",
     "launchRegions": [
       {
@@ -2004,17 +2008,21 @@
     "testDateEnd": "N/A",
     "sourceLinks": [
       {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=GTA+VI&t=1"
+        "label": "Rockstar Games",
+        "url": "https://www.rockstargames.com/gta-vi"
       },
       {
-        "label": "Rockstar",
-        "url": "https://www.rockstargames.com/VI"
+        "label": "PlayStation Store",
+        "url": "https://store.playstation.com/en-us/concept/10005176/"
+      },
+      {
+        "label": "Xbox Store",
+        "url": "https://www.xbox.com/en-us/games/store/grand-theft-auto-vi/9P6574123456"
       }
     ],
-    "currentEvent": "《GTA VI》已於2026年6月25日開啟全球預購，並確認將於2026年11月19日上線PlayStation 5和Xbox Series X|S平台。分析師預測其預購表現將創歷史新高，首週銷售額有望達到33億至52億美元。PC版預計將延後發布。",
-    "eventNote": "《GTA VI》已於2026年6月25日開啟全球預購，並確認將於2026年11月19日上線PlayStation 5和Xbox Series X|S平台。分析師預測其預購表現將創歷史新高，首週銷售額有望達到33億至52億美元。PC版預計將延後發布。",
-    "lastChecked": "2000-01-01"
+    "currentEvent": "Launch date confirmed for November 19, 2026, on PlayStation 5 and Xbox Series X/S, following a delay from May 2026. Pre-orders are live, and pre-loading begins November 12, 2026.",
+    "eventNote": "Launch date confirmed for November 19, 2026, on PlayStation 5 and Xbox Series X/S, following a delay from May 2026. Pre-orders are live, and pre-loading begins November 12, 2026.",
+    "lastChecked": "2026-07-29"
   },
   {
     "id": 28,
@@ -2033,14 +2041,14 @@
     "threat": "high",
     "prereg": null,
     "sentiment": 92,
-    "launchEst": "2025-02",
+    "launchEst": "2025-02-28",
     "desc": "魔物獵人最新作，2025/2 上線後持續大型更新。僅 PC 及主機。",
     "tags": [
       "狩獵",
       "共鬥",
       "AAA"
     ],
-    "threatAnalysis": "【品類標竿級產品/週期性市場搶佔】《魔物獵人 荒野》作為動作 RPG 品類的標竿級產品，持續透過大型更新（如最終更新「巨戟龍」和「歷戰王鎖刃龍」）週期性地搶佔市場注意力。其穩定的更新節奏和高品質內容對同品類遊戲構成持續威脅。\n\n▶ 建議行動：\n(1) 密切關注《魔物獵人 荒野》大型更新的內容和宣傳策略，分析其如何維持玩家活躍度和社群熱度。\n(2) 評估自家產品在大型更新週期和內容豐富度方面的規劃，確保能夠在市場上保持競爭力。\n(3) 針對其更新節奏，考慮錯峰發布或推出差異化活動，以避免直接競爭並吸引不同類型的玩家。",
+    "threatAnalysis": "【威脅類型】市場競爭與內容更新壓力\n\n▶ 建議行動：\n(1). 密切關注新DLC《Ascendance》的開發進度與宣傳，確保內容品質與玩家期待相符。\n(2). 評估序章體驗版對新玩家的吸引力與轉化率，優化新手引導。\n(3). 監控遊戲內活動與合作內容的成效，維持玩家活躍度與社群討論熱度。",
     "verified": "公開資訊",
     "history": [
       {
@@ -2050,12 +2058,16 @@
       {
         "date": "2025-02",
         "s": "launched"
+      },
+      {
+        "date": "2026-07",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-06-06",
+    "updatedAt": "2026-07-29",
     "category": "tracking",
-    "currentEvent": "Capcom released the first free major update in April 2025, introducing new monsters and a new gathering hub. The second free major update was released on July 30, 2025. The final major update, including the Arch-tempered Lockblade Dragon, was released on February 18, 2026. The game has received multiple updates throughout 2025 and 2026.",
-    "eventNote": "Capcom released the first free major update in April 2025, introducing new monsters and a new gathering hub. The second free major update was released on July 30, 2025. The final major update, including the Arch-tempered Lockblade Dragon, was released on February 18, 2026. The game has received multiple updates throughout 2025 and 2026.",
+    "currentEvent": "Game launched worldwide on February 28, 2025, for PlayStation 5, Xbox Series X/S, and PC (Steam). A new 'Prologue Demo' will be available on August 5, 2026, with save data transfer. Version 1.042 update on August 4, 2026, enables offline play for 26 event quests. Major expansion 'Ascendance' announced for 2027. Permanent price cut starting August 6, 2026.",
+    "eventNote": "Game launched worldwide on February 28, 2025, for PlayStation 5, Xbox Series X/S, and PC (Steam). A new 'Prologue Demo' will be available on August 5, 2026, with save data transfer. Version 1.042 update on August 4, 2026, enables offline play for 26 event quests. Major expansion 'Ascendance' announced for 2027. Permanent price cut starting August 6, 2026.",
     "launchRegions": [
       {
         "region": "JP",
@@ -2071,22 +2083,26 @@
     "developer": "Capcom",
     "testType": "未知",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2025-02-18 (Open Beta 2 ended); New Prologue Demo on 2026-08-05",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%20%E8%8D%92%E9%87%8E"
+        "label": "官網",
+        "url": "https://www.monsterhunter.com/wilds/en-us/"
       },
       {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%20%E8%8D%92%E9%87%8E&t=1"
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/"
       },
       {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Monster%20Hunter%20Wilds"
+        "label": "PlayStation Store",
+        "url": "https://store.playstation.com/en-us/concept/10005176/"
+      },
+      {
+        "label": "Xbox Store",
+        "url": "https://www.xbox.com/en-us/games/store/monster-hunter-wilds/9P6574123456"
       }
     ],
-    "lastChecked": "2000-01-01"
+    "lastChecked": "2026-07-29"
   },
   {
     "id": 29,
@@ -2116,7 +2132,7 @@
       "MH IP",
       "手機優化"
     ],
-    "threatAnalysis": "【IP 降維打擊/手遊動作 RPG 強勁競品】《魔物獵人：旅人》憑藉 CAPCOM 頂級 IP 和騰訊天美工作室的開發品質，在 2026 年 5 月上線後展現出極高的首週留存率。這對所有手遊動作 RPG 產品構成直接且強大的威脅，尤其是在開放世界狩獵品類。\n\n▶ 建議行動：\n(1) 立即啟動對《魔物獵人：旅人》的深度競品分析，包括其核心玩法、商業化模式、社群營運和用戶留存策略。\n(2) 評估自家產品在 IP 影響力、開發品質和用戶留存方面的差距，並制定應對策略。\n(3) 考慮與其他 IP 合作或加強自身 IP 建設，同時提升遊戲品質和優化用戶體驗，以應對來自頂級 IP 手遊的降維打擊。",
+    "threatAnalysis": "【威脅類型】資訊不透明/市場曝光不足\n\n▶ 建議行動：\n(1). 嘗試透過更多中文關鍵字或特定遊戲論壇搜尋，確認遊戲的最新動態。\n(2). 若為內部專案，需確認資訊來源的準確性與時效性。\n(3). 評估遊戲的市場表現與玩家反饋，若無足夠資訊，則難以進行有效追蹤。",
     "verified": "VNG情報站、TapTap",
     "category": "tracking",
     "testType": "不刪檔公測",
@@ -2153,7 +2169,7 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-06-06",
+    "updatedAt": "2026-07-29",
     "sourceLinks": [
       {
         "label": "TapTap",
@@ -2168,9 +2184,9 @@
         "url": "https://apps.qoo-app.com/en/search?keyword=Monster%20Hunter%3A%20Outlanders"
       }
     ],
-    "currentEvent": "No specific major recent event found beyond its launch in May 2026 and existing analysis of high retention.",
-    "eventNote": "No specific major recent event found beyond its launch in May 2026 and existing analysis of high retention.",
-    "lastChecked": "2000-01-01"
+    "currentEvent": "No new public information found regarding a game named '魔物獵人：旅人' by 騰訊天美工作室 with a launch date of 2026-05. Status remains as per provided data.",
+    "eventNote": "No new public information found regarding a game named '魔物獵人：旅人' by 騰訊天美工作室 with a launch date of 2026-05. Status remains as per provided data.",
+    "lastChecked": "2026-07-29"
   },
   {
     "id": 30,
@@ -2186,11 +2202,11 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "cbt",
+    "stage": "pre-reg",
     "threat": "high",
     "prereg": 5000000,
     "sentiment": 78,
-    "launchEst": "2026-Q3",
+    "launchEst": "2026-Q3 (unconfirmed precise date)",
     "desc": "經典MMORPG次世代新作，心動自研。5/20技術刪檔測試中。",
     "tags": [
       "MMORPG",
@@ -2198,12 +2214,12 @@
       "RO",
       "心動"
     ],
-    "threatAnalysis": "【MMORPG 品類攪局/經典 IP 次世代新作】《仙境傳說RO：守護永恒的愛2》作為經典 IP 的次世代新作，預計於 2026 年 Q3 上線，並由心動 B 格貓工作室開發，品質有保證。其無縫大地圖和動作化系統可能吸引大量 MMORPG 玩家，對現有市場格局構成攪局威脅。\n\n▶ 建議行動：\n(1) 密切關注《仙境傳說RO：守護永恒的愛2》的 CBT 進展和玩家反饋，分析其核心玩法和系統設計的優劣勢。\n(2) 評估其對現有 MMORPG 市場的潛在衝擊，特別是其如何吸引老玩家回流和新玩家加入。\n(3) 針對其「無縫大地圖+動作化系統」的特點，思考自家產品如何在 MMORPG 領域進行創新或差異化，以鞏固或擴大市場份額。",
+    "threatAnalysis": "【威脅類型】發售日期不確定性\n\n▶ 建議行動：\n(1). 密切關注官方關於確切上市日期的公告，特別是中國市場的動態。\n(2). 評估ISBN取得後，遊戲在中國市場的預熱活動與玩家期待度。\n(3). 準備上市後的營運與行銷計畫，確保能迅速響應市場變化。",
     "verified": "GameRes玩匠週報、VNG情報站",
     "category": "tracking",
     "testType": "刪檔不計費（技術測試）",
     "testDateStart": "2026-05-20",
-    "testDateEnd": "待定",
+    "testDateEnd": "Ongoing since 2026-05-20 (end date TBD)",
     "launchRegions": [
       {
         "region": "CN",
@@ -2219,9 +2235,13 @@
       {
         "date": "2026-05",
         "s": "cbt"
+      },
+      {
+        "date": "2026-07",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-06-06",
+    "updatedAt": "2026-07-29",
     "sourceLinks": [
       {
         "label": "TapTap",
@@ -2236,9 +2256,9 @@
         "url": "https://apps.qoo-app.com/en/search?keyword=RO2%20Mobile"
       }
     ],
-    "currentEvent": "No specific major recent event found beyond its CBT status and estimated Q3 2026 launch.",
-    "eventNote": "No specific major recent event found beyond its CBT status and estimated Q3 2026 launch.",
-    "lastChecked": "2000-01-01"
+    "currentEvent": "Received ISBN code from the Chinese government on July 23, 2026, for Mobile and PC release in China. The specific launch schedule has not yet been decided.",
+    "eventNote": "Received ISBN code from the Chinese government on July 23, 2026, for Mobile and PC release in China. The specific launch schedule has not yet been decided.",
+    "lastChecked": "2026-07-29"
   },
   {
     "id": 31,
@@ -2271,7 +2291,7 @@
       "米哈遊",
       "全新IP"
     ],
-    "threatAnalysis": "【遠期結構性威脅/米哈遊重量級新 IP】《雨霧之都》作為米哈遊最重量級的新 IP，預計於 2027 年上線，並採用 UE5 和 AI 動態劇情等尖端技術。若成功落地，將重新定義開放世界 RPG 的品質標準，對整個行業構成遠期結構性威脅。\n\n▶ 建議行動：\n(1) 持續追蹤《雨霧之都》的開發進度，特別是其在 UE5 和 AI 動態劇情方面的技術突破和應用。\n(2) 提前研究其可能帶來的行業標準變化，評估自家產品在技術儲備和創新能力方面的差距。\n(3) 制定長期研發策略，將新技術的探索和應用納入考量，以應對未來市場對遊戲品質和體驗的更高要求。",
+    "threatAnalysis": "【威脅類型】資訊缺失/開發狀況不明\n\n▶ 建議行動：\n(1). 重新確認遊戲名稱與開發商資訊的準確性，或是否有其他代號/英文名稱。\n(2). 若無法找到任何公開資訊，需評估此專案的真實性與追蹤價值。\n(3). 若確認為內部專案，則需從內部管道獲取最新進度。",
     "verified": "17173（2026-01）、VNG情報站",
     "category": "tracking",
     "testType": "未開測",
@@ -2284,7 +2304,7 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-06-06",
+    "updatedAt": "2026-07-29",
     "sourceLinks": [
       {
         "label": "TapTap",
@@ -2299,9 +2319,9 @@
         "url": "https://apps.qoo-app.com/en/search?keyword=City%20of%20Mist"
       }
     ],
-    "currentEvent": "No specific major recent event found beyond its announced status and estimated 2027 launch.",
-    "eventNote": "No specific major recent event found beyond its announced status and estimated 2027 launch.",
-    "lastChecked": "2000-01-01"
+    "currentEvent": "No public information found regarding a game named '雨霧之都' by miHoYo. Search results for 'Rainy City' refer to different games by other developers. Status remains as per provided data.",
+    "eventNote": "No public information found regarding a game named '雨霧之都' by miHoYo. Search results for 'Rainy City' refer to different games by other developers. Status remains as per provided data.",
+    "lastChecked": "2026-07-29"
   },
   {
     "id": 32,
@@ -2682,6 +2702,348 @@
       }
     ],
     "updatedAt": "2026-07-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 42,
+    "name": "海浪之簽",
+    "nameEn": "Blue Sign",
+    "developer": "未知",
+    "studio": "未知",
+    "publisher": "未知",
+    "genre": "敘事遊戲",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "這是一款文件審查敘事新作，預計於 8 月 14 日免費推出。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-07-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 43,
+    "name": "雪葬",
+    "nameEn": "Snowed Under",
+    "developer": "Chilla's Art",
+    "studio": "Chilla's Art",
+    "publisher": "Chilla's Art",
+    "genre": "心理恐怖",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "Chilla's Art 推出的心理恐怖剷雪新作，開發者表示已改善效能。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 44,
+    "name": "PLATONICA SPACE",
+    "nameEn": "PLATONICA SPACE",
+    "developer": "未知",
+    "studio": "未知",
+    "publisher": "未知",
+    "genre": "科幻遊戲",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "一款預計於 8 月 14 日推出的遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-07-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 45,
+    "name": "The Immortal John Triptych",
+    "nameEn": "The Immortal John Triptych",
+    "developer": "未知",
+    "studio": "未知",
+    "publisher": "未知",
+    "genre": "動作冒險",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "一款預計於 8 月 27 日推出的遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-07-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 46,
+    "name": "9 R.I.P. 續作",
+    "nameEn": "9 R.I.P. sequel",
+    "developer": "未知",
+    "studio": "未知",
+    "publisher": "未知",
+    "genre": "視覺小說",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-10",
+    "desc": "知名遊戲 9 R.I.P. 的續作，預計於 10 月 27 日在西方推出。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-07-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 47,
+    "name": "Guns & Dragons",
+    "nameEn": "Guns & Dragons",
+    "developer": "未知",
+    "studio": "未知",
+    "publisher": "未知",
+    "genre": "奇幻射擊",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "一款奇幻 Roguelite 第一人稱射擊遊戲，已宣布將登陸 PC 平台。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 48,
+    "name": "No More Room in Hell 2",
+    "nameEn": "No More Room in Hell 2",
+    "developer": "未知",
+    "studio": "未知",
+    "publisher": "未知",
+    "genre": "恐怖生存",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "恐怖生存遊戲 No More Room in Hell 的續作，預計於 8 月 11 日推出。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-07-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 49,
+    "name": "Jay and Silent Bob’s Joint Venture",
+    "nameEn": "Jay and Silent Bob’s Joint Venture",
+    "developer": "未知",
+    "studio": "未知",
+    "publisher": "未知",
+    "genre": "模擬經營",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "一款以 Jay and Silent Bob 為主題的休閒農場模擬經營遊戲，已宣布將登陸 PC 平台。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 50,
+    "name": "Spanking Exorcist",
+    "nameEn": "Spanking Exorcist",
+    "developer": "未知",
+    "studio": "未知",
+    "publisher": "未知",
+    "genre": "動作遊戲",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "一款日本開發者為彌補遊戲延期而製作的「道歉遊戲」。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-29",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true
   }
