@@ -1,33 +1,45 @@
 {
-  "lastAudit": "2026-07-29T03:48:04.859017+00:00",
-  "totalProducts": 40,
-  "updatesApplied": 14,
+  "lastAudit": "2026-07-30T03:39:47.530538+00:00",
+  "totalProducts": 49,
+  "updatesApplied": 18,
   "findings": [
     {
-      "name": "GTA VI",
+      "name": "二十世紀電氣目錄",
+      "status": "error",
+      "issue": "移除: 非遊戲產品",
+      "autoFixed": false
+    },
+    {
+      "name": "陰影之村",
+      "status": "error",
+      "issue": "移除: 資訊不足/未找到產品",
+      "autoFixed": false
+    },
+    {
+      "name": "君色帕特拉 IF",
       "status": "warning",
-      "issue": "狀態: pre-reg→pre-reg",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "魔物獵人 荒野",
+      "name": "為美好的世界獻上祝福！為這摯愛的城鎮獻上繁榮！",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "仙境傳說RO：守護永恒的愛2",
+      "name": "戰神：勞菲",
       "status": "warning",
-      "issue": "狀態: cbt→pre-reg",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     }
   ],
   "checked": [
-    "GTA VI",
-    "魔物獵人 荒野",
-    "魔物獵人：旅人",
-    "仙境傳說RO：守護永恒的愛2",
-    "雨霧之都"
+    "二十世紀電氣目錄",
+    "陰影之村",
+    "君色帕特拉 IF",
+    "為美好的世界獻上祝福！為這摯愛的城鎮獻上繁榮！",
+    "戰神：勞菲"
   ],
   "nextBatch": [
     "無限大",

@@ -2343,13 +2343,18 @@
     "launchEst": "",
     "desc": "京都動畫新作，在蒸氣世界中追逐著電氣時代夢想的冒險遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】產品類型不符\n\n▶ 建議行動：\n(1). 將此項目從遊戲追蹤清單中移除。\n(2). 確認未來篩選機制，避免非遊戲產品納入追蹤。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Netflix",
+        "url": "https://www.netflix.com/title/81696001"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -2357,8 +2362,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-27",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-07-30",
+    "lastChecked": "2026-07-30",
     "autoDiscovered": true
   },
   {
@@ -2381,7 +2386,7 @@
     "launchEst": "2026-07",
     "desc": "一款在日本發行的恐怖解謎遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】資訊斷層/產品未上市\n\n▶ 建議行動：\n(1). 再次確認遊戲名稱與開發商資訊是否正確。\n(2). 若仍無相關資訊，建議將此項目從追蹤清單中移除。\n(3). 建立更嚴謹的遊戲資訊驗證流程。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "active",
     "testType": "待確認",
@@ -2395,8 +2400,8 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-27",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-07-30",
+    "lastChecked": "2026-07-30",
     "autoDiscovered": true
   },
   {
@@ -2412,30 +2417,45 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-11",
+    "launchEst": "2026-11-26",
     "desc": "一款將於11月26日在日本發售的視覺小說遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【機會點】發售日期與平台確認\n\n▶ 建議行動：\n(1). 持續關注遊戲預購狀況與社群討論熱度。\n(2). 評估VTuber合作模式對遊戲宣傳的效益。\n(3). 考慮在遊戲發售後進行初步評測，以了解其市場表現。",
     "verified": "Agent 發現 (2026-07-27)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "4Gamer報導",
+        "url": "https://www.4gamer.net/games/999/G999905/20260727001/"
+      },
+      {
+        "label": "udn遊戲角落報導",
+        "url": "https://game.udn.com/game/story/122089/8127025"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-07",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-27",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-07-30",
+    "lastChecked": "2026-07-30",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲發售日期確認為2026年11月26日，並於2026年7月30日開放預購。開發商確認為Entergram，將登陸Nintendo Switch、PS5及Windows平台。",
+    "eventNote": "遊戲發售日期確認為2026年11月26日，並於2026年7月30日開放預購。開發商確認為Entergram，將登陸Nintendo Switch、PS5及Windows平台。"
   },
   {
     "id": 35,
@@ -2451,30 +2471,49 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "",
+    "launchEst": "2026",
     "desc": "一款改編自《為美好的世界獻上祝福！》的全新角色扮演遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【機會點】事前登錄開啟與IP熱度\n\n▶ 建議行動：\n(1). 密切關注事前登錄人數與後續宣傳活動。\n(2). 評估IP粉絲對遊戲的接受度與付費意願。\n(3). 考慮在遊戲上線後進行市場分析，了解其營收表現。",
     "verified": "Agent 發現 (2026-07-27)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "官方網站",
+        "url": "https://konosuba-machisuba.com/"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/jp/app/%E3%81%93%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AB%E7%A5%9D%E7%A6%8F%E3%82%92-%E3%81%93%E3%81%AE%E6%84%9B%E3%81%99%E3%81%B9%E3%81%8D%E8%A1%97%E3%81%AB%E7%B9%81%E6%A0%84%E3%82%92/id6470068307"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.kadokawa.machisuba"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-07",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-27",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-07-30",
+    "lastChecked": "2026-07-30",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲已於2026年7月26日在日本開放事前登錄，預計2026年內於Mobile (iOS/Android) 及PC平台推出。開發商確認為KADOKAWA，並由原作者監修原創故事。",
+    "eventNote": "遊戲已於2026年7月26日在日本開放事前登錄，預計2026年內於Mobile (iOS/Android) 及PC平台推出。開發商確認為KADOKAWA，並由原作者監修原創故事。"
   },
   {
     "id": 36,
@@ -2489,30 +2528,45 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2027-02",
+    "launchEst": "2027-02-16",
     "desc": "一款預計於2027年2月發售的全新《戰神》系列動作冒險遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【機會點】發售日期與平台確認，IP熱度高\n\n▶ 建議行動：\n(1). 持續關注遊戲預購量與媒體評價，評估市場潛力。\n(2). 分析新作對《戰神》系列宇宙擴展的影響。\n(3). 考慮在遊戲發售後進行深度評測，並與前作進行比較。",
     "verified": "Agent 發現 (2026-07-27)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "PlayStation Store",
+        "url": "https://www.playstation.com/games/god-of-war-laufey"
+      },
+      {
+        "label": "維基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E6%88%B0%E7%A5%9E%EF%BC%9A%E5%8B%9E%E8%8F%B2"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-07",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-27",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-07-30",
+    "lastChecked": "2026-07-30",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲發售日期確認為2027年2月16日，PlayStation 5獨佔。已於2026年6月3日的PlayStation State of Play活動中公布20分鐘實機演示，並開放加入願望清單。",
+    "eventNote": "遊戲發售日期確認為2027年2月16日，PlayStation 5獨佔。已於2026年6月3日的PlayStation State of Play活動中公布20分鐘實機演示，並開放加入願望清單。"
   },
   {
     "id": 37,
