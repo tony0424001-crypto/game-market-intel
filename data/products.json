@@ -2581,14 +2581,14 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
     "launchEst": "2026-07",
     "desc": "一款預計於7月30日發售的全新益智街機遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】發售日期不確定\n\n▶ 建議行動：\n(1). 持續追蹤遊戲官方公告，確認確切發售日期。\n(2). 關注測試進度，評估遊戲開發狀況。\n(3). 留意玩家社群反應，了解遊戲期待度。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "active",
     "testType": "待確認",
@@ -2600,10 +2600,14 @@
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-07",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-27",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2026-07-31",
     "autoDiscovered": true
   },
   {
@@ -2620,29 +2624,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "",
+    "launchEst": "2026-07-31",
     "desc": "一款以蝙蝠俠為主題的犯罪解謎派對遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】已上線\n\n▶ 建議行動：\n(1). 監測遊戲上線後的表現與玩家評價。\n(2). 評估其作為Prime會員獨佔遊戲的市場影響力。\n(3). 追蹤後續內容更新與營運活動。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Amazon Luna",
+        "url": "https://luna.amazon.com/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-07",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-27",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2026-07-31",
     "autoDiscovered": true
   },
   {
@@ -2665,7 +2678,7 @@
     "launchEst": "2026-08",
     "desc": "一款預計於8月5日在PC平台發售的全新動作平台遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】資訊不足\n\n▶ 建議行動：\n(1). 持續監測市場，搜尋更多關於此遊戲的資訊。\n(2). 若無進一步消息，考慮其開發可能已停滯或取消。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "active",
     "testType": "待確認",
@@ -2679,8 +2692,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-27",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2026-07-31",
     "autoDiscovered": true
   },
   {
@@ -2700,25 +2713,34 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08",
+    "launchEst": "2026-08-25",
     "desc": "一款預計於8月25日發售的全新《異形》系列射擊遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】發售日期確認\n\n▶ 建議行動：\n(1). 準備遊戲上線後的市場推廣與監測計畫。\n(2). 關注首發評價與銷售數據，評估市場反應。\n(3). 規劃後續內容更新與社群互動策略。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3448650/Aliens_Fireteam_Elite_2/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-07",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-27",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2026-07-31",
     "autoDiscovered": true
   },
   {
@@ -2741,7 +2763,7 @@
     "launchEst": "2026-09",
     "desc": "一款結合了鍵盤滑鼠節奏玩法與近未來懸疑視覺小說的全新遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】資訊不足\n\n▶ 建議行動：\n(1). 持續監測市場，搜尋更多關於此遊戲的資訊，特別是來自開發商Arcaea studio的官方消息。\n(2). 若無進一步消息，考慮其開發可能已停滯或取消。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "active",
     "testType": "待確認",
@@ -2755,8 +2777,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-27",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2026-07-31",
     "autoDiscovered": true
   },
   {
@@ -3098,6 +3120,386 @@
       }
     ],
     "updatedAt": "2026-07-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 51,
+    "name": "莉莉幻想曲",
+    "nameEn": "Lily Fantasia",
+    "developer": "智慧之眼工作室",
+    "studio": "智慧之眼工作室",
+    "publisher": "智慧之眼工作室",
+    "genre": "節奏, 奇幻",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-07",
+    "desc": "由智慧之眼工作室開發的國產節奏奇幻新作《莉莉幻想曲》已於Steam和Nintendo Switch雙平台發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-31)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 52,
+    "name": "SpeedRunners 2：速度之王",
+    "nameEn": "SpeedRunners 2: King of Speed",
+    "developer": "Fair Play Labs",
+    "studio": "Fair Play Labs",
+    "publisher": "Fair Play Labs",
+    "genre": "競速, 平台",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "終極競技派對平台遊戲續作《SpeedRunners 2: King of Speed》將於9月3日發售，支援最多8人線上或本地競速。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-31)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 53,
+    "name": "共乘「模擬器」",
+    "nameEn": "Rideshare “Stimulator”",
+    "developer": "UNIGINE",
+    "studio": "UNIGINE",
+    "publisher": "UNIGINE",
+    "genre": "駕駛, 模擬",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "Saber Interactive 宣布推出由 UNIGINE 開發的沉浸式駕駛模擬遊戲《共乘「模擬器」》，玩家將經營叫車業務並應對各種乘客。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-31)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 54,
+    "name": "九陰真經：不朽",
+    "nameEn": "9 Yin Sutra: Immortal",
+    "developer": "Snail Games",
+    "studio": "Snail Games",
+    "publisher": "Snail Games",
+    "genre": "開放世界, 沙盒",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "TBA",
+    "desc": "蝸牛遊戲宣布推出由虛幻引擎5打造的開放世界沙盒修仙遊戲《九陰真經：不朽》，玩家將在廣闊世界中探索並追求永生。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-31)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 55,
+    "name": "Croc 2：哥布林王國 重製版",
+    "nameEn": "Croc 2: Kingdom of the Gobbos remaster",
+    "developer": "Argonaut Games",
+    "studio": "Argonaut Games",
+    "publisher": "Argonaut Games",
+    "genre": "平台, 動作冒險",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "Argonaut Games 宣布將推出1999年平台遊戲《Croc 2: Kingdom of the Gobbos》的重製版，預計於2026年第四季度發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-31)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 56,
+    "name": "墨西哥忍者",
+    "nameEn": "Mexican Ninja",
+    "developer": "Madbricks",
+    "studio": "Madbricks",
+    "publisher": "Madbricks",
+    "genre": "清版動作, 類rogue",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "由Madbricks開發的2.5D類rogue清版動作遊戲《墨西哥忍者》將於8月20日發售，玩家將在新東京對抗腐敗的Narkuzas。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-31)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 57,
+    "name": "惡魔夜瘋狂",
+    "nameEn": "Demons’ Night Fever",
+    "developer": "Drecom, SuperNiche",
+    "studio": "Drecom, SuperNiche",
+    "publisher": "Drecom, SuperNiche",
+    "genre": "戰棋, 模擬",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-10",
+    "desc": "由Arc System Works發行、Drecom和SuperNiche開發的養成型RTA模擬RPG《惡魔夜瘋狂》將於10月22日發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-31)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 58,
+    "name": "愚者不滅",
+    "nameEn": "Stupid Never Dies",
+    "developer": "GPTRACK50 Inc.",
+    "studio": "GPTRACK50 Inc.",
+    "publisher": "GPTRACK50 Inc.",
+    "genre": "動作, 角色扮演",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-10",
+    "desc": "由GPTRACK50開發的全新動作RPG《愚者不滅》將於10月21日發售，玩家將扮演僵屍戴維在異世界地牢中成長。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-31)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 59,
+    "name": "針葉林公園2",
+    "nameEn": "Thimbleweed Park 2",
+    "developer": "Terrible Toybox",
+    "studio": "Terrible Toybox",
+    "publisher": "Terrible Toybox",
+    "genre": "冒險, 解謎",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2028-Q1",
+    "desc": "Ron Gilbert的Terrible Toybox工作室宣布推出點擊式冒險遊戲《針葉林公園2》，預計於2028年初發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-31)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-31",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 60,
+    "name": "煉獄之藍",
+    "nameEn": "Purgatory:Blue",
+    "developer": "ENDLESS SUMMER Studio",
+    "studio": "ENDLESS SUMMER Studio",
+    "publisher": "ENDLESS SUMMER Studio",
+    "genre": "視覺小說, 科幻",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-05",
+    "desc": "由ENDLESS SUMMER Studio開發的美少女科幻視覺小說《煉獄之藍》因資金問題重啟募資，預計於2027年5月完成。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-07-31)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-07",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-07-31",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true
   }
