@@ -1,33 +1,45 @@
 {
-  "lastAudit": "2026-07-31T03:58:31.586502+00:00",
-  "totalProducts": 49,
-  "updatesApplied": 12,
+  "lastAudit": "2026-08-01T03:58:39.746864+00:00",
+  "totalProducts": 59,
+  "updatesApplied": 19,
   "findings": [
     {
-      "name": "海綿破壞",
+      "name": "海浪之簽",
       "status": "warning",
-      "issue": "狀態: announced→pre-reg",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "蝙蝠俠：披風鬥士編年史",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "異形：火力小隊精英2",
+      "name": "雪葬",
       "status": "warning",
       "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "PLATONICA SPACE",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "The Immortal John Triptych",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "9 R.I.P. 續作",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "海綿破壞",
-    "蝙蝠俠：披風鬥士編年史",
-    "赤鳥",
-    "異形：火力小隊精英2",
-    "在虛假中"
+    "海浪之簽",
+    "雪葬",
+    "PLATONICA SPACE",
+    "The Immortal John Triptych",
+    "9 R.I.P. 續作"
   ],
   "nextBatch": [
     "無限大",

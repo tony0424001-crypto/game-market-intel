@@ -2798,25 +2798,34 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08",
+    "launchEst": "2026-08-14",
     "desc": "這是一款文件審查敘事新作，預計於 8 月 14 日免費推出。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發行確認】遊戲已確認將於2026年8月14日在Steam平台免費推出。開發商為Blue Anemoia。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲上線後的表現與玩家回饋。\n(2). 評估遊戲的市場潛力與後續營運計畫。\n(3). 考慮將遊戲加入追蹤清單，以便長期觀察。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2763260/Blue_Sign/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-29",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-01",
+    "lastChecked": "2026-08-01",
     "autoDiscovered": true
   },
   {
@@ -2839,22 +2848,31 @@
     "launchEst": "2026-Q4",
     "desc": "Chilla's Art 推出的心理恐怖剷雪新作，開發者表示已改善效能。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發售日期未定】遊戲已由Chilla's Art宣布，但具體發售日期仍未確定。原預計2026年Q4上線，目前狀態為「未定」。\n\n▶ 建議行動：\n(1). 持續關注開發商Chilla's Art的官方公告，以獲取最新的發售日期資訊。\n(2). 追蹤Steam商店頁面，看是否有新的測試或發售日期更新。\n(3). 評估遊戲類型與開發商過往作品，預測潛在市場表現。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2990420/Snowed_Under/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-29",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-01",
+    "lastChecked": "2026-08-01",
     "autoDiscovered": true
   },
   {
@@ -2874,25 +2892,34 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08",
+    "launchEst": "2026-08-14",
     "desc": "一款預計於 8 月 14 日推出的遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發行確認】遊戲已確認將於2026年8月14日在PC (Steam) 平台發售。開發商為Kazuhide Oka，發行商為KAMITSUBAKI STUDIO和yokaze。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲上線後的表現與玩家回饋。\n(2). 評估遊戲的市場潛力與後續營運計畫。\n(3). 考慮將遊戲加入追蹤清單，以便長期觀察。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3846480/PLATONICA_SPACE/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-29",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-01",
+    "lastChecked": "2026-08-01",
     "autoDiscovered": true
   },
   {
@@ -2912,25 +2939,38 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08",
+    "launchEst": "2026-08-27",
     "desc": "一款預計於 8 月 27 日推出的遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發行確認】遊戲已確認將於2026年8月27日在多平台發售，為Joe Richardson三部曲的合集版。此為重製版，包含QoL更新和額外內容。\n\n▶ 建議行動：\n(1). 追蹤遊戲在各平台上的發售表現與玩家評價。\n(2). 評估其作為合集版的市場吸引力，特別是對於新玩家和舊玩家的影響。\n(3). 考慮將遊戲加入追蹤清單，以便長期觀察。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2899450/The_Immortal_John_Triptych/"
+      },
+      {
+        "label": "Akupara Games",
+        "url": "https://www.akuparagames.com/games/the-immortal-john-triptych/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-29",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-01",
+    "lastChecked": "2026-08-01",
     "autoDiscovered": true
   },
   {
@@ -2950,25 +2990,34 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-10",
+    "launchEst": "2026-05-14",
     "desc": "知名遊戲 9 R.I.P. 的續作，預計於 10 月 27 日在西方推出。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【已發行】遊戲已於2026年5月14日在Nintendo Switch平台推出繁體中文版，早於原預計的2026年10月。開發商為Idea Factory/Design Factory，發行商為Game Source Entertainment。\n\n▶ 建議行動：\n(1). 追蹤遊戲發售後的銷售數據與玩家評價，特別是繁體中文市場的表現。\n(2). 評估遊戲的長期營運狀況與潛在更新內容。\n(3). 考慮將遊戲加入追蹤清單，以便長期觀察。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Nintendo Store",
+        "url": "https://store.nintendo.com.hk/9-r-i-p-sequel"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-29",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-01",
+    "lastChecked": "2026-08-01",
     "autoDiscovered": true
   },
   {
