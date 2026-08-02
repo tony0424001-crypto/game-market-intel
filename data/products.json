@@ -3033,29 +3033,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
     "launchEst": "2027-Q1",
     "desc": "一款奇幻 Roguelite 第一人稱射擊遊戲，已宣布將登陸 PC 平台。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【狀態變更】遊戲已從「announced」變更為「live-ops (Early Access)」。目前正在Steam和Epic Games Store上進行搶先體驗，並有公開測試活動至2026年8月10日。\n\n▶ 建議行動：\n(1). 更新遊戲狀態為「live-ops」。\n(2). 追蹤搶先體驗的進度與玩家回饋。\n(3). 關注正式發售日期的公告。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-08-10",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/XXXXXX/Guns_Dragons/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-29",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-02",
+    "lastChecked": "2026-08-02",
     "autoDiscovered": true
   },
   {
@@ -3075,26 +3084,45 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08",
+    "launchEst": "2026-08-11",
     "desc": "恐怖生存遊戲 No More Room in Hell 的續作，預計於 8 月 11 日推出。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【正式發售】遊戲將於2026年8月11日結束搶先體驗，並在PC (Steam, Epic Games Store)、Xbox Series和PlayStation 5平台正式發售。 Xbox Series的預購已於2026年7月28日開始。\n\n▶ 建議行動：\n(1). 更新遊戲狀態為「live-ops」並確認發售日期。\n(2). 追蹤遊戲在各平台的表現與銷售狀況。\n(3). 關注後續內容更新與社群反應。",
     "verified": "Agent 發現 (2026-07-29)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/XXXXXX/No_More_Room_in_Hell_2/"
+      },
+      {
+        "label": "Xbox Store",
+        "url": "https://www.xbox.com/en-US/games/store/no-more-room-in-hell-2/XXXXX"
+      },
+      {
+        "label": "PlayStation Store",
+        "url": "https://store.playstation.com/en-us/product/XXXXXX/no-more-room-in-hell-2"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-29",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-02",
+    "lastChecked": "2026-08-02",
+    "autoDiscovered": true,
+    "currentEvent": "The game is leaving Early Access and officially launching on August 11, 2026, on PC (Steam, Epic Games Store), Xbox Series, and PlayStation 5. Pre-orders for Xbox Series began on July 28, 2026.",
+    "eventNote": "The game is leaving Early Access and officially launching on August 11, 2026, on PC (Steam, Epic Games Store), Xbox Series, and PlayStation 5. Pre-orders for Xbox Series began on July 28, 2026."
   },
   {
     "id": 49,
@@ -3109,29 +3137,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2027-Q1",
+    "launchEst": "2027-Q2",
     "desc": "一款以 Jay and Silent Bob 為主題的休閒農場模擬經營遊戲，已宣布將登陸 PC 平台。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【新消息】遊戲於2026年聖地牙哥動漫展公布，預計於2027年春末在PC (Steam) 推出。 目前正準備進入Beta測試階段，並已開放測試註冊。\n\n▶ 建議行動：\n(1). 更新遊戲狀態為「pre-reg」並確認新的預計發售日期。\n(2). 追蹤Beta測試的具體時間與進度。\n(3). 關注遊戲的開發進展與更多細節公布。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/XXXXXX/Jay_and_Silent_Bobs_Joint_Venture/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-29",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-02",
+    "lastChecked": "2026-08-02",
     "autoDiscovered": true
   },
   {
@@ -3147,29 +3184,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2027-Q1",
+    "launchEst": "2026-07-30",
     "desc": "一款日本開發者為彌補遊戲延期而製作的「道歉遊戲」。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【已發售】遊戲原定於2026年7月下旬發售，但因Steam內容審核問題而延遲。 不過，遊戲已於2026年7月30日在PC (Steam) 平台正式發售。\n\n▶ 建議行動：\n(1). 更新遊戲狀態為「live-ops」並確認實際發售日期。\n(2). 追蹤遊戲的銷售表現與玩家評價。\n(3). 關注是否有任何地區性限制或審核問題的後續發展。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/XXXXXX/Spanking_Exorcist/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-29",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-02",
+    "lastChecked": "2026-08-02",
     "autoDiscovered": true
   },
   {
@@ -3189,25 +3235,38 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-07",
+    "launchEst": "2026-07-30",
     "desc": "由智慧之眼工作室開發的國產節奏奇幻新作《莉莉幻想曲》已於Steam和Nintendo Switch雙平台發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【已發售】遊戲已於2026年7月30日在PC (Steam) 和Nintendo Switch雙平台正式發售。 發售首週提供限時折扣至2026年8月6日。\n\n▶ 建議行動：\n(1). 確認遊戲已發售並更新發售日期。\n(2). 追蹤遊戲在雙平台的銷售表現與玩家評價。\n(3). 關注遊戲的後續更新與活動。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2527300/"
+      },
+      {
+        "label": "Nintendo eShop",
+        "url": "https://www.nintendo.com/games/detail/lily-fantasia-switch/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-02",
+    "lastChecked": "2026-08-02",
     "autoDiscovered": true
   },
   {
@@ -3549,6 +3608,357 @@
       }
     ],
     "updatedAt": "2026-07-31",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 61,
+    "name": "磁帶偵探",
+    "nameEn": "Tape Detective",
+    "developer": "Renewal Art Studio",
+    "studio": "Renewal Art Studio",
+    "publisher": "Renewal Art Studio",
+    "genre": "推理解謎, 冒險",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "一款文字推理解謎冒險遊戲，玩家將化身偵探，透過收集對話語段並質詢證人來揭開神祕舊案的真相。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 62,
+    "name": "猿公劍",
+    "nameEn": "Yuangong's Sword",
+    "developer": "Sword Panda Limited",
+    "studio": "Sword Panda Limited",
+    "publisher": "Sword Panda Limited",
+    "genre": "動作, 角色扮演",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "一款以中國志怪為背景的動作角色扮演遊戲，玩家將扮演猿公門弟子「裴三娘」，體驗以柔克剛的武俠戰鬥。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 63,
+    "name": "艾維斯：雙生幻影",
+    "nameEn": "Avis: Phantom Duality",
+    "developer": "Nipcat Studio",
+    "studio": "Nipcat Studio",
+    "publisher": "Nipcat Studio",
+    "genre": "動作, 角色扮演",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "一款末世幻想ARPG新作，玩家將扮演「艾維斯」探索破碎大陸，揭開「幻塵」與「災厄」的真相。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 64,
+    "name": "超級機器人大戰ZII：破界篇 重製版",
+    "nameEn": "Super Robot Wars ZII: Ruination Remastered",
+    "developer": "Bandai Namco Forge Digitals",
+    "studio": "Bandai Namco Forge Digitals",
+    "publisher": "Bandai Namco Forge Digitals",
+    "genre": "策略, 角色扮演",
+    "platform": [
+      "PC",
+      "PS5",
+      "Switch"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "2011年PSP策略角色扮演遊戲《超級機器人大戰ZII：破界篇》的重製版，將首次全球發行並支援多語言。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 65,
+    "name": "漫威激戰：格鬥之魂",
+    "nameEn": "MARVEL Tokon: Fighting Souls",
+    "developer": "Arc System Works",
+    "studio": "Arc System Works",
+    "publisher": "Arc System Works",
+    "genre": "格鬥, 動作",
+    "platform": [
+      "PS5",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "一款由Arc System Works開發的4v4漫威主題格鬥遊戲，將於2026年8月6日發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 66,
+    "name": "星沙島",
+    "nameEn": "Starsand Island",
+    "developer": "Seed Sparkle Lab",
+    "studio": "Seed Sparkle Lab",
+    "publisher": "Seed Sparkle Lab",
+    "genre": "生活模擬, 角色扮演",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series",
+      "Switch"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "一款生活模擬遊戲，玩家將在星沙島上釣魚、耕種、飼養動物，並與當地居民建立關係，打造夢想天堂。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 67,
+    "name": "書與鑰匙之季節",
+    "nameEn": "Seasons of Books and Keys",
+    "developer": "iMel Inc.",
+    "studio": "iMel Inc.",
+    "publisher": "iMel Inc.",
+    "genre": "劇情, 冒險",
+    "platform": [
+      "PC",
+      "Switch"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "一款劇情導向的冒險遊戲，改編自米澤穗信的暢銷推理小說，融合閱讀與觀劇體驗。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 68,
+    "name": "SANASANA",
+    "nameEn": "SANASANA",
+    "developer": "CHARON, STUDIO CHARON",
+    "studio": "CHARON, STUDIO CHARON",
+    "publisher": "CHARON, STUDIO CHARON",
+    "genre": "彈幕射擊, 黑暗奇幻",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-10",
+    "desc": "一款受東方Project啟發的黑暗奇幻彈幕射擊遊戲，講述少女為復活妹妹而擊敗三位女巫的故事。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 69,
+    "name": "Astrae Oratio",
+    "nameEn": "Astrae Oratio",
+    "developer": "Dynamis One",
+    "studio": "Dynamis One",
+    "publisher": "Dynamis One",
+    "genre": "角色扮演, 魔法",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "一款設定在1989年東京的魔法主題RPG手遊，將於8月19日開始招募封閉測試玩家。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-08-02",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true
   }
