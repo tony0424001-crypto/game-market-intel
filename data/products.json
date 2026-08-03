@@ -3286,26 +3286,41 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-09",
+    "launchEst": "2026-09-03",
     "desc": "終極競技派對平台遊戲續作《SpeedRunners 2: King of Speed》將於9月3日發售，支援最多8人線上或本地競速。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發行日期確認與平台擴展】遊戲已確認於2026年9月3日發行，並將同步登陸PC、PS5、Xbox Series X|S及Nintendo Switch，且首日即加入Xbox Game Pass。這顯示開發商對遊戲品質有信心，並積極擴展市場觸及率。\n\n▶ 建議行動：\n(1). 持續關注遊戲發行後的初期表現，特別是Xbox Game Pass的用戶反饋。\n(2). 評估遊戲在多平台上的穩定性與玩家體驗，作為未來合作或推廣的參考。\n(3). 留意是否有進一步的測試或內容更新計畫，以掌握遊戲的長期營運策略。",
     "verified": "Agent 發現 (2026-07-31)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2025-09 (open playtest ended), Demo available (updated July 2026)",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3183760/SpeedRunners_2_King_of_Speed/"
+      },
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.com/app/234676"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-03",
+    "lastChecked": "2026-08-03",
+    "autoDiscovered": true,
+    "currentEvent": "Launch date confirmed for September 3, 2026, on PC (Steam), PlayStation 5, Xbox Series X|S, and Nintendo Switch. Will be available on Xbox Game Pass. Previously announced July 2026 release moved to early September for polish. A demo is currently available on Steam.",
+    "eventNote": "Launch date confirmed for September 3, 2026, on PC (Steam), PlayStation 5, Xbox Series X|S, and Nintendo Switch. Will be available on Xbox Game Pass. Previously announced July 2026 release moved to early September for polish. A demo is currently available on Steam."
   },
   {
     "id": 53,
@@ -3327,7 +3342,7 @@
     "launchEst": "2026-Q4",
     "desc": "Saber Interactive 宣布推出由 UNIGINE 開發的沉浸式駕駛模擬遊戲《共乘「模擬器」》，玩家將經營叫車業務並應對各種乘客。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【資訊不足，存在風險】目前無法找到關於「共乘『模擬器』」這款遊戲由UNIGINE開發並預計於2026年第四季度發行的任何公開資訊。UNIGINE主要為遊戲引擎開發商，而非直接發行終端遊戲，這使得此項目資訊的真實性存疑。\n\n▶ 建議行動：\n(1). 暫停追蹤此項目，直至有更明確的官方公告或可靠來源資訊。\n(2). 若此為內部專案或技術展示，則不應列入商業追蹤清單。\n(3). 重新確認遊戲名稱與開發商資訊，以排除可能的誤植。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "active",
     "testType": "待確認",
@@ -3341,8 +3356,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-03",
+    "lastChecked": "2026-08-03",
     "autoDiscovered": true
   },
   {
@@ -3365,9 +3380,9 @@
     "launchEst": "TBA",
     "desc": "蝸牛遊戲宣布推出由虛幻引擎5打造的開放世界沙盒修仙遊戲《九陰真經：不朽》，玩家將在廣闊世界中探索並追求永生。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【狀態停滯，資訊稀缺】「九陰真經：不朽」的狀態仍為「announced」，發行日期為「TBA」，且缺乏近期更新資訊。這可能表示開發進度緩慢或項目優先級不高。\n\n▶ 建議行動：\n(1). 持續進行低頻率的監測，主要關注Snail Games的官方新聞或相關產業報導。\n(2). 考慮將此項目優先級調低，將資源集中於有更明確進度的遊戲。\n(3). 若長期無任何更新，需評估是否將其標記為「dead」或「shouldRemove」。",
     "verified": "Agent 發現 (2026-07-31)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
@@ -3379,9 +3394,11 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-03",
+    "lastChecked": "2026-08-03",
+    "autoDiscovered": true,
+    "currentEvent": "No recent concrete status changes found. The game '九陰真經：不朽' (Age of Wushu: Immortal) by Snail Games still appears to be in an announced state with a 'TBA' release date. Information is scarce and mostly from older announcements.",
+    "eventNote": "No recent concrete status changes found. The game '九陰真經：不朽' (Age of Wushu: Immortal) by Snail Games still appears to be in an announced state with a 'TBA' release date. Information is scarce and mostly from older announcements."
   },
   {
     "id": 55,
@@ -3403,9 +3420,9 @@
     "launchEst": "2026-Q4",
     "desc": "Argonaut Games 宣布將推出1999年平台遊戲《Croc 2: Kingdom of the Gobbos》的重製版，預計於2026年第四季度發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【重製版確認，平台廣泛】「Croc 2：哥布林王國 重製版」已正式宣布將於2026年第四季度發行，並將登陸多個主流平台。這顯示開發商對此經典IP的重製抱有期待，並希望觸及廣泛的玩家群體。\n\n▶ 建議行動：\n(1). 密切關注遊戲的具體發行日期公告，以及預售活動。\n(2). 評估重製版在畫面、操作及新增內容方面的市場反應，特別是針對懷舊玩家與新玩家的吸引力。\n(3). 考慮與開發商或發行商建立聯繫，探討潛在的合作機會。",
     "verified": "Agent 發現 (2026-07-31)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
@@ -3415,11 +3432,17 @@
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-03",
+    "lastChecked": "2026-08-03",
+    "autoDiscovered": true,
+    "currentEvent": "Remaster officially announced for Q4 2026. It will launch on Nintendo Switch, PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, PC (Steam, GOG). Wishlisting is available. The remaster will include enhanced visuals, quality-of-life improvements, and a 'Croc2pedia' digital museum.",
+    "eventNote": "Remaster officially announced for Q4 2026. It will launch on Nintendo Switch, PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, PC (Steam, GOG). Wishlisting is available. The remaster will include enhanced visuals, quality-of-life improvements, and a 'Croc2pedia' digital museum."
   },
   {
     "id": 56,
@@ -3438,26 +3461,41 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08",
+    "launchEst": "2026-08-20",
     "desc": "由Madbricks開發的2.5D類rogue清版動作遊戲《墨西哥忍者》將於8月20日發售，玩家將在新東京對抗腐敗的Narkuzas。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發行日期確認，即將上線】「墨西哥忍者」已確認將於2026年8月20日發行，並將登陸PC及多個主機平台。遊戲目前提供免費試玩版，且近期有更新，顯示開發團隊在發行前仍積極優化。\n\n▶ 建議行動：\n(1). 密切關注遊戲發行後的初期銷售數據與玩家評價，特別是其Roguelike與Beat 'em up玩法的市場接受度。\n(2). 評估試玩版更新對玩家社群的影響，以及是否能有效轉化為正式版購買。\n(3). 考慮在遊戲發行後進行推廣活動，利用其獨特的題材和玩法吸引目標客群。",
     "verified": "Agent 發現 (2026-07-31)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-01 (final playtest ended), Demo available (updated recently)",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3764970/Mexican_Ninja/"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.gg/KDRfUWRfx7"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-03",
+    "lastChecked": "2026-08-03",
+    "autoDiscovered": true,
+    "currentEvent": "Launch date confirmed for August 20, 2026, on PC (Steam), PlayStation 5, Xbox Series X|S, PlayStation 4, and Xbox One. A free demo is currently available on Steam and was recently updated. A final playtest was conducted in January 2026.",
+    "eventNote": "Launch date confirmed for August 20, 2026, on PC (Steam), PlayStation 5, Xbox Series X|S, PlayStation 4, and Xbox One. A free demo is currently available on Steam and was recently updated. A final playtest was conducted in January 2026."
   },
   {
     "id": 57,
