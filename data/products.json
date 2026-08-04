@@ -3510,29 +3510,42 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-10",
+    "launchEst": "2026-10-22",
     "desc": "由Arc System Works發行、Drecom和SuperNiche開發的養成型RTA模擬RPG《惡魔夜瘋狂》將於10月22日發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【上市日期確認與預購開啟】遊戲《惡魔夜瘋狂》已確認將於2026年10月22日正式在PS5、Nintendo Switch和Steam平台上市，且Steam數位版已開放預購。這表示遊戲開發進度穩定，並進入了上市前的宣傳與銷售階段。\n\n▶ 建議行動：\n(1). 持續關注遊戲的上市宣傳活動，特別是針對Steam平台的預購表現。\n(2). 留意是否有任何試玩版或最終測試的資訊釋出。\n(3). 準備在遊戲上市後進行追蹤，評估其初期表現和玩家反饋。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3502620/_/"
+      },
+      {
+        "label": "官網",
+        "url": "https://www.arcsystemworks.jp/demonsnightfever/tc/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-04",
+    "lastChecked": "2026-08-04",
     "autoDiscovered": true
   },
   {
@@ -3997,6 +4010,357 @@
       }
     ],
     "updatedAt": "2026-08-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 70,
+    "name": "抵抗者",
+    "nameEn": "Resisters",
+    "developer": "",
+    "studio": "",
+    "publisher": "",
+    "genre": "歷史射擊",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "一款以第二次世界大戰為歷史題材的第一人稱射擊新作。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 71,
+    "name": "黑夜輪迴",
+    "nameEn": "Re:Night",
+    "developer": "Seahorse Games",
+    "studio": "Seahorse Games",
+    "publisher": "Seahorse Games",
+    "genre": "卡牌戰棋",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "一款roguelike卡牌戰棋新作，玩家在戰鬥中同時操控三名角色。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 72,
+    "name": "Probably Stolen",
+    "nameEn": "Probably Stolen",
+    "developer": "Questing Goose Studio",
+    "studio": "Questing Goose Studio",
+    "publisher": "Questing Goose Studio",
+    "genre": "賽博模擬",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "一款賽博龐克風格的店鋪經營模擬遊戲，玩家需在其中製作、交易和走私貨物。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 73,
+    "name": "進擊的巨人3",
+    "nameEn": "Attack on Titan 3",
+    "developer": "Omega Force",
+    "studio": "Omega Force",
+    "publisher": "Omega Force",
+    "genre": "動作冒險",
+    "platform": [
+      "PS5",
+      "Xbox Series",
+      "Switch",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-12",
+    "desc": "《進擊的巨人》系列新作，預計於12月10日推出，玩家將扮演調查兵團成員重溫故事。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 74,
+    "name": "Ladder Lad",
+    "nameEn": "Ladder Lad",
+    "developer": "BUCK Games, Antfood",
+    "studio": "BUCK Games, Antfood",
+    "publisher": "BUCK Games, Antfood",
+    "genre": "精準平台",
+    "platform": [
+      "Switch",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "一款以梯子為主題的2D精準平台跳躍遊戲，玩家需利用梯子進行攀爬和移動。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 75,
+    "name": "幻想水滸傳 STAR LEAP",
+    "nameEn": "Suikoden STAR LEAP",
+    "developer": "MYTHRIL, Konami Digital Entertainment",
+    "studio": "MYTHRIL, Konami Digital Entertainment",
+    "publisher": "MYTHRIL, Konami Digital Entertainment",
+    "genre": "角色扮演",
+    "platform": [
+      "Mobile",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "《幻想水滸傳》系列新作，8月7日在日本推出，是一款免費遊玩的策略角色扮演遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 76,
+    "name": "幻獸帕魯 Online",
+    "nameEn": "Palworld Online",
+    "developer": "Garena",
+    "studio": "Garena",
+    "publisher": "Garena",
+    "genre": "生存收集",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "《幻獸帕魯》系列的手機線上遊戲新作，由Garena開發並發行，將帶來新的故事和擴展的傳說。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 77,
+    "name": "可變形守護者 ESTIQUE",
+    "nameEn": "Changeable Guardian ESTIQUE",
+    "developer": "Cat Hui Trading LLC",
+    "studio": "Cat Hui Trading LLC",
+    "publisher": "Cat Hui Trading LLC",
+    "genre": "機器人射擊",
+    "platform": [
+      "PS5",
+      "Xbox Series",
+      "Switch",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "一款可變形守護者題材的橫向捲軸射擊遊戲，玩家可在飛機和機器人形態間切換。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 78,
+    "name": "超級機器人大戰Z II：破界篇 重製版",
+    "nameEn": "Super Robot Wars Z II: Ruination Remastered",
+    "developer": "Bandai Namco Forge Digitals",
+    "studio": "Bandai Namco Forge Digitals",
+    "publisher": "Bandai Namco Forge Digitals",
+    "genre": "策略角色扮演",
+    "platform": [
+      "Console",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "",
+    "desc": "《超級機器人大戰Z II：破界篇》的重製版，將首次在全球發行並支援多語言。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-04",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true
   }

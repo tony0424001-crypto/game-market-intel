@@ -1,39 +1,21 @@
 {
-  "lastAudit": "2026-08-03T04:04:54.773292+00:00",
+  "lastAudit": "2026-08-04T03:45:52.114482+00:00",
   "totalProducts": 68,
-  "updatesApplied": 18,
+  "updatesApplied": 4,
   "findings": [
     {
-      "name": "SpeedRunners 2：速度之王",
+      "name": "惡魔夜瘋狂",
       "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "共乘「模擬器」",
-      "status": "error",
-      "issue": "移除: No public information found for a game with this name and developer/release window. Likely an internal project, tech demo, or misidentified title.",
-      "autoFixed": false
-    },
-    {
-      "name": "Croc 2：哥布林王國 重製版",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "墨西哥忍者",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     }
   ],
   "checked": [
-    "SpeedRunners 2：速度之王",
-    "共乘「模擬器」",
-    "九陰真經：不朽",
-    "Croc 2：哥布林王國 重製版",
-    "墨西哥忍者"
+    "惡魔夜瘋狂",
+    "愚者不滅",
+    "針葉林公園2",
+    "煉獄之藍",
+    "磁帶偵探"
   ],
   "nextBatch": [
     "無限大",
