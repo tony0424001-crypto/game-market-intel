@@ -1,21 +1,39 @@
 {
-  "lastAudit": "2026-08-04T03:45:52.114482+00:00",
-  "totalProducts": 68,
-  "updatesApplied": 4,
+  "lastAudit": "2026-08-05T03:42:03.889558+00:00",
+  "totalProducts": 77,
+  "updatesApplied": 16,
   "findings": [
     {
-      "name": "惡魔夜瘋狂",
+      "name": "愚者不滅",
       "status": "warning",
-      "issue": "狀態: announced→pre-reg",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "煉獄之藍",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "磁帶偵探",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "猿公劍",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
       "autoFixed": true
     }
   ],
   "checked": [
-    "惡魔夜瘋狂",
     "愚者不滅",
     "針葉林公園2",
     "煉獄之藍",
-    "磁帶偵探"
+    "磁帶偵探",
+    "猿公劍"
   ],
   "nextBatch": [
     "無限大",

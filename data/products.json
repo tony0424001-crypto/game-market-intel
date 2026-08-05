@@ -3565,25 +3565,38 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-10",
+    "launchEst": "2026-10-22",
     "desc": "由GPTRACK50開發的全新動作RPG《愚者不滅》將於10月21日發售，玩家將扮演僵屍戴維在異世界地牢中成長。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發售日期確認】遊戲《愚者不滅》已確認將於2026年10月22日登陸PlayStation 5與PC（Steam）平台，並由SEGA負責全球銷售業務。主題曲已於8月4日搶先發行。目前遊戲狀態良好，發售日期明確，且有知名發行商協助推廣，預計能吸引一定玩家關注。\n\n▶ 建議行動：\n(1). 持續關注遊戲宣傳活動與預購情況。\n(2). 留意是否有新的試玩或測試活動公布。\n(3). 追蹤遊戲在Steam和PlayStation平台的頁面，獲取最新資訊。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2487400/Stupid_Never_Dies/"
+      },
+      {
+        "label": "巴哈姆特GNN新聞",
+        "url": "https://gnn.gamer.com.tw/detail.php?sn=260190"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-05",
+    "lastChecked": "2026-08-05",
     "autoDiscovered": true
   },
   {
@@ -3606,7 +3619,7 @@
     "launchEst": "2028-Q1",
     "desc": "Ron Gilbert的Terrible Toybox工作室宣布推出點擊式冒險遊戲《針葉林公園2》，預計於2028年初發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【無新資訊】目前未搜尋到《針葉林公園2》的任何最新狀態更新，包括測試、發售日期變動或遊戲進度等。遊戲仍維持在「已公布」狀態，預計於2028年第一季度上線。\n\n▶ 建議行動：\n(1). 定期重新搜尋遊戲名稱及開發商，以捕捉潛在的更新。\n(2). 關注開發商Terrible Toybox的官方社群媒體或網站，看是否有相關消息釋出。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "active",
     "testType": "待確認",
@@ -3620,8 +3633,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-05",
+    "lastChecked": "2026-08-05",
     "autoDiscovered": true
   },
   {
@@ -3644,22 +3657,35 @@
     "launchEst": "2027-05",
     "desc": "由ENDLESS SUMMER Studio開發的美少女科幻視覺小說《煉獄之藍》因資金問題重啟募資，預計於2027年5月完成。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【開發受阻與重啟】《煉獄之藍》曾因募資平台拖欠千萬日圓款項而面臨困境，開發團隊已對此提起刑事告訴。目前遊戲已宣布重啟開發並再次展開募資。原訂2027年5月的上線日期已不再確定，預計將有顯著延遲。遊戲的開發進度受到嚴重影響，未來上線時間充滿不確定性。\n\n▶ 建議行動：\n(1). 密切關注新的募資進度與開發團隊的官方公告。\n(2). 重新評估遊戲的預期上線時間，並將其標記為「待定」。\n(3). 評估此事件對遊戲聲譽和未來發展的長期影響。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "巴哈姆特GNN新聞",
+        "url": "https://gnn.gamer.com.tw/detail.php?sn=266395"
+      },
+      {
+        "label": "udn遊戲角落",
+        "url": "https://game.udn.com/game/story/122089/8129207"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-05",
+    "lastChecked": "2026-08-05",
     "autoDiscovered": true
   },
   {
@@ -3682,22 +3708,35 @@
     "launchEst": "2027-Q1",
     "desc": "一款文字推理解謎冒險遊戲，玩家將化身偵探，透過收集對話語段並質詢證人來揭開神祕舊案的真相。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【試玩版釋出，發售時間微調】《磁帶偵探》於2026 ChinaJoy展會上提供了試玩版，顯示遊戲開發進度良好。製作人透露正式版預計於明年初至年中（2027年Q1-Q2）公開，這與原訂的2027年Q1上線時間大致吻合，但可能略有推遲至Q2。遊戲的試玩活動有助於提升玩家期待度。\n\n▶ 建議行動：\n(1). 持續關注遊戲的開發進度與官方發售日期公告。\n(2). 留意是否有進一步的測試活動或預購資訊。\n(3). 追蹤遊戲在Steam平台的頁面，獲取最新資訊。",
     "verified": "Agent 發現 (2026-08-02)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-08-01 (ChinaJoy Demo)",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2642190/_/"
+      },
+      {
+        "label": "巴哈姆特GNN新聞",
+        "url": "https://gnn.gamer.com.tw/detail.php?sn=266406"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-05",
+    "lastChecked": "2026-08-05",
     "autoDiscovered": true
   },
   {
@@ -3722,22 +3761,39 @@
     "launchEst": "2026-Q4",
     "desc": "一款以中國志怪為背景的動作角色扮演遊戲，玩家將扮演猿公門弟子「裴三娘」，體驗以柔克剛的武俠戰鬥。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【多輪試玩，發售日期未定】《猿公劍》在2026 ChinaJoy展會上提供了試玩版，並在6月進行了媒體試玩活動，顯示遊戲開發持續進行中。然而，原訂2026年Q4的上線日期目前仍顯示為「即將推出」或「發售日期待定」，這暗示著發售時間可能有所延遲。遊戲的多次試玩有助於收集玩家反饋並優化遊戲體驗。\n\n▶ 建議行動：\n(1). 密切關注官方發布的最新消息，特別是關於發售日期的公告。\n(2). 追蹤遊戲在Steam和Epic Games Store的頁面，以獲取最新資訊。\n(3). 評估試玩反饋對遊戲最終品質和市場表現的影響。",
     "verified": "Agent 發現 (2026-08-02)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-08-01 (ChinaJoy Demo)",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2590200/_/"
+      },
+      {
+        "label": "Epic Games Store",
+        "url": "https://store.epicgames.com/zh-Hant/p/sword-sage-awakening-943e8d"
+      },
+      {
+        "label": "巴哈姆特GNN新聞",
+        "url": "https://gnn.gamer.com.tw/detail.php?sn=266398"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-05",
+    "lastChecked": "2026-08-05",
     "autoDiscovered": true
   },
   {
