@@ -3816,7 +3816,7 @@
     "launchEst": "2027-Q1",
     "desc": "一款末世幻想ARPG新作，玩家將扮演「艾維斯」探索破碎大陸，揭開「幻塵」與「災厄」的真相。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】開發進度緩慢\n\n描述：遊戲製作人透露目前開發進度僅約5%，原定2027-Q1上線時程恐難達成。雖然在ChinaJoy開放試玩，但這更像是技術展示而非正式測試階段，距離完整發布仍有很長的路。\n\n▶ 建議行動：\n(1). 持續追蹤開發團隊Nipcat Studio的官方公告與社群動態，特別是關於開發進度與潛在測試的資訊。\n(2). 評估是否需要調整預期上線時間，考慮將其延後。\n(3). 關注是否有新的資金投入或合作夥伴，以加速開發進度。",
     "verified": "Agent 發現 (2026-08-02)",
     "category": "active",
     "testType": "待確認",
@@ -3828,10 +3828,14 @@
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2026-08-06",
     "autoDiscovered": true
   },
   {
@@ -3856,7 +3860,7 @@
     "launchEst": "2027-Q1",
     "desc": "2011年PSP策略角色扮演遊戲《超級機器人大戰ZII：破界篇》的重製版，將首次全球發行並支援多語言。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】上線時程不確定\n\n描述：遊戲已正式宣布重製，並確認支援多國語言，但官方表示今年內推出有困難，且具體平台與發售時期尚未公布，原定2027-Q1上線時程可能延後。\n\n▶ 建議行動：\n(1). 持續關注萬代南夢宮娛樂的官方公告，特別是關於發售平台與確切日期的更新。\n(2). 評估遊戲延期對市場競爭的影響，以及是否會影響玩家期待度。\n(3). 考慮將預期上線時間調整為「待定」或更晚的季度。",
     "verified": "Agent 發現 (2026-08-02)",
     "category": "active",
     "testType": "待確認",
@@ -3868,10 +3872,14 @@
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2026-08-06",
     "autoDiscovered": true
   },
   {
@@ -3895,7 +3903,7 @@
     "launchEst": "2026-08",
     "desc": "一款由Arc System Works開發的4v4漫威主題格鬥遊戲，將於2026年8月6日發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】資訊不足\n\n描述：未能找到關於遊戲狀態、測試或上線日期的最新資訊。遊戲狀態標示為「live-ops」但上線日期為「2026-08」，存在矛盾。\n\n▶ 建議行動：\n(1). 需進一步確認遊戲的實際營運狀態與上線情況，例如搜尋遊戲名稱加上「上市」、「營運」等關鍵字。\n(2). 擴大搜尋範圍，嘗試使用開發商Arc System Works的官方管道或相關遊戲媒體進行查詢。\n(3). 若仍無資訊，考慮將其標記為「待定」或「移除」，並在後續追蹤中優先處理。",
     "verified": "Agent 發現 (2026-08-02)",
     "category": "active",
     "testType": "待確認",
@@ -3909,8 +3917,8 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2026-08-06",
     "autoDiscovered": true
   },
   {
@@ -3933,25 +3941,38 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08",
+    "launchEst": "2026-08-18",
     "desc": "一款生活模擬遊戲，玩家將在星沙島上釣魚、耕種、飼養動物，並與當地居民建立關係，打造夢想天堂。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】機會與挑戰並存\n\n描述：遊戲已成功開啟搶先體驗並確認正式上線日期，顯示開發進度良好且市場反應積極。然而，多人連線模式的穩定性與內容豐富度將是正式上線後的關鍵挑戰，需確保玩家體驗流暢。\n\n▶ 建議行動：\n(1). 密切關注正式上線後的玩家評價與社群回饋，特別是關於多人模式的體驗與潛在問題。\n(2). 評估遊戲在各平台上的表現與市場反應，並與競品進行比較。\n(3). 考慮在遊戲正式上線後進行推廣活動，例如與實況主合作或舉辦社群活動，以維持熱度。",
     "verified": "Agent 發現 (2026-08-02)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-02-11",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2966320/Starsand_Island/"
+      },
+      {
+        "label": "官網",
+        "url": "https://www.starsandisland.com/ja/#/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2026-08-06",
     "autoDiscovered": true
   },
   {
@@ -3975,22 +3996,31 @@
     "launchEst": "2026-Q4",
     "desc": "一款劇情導向的冒險遊戲，改編自米澤穗信的暢銷推理小說，融合閱讀與觀劇體驗。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】市場競爭\n\n描述：遊戲已正式宣布並確認上線平台與時間，且有知名IP加持。然而，作為文字解謎冒險遊戲，需在競爭激烈的市場中脫穎而出，並吸引核心粉絲以外的玩家。\n\n▶ 建議行動：\n(1). 關注遊戲的宣傳策略與獨特賣點，特別是米澤穗信全新撰寫的原創章節的吸引力。\n(2). 評估遊戲在Nintendo Switch與Steam平台上的預購與玩家關注度，並分析目標客群。\n(3). 考慮與相關文學社群或推理遊戲社群合作推廣，擴大遊戲的影響力。",
     "verified": "Agent 發現 (2026-08-02)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/4972460"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2026-08-06",
     "autoDiscovered": true
   },
   {
@@ -4417,6 +4447,410 @@
       }
     ],
     "updatedAt": "2026-08-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 79,
+    "name": "轉世之獸",
+    "nameEn": "Tensei no Kemono",
+    "developer": "GameFreak",
+    "studio": "GameFreak",
+    "publisher": "GameFreak",
+    "genre": "角色扮演",
+    "platform": [
+      "Switch"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": null,
+    "desc": "GameFreak開發的最新作品，玩家評價褒貶不一，官方將提供修正更新。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 80,
+    "name": "Danchi Days",
+    "nameEn": "Danchi Days",
+    "developer": "sandy powder, Melos Han-Tani, mogumu, gingham games",
+    "studio": "sandy powder, Melos Han-Tani, mogumu, gingham games",
+    "publisher": "sandy powder, Melos Han-Tani, mogumu, gingham games",
+    "genre": "冒險模擬",
+    "platform": [
+      "PC",
+      "Mac"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-10",
+    "desc": "一款設定在2000年代日本社區的喜劇兼苦樂參半的生活冒險遊戲，預計於2026年10月29日發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 81,
+    "name": "Beaten Path",
+    "nameEn": "Beaten Path",
+    "developer": "Peacebreak Studio",
+    "studio": "Peacebreak Studio",
+    "publisher": "Peacebreak Studio",
+    "genre": "戰術角色扮演",
+    "platform": [
+      "PS5",
+      "Xbox Series",
+      "Switch",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "一款由Peacebreak Studio開發的戰術角色扮演遊戲，預計於2027年發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 82,
+    "name": "Moonlighter 2: The Endless Vault",
+    "nameEn": "Moonlighter 2: The Endless Vault",
+    "developer": "Digital Sun",
+    "studio": "Digital Sun",
+    "publisher": "Digital Sun",
+    "genre": "動作角色扮演",
+    "platform": [
+      "PS5",
+      "Xbox Series",
+      "Switch 2",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "知名動作角色扮演遊戲《Moonlighter》的續作，預計於2026年9月2日發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 83,
+    "name": "Isle of Reveries",
+    "nameEn": "Isle of Reveries",
+    "developer": "desertcucco",
+    "studio": "desertcucco",
+    "publisher": "desertcucco",
+    "genre": "動作冒險",
+    "platform": [
+      "PS5",
+      "Xbox Series",
+      "PS4",
+      "Xbox One",
+      "Switch",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "一款受《薩爾達傳說》啟發的合作動作冒險遊戲，預計於2026年9月4日發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 84,
+    "name": "Crimson Moon",
+    "nameEn": "Crimson Moon",
+    "developer": "ProbablyMonsters",
+    "studio": "ProbablyMonsters",
+    "publisher": "ProbablyMonsters",
+    "genre": "動作角色扮演",
+    "platform": [
+      "PS5",
+      "Xbox Series",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "一款哥德式動作角色扮演遊戲，預計於2026年9月1日發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 85,
+    "name": "The Walking Dead: Streets of Survival",
+    "nameEn": "The Walking Dead: Streets of Survival",
+    "developer": "Odaclick Game Studio",
+    "studio": "Odaclick Game Studio",
+    "publisher": "Odaclick Game Studio",
+    "genre": "街機格鬥",
+    "platform": [
+      "PS5",
+      "Xbox Series",
+      "Switch",
+      "Switch 2",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "一款以《陰屍路》為背景的像素風格街機格鬥遊戲，預計於2026年9月18日發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 86,
+    "name": "Hazard Pay",
+    "nameEn": "Hazard Pay",
+    "developer": "Smitner Studio",
+    "studio": "Smitner Studio",
+    "publisher": "Smitner Studio",
+    "genre": "益智解謎",
+    "platform": [
+      "PS5",
+      "Switch",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "一款像素藝術風格的反烏托邦推箱子益智遊戲，預計於2026年9月10日發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 87,
+    "name": "ENDLESS Legend II",
+    "nameEn": "ENDLESS Legend II",
+    "developer": "Amplitude Studios",
+    "studio": "Amplitude Studios",
+    "publisher": "Amplitude Studios",
+    "genre": "4X策略",
+    "platform": [
+      "PS5",
+      "Xbox Series",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "知名4X策略遊戲《ENDLESS Legend》的續作，預計於2026年9月17日發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 88,
+    "name": "Project RX",
+    "nameEn": "Project RX",
+    "developer": "Nexon",
+    "studio": "Nexon",
+    "publisher": "Nexon",
+    "genre": "3D美少女異世界",
+    "platform": [
+      "PC",
+      "Mobile",
+      "Console"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": null,
+    "desc": "Nexon開發的3D美少女異世界遊戲，將提供與《蔚藍檔案》不同的體驗，即將展開封閉測試。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-08-06",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true
   }

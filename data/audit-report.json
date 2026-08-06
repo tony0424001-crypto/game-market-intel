@@ -1,39 +1,39 @@
 {
-  "lastAudit": "2026-08-05T03:42:03.889558+00:00",
+  "lastAudit": "2026-08-06T03:47:55.669913+00:00",
   "totalProducts": 77,
-  "updatesApplied": 16,
+  "updatesApplied": 13,
   "findings": [
     {
-      "name": "愚者不滅",
+      "name": "艾維斯：雙生幻影",
       "status": "warning",
       "issue": "狀態: announced→announced",
       "autoFixed": true
     },
     {
-      "name": "煉獄之藍",
+      "name": "超級機器人大戰ZII：破界篇 重製版",
       "status": "warning",
       "issue": "狀態: announced→announced",
       "autoFixed": true
     },
     {
-      "name": "磁帶偵探",
+      "name": "星沙島",
       "status": "warning",
-      "issue": "狀態: announced→announced",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "猿公劍",
+      "name": "書與鑰匙之季節",
       "status": "warning",
       "issue": "狀態: announced→announced",
       "autoFixed": true
     }
   ],
   "checked": [
-    "愚者不滅",
-    "針葉林公園2",
-    "煉獄之藍",
-    "磁帶偵探",
-    "猿公劍"
+    "艾維斯：雙生幻影",
+    "超級機器人大戰ZII：破界篇 重製版",
+    "漫威激戰：格鬥之魂",
+    "星沙島",
+    "書與鑰匙之季節"
   ],
   "nextBatch": [
     "無限大",
