@@ -4043,13 +4043,18 @@
     "launchEst": "2026-10",
     "desc": "一款受東方Project啟發的黑暗奇幻彈幕射擊遊戲，講述少女為復活妹妹而擊敗三位女巫的故事。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【潛在威脅】發行時間點接近，但目前除了發行日期外，缺乏其他行銷或測試活動資訊，可能導致上市聲量不足。\n\n▶ 建議行動：\n(1). 持續關注Steam頁面及開發商社群，確認是否有新的宣傳或預熱活動。\n(2). 評估是否需要主動聯繫開發商，了解是否有合作推廣的機會。\n(3). 觀察上市後初期表現，評估是否需要調整追蹤策略。",
     "verified": "Agent 發現 (2026-08-02)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2996230/SANASANA/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -4057,8 +4062,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-07",
+    "lastChecked": "2026-08-07",
     "autoDiscovered": true
   },
   {
@@ -4074,29 +4079,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "cbt",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2027-Q1",
+    "launchEst": "2026",
     "desc": "一款設定在1989年東京的魔法主題RPG手遊，將於8月19日開始招募封閉測試玩家。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【機會與風險並存】CBT招募已啟動，顯示開發進度良好，但上市日期從2027-Q1提前至2026年，可能壓縮後續測試與優化時間。同時，CBT測試日期尚未公布，需持續關注。\n\n▶ 建議行動：\n(1). 密切追蹤CBT測試的確切時間與內容，評估遊戲品質與玩家反饋。\n(2). 關注預註冊活動的啟動，評估市場預熱狀況。\n(3). 留意是否有新的宣傳素材或合作夥伴公布，以評估其市場策略。",
     "verified": "Agent 發現 (2026-08-02)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-09-21",
+    "sourceLinks": [
+      {
+        "label": "官網",
+        "url": "https://astraeoratio.nc.com/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "cbt"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-07",
+    "lastChecked": "2026-08-07",
     "autoDiscovered": true
   },
   {
@@ -4119,7 +4133,7 @@
     "launchEst": "2026-Q4",
     "desc": "一款以第二次世界大戰為歷史題材的第一人稱射擊新作。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【無法追蹤】由於遊戲名稱過於通用且缺乏開發商資訊，目前無法有效追蹤其狀態。建議將此遊戲從追蹤列表中移除。\n\n▶ 建議行動：\n(1). 移除此遊戲的追蹤。\n(2). 若未來有更具體的遊戲名稱或開發商資訊，可重新評估是否納入追蹤。\n(3). 避免追蹤過於模糊的項目，以提高追蹤效率。",
     "verified": "Agent 發現 (2026-08-04)",
     "category": "active",
     "testType": "待確認",
@@ -4133,8 +4147,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-04",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-07",
+    "lastChecked": "2026-08-07",
     "autoDiscovered": true
   },
   {
@@ -4154,25 +4168,34 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08",
+    "launchEst": "2026-08-05",
     "desc": "一款roguelike卡牌戰棋新作，玩家在戰鬥中同時操控三名角色。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【已上市】遊戲已於2026年8月5日正式在Steam平台上市。目前應轉為觀察其上市後表現與營運狀況。\n\n▶ 建議行動：\n(1). 觀察遊戲上市後的銷售數據、玩家評價及社群討論熱度。\n(2). 追蹤是否有後續更新、DLC或活動推出，以評估其長線營運潛力。\n(3). 評估是否需要調整追蹤頻率，從開發階段轉為營運階段的監控。",
     "verified": "Agent 發現 (2026-08-04)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2179920/_ReNight/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-04",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-07",
+    "lastChecked": "2026-08-07",
     "autoDiscovered": true
   },
   {
@@ -4188,29 +4211,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "cbt",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
     "launchEst": "2026",
     "desc": "一款賽博龐克風格的店鋪經營模擬遊戲，玩家需在其中製作、交易和走私貨物。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【測試階段】遊戲目前正在Steam平台進行公開測試，顯示開發進度良好。上市日期仍為2026年，但尚未有確切時間。\n\n▶ 建議行動：\n(1). 密切關注Steam測試的玩家反饋與遊戲更新，評估其開發方向與潛力。\n(2). 追蹤是否有新的測試階段或預註冊活動公布。\n(3). 評估測試表現是否會影響原定的上市時間，並適時調整預期。",
     "verified": "Agent 發現 (2026-08-04)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2687600/Probably_Stolen__Cyberpunk_Pawnshop_Simulator/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "cbt"
       }
     ],
-    "updatedAt": "2026-08-04",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-07",
+    "lastChecked": "2026-08-07",
     "autoDiscovered": true
   },
   {

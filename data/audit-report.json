@@ -1,39 +1,39 @@
 {
-  "lastAudit": "2026-08-06T03:47:55.669913+00:00",
-  "totalProducts": 77,
-  "updatesApplied": 13,
+  "lastAudit": "2026-08-07T03:23:57.489106+00:00",
+  "totalProducts": 87,
+  "updatesApplied": 15,
   "findings": [
     {
-      "name": "艾維斯：雙生幻影",
+      "name": "Astrae Oratio",
       "status": "warning",
-      "issue": "狀態: announced→announced",
+      "issue": "狀態: cbt→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "超級機器人大戰ZII：破界篇 重製版",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
+      "name": "抵抗者",
+      "status": "error",
+      "issue": "移除: 無法追蹤：遊戲名稱過於通用，無法找到具體資訊，且開發商資訊缺失。",
+      "autoFixed": false
     },
     {
-      "name": "星沙島",
+      "name": "黑夜輪迴",
       "status": "warning",
       "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "書與鑰匙之季節",
+      "name": "Probably Stolen",
       "status": "warning",
-      "issue": "狀態: announced→announced",
+      "issue": "狀態: announced→cbt",
       "autoFixed": true
     }
   ],
   "checked": [
-    "艾維斯：雙生幻影",
-    "超級機器人大戰ZII：破界篇 重製版",
-    "漫威激戰：格鬥之魂",
-    "星沙島",
-    "書與鑰匙之季節"
+    "SANASANA",
+    "Astrae Oratio",
+    "抵抗者",
+    "黑夜輪迴",
+    "Probably Stolen"
   ],
   "nextBatch": [
     "無限大",
