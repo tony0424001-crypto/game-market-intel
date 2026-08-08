@@ -4261,29 +4261,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-12",
+    "launchEst": "2026-12-10",
     "desc": "《進擊的巨人》系列新作，預計於12月10日推出，玩家將扮演調查兵團成員重溫故事。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發售日期確認】遊戲已確認於2026年12月10日發售，並開放預購，顯示開發進度穩定。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲預購狀況與宣傳活動。\n(2). 關注是否有新的實機演示或測試消息。\n(3). 評估遊戲上市後的市場反應與玩家評價。",
     "verified": "Agent 發現 (2026-08-04)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "官網",
+        "url": "https://www.gamecity.com.tw/shingeki3/tch/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-04",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2026-08-08",
     "autoDiscovered": true
   },
   {
@@ -4307,13 +4316,22 @@
     "launchEst": "2027",
     "desc": "一款以梯子為主題的2D精準平台跳躍遊戲，玩家需利用梯子進行攀爬和移動。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【資訊更新】遊戲仍維持2027年發售，並已推出Demo供玩家體驗，顯示開發進度良好。Steam願望清單已開放，有助於累積玩家關注度。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與更精確的發售日期。\n(2). 關注Demo的玩家反饋與媒體評價。\n(3). 評估遊戲在Steam願望清單的表現。",
     "verified": "Agent 發現 (2026-08-04)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3871300/Ladder_Lad/"
+      },
+      {
+        "label": "官網",
+        "url": "https://www.buck.co/games/ladder-lad"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -4321,8 +4339,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-04",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2026-08-08",
     "autoDiscovered": true
   },
   {
@@ -4343,26 +4361,41 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08",
+    "launchEst": "2026-08-07",
     "desc": "《幻想水滸傳》系列新作，8月7日在日本推出，是一款免費遊玩的策略角色扮演遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【已上市】遊戲已於日本地區正式上線，符合原定上市月份。需持續關注其營運狀況及全球版上市計畫。\n\n▶ 建議行動：\n(1). 追蹤日本地區的營收表現與玩家評價。\n(2). 關注全球版及Steam版的發布時程。\n(3). 分析遊戲內容更新與活動，評估其長線營運潛力。",
     "verified": "Agent 發現 (2026-08-04)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "App Store JP",
+        "url": "https://apps.apple.com/jp/app/%E5%B9%BB%E6%83%B3%E6%B0%B4%E6%BB%AF%E5%82%B3star-leap/id1660706691"
+      },
+      {
+        "label": "Google Play JP",
+        "url": "https://play.google.com/store/apps/details?id=jp.konami.gensuikoden.starleap"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-04",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2026-08-08",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲已於2026年8月7日在日本地區正式上線，登陸iOS和Android平台。全球版及Steam版發售時間待公布。",
+    "eventNote": "遊戲已於2026年8月7日在日本地區正式上線，登陸iOS和Android平台。全球版及Steam版發售時間待公布。"
   },
   {
     "id": 76,
@@ -4384,13 +4417,26 @@
     "launchEst": "2026",
     "desc": "《幻獸帕魯》系列的手機線上遊戲新作，由Garena開發並發行，將帶來新的故事和擴展的傳說。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【資訊確認】遊戲已確認為Garena開發的《幻獸帕魯》IP手遊，預計於2026年內上市。目前仍處於公布階段，需持續關注後續開發與測試消息。\n\n▶ 建議行動：\n(1). 追蹤Garena官方發布的遊戲開發進度與具體上市日期。\n(2). 關注是否有預註冊或測試活動的資訊。\n(3). 評估《幻獸帕魯》IP在手遊市場的潛力與競爭狀況。",
     "verified": "Agent 發現 (2026-08-04)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@PalworldOnline"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/invite/palworldonline"
+      },
+      {
+        "label": "Reddit",
+        "url": "https://www.reddit.com/r/Palworld_Online/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -4398,8 +4444,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-04",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2026-08-08",
     "autoDiscovered": true
   },
   {
@@ -4422,26 +4468,41 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08",
+    "launchEst": "2026-08-06",
     "desc": "一款可變形守護者題材的橫向捲軸射擊遊戲，玩家可在飛機和機器人形態間切換。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【已上市】遊戲已於現代平台正式上線，符合原定上市月份。作為NES/Famicom版本的移植，其市場表現與玩家接受度值得關注。\n\n▶ 建議行動：\n(1). 追蹤遊戲在各平台的銷售數據與玩家評價。\n(2). 關注是否有後續更新或DLC計畫。\n(3). 分析其復古風格在當前市場的競爭力。",
     "verified": "Agent 發現 (2026-08-04)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Xbox Store",
+        "url": "https://www.xbox.com/zh-TW/games/store/changeable-guardian-estique/9P373461226R"
+      },
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/4078160/Changeable_Guardian_ESTIQUE/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-04",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2026-08-08",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲已於2026年8月6日正式發售，登陸Microsoft Windows、Nintendo Switch、PlayStation 5、Xbox Series X/S平台。此為2024年NES/Famicom版本的現代移植版。",
+    "eventNote": "遊戲已於2026年8月6日正式發售，登陸Microsoft Windows、Nintendo Switch、PlayStation 5、Xbox Series X/S平台。此為2024年NES/Famicom版本的現代移植版。"
   },
   {
     "id": 78,
@@ -4883,6 +4944,395 @@
       }
     ],
     "updatedAt": "2026-08-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 89,
+    "name": "水滸歷險 Online：重生",
+    "nameEn": "Water Margin Online: Rebirth",
+    "developer": "",
+    "studio": "",
+    "publisher": "",
+    "genre": "大型線上角色扮演",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "N/A",
+    "desc": "承襲經典玩法並符合現代玩家習慣的MMORPG。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 90,
+    "name": "Caladrius２/Dark Element",
+    "nameEn": "Caladrius 2/Dark Element",
+    "developer": "Kaminari Games",
+    "studio": "Kaminari Games",
+    "publisher": "Kaminari Games",
+    "genre": "飛行射擊",
+    "platform": [
+      "PC",
+      "PS5",
+      "Switch"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "經典2D飛行射擊遊戲新作，預計今年冬季登陸主機與PC平台。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 91,
+    "name": "遠征：墮入黑暗",
+    "nameEn": "Expedition: Into the Dark",
+    "developer": "Antediluvian Interactive",
+    "studio": "Antediluvian Interactive",
+    "publisher": "Antediluvian Interactive",
+    "genre": "撤離奪寶",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "中世紀背景的撤離奪寶新作，今日推出免費Demo。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 92,
+    "name": "守護我的大火箭",
+    "nameEn": "Guard My Big Rocket",
+    "developer": "Gugu Studio",
+    "studio": "Gugu Studio",
+    "publisher": "Gugu Studio",
+    "genre": "末日生存",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08-14",
+    "desc": "結合搜打撤、基地建造與塔防玩法的末日生存新作，將於8月14日登場。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 93,
+    "name": "血色序曲",
+    "nameEn": "Crimson Overture",
+    "developer": "Lightbulb Crew",
+    "studio": "Lightbulb Crew",
+    "publisher": "Lightbulb Crew",
+    "genre": "回合制戰鬥",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09-10",
+    "desc": "《彼岸花》團隊新作，具備獨特動態回合制戰鬥系統，搶先體驗將於9月10日登場。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 94,
+    "name": "Way of the Hunter 2",
+    "nameEn": "Way of the Hunter 2",
+    "developer": "Nine Rocks Games",
+    "studio": "Nine Rocks Games",
+    "publisher": "Nine Rocks Games",
+    "genre": "狩獵模擬",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series X|S"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09-29",
+    "desc": "狩獵模擬遊戲續作，將於9月29日推出。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 95,
+    "name": "Serious Sam: Shatterverse",
+    "nameEn": "Serious Sam: Shatterverse",
+    "developer": "Behaviour Interactive",
+    "studio": "Behaviour Interactive",
+    "publisher": "Behaviour Interactive",
+    "genre": "第一人稱射擊",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series X|S"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08-31",
+    "desc": "第一人稱射擊遊戲新作，將於8月31日推出。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 96,
+    "name": "Phantom: PHANTOM OF INFERNO NITRO ARCHIVE",
+    "nameEn": "Phantom: PHANTOM OF INFERNO NITRO ARCHIVE",
+    "developer": "Nitroplus",
+    "studio": "Nitroplus",
+    "publisher": "Nitroplus",
+    "genre": "視覺小說",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09-04",
+    "desc": "《Phantom: PHANTOM OF INFERNO》的NITRO ARCHIVE版本，將於9月4日推出。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 97,
+    "name": "Moomintroll: Winter’s Warmth",
+    "nameEn": "Moomintroll: Winter’s Warmth",
+    "developer": "Hyper Games",
+    "studio": "Hyper Games",
+    "publisher": "Hyper Games",
+    "genre": "冒險遊戲",
+    "platform": [
+      "PS5",
+      "Switch 2",
+      "PC",
+      "Switch"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09-18",
+    "desc": "以姆明為主題的冒險遊戲，將於9月18日登陸PS5和Switch 2。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 98,
+    "name": "百百",
+    "nameEn": "Hyakubyaku",
+    "developer": "BA-KU",
+    "studio": "BA-KU",
+    "publisher": "BA-KU",
+    "genre": "視覺小說",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "N/A",
+    "desc": "知名視覺小說作者瀬戸口廉也宣布的新專案。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-08",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true
   }

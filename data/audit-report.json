@@ -1,39 +1,33 @@
 {
-  "lastAudit": "2026-08-07T03:23:57.489106+00:00",
+  "lastAudit": "2026-08-08T02:26:49.142955+00:00",
   "totalProducts": 87,
-  "updatesApplied": 15,
+  "updatesApplied": 18,
   "findings": [
     {
-      "name": "Astrae Oratio",
+      "name": "進擊的巨人3",
       "status": "warning",
-      "issue": "狀態: cbt→pre-reg",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "抵抗者",
-      "status": "error",
-      "issue": "移除: 無法追蹤：遊戲名稱過於通用，無法找到具體資訊，且開發商資訊缺失。",
-      "autoFixed": false
-    },
-    {
-      "name": "黑夜輪迴",
+      "name": "幻想水滸傳 STAR LEAP",
       "status": "warning",
       "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "Probably Stolen",
+      "name": "可變形守護者 ESTIQUE",
       "status": "warning",
-      "issue": "狀態: announced→cbt",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "SANASANA",
-    "Astrae Oratio",
-    "抵抗者",
-    "黑夜輪迴",
-    "Probably Stolen"
+    "進擊的巨人3",
+    "Ladder Lad",
+    "幻想水滸傳 STAR LEAP",
+    "幻獸帕魯 Online",
+    "可變形守護者 ESTIQUE"
   ],
   "nextBatch": [
     "無限大",
