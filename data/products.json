@@ -4525,7 +4525,7 @@
     "launchEst": "",
     "desc": "《超級機器人大戰Z II：破界篇》的重製版，將首次在全球發行並支援多語言。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【資訊不足】目前搜尋結果中沒有關於《超級機器人大戰Z II：破界篇 重製版》的具體狀態更新、測試結束日期、上線日期或任何延遲、關閉、新測試階段的資訊。\n\n▶ 建議行動：\n(1). 持續監控相關遊戲新聞與開發商Bandai Namco Forge Digitals的官方公告。\n(2). 確認遊戲名稱是否完全正確，或是否有其他常用譯名，以便進行更精確的搜尋。\n(3). 若長時間無任何新資訊，可能需評估其專案狀態。",
     "verified": "Agent 發現 (2026-08-04)",
     "category": "active",
     "testType": "待確認",
@@ -4539,8 +4539,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-04",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-09",
+    "lastChecked": "2026-08-09",
     "autoDiscovered": true
   },
   {
@@ -4560,25 +4560,42 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": null,
+    "launchEst": "2026-08-04",
     "desc": "GameFreak開發的最新作品，玩家評價褒貶不一，官方將提供修正更新。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【已上線】遊戲已於2026年8月4日正式發售，並在多個平台推出。開發商Game Freak積極回應玩家反饋，承諾推出更新修正問題，顯示其對遊戲品質的重視與長期營運的意願。\n\n▶ 建議行動：\n(1). 密切關注遊戲上市後的玩家評價與營運狀況，特別是Game Freak承諾的更新內容是否有效改善遊戲體驗。\n(2). 追蹤遊戲的銷售表現與社群活躍度，評估其市場潛力。\n(3). 考慮將遊戲狀態從'live-ops'更新為'launched'，並記錄實際發售日期。",
     "verified": "Agent 發現 (2026-08-06)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/轉世之獸"
+      },
+      {
+        "label": "官網 (Fictions)",
+        "url": "https://fictions.com/ja/games/beast-of-reincarnation"
+      },
+      {
+        "label": "官網 (Happinet)",
+        "url": "https://beast-of-reincarnation.happinet-games.com"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-06",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-09",
+    "lastChecked": "2026-08-09",
     "autoDiscovered": true
   },
   {
@@ -4599,25 +4616,34 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-10",
+    "launchEst": "2026-10-29",
     "desc": "一款設定在2000年代日本社區的喜劇兼苦樂參半的生活冒險遊戲，預計於2026年10月29日發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發售日期確認】遊戲的確切發售日期已確認為2026年10月29日，並提供試玩版。這有助於在正式發售前累積玩家關注度。\n\n▶ 建議行動：\n(1). 監控試玩版的玩家反饋，評估遊戲的市場接受度。\n(2). 準備在發售前進行宣傳活動，利用已確認的發售日期進行推廣。\n(3). 追蹤遊戲在Steam願望清單的表現。",
     "verified": "Agent 發現 (2026-08-06)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/Danchi_Days"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-06",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-09",
+    "lastChecked": "2026-08-09",
     "autoDiscovered": true
   },
   {
@@ -4643,13 +4669,18 @@
     "launchEst": "2027",
     "desc": "一款由Peacebreak Studio開發的戰術角色扮演遊戲，預計於2027年發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發售年份確認，日期未定】遊戲已確認將於2027年發售，但具體日期仍未公布。這表示開發進度可能仍在規劃中，或尚未準備好公布更精確的時程。\n\n▶ 建議行動：\n(1). 持續關注開發商Peacebreak Studio和發行商Wales Interactive的官方公告，以獲取更精確的發售日期。\n(2). 追蹤遊戲的社群討論和媒體報導，了解潛在的測試活動或開發進度更新。\n(3). 由於發售時間較遠，可將追蹤頻率調整為中等。",
     "verified": "Agent 發現 (2026-08-06)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/Beaten_Path"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -4657,8 +4688,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-06",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-09",
+    "lastChecked": "2026-08-09",
     "autoDiscovered": true
   },
   {
@@ -4681,25 +4712,38 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-09",
+    "launchEst": "2026-09-02",
     "desc": "知名動作角色扮演遊戲《Moonlighter》的續作，預計於2026年9月2日發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【正式發售日期確認】遊戲將於2026年9月2日結束搶先體驗並正式發售1.0版本，這是一個重要的里程碑。同時提供試玩版和加入Game Pass有助於擴大玩家群體。\n\n▶ 建議行動：\n(1). 密切關注1.0版本發售後的玩家評價和媒體評測，評估遊戲的最終品質和市場反應。\n(2). 監控Game Pass的數據表現，評估其對遊戲普及率的影響。\n(3). 考慮將遊戲狀態從'live-ops'更新為'launched'，並記錄實際發售日期。",
     "verified": "Agent 發現 (2026-08-06)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/Moonlighter_2_The_Endless_Vault"
+      },
+      {
+        "label": "Xbox",
+        "url": "https://www.xbox.com/en-US/games/store/moonlighter-2-the-endless-vault-game-preview/9P29221Q522F"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-06",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-09",
+    "lastChecked": "2026-08-09",
     "autoDiscovered": true
   },
   {
