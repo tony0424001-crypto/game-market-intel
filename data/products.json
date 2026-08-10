@@ -4764,29 +4764,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-09",
+    "launchEst": "2026-09-04",
     "desc": "一款受《薩爾達傳說》啟發的合作動作冒險遊戲，預計於2026年9月4日發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【機會】遊戲發售日已確認為2026年9月4日，並將在多個平台同步推出。目前有試玩版可供玩家體驗。\n\n▶ 建議行動：\n(1). 持續關注遊戲發售後的表現與玩家回饋。\n(2). 評估遊戲在各平台的初期銷售數據。\n(3). 考慮在遊戲上線後進行深度評測。",
     "verified": "Agent 發現 (2026-08-06)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3100970/Isle_of_Reveries/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-06",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-10",
+    "lastChecked": "2026-08-10",
     "autoDiscovered": true
   },
   {
@@ -4804,29 +4813,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-09",
+    "launchEst": "2026-09-01",
     "desc": "一款哥德式動作角色扮演遊戲，預計於2026年9月1日發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【機會】遊戲發售日已確認為2026年9月1日，並將在PS5、Xbox Series X|S和PC平台推出。 遊戲在6月進行了試玩，評價良好。\n\n▶ 建議行動：\n(1). 密切關注遊戲發售後的市場反應與銷售數據。\n(2). 評估遊戲的獨特玩法和合作模式是否能吸引玩家。\n(3). 考慮與開發商合作進行推廣活動。",
     "verified": "Agent 發現 (2026-08-06)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2700940/Crimson_Moon/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-06",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-10",
+    "lastChecked": "2026-08-10",
     "autoDiscovered": true
   },
   {
@@ -4846,29 +4864,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-09",
+    "launchEst": "2026-09-18",
     "desc": "一款以《陰屍路》為背景的像素風格街機格鬥遊戲，預計於2026年9月18日發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【機會】遊戲發售日已確認為2026年9月18日，並將在多個平台推出。 目前Steam上提供免費試玩版。\n\n▶ 建議行動：\n(1). 關注遊戲發售後的玩家評價，特別是單人遊玩體驗方面。\n(2). 評估遊戲在《陰屍路》IP粉絲群體中的接受度。\n(3). 考慮遊戲的長期營運潛力，尤其是在DLC和更新方面。",
     "verified": "Agent 發現 (2026-08-06)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2800950/The_Walking_Dead_Streets_of_Survival/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-06",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-10",
+    "lastChecked": "2026-08-10",
     "autoDiscovered": true
   },
   {
@@ -4886,29 +4913,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-09",
+    "launchEst": "2026-09-10",
     "desc": "一款像素藝術風格的反烏托邦推箱子益智遊戲，預計於2026年9月10日發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【機會】遊戲發售日已確認為2026年9月10日，並將在PS5、Switch和PC平台推出。 Steam上提供試玩版。\n\n▶ 建議行動：\n(1). 關注遊戲發售後的市場表現，特別是其像素藝術風格和解謎玩法是否能吸引特定玩家群體。\n(2). 評估遊戲在各平台的銷售情況。\n(3). 考慮遊戲的內容更新和社區互動策略。",
     "verified": "Agent 發現 (2026-08-06)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2800960/Hazard_Pay/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-06",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-10",
+    "lastChecked": "2026-08-10",
     "autoDiscovered": true
   },
   {
@@ -4930,26 +4966,37 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-09",
+    "launchEst": "2026-09-17",
     "desc": "知名4X策略遊戲《ENDLESS Legend》的續作，預計於2026年9月17日發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【機會】遊戲已於2025年9月22日在PC平台推出搶先體驗版，並將於2026年9月17日正式發布1.0版本，同時登陸PS5和Xbox Series X/S。 目前Steam上提供新的試玩版。\n\n▶ 建議行動：\n(1). 密切關注1.0版本發布後的玩家評價和內容更新。\n(2). 評估遊戲在主機平台的表現和市場接受度。\n(3). 考慮遊戲的長期內容規劃和社區參與度，以維持其作為4X策略遊戲的競爭力。",
     "verified": "Agent 發現 (2026-08-06)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-09-17",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3407390/ENDLESS_Legend_2/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-06",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-10",
+    "lastChecked": "2026-08-10",
+    "autoDiscovered": true,
+    "currentEvent": "Full release (version 1.0) confirmed for September 17, 2026, on PC, PS5, and Xbox Series X/S. The game has been in Early Access since September 22, 2025.",
+    "eventNote": "Full release (version 1.0) confirmed for September 17, 2026, on PC, PS5, and Xbox Series X/S. The game has been in Early Access since September 22, 2025."
   },
   {
     "id": 88,

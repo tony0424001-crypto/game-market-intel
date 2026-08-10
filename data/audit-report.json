@@ -1,33 +1,45 @@
 {
-  "lastAudit": "2026-08-09T02:33:50.516062+00:00",
+  "lastAudit": "2026-08-10T02:39:58.944897+00:00",
   "totalProducts": 97,
-  "updatesApplied": 15,
+  "updatesApplied": 22,
   "findings": [
     {
-      "name": "轉世之獸",
+      "name": "Isle of Reveries",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "Danchi Days",
+      "name": "Crimson Moon",
       "status": "warning",
-      "issue": "狀態: announced→announced",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "Moonlighter 2: The Endless Vault",
+      "name": "The Walking Dead: Streets of Survival",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "Hazard Pay",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "ENDLESS Legend II",
       "status": "warning",
       "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "超級機器人大戰Z II：破界篇 重製版",
-    "轉世之獸",
-    "Danchi Days",
-    "Beaten Path",
-    "Moonlighter 2: The Endless Vault"
+    "Isle of Reveries",
+    "Crimson Moon",
+    "The Walking Dead: Streets of Survival",
+    "Hazard Pay",
+    "ENDLESS Legend II"
   ],
   "nextBatch": [
     "無限大",
