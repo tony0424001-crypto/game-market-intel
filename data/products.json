@@ -5020,12 +5020,12 @@
     "launchEst": null,
     "desc": "Nexon開發的3D美少女異世界遊戲，將提供與《蔚藍檔案》不同的體驗，即將展開封閉測試。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】無威脅，開發進度良好。\n\n▶ 建議行動：\n(1). 持續追蹤CBT測試的確切日期與結果。\n(2). 關注遊戲最終名稱的公布。\n(3). 留意PC、手機及家用主機版本的進一步資訊。",
     "verified": "Agent 發現 (2026-08-06)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "CBT expected in the very near future.",
     "sourceLinks": [],
     "launchRegions": [],
     "history": [
@@ -5034,8 +5034,8 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-08-06",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-11",
+    "lastChecked": "2026-08-11",
     "autoDiscovered": true
   },
   {
@@ -5055,25 +5055,34 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "N/A",
+    "launchEst": "2026-07-30",
     "desc": "承襲經典玩法並符合現代玩家習慣的MMORPG。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】近期伺服器異常導致回溯，可能影響玩家信心。\n\n▶ 建議行動：\n(1). 密切關注遊戲營運狀況及玩家回饋。\n(2). 評估伺服器穩定性及後續更新內容。\n(3). 追蹤遊戲是否能維持長期營運。",
     "verified": "Agent 發現 (2026-08-08)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "Ended before 2026-07-30 (梁山聚義先行體驗II account registration on 2026-07-23).",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2555540/_Online/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-08",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-11",
+    "lastChecked": "2026-08-11",
     "autoDiscovered": true
   },
   {
@@ -5098,13 +5107,18 @@
     "launchEst": "2026-Q4",
     "desc": "經典2D飛行射擊遊戲新作，預計今年冬季登陸主機與PC平台。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】無威脅，按計畫推進。\n\n▶ 建議行動：\n(1). 追蹤確切的發售日期及預購資訊。\n(2). 留意是否有新的遊戲內容或宣傳活動。\n(3). 關注遊戲在PS5、Switch和PC平台的表現。",
     "verified": "Agent 發現 (2026-08-08)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/4655000/Caladrius_2Dark_Element/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -5112,8 +5126,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-08",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-11",
+    "lastChecked": "2026-08-11",
     "autoDiscovered": true
   },
   {
@@ -5136,13 +5150,22 @@
     "launchEst": "2026-Q4",
     "desc": "中世紀背景的撤離奪寶新作，今日推出免費Demo。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】無威脅，開發進度良好，社群反應熱烈。\n\n▶ 建議行動：\n(1). 追蹤遊戲正式發售日期。\n(2). 關注Demo測試的玩家反饋與後續優化。\n(3). 評估遊戲在搶奪撤離（Extraction-Looter）類型的市場表現。",
     "verified": "Agent 發現 (2026-08-08)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "Demo available since 2026-08-06. Previous playtest ended with 650,000 signups.",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3126410/Expedition_Into_Darkness/"
+      },
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/games/252924"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -5150,8 +5173,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-08",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-11",
+    "lastChecked": "2026-08-11",
     "autoDiscovered": true
   },
   {
@@ -5174,13 +5197,18 @@
     "launchEst": "2026-08-14",
     "desc": "結合搜打撤、基地建造與塔防玩法的末日生存新作，將於8月14日登場。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】無威脅，即將上市。\n\n▶ 建議行動：\n(1). 追蹤遊戲上市後的初期表現與玩家評價。\n(2). 關注遊戲內容更新與社群活動。\n(3). 評估遊戲在Steam平台的銷售狀況。",
     "verified": "Agent 發現 (2026-08-08)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "Demo available.",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2990470/_/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -5188,8 +5216,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-08",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-11",
+    "lastChecked": "2026-08-11",
     "autoDiscovered": true
   },
   {
