@@ -5454,5 +5454,399 @@
     "updatedAt": "2026-08-08",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true
+  },
+  {
+    "id": 99,
+    "name": "激戰 3",
+    "nameEn": "Guild Wars 3",
+    "developer": "NCSoft",
+    "studio": "NCSoft",
+    "publisher": "NCSoft",
+    "genre": "大型多人線上",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "NCSoft 透露了這款大型多人線上遊戲的測試規劃。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 100,
+    "name": "地平線：鋼鐵邊境",
+    "nameEn": "Horizon: Iron Frontier",
+    "developer": "NCSoft",
+    "studio": "NCSoft",
+    "publisher": "NCSoft",
+    "genre": "動作角色扮演",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "NCSoft 透露了這款動作角色扮演遊戲的測試規劃。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 101,
+    "name": "SPRAWL zero",
+    "nameEn": "SPRAWL zero",
+    "developer": "MAETH",
+    "studio": "MAETH",
+    "publisher": "MAETH",
+    "genre": "第一人稱射擊",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series",
+      "Switch 2"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08-08",
+    "desc": "一款第一人稱射擊遊戲，將推出 Switch 2 版本並於 8 月 8 日上市。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 102,
+    "name": "漫威金鋼狼",
+    "nameEn": "Marvel’s Wolverine",
+    "developer": "Insomniac Games",
+    "studio": "Insomniac Games",
+    "publisher": "Insomniac Games",
+    "genre": "動作冒險",
+    "platform": [
+      "PS5"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "N/A",
+    "desc": "漫威主題的動作冒險遊戲，宣布推出 PS5 限量版主機同捆包。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 103,
+    "name": "伊爾姆水晶",
+    "nameEn": "Crystals of Irm",
+    "developer": "LotsOfStuff Games",
+    "studio": "LotsOfStuff Games",
+    "publisher": "LotsOfStuff Games",
+    "genre": "角色扮演",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series",
+      "PS4",
+      "Xbox One",
+      "Switch"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3",
+    "desc": "一款老式角色扮演遊戲，預計於今年秋季推出。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 104,
+    "name": "越過山丘",
+    "nameEn": "over the hill",
+    "developer": "Funselektor Labs Inc., Strelka Games",
+    "studio": "Funselektor Labs Inc., Strelka Games",
+    "publisher": "Funselektor Labs Inc., Strelka Games",
+    "genre": "休閒模擬",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series",
+      "Switch 2"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "PC: 2026-10-14",
+    "desc": "一款休閒模擬遊戲，PC 版於 10 月 14 日上市，家機版則於 2027 年推出。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 105,
+    "name": "1666：阿姆斯特丹",
+    "nameEn": "1666: Amsterdam",
+    "developer": "Panache Digital Games",
+    "studio": "Panache Digital Games",
+    "publisher": "Panache Digital Games",
+    "genre": "動作冒險",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "early-access",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08-25",
+    "desc": "一款動作冒險遊戲，將於 8 月 25 日推出搶先體驗版。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "early-access"
+      }
+    ],
+    "updatedAt": "2026-08-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 106,
+    "name": "機動警察檔案",
+    "nameEn": "PATLABOR the Case Files",
+    "developer": "Chime Corporation",
+    "studio": "Chime Corporation",
+    "publisher": "Chime Corporation",
+    "genre": "3D 動作",
+    "platform": [
+      "PC",
+      "PS5"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09-17",
+    "desc": "以機動警察為主題的 3D 動作遊戲，將於 9 月 17 日推出。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 107,
+    "name": "幻想水滸傳：星躍",
+    "nameEn": "Suikoden Star Leap",
+    "developer": "MYTHRIL, Konami Digital Entertainment",
+    "studio": "MYTHRIL, Konami Digital Entertainment",
+    "publisher": "MYTHRIL, Konami Digital Entertainment",
+    "genre": "角色扮演",
+    "platform": [
+      "Mobile",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08-07 (JP Mobile)",
+    "desc": "一款角色扮演遊戲，日本已於 8 月 7 日推出行動版，全球版將於日後公布。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 108,
+    "name": "歧路旅人 III",
+    "nameEn": "Octopath Traveler III",
+    "developer": "Square Enix",
+    "studio": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "platform": [
+      "PC",
+      "Console"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "N/A",
+    "desc": "《歧路旅人》團隊表示尚未有新作消息，但已意識到玩家對《歧路旅人 III》的高度期待。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
   }
 ]

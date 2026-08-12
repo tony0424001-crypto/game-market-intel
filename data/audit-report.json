@@ -1,21 +1,14 @@
 {
-  "lastAudit": "2026-08-11T02:33:19.109458+00:00",
+  "lastAudit": "2026-08-12T03:02:33.672874+00:00",
   "totalProducts": 97,
-  "updatesApplied": 15,
-  "findings": [
-    {
-      "name": "水滸歷險 Online：重生",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    }
-  ],
+  "updatesApplied": 0,
+  "findings": [],
   "checked": [
-    "Project RX",
-    "水滸歷險 Online：重生",
-    "Caladrius２/Dark Element",
-    "遠征：墮入黑暗",
-    "守護我的大火箭"
+    "血色序曲",
+    "Way of the Hunter 2",
+    "Serious Sam: Shatterverse",
+    "Phantom: PHANTOM OF INFERNO NITRO ARCHIVE",
+    "Moomintroll: Winter’s Warmth"
   ],
   "nextBatch": [
     "無限大",
