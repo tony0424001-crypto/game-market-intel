@@ -5233,29 +5233,42 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "cbt",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
     "launchEst": "2026-09-10",
     "desc": "《彼岸花》團隊新作，具備獨特動態回合制戰鬥系統，搶先體驗將於9月10日登場。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【延期與測試】遊戲搶先體驗版發售日期延後，並已進行過試玩活動。\n\n▶ 建議行動：\n(1). 《血色序曲》的搶先體驗版原定於2026年5月推出，現已確認延期至2026年9月10日於Steam平台發售。此延期應納入追蹤考量。遊戲在2026年2月曾開放免費試玩版，顯示遊戲已具備一定可玩性。\n(2). 由於即將進入搶先體驗階段，建議密切關注玩家對遊戲內容、穩定性和未來更新計畫的反應。\n(3). 評估搶先體驗期間的表現，以判斷正式發售的潛力。",
     "verified": "Agent 發現 (2026-08-08)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-09-10",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3275050/Ex_Sanguis/"
+      },
+      {
+        "label": "官網",
+        "url": "https://lightbulbcrew.fr/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "cbt"
       }
     ],
-    "updatedAt": "2026-08-08",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-13",
+    "lastChecked": "2026-08-13",
     "autoDiscovered": true
   },
   {
@@ -5273,29 +5286,42 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "cbt",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
     "launchEst": "2026-09-29",
     "desc": "狩獵模擬遊戲續作，將於9月29日推出。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【狀態更新】遊戲已進入搶先體驗階段，並確認了正式發售日期。\n\n▶ 建議行動：\n(1). 遊戲已於2026年3月26日在PC平台推出搶先體驗版，並預計於2026年9月29日正式發售於PC、PlayStation 5和Xbox Series X|S平台。這是一個積極的進展，顯示開發進度穩定。\n(2). 由於搶先體驗版已上線，建議監控玩家回饋和遊戲更新內容，以評估遊戲品質和潛在市場表現。\n(3). 在正式發售前，可準備相關宣傳和市場推廣計畫。",
     "verified": "Agent 發現 (2026-08-08)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-09-29",
+    "sourceLinks": [
+      {
+        "label": "Steam Early Access",
+        "url": "https://store.steampowered.com/app/2543830/Way_of_the_Hunter_2/"
+      },
+      {
+        "label": "官網",
+        "url": "https://wayofthehunter2.thqnordic.com"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "cbt"
       }
     ],
-    "updatedAt": "2026-08-08",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-13",
+    "lastChecked": "2026-08-13",
     "autoDiscovered": true
   },
   {
@@ -5320,13 +5346,22 @@
     "launchEst": "2026-08-31",
     "desc": "第一人稱射擊遊戲新作，將於8月31日推出。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發售確認】遊戲發售日期已確認，並提供開放測試。\n\n▶ 建議行動：\n(1). 《Serious Sam: Shatterverse》已確認將於2026年8月31日發售於PlayStation 5、Windows、Xbox Series X|S和Xbox Cloud Gaming平台，與原定日期一致。遊戲在發售前進行了Steam開放測試，這有助於收集玩家回饋並進行最終調整.\n(2). 由於發售在即，應密切關注遊戲的上市表現和初期評價。\n(3). 考慮到其多人合作和Roguelite元素，可評估其長期營運潛力。",
     "verified": "Agent 發現 (2026-08-08)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2067210/Serious_Sam_Shatterverse/"
+      },
+      {
+        "label": "官網",
+        "url": "https://serioussam.com"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -5334,8 +5369,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-08",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-13",
+    "lastChecked": "2026-08-13",
     "autoDiscovered": true
   },
   {
@@ -5358,13 +5393,18 @@
     "launchEst": "2026-09-04",
     "desc": "《Phantom: PHANTOM OF INFERNO》的NITRO ARCHIVE版本，將於9月4日推出。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發售確認】遊戲發售日期已確認。\n\n▶ 建議行動：\n(1). 《Phantom: PHANTOM OF INFERNO NITRO ARCHIVE》已確認將於2026年9月4日在Steam平台發售，支援日語、英語和簡體中文。這與原定日期一致，顯示發售進度穩定。\n(2). 由於是視覺小說類遊戲，可關注其在Steam上的評價和銷售表現，特別是多語言支援對不同地區玩家的吸引力。\n(3). 考慮到這是一個舊作的重製版，可評估其對核心粉絲群的吸引力以及新玩家的接受度。",
     "verified": "Agent 發現 (2026-08-08)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3639590/Phantom_PHANTOM_OF_INFERNO_NITRO_ARCHIVE/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -5372,8 +5412,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-08",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-13",
+    "lastChecked": "2026-08-13",
     "autoDiscovered": true
   },
   {
@@ -5392,29 +5432,42 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
     "launchEst": "2026-09-18",
     "desc": "以姆明為主題的冒險遊戲，將於9月18日登陸PS5和Switch 2。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【狀態更新】遊戲已在部分平台發售，並確認了其他平台的發售日期。\n\n▶ 建議行動：\n(1). 《Moomintroll: Winter’s Warmth》已於2026年4月27日在Windows、macOS和Nintendo Switch平台發售，並將於2026年9月18日發售於PlayStation 5和Nintendo Switch 2。這是一個多平台分階段發售的策略。\n(2). 由於遊戲已在部分平台營運，應收集並分析現有平台的玩家數據和評價，以優化後續平台的發售策略。\n(3). 針對即將發售的PS5和Switch 2版本，可加強宣傳，特別是實體版的預購活動。",
     "verified": "Agent 發現 (2026-08-08)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://moomintroll.game/steam"
+      },
+      {
+        "label": "官網",
+        "url": "https://moomintroll.game/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-08",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-13",
+    "lastChecked": "2026-08-13",
     "autoDiscovered": true
   },
   {
