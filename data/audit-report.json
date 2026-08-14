@@ -1,33 +1,39 @@
 {
-  "lastAudit": "2026-08-13T03:05:59.918667+00:00",
+  "lastAudit": "2026-08-14T03:05:41.692209+00:00",
   "totalProducts": 107,
-  "updatesApplied": 15,
+  "updatesApplied": 18,
   "findings": [
     {
-      "name": "血色序曲",
+      "name": "激戰 3",
       "status": "warning",
-      "issue": "狀態: announced→cbt",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "Way of the Hunter 2",
+      "name": "地平線：鋼鐵邊境",
       "status": "warning",
-      "issue": "狀態: announced→cbt",
+      "issue": "狀態: announced→announced",
       "autoFixed": true
     },
     {
-      "name": "Moomintroll: Winter’s Warmth",
+      "name": "SPRAWL zero",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "漫威金鋼狼",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     }
   ],
   "checked": [
-    "血色序曲",
-    "Way of the Hunter 2",
-    "Serious Sam: Shatterverse",
-    "Phantom: PHANTOM OF INFERNO NITRO ARCHIVE",
-    "Moomintroll: Winter’s Warmth"
+    "百百",
+    "激戰 3",
+    "地平線：鋼鐵邊境",
+    "SPRAWL zero",
+    "漫威金鋼狼"
   ],
   "nextBatch": [
     "無限大",

@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-08-13T03:05:15.090222+00:00",
-  "fetchCount": 91,
+  "lastUpdated": "2026-08-14T03:04:40.484585+00:00",
+  "fetchCount": 92,
   "items": [
+    {
+      "id": "brief-20260814-5f291069",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《eFootball》新賽季開踢！大型更新與遊戲內新活動同步登場",
+      "detail": "Konami 宣布《eFootball》推出大型更新，開啟新賽季並新增多項遊戲功能、競技模式及活動內容，涵蓋家用主機、PC 及行動裝置平台。",
+      "action": "立即分析本次更新內容，特別是新功能和競技模式對玩家留存和活躍度的影響，評估是否對自家產品構成競爭壓力。",
+      "platform": "mobile/console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
+    },
+    {
+      "id": "brief-20260814-26e1cfcf",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《平凡職業造就世界最強 反叛之魂》 與動畫《OVERLORD》合作登場 與安茲等人並肩作戰",
+      "detail": "H5 遊戲《平凡職業造就世界最強 反叛之魂》與動畫《OVERLORD》展開合作活動，多位《OVERLORD》角色於遊戲內登場。",
+      "action": "評估此類動漫 IP 合作對遊戲數據的影響，研究合作模式和行銷策略，考慮未來自家產品的 IP 合作機會。",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
+    },
+    {
+      "id": "brief-20260814-d8af80f1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《三國志 霸道》賽季「三勢猛進」第三期開幕 全新 LR 武將「沮授」「蒙恬」於 8 月更新登場",
+      "detail": "MMO 戰略模擬手機遊戲《三國志 霸道》8 月更新，賽季「三勢猛進」第三期開幕，並新增 LR 武將「沮授」與「蒙恬」。",
+      "action": "分析新武將和賽季內容對遊戲生態和玩家付費的影響，評估其在策略手遊市場的競爭力。",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
+    },
+    {
+      "id": "brief-20260814-a853828b",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "橫向 2D 卷軸 MMORPG《搞鬼 M》今日正式上市 揭曉兩大 PVP 玩法",
+      "detail": "橫向 2D 卷軸 MMORPG《搞鬼 M》於今日正式開服，並揭曉了「1:1 決鬥場」與其他 PVP 玩法，推出多項開服福利。",
+      "action": "立即關注遊戲上市後的營運活動、玩家反饋和數據表現，特別是其 PVP 玩法的吸引力。",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
+    },
+    {
+      "id": "brief-20260814-fb7456f6",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "收集型合作 RPG《風之痕跡》於雙平台開放預先註冊 循著風的痕跡前往被遺忘的大陸",
+      "detail": "Neptune 發行的收集型合作 RPG 手機遊戲《風之痕跡》已於 App Store 和 Google Play 開放預先註冊，上市時間未定。",
+      "action": "追蹤預先註冊人數和行銷活動，評估其潛在市場表現，分析其收集型合作 RPG 的特色。",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
+    },
+    {
+      "id": "brief-20260814-7eb4d5ed",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "寶可夢《Pokémon Pokopia》 發行約4個月後全球銷量突破500萬份",
+      "detail": "寶可夢首款慢活沙盒遊戲《Pokémon Pokopia》發行約 4 個月後，全球銷量已突破 500 萬份，顯示玩家對其全新體驗的喜愛。",
+      "action": "深入分析《Pokémon Pokopia》的成功因素，特別是「慢活沙盒」這一新穎玩法對玩家的吸引力，研究其市場定位和行銷策略。",
+      "platform": "mobile/console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
+    },
+    {
+      "id": "brief-20260814-7b0e3e31",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《明日方舟：終末地》宣布登陸Steam 願望清單達30萬解鎖限定頭像框",
+      "detail": "鷹角網絡開發的 3D 即時策略 RPG《明日方舟：終末地》宣布將登陸 Steam 平台，並開啟願望清單里程碑活動。",
+      "action": "密切關注此知名 IP 拓展 PC 平台的策略，分析其願望清單活動的成效，評估其在 PC 策略 RPG 市場的潛力。",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
+    },
     {
       "id": "brief-20260813-68e494bc",
       "priority": "urgent",
@@ -113,114 +190,37 @@
       "fetchedAt": "2026-07-31T03:58:08.106701+00:00"
     },
     {
-      "id": "brief-20260731-62a769aa",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《Pokemon Pokopia》擴充票第 1 彈「冒泡泡海底的城鎮」8/5 推出，預告第 2 彈飾品系統",
-      "detail": "Nintendo Switch 2 遊戲《Pokemon Pokopia》將於 8 月 5 日推出首波付費 DLC「冒泡泡海底的城鎮」，並預告第二彈將加入飾品系統，深化城鎮建造與寶可夢互動。",
-      "action": "分析其 DLC 內容、定價策略及玩家反應，評估對遊戲生命週期與營收的影響，並思考自身產品的內容更新規劃。",
-      "platform": "console",
-      "source": "巴哈姆特GNN, 4Gamers",
-      "fetchedAt": "2026-07-31T03:58:08.106701+00:00"
-    },
-    {
-      "id": "brief-20260731-cee729d6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《hololive Dreams》課金方案引發討論，最大鑽石包未必最划算",
-      "detail": "hololive 首款官方 VTuber 音樂 RPG《hololive Dreams》推出後，玩家發現其課金方案設計存在差異，價格最高的常駐鑽石包並非最划算。",
-      "action": "深入分析不同地區的課金方案設計與玩家消費行為，優化自身產品的付費機制，確保公平性與玩家滿意度。",
-      "platform": "mobile",
-      "source": "4Gamers",
-      "fetchedAt": "2026-07-31T03:58:08.106701+00:00"
-    },
-    {
-      "id": "brief-20260813-70ba2861",
+      "id": "brief-20260814-0b922592",
       "priority": "watch",
       "icon": "👁",
-      "title": "手機版《潛水員戴夫》9 月 17 日發售，提供免費試玩與付費解鎖",
-      "detail": "廣受歡迎的海洋冒險遊戲《潛水員戴夫》手機版將於 9 月 17 日登陸 iOS 與 Android，提供免費試玩並可付費解鎖完整遊戲及《漁帆暗湧》等 DLC 內容。",
-      "action": "關注其手機版上市表現與玩家反饋，特別是免費試玩與付費解鎖的轉化率，可作為未來產品的參考。",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN, 4Gamers",
-      "fetchedAt": "2026-08-13T03:05:15.090222+00:00"
-    },
-    {
-      "id": "brief-20260813-9dda7ce8",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "智冠科技預告新款手遊《女神：守護之約》下半年上市",
-      "detail": "智冠科技宣布將於今年下半年推出全新手遊《女神：守護之約》，該作保留經典女神系列 IP 的戀愛養成架構，並加入策略戰棋與模擬經營玩法。",
-      "action": "密切關注此款手遊的上市時間與市場表現，評估其對同類型或同平台遊戲的競爭影響。",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-13T03:05:15.090222+00:00"
-    },
-    {
-      "id": "brief-20260813-176f9a2f",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《BanG Dream! 交織的樂章》封測實機影片曝光，揭露全新「激奏演出」與「ANON TOKYO」模擬經營玩法",
-      "detail": "BILIBILI GAME 代理發行的《BanG Dream! 交織的樂章》國際服封閉測試實機影片已曝光，展示了其獨特的「激奏演出」與「ANON TOKYO」模擬經營玩法。",
-      "action": "分析其音樂節奏與模擬經營結合的玩法設計，了解如何吸引 IP 粉絲與新玩家。",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-13T03:05:15.090222+00:00"
-    },
-    {
-      "id": "brief-20260813-6f365791",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "Nintendo Switch 2 新作《角落小夥伴 歡迎來到暖呼呼溫泉》11 月 19 日發售",
-      "detail": "可愛風格的溫泉旅館模擬遊戲《角落小夥伴 歡迎來到暖呼呼溫泉》將於 2026 年 11 月 19 日在 Nintendo Switch 2 平台發售。",
-      "action": "關注此款知名 IP 遊戲在次世代主機上的表現，特別是其模擬經營玩法與目標客群的互動。",
+      "title": "生存恐怖新作《沈沒之都 2》即將於 8 月 18 日發售 新實機遊玩展示影片搶先曝光",
+      "detail": "洛夫克拉夫特式生存恐怖遊戲《沈沒之都 2》將於 8 月 18 日發售，並公開了新實機遊玩展示影片，採用 Unreal Engine 5 製作。",
+      "action": "關注遊戲發售後的玩家評價與銷售表現，分析其恐怖元素與UE5的應用效果。",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-13T03:05:15.090222+00:00"
+      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
     },
     {
-      "id": "brief-20260813-bf3c321f",
+      "id": "brief-20260814-4e2f5c07",
       "priority": "watch",
       "icon": "👁",
-      "title": "華納兄弟探索正式宣布《霍格華茲的傳承2》開發中",
-      "detail": "華納兄弟探索在股東會中確認《霍格華茲的傳承》續作正在開發中，並預期將成為未來遊戲營收的重要推力。",
-      "action": "關注此重量級 IP 續作的開發進度與未來發售資訊，評估其對主機與 PC 市場的影響。",
+      "title": "找回被遺忘的記憶 《潛意者 Mind Diver》Switch 2 / PS5 版 8 月 27 日發售",
+      "detail": "懸疑冒險遊戲《潛意者 Mind Diver》宣布將於 8 月 27 日在 Nintendo Switch 2 和 PlayStation 5 平台推出下載版。",
+      "action": "留意獨立遊戲在次世代主機上的表現，分析其敘事和玩法機制。",
       "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-08-13T03:05:15.090222+00:00"
-    },
-    {
-      "id": "brief-20260813-31a61f67",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "策略新作《字將 WORJONG 》預定今年內推出，因玩家反應優先支援繁體中文",
-      "detail": "日本獨立遊戲開發者 Circle KEN 宣布文字牌遊戲《WORJONG / 字將》預計今年內在 Steam 推出，並因玩家反應優先加入繁體中文與韓文在地化內容。",
-      "action": "參考此案例，評估在遊戲開發初期或中期，根據玩家社群反饋優先進行在地化支援的效益。",
-      "platform": "pc",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-13T03:05:15.090222+00:00"
+      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
     },
     {
-      "id": "brief-20260813-3769c116",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "三猴合作拆彈遊戲《炸彈香蕉大作戰》預定 9 月 2 日發售，願望清單已達百萬",
-      "detail": "土耳其獨立遊戲團隊 Lefto Studio 宣布，旗下合作拆彈新作《炸彈香蕉大作戰》將於 9 月 2 日登陸 PC Steam 平台，其願望清單數量已達 100 萬。",
-      "action": "觀察此款獨立合作遊戲的上市表現，分析其在社群推廣與願望清單累積上的成功因素。",
-      "platform": "pc",
+      "id": "brief-20260814-c2f26e7b",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《LAST ORIGIN：最後的起源》由虛淵玄執筆「狼牙之慍」劇情活動第三部正式開放",
+      "detail": "次世代美少女策略 RPG《LAST ORIGIN：最後的起源》更新，開放由知名劇本作家虛淵玄執筆的原創劇情活動「狼牙之慍」第三部。",
+      "action": "關注知名作家參與遊戲劇情創作對玩家吸引力的影響，分析其內容更新策略。",
+      "platform": "mobile/console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-13T03:05:15.090222+00:00"
-    },
-    {
-      "id": "brief-20260813-8550bc3d",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "奇葩新作《放大你馬：全馬》Steam首發獲全好評，玩家體驗「馬的啟蒙」",
-      "detail": "Steam 上一款研究馬匹的奇葩遊戲《放大你馬：全馬》首發獲得超過 300 則全好評，玩家透過放大、拉伸、旋轉等操作體驗獨特的「馬的啟蒙」。",
-      "action": "了解市場對獨特、實驗性或惡搞類遊戲的接受度，思考如何在創意與商業之間取得平衡。",
-      "platform": "pc",
-      "source": "4Gamers",
-      "fetchedAt": "2026-08-13T03:05:15.090222+00:00"
+      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
     }
   ]
 }

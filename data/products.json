@@ -5490,7 +5490,7 @@
     "launchEst": "N/A",
     "desc": "知名視覺小說作者瀬戸口廉也宣布的新專案。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【狀態不明】遊戲自公布後無具體進展或更新消息，存在開發停滯或取消的風險。\n\n▶ 建議行動：\n(1). 持續追蹤開發商BA-KU的官方公告與相關遊戲媒體報導。\n(2). 評估市場上同類型遊戲的發展，以備替代方案。\n(3). 若長時間無消息，考慮將其從追蹤清單中移除。",
     "verified": "Agent 發現 (2026-08-08)",
     "category": "active",
     "testType": "待確認",
@@ -5504,8 +5504,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-08",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2026-08-14",
     "autoDiscovered": true
   },
   {
@@ -5521,29 +5521,42 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2027",
+    "launchEst": "2028年下半年-2029年上半年",
     "desc": "NCSoft 透露了這款大型多人線上遊戲的測試規劃。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【開發進度確認】遊戲已正式公布Beta測試時程，並確認登陸多平台，但正式上線時間仍較遠。\n\n▶ 建議行動：\n(1). 密切關注2027年秋季的Beta測試進展與玩家反饋。\n(2). 追蹤官方釋出的遊戲內容、玩法細節與商業模式（買斷制）的更多資訊。\n(3). 評估其MMORPG市場潛力與競爭力。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2027年秋季",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2767000/Guild_Wars_3/"
+      },
+      {
+        "label": "PlayStation Store",
+        "url": "https://store.playstation.com/zh-hant-tw/concept/10009669"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-12",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2026-08-14",
     "autoDiscovered": true
   },
   {
@@ -5563,25 +5576,29 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2027",
+    "launchEst": "2027年上半年",
     "desc": "NCSoft 透露了這款動作角色扮演遊戲的測試規劃。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【開發進度確認】遊戲已公布全球測試與上線時程，並確認為跨平台MMORPG，且商業模式不含抽卡機制，具備一定市場吸引力。\n\n▶ 建議行動：\n(1). 密切關注2026年下半年的全球測試招募與實際測試表現。\n(2). 追蹤遊戲的預註冊活動與官方宣傳，評估市場熱度。\n(3). 分析其在行動MMORPG市場的競爭優勢與潛在風險。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2026年某個時間點",
     "sourceLinks": [],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-12",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2026-08-14",
     "autoDiscovered": true
   },
   {
@@ -5604,25 +5621,34 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08-08",
+    "launchEst": "2026-09-08",
     "desc": "一款第一人稱射擊遊戲，將推出 Switch 2 版本並於 8 月 8 日上市。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發售日期確認】遊戲發售日期已明確，並已推出受好評的試玩版，市場期待度高。\n\n▶ 建議行動：\n(1). 準備遊戲上線後的市場推廣與數據追蹤。\n(2). 關注首發地區與平台表現，特別是Steam與主機平台。\n(3). 收集玩家評價與銷售數據，評估遊戲長期營運潛力。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3748520/SPRAWL_zero/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-12",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2026-08-14",
     "autoDiscovered": true
   },
   {
@@ -5638,29 +5664,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "N/A",
+    "launchEst": "2026-09-15",
     "desc": "漫威主題的動作冒險遊戲，宣布推出 PS5 限量版主機同捆包。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發售日期確認】遊戲發售日期已明確，且已開放預購並推出多項宣傳活動（預告片、同捆組），市場熱度高。\n\n▶ 建議行動：\n(1). 準備遊戲上線後的市場推廣與數據追蹤。\n(2). 關注PS5獨佔平台的銷售表現與玩家評價。\n(3). 收集首發銷售數據與媒體評分，評估其IP影響力與遊戲品質。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "PlayStation Store",
+        "url": "https://www.playstation.com/zh-hant-tw/games/marvels-wolverine/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-12",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2026-08-14",
     "autoDiscovered": true
   },
   {
@@ -5899,6 +5934,403 @@
       }
     ],
     "updatedAt": "2026-08-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 109,
+    "name": "沈沒之都 2",
+    "nameEn": "The Sinking City 2",
+    "developer": "Frogwares",
+    "studio": "Frogwares",
+    "publisher": "Frogwares",
+    "genre": "生存恐怖",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08-18",
+    "desc": "這是一款由 Frogwares 開發的生存恐怖新作，設定在 1920 年代的阿卡姆市，預計於 2026 年 8 月 18 日發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-14)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 110,
+    "name": "賭命兔女郎 High Roller Penny",
+    "nameEn": "High Roller Penny",
+    "developer": "Kniv Studio",
+    "studio": "Kniv Studio",
+    "publisher": "Kniv Studio",
+    "genre": "策略 Roguelike",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "",
+    "desc": "這是一款由 Kniv Studio 開發，受柏青哥啟發的策略 Roguelike 新作，玩家將為了重獲自由而展開豪賭之路。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-14)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 111,
+    "name": "NEO BERLIN 2087",
+    "nameEn": "NEO BERLIN 2087",
+    "developer": "Elysium Game Studio",
+    "studio": "Elysium Game Studio",
+    "publisher": "Elysium Game Studio",
+    "genre": "動作角色扮演",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2028",
+    "desc": "這是一款由 Elysium Game Studio 開發的賽博龐克動作角色扮演遊戲，設定在 2087 年的柏林，預計於 2028 年推出。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-14)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 112,
+    "name": "High On Life VR",
+    "nameEn": "High On Life VR",
+    "developer": "Flat2VR Studios, Squanch Games",
+    "studio": "Flat2VR Studios, Squanch Games",
+    "publisher": "Flat2VR Studios, Squanch Games",
+    "genre": "動作冒險",
+    "platform": [
+      "PS VR2",
+      "PC",
+      "Quest"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "這是一款由 Flat2VR Studios 和 Squanch Games 開發的喜劇第一人稱射擊遊戲《High On Life》的 VR 版本，預計於 2027 年推出。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-14)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 113,
+    "name": "Songs of Glimmerwick",
+    "nameEn": "Songs of Glimmerwick",
+    "developer": "Eastshade Studios",
+    "studio": "Eastshade Studios",
+    "publisher": "Eastshade Studios",
+    "genre": "生活角色扮演",
+    "platform": [
+      "PC",
+      "Consoles"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09-30",
+    "desc": "這是一款生活角色扮演遊戲，預計於 9 月 30 日在 PC 平台發售，之後也會推出主機版本。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-14)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 114,
+    "name": "Mafia: The Omertà Collection",
+    "nameEn": "Mafia: The Omertà Collection",
+    "developer": "Hangar 13, 2K",
+    "studio": "Hangar 13, 2K",
+    "publisher": "Hangar 13, 2K",
+    "genre": "動作冒險",
+    "platform": [
+      "PS5",
+      "Xbox Series",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08-14",
+    "desc": "這是一款包含四款《Mafia》系列遊戲的合集，預計於 2026 年 8 月 14 日在 PS5、Xbox Series 和 PC 平台推出。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-14)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 115,
+    "name": "NAUTUS",
+    "nameEn": "NAUTUS",
+    "developer": "Magic Design Studios",
+    "studio": "Magic Design Studios",
+    "publisher": "Magic Design Studios",
+    "genre": "合作冒險",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "這是一款由 Magic Design Studios 開發的合作島嶼冒險遊戲，預計於 2027 年在 PC 平台推出搶先體驗版。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-14)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 116,
+    "name": "Darksiders 4",
+    "nameEn": "Darksiders 4",
+    "developer": "Gunfire Games",
+    "studio": "Gunfire Games",
+    "publisher": "Gunfire Games",
+    "genre": "動作冒險",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q2 to 2028-Q1",
+    "desc": "這是一款由 Gunfire Games 開發的動作冒險遊戲，預計於 2027 年 4 月至 2028 年 3 月之間推出。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-14)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 117,
+    "name": "MONOWAVE",
+    "nameEn": "MONOWAVE",
+    "developer": "Studio BBB Inc.",
+    "studio": "Studio BBB Inc.",
+    "publisher": "Studio BBB Inc.",
+    "genre": "益智平台",
+    "platform": [
+      "Switch",
+      "PC",
+      "PS5",
+      "Xbox Series"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09-16",
+    "desc": "這是一款由 Studio BBB Inc. 開發的益智平台冒險遊戲，預計於 2026 年 9 月 16 日在 Switch 和 PC 平台發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-14)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-14",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 118,
+    "name": "Aniimo",
+    "nameEn": "Aniimo",
+    "developer": "Pawprint Studio",
+    "studio": "Pawprint Studio",
+    "publisher": "Pawprint Studio",
+    "genre": "怪物收集角色扮演",
+    "platform": [
+      "PC",
+      "PS5",
+      "Xbox Series",
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09-16",
+    "desc": "這是一款由 Pawprint Studio 開發的免費遊玩怪物收集開放世界角色扮演遊戲，預計於 2026 年 9 月 16 日在多平台發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-14)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-14",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true
   }
