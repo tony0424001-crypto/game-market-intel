@@ -5723,7 +5723,7 @@
     "launchEst": "2026-Q3",
     "desc": "一款老式角色扮演遊戲，預計於今年秋季推出。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【資訊不足】目前沒有關於《伊爾姆水晶》的最新消息，無法確認其測試進度或上線日期是否有變動。建議持續追蹤。\n\n▶ 建議行動：\n(1). 密切關注開發商LotsOfStuff Games的官方公告。\n(2). 搜尋更多關於遊戲測試或發售日期的情報。\n(3). 尋找遊戲的官方社群媒體或商店頁面。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
@@ -5737,8 +5737,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-12",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-15",
+    "lastChecked": "2026-08-15",
     "autoDiscovered": true
   },
   {
@@ -5761,25 +5761,34 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "PC: 2026-10-14",
+    "launchEst": "2026-10-14 (PC)",
     "desc": "一款休閒模擬遊戲，PC 版於 10 月 14 日上市，家機版則於 2027 年推出。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【進度確認】《越過山丘》PC版發售日期已確認，主機版也已規劃。Steam Next Fest試玩版已結束，但開發者可能提供新的測試機會。\n\n▶ 建議行動：\n(1). 持續關注PC版上市表現及玩家回饋。\n(2). 留意主機版（PS5, Xbox Series X|S, Nintendo Switch 2）的具體發售日期公告。\n(3). 追蹤官方社群媒體，看是否有新的測試招募。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-06 (Steam Next Fest demo ended)",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2929250/over_the_hill/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-12",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-15",
+    "lastChecked": "2026-08-15",
     "autoDiscovered": true
   },
   {
@@ -5799,25 +5808,38 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08-25",
+    "launchEst": "2026-08-25 (PC Early Access)",
     "desc": "一款動作冒險遊戲，將於 8 月 25 日推出搶先體驗版。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【進度確認】《1666：阿姆斯特丹》PC搶先體驗版即將上線，免費序章已可體驗。 雖然序章曾出現AI生成素材問題，但開發者已承諾修正。\n\n▶ 建議行動：\n(1). 密切關注搶先體驗版的內容更新與玩家評價。\n(2). 追蹤開發商對AI素材問題的後續處理。\n(3). 留意主機版（Xbox Series X, PS5）的開發進度與發售規劃。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-06-05 (Prologue demo released, still available)",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2929250/over_the_hill/"
+      },
+      {
+        "label": "Epic Games Store",
+        "url": "https://store.epicgames.com/zh-Hant/p/1666-amsterdam"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "early-access"
+      },
+      {
+        "date": "2026-08",
+        "s": "early-access"
       }
     ],
-    "updatedAt": "2026-08-12",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-15",
+    "lastChecked": "2026-08-15",
     "autoDiscovered": true
   },
   {
@@ -5838,25 +5860,42 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-09-17",
+    "launchEst": "2026-09-17 (PS5, PC)",
     "desc": "以機動警察為主題的 3D 動作遊戲，將於 9 月 17 日推出。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【進度確認】《機動警察檔案》發售日期已明確，並將支援多語言。\n\n▶ 建議行動：\n(1). 關注遊戲上市後的市場反應與玩家評價。\n(2). 評估遊戲在不同地區的推廣策略。\n(3). 考慮是否需要針對繁體中文市場進行額外宣傳。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "PlayStation Store",
+        "url": "https://store.playstation.com/"
+      },
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/"
+      },
+      {
+        "label": "Epic Games Store",
+        "url": "https://store.epicgames.com/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-12",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-15",
+    "lastChecked": "2026-08-15",
     "autoDiscovered": true
   },
   {
@@ -5880,22 +5919,31 @@
     "launchEst": "2026-08-07 (JP Mobile)",
     "desc": "一款角色扮演遊戲，日本已於 8 月 7 日推出行動版，全球版將於日後公布。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【已上線】《幻想水滸傳：星躍》已在日本地區手遊平台推出，但遊戲內容目前不完整且為Gacha模式。 全球版及PC版發售日未定。\n\n▶ 建議行動：\n(1). 密切觀察日本市場的營運表現與玩家反饋，特別是關於Gacha機制和內容完整度的評價。\n(2). 評估遊戲的長期盈利能力與玩家留存率。\n(3). 根據日本市場表現，重新評估全球版及PC版的推出策略與時間點。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-07-01 (JP Mobile pre-registration ended)",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2929250/over_the_hill/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-12",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-15",
+    "lastChecked": "2026-08-15",
     "autoDiscovered": true
   },
   {
