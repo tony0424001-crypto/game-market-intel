@@ -1,29 +1,29 @@
 {
-  "lastUpdated": "2026-08-14T03:04:40.484585+00:00",
+  "lastUpdated": "2026-08-16T02:01:45.152929+00:00",
   "trends": [
     {
-      "title": "AI 聊天機器人成 G-Star 主要贊助商 這是韓國遊戲展 G-Star 拓展業務範圍的大膽措施嗎？",
-      "detail": "韓國最大遊戲展 G-STAR 2026 宣布 AI 聊天機器人成為主要贊助商，顯示其轉型為綜合內容慶典的策略。",
-      "category": "技術",
-      "pmInsight": "關注大型遊戲展的贊助商變化，可能預示著未來遊戲產業的技術趨勢和合作方向。AI在遊戲內容和行銷上的應用值得研究。",
-      "source": "巴哈姆特GNN",
-      "date": "2026-08-14"
-    },
-    {
-      "title": "《Rideshare「摸擬器」》前編劇控遭ChatGPT取代引爭議 Saber執行長駁斥「她誰？我得問Claude」",
-      "detail": "遊戲發行商 Saber Interactive 因新作《Rideshare 「摸擬器」》是否使用生成式 AI 取代編劇，與前員工陷入爭議。",
-      "category": "技術",
-      "pmInsight": "密切關注 AI 在遊戲開發中應用所引發的倫理和勞資爭議，這可能影響未來內容創作的規範和成本結構。",
+      "title": "獵戶遊戲Orion Game首辦品牌日 消費結合社群體驗打造品牌宇宙",
+      "detail": "國內知名代理商 Orion Game 獵戶遊戲舉辦首屆「Orion Game 品牌日」，旨在結合消費與社群體驗，推動集換式卡牌遊戲（TCG）與桌遊市場成長。",
+      "category": "市場",
+      "pmInsight": "觀察 TCG 與桌遊市場的成長趨勢，研究品牌如何透過線下活動與社群體驗來建立品牌忠誠度與擴大市場影響力，可借鑒於遊戲社群經營。",
       "source": "4Gamers",
-      "date": "2026-08-14"
+      "date": "2026-08-16"
     },
     {
-      "title": "Netflix 將關閉 Night School Studios 和 Moonloot Games",
-      "detail": "Netflix 宣布將關閉旗下兩家遊戲工作室：開發《Oxenfree》系列的 Night School Studio 和 Moonloot Games。",
-      "category": "收購",
-      "pmInsight": "關注大型科技公司在遊戲領域的投資策略調整，工作室關閉可能反映了市場競爭加劇或內部策略轉變。",
-      "source": "Gematsu",
-      "date": "2026-08-14"
+      "title": "《沙金工業》搶先體驗兩日Steam壓倒性好評 結合《異星工廠》自動化與《泰拉瑞亞》像素建設",
+      "detail": "獨立遊戲《沙金工業》在 Steam 搶先體驗兩日內獲得 97% 壓倒性好評，顯示出特定遊戲類型與搶先體驗模式在市場上的成功潛力。",
+      "category": "市場",
+      "pmInsight": "分析獨立遊戲在 Steam 平台透過搶先體驗模式快速獲得市場認可的策略，研究玩家對創新玩法組合的接受度與評價機制，以優化產品開發與發行策略。",
+      "source": "4Gamers",
+      "date": "2026-08-16"
+    },
+    {
+      "title": "LINE Games 宣布自研新作《噤下來》Steam 玩家測試全球參與人數突破 15 萬",
+      "detail": "LINE Games 的 PC 新作《噤下來》Steam 玩家測試參與人數已突破 15 萬人，展現了遊戲在測試階段的強勁市場吸引力與玩家參與度。",
+      "category": "市場",
+      "pmInsight": "評估遊戲在早期測試階段如何有效吸引大量玩家參與，研究其宣傳策略與社群互動模式，以優化未來產品的測試與推廣計畫，降低上市風險。",
+      "source": "巴哈姆特GNN",
+      "date": "2026-08-16"
     }
   ]
 }

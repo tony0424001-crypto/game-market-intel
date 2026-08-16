@@ -1,39 +1,14 @@
 {
-  "lastAudit": "2026-08-15T01:54:58.701175+00:00",
+  "lastAudit": "2026-08-16T02:02:09.923961+00:00",
   "totalProducts": 117,
-  "updatesApplied": 19,
-  "findings": [
-    {
-      "name": "越過山丘",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "1666：阿姆斯特丹",
-      "status": "warning",
-      "issue": "狀態: early-access→early-access",
-      "autoFixed": true
-    },
-    {
-      "name": "機動警察檔案",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "幻想水滸傳：星躍",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    }
-  ],
+  "updatesApplied": 0,
+  "findings": [],
   "checked": [
-    "伊爾姆水晶",
-    "越過山丘",
-    "1666：阿姆斯特丹",
-    "機動警察檔案",
-    "幻想水滸傳：星躍"
+    "歧路旅人 III",
+    "沈沒之都 2",
+    "賭命兔女郎 High Roller Penny",
+    "NEO BERLIN 2087",
+    "High On Life VR"
   ],
   "nextBatch": [
     "無限大",

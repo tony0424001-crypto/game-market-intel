@@ -6381,5 +6381,396 @@
     "updatedAt": "2026-08-14",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true
+  },
+  {
+    "id": 119,
+    "name": "木木屋",
+    "nameEn": "WILDWOOD",
+    "developer": "Studio Fizbin",
+    "studio": "Studio Fizbin",
+    "publisher": "Studio Fizbin",
+    "genre": "冒險解謎",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "TBD",
+    "desc": "這是一款由 Studio Fizbin 開發，Daedalic Entertainment 發行的冒險解謎遊戲。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 120,
+    "name": "噤下來",
+    "nameEn": "Project Silence",
+    "developer": "LINE Games",
+    "studio": "LINE Games",
+    "publisher": "LINE Games",
+    "genre": "恐怖射擊",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "TBD",
+    "desc": "LINE Games 宣布其自研新作《噤下來》在 Steam 玩家測試中全球參與人數突破 15 萬。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-08-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 121,
+    "name": "莫諾微步",
+    "nameEn": "Mononoware",
+    "developer": "Mononoware Studio",
+    "studio": "Mononoware Studio",
+    "publisher": "Mononoware Studio",
+    "genre": "解謎動作",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "這是一款 2D 解謎動作遊戲，將於 9 月 17 日上線。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 122,
+    "name": "骰途酒館",
+    "nameEn": "Dicey Tavern",
+    "developer": "Dicey Tavern Studio",
+    "studio": "Dicey Tavern Studio",
+    "publisher": "Dicey Tavern Studio",
+    "genre": "構築Roguelike",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "這是一款在中世紀酒館擲骰冒險的構築 Roguelike 新作，將於 9 月 8 日發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 123,
+    "name": "沙金工業",
+    "nameEn": "Sandrock Industries",
+    "developer": "Sandrock Games",
+    "studio": "Sandrock Games",
+    "publisher": "Sandrock Games",
+    "genre": "建設模擬",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "TBD",
+    "desc": "這是一款建設模擬新作，已展開搶先體驗，讓玩家探索開放世界中的遠古謎團。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 124,
+    "name": "地獄鑄造",
+    "nameEn": "Hellforge",
+    "developer": "Gaby Rla",
+    "studio": "Gaby Rla",
+    "publisher": "Gaby Rla",
+    "genre": "彈幕射擊",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-03",
+    "desc": "這是一款搜打撤逆彈幕遊戲，首個公開 Demo 已上線，讓玩家體驗滿載而歸或一無所有的冒險。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 125,
+    "name": "TCG 卡牌店模擬器",
+    "nameEn": "TCG Card Shop Simulator",
+    "developer": "OPNeon Games",
+    "studio": "OPNeon Games",
+    "publisher": "OPNeon Games",
+    "genre": "模擬經營",
+    "platform": [
+      "PS5",
+      "Xbox Series",
+      "Switch 2",
+      "Xbox One",
+      "Switch",
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "這是一款模擬經營遊戲，玩家將經營自己的 TCG 卡牌店，將於 9 月 15 日發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 126,
+    "name": "王國之心 IV",
+    "nameEn": "Kingdom Hearts IV",
+    "developer": "Square Enix",
+    "studio": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "動作角色扮演",
+    "platform": [
+      "Nintendo Switch 2",
+      "PlayStation 5",
+      "Windows",
+      "Xbox Series X/S"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q4",
+    "desc": "備受期待的動作角色扮演遊戲《王國之心 IV》預計於 2027 年底推出，並將登陸多個平台。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 127,
+    "name": "火柴人出擊",
+    "nameEn": "Stick It to the Stickman",
+    "developer": "Free Lives",
+    "studio": "Free Lives",
+    "publisher": "Free Lives",
+    "genre": "物理格鬥",
+    "platform": [
+      "PC"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "這是一款基於物理的格鬥遊戲，玩家將扮演火柴人進行戰鬥，將於 9 月 23 日發售。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
+  },
+  {
+    "id": 128,
+    "name": "帶來者",
+    "nameEn": "Bringer",
+    "developer": "YHKT ENTERTAINMENT",
+    "studio": "YHKT ENTERTAINMENT",
+    "publisher": "YHKT ENTERTAINMENT",
+    "genre": "奇幻動作角色扮演",
+    "platform": [
+      "PS5",
+      "PC",
+      "iOS",
+      "Android"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "TBD",
+    "desc": "這是一款敘事驅動的奇幻動作角色扮演遊戲，已宣布將登陸多個平台，並將在 Gamescom 2026 提供試玩。",
+    "tags": [],
+    "threatAnalysis": "",
+    "verified": "Agent 發現 (2026-08-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true
   }
 ]
