@@ -5967,7 +5967,7 @@
     "launchEst": "N/A",
     "desc": "《歧路旅人》團隊表示尚未有新作消息，但已意識到玩家對《歧路旅人 III》的高度期待。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】資訊不足/開發進度不明\n\n▶ 描述：遊戲僅處於「已公布」狀態，開發商表示意識到玩家的高度期待，並承諾將「突破極限」，但目前沒有具體發布日期或開發進度細節。這可能意味著遊戲仍處於非常早期的開發階段，或開發團隊對發布時間持謹慎態度。\n\n▶ 建議行動：\n(1). 持續追蹤 Square Enix 官方新聞稿及開發者訪談，關注任何關於遊戲開發進度或潛在發布窗口的線索。\n(2). 留意遊戲展會（如 E3, TGS, Gamescom）上是否有任何新的預告片或資訊發布。\n(3). 評估市場對前作的反應及 Square Enix 其他 HD-2D 遊戲的發布策略，以預測可能的發布模式。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
@@ -5981,8 +5981,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-12",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-17",
+    "lastChecked": "2026-08-17",
     "autoDiscovered": true
   },
   {
@@ -6000,14 +6000,14 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
     "launchEst": "2026-08-18",
     "desc": "這是一款由 Frogwares 開發的生存恐怖新作，設定在 1920 年代的阿卡姆市，預計於 2026 年 8 月 18 日發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】無 (正面進展)\n\n▶ 描述：遊戲已確認將於 2026 年 8 月 18 日正式發布，豪華版玩家可於 8 月 17 日提前體驗。這是一個明確且正面的進展，顯示遊戲開發順利並即將上市。\n\n▶ 建議行動：\n(1). 密切關注遊戲上市後的初期表現、玩家評價及潛在的銷售數據。\n(2). 評估遊戲在各平台（PS5, PC, Xbox Series X/S）的表現，特別是 PC 平台的發布情況。\n(3). 準備上市後的內容更新或 DLC 追蹤，以評估其長期營運潛力。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
@@ -6019,10 +6019,14 @@
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-14",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-17",
+    "lastChecked": "2026-08-17",
     "autoDiscovered": true
   },
   {
@@ -6045,7 +6049,7 @@
     "launchEst": "",
     "desc": "這是一款由 Kniv Studio 開發，受柏青哥啟發的策略 Roguelike 新作，玩家將為了重獲自由而展開豪賭之路。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】資訊不足/發布日期未定\n\n▶ 描述：遊戲已公布，但發布日期仍為「待定」或「即將推出」。目前沒有關於測試階段的資訊，顯示遊戲可能仍在開發初期或中期，尚未進入公開測試階段。\n\n▶ 建議行動：\n(1). 持續追蹤 Kniv Studio 官方社群媒體及 Steam 商店頁面，留意任何發布日期或測試活動的更新。\n(2). 關注遊戲媒體對此類獨立 Roguelike 遊戲的報導，以獲取更多開發進度資訊。\n(3). 評估遊戲類型在市場上的潛力及同類遊戲的表現，以判斷其未來發展。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
@@ -6059,8 +6063,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-14",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-17",
+    "lastChecked": "2026-08-17",
     "autoDiscovered": true
   },
   {
@@ -6085,7 +6089,7 @@
     "launchEst": "2028",
     "desc": "這是一款由 Elysium Game Studio 開發的賽博龐克動作角色扮演遊戲，設定在 2087 年的柏林，預計於 2028 年推出。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】無 (發布日期確認)\n\n▶ 描述：遊戲的發布日期已確認為 2028 年，並且將在 Gamescom 2026 上提供媒體試玩。這是一個明確的發布窗口，儘管比一些早期預期（2026年）晚，但提供了具體的規劃。\n\n▶ 建議行動：\n(1). 關注 Gamescom 2026 媒體試玩後的報導和評價，了解遊戲的實際品質和潛力。\n(2). 追蹤 Elysium Game Studio 的開發日誌或更新，以獲取更多關於遊戲內容和進度的資訊。\n(3). 評估 2028 年市場上同類型遊戲的競爭情況，為其上市做準備。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
@@ -6097,10 +6101,14 @@
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-14",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-17",
+    "lastChecked": "2026-08-17",
     "autoDiscovered": true
   },
   {
@@ -6125,7 +6133,7 @@
     "launchEst": "2027",
     "desc": "這是一款由 Flat2VR Studios 和 Squanch Games 開發的喜劇第一人稱射擊遊戲《High On Life》的 VR 版本，預計於 2027 年推出。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】無 (發布日期確認)\n\n▶ 描述：遊戲已確認將於 2027 年發布，並將登陸 Meta Quest、PlayStation VR2 和 SteamVR 等多個 VR 平台。這是一個明確的發布窗口，顯示 VR 版本的開發進度良好。\n\n▶ 建議行動：\n(1). 關注 Flat2VR Studios 和 Squanch Games 關於 VR 版本開發進度的更新，特別是針對 VR 體驗的優化細節。\n(2). 評估 VR 遊戲市場的發展趨勢及競爭情況，判斷其在 2027 年的市場潛力。\n(3). 留意是否有任何針對 VR 版本的預購或測試活動。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
@@ -6137,10 +6145,14 @@
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-14",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-17",
+    "lastChecked": "2026-08-17",
     "autoDiscovered": true
   },
   {
