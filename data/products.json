@@ -6169,29 +6169,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
     "launchEst": "2026-09-30",
     "desc": "這是一款生活角色扮演遊戲，預計於 9 月 30 日在 PC 平台發售，之後也會推出主機版本。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發布日期確認與測試階段活躍】遊戲已確認於2026年9月30日在PC (Steam) 上線，並提供公開試玩版供玩家體驗及收集回饋。主機版將於PC版之後推出。這顯示遊戲開發進度良好，且積極與玩家互動以優化遊戲。\n\n▶ 建議行動：\n(1). 持續關注PC版上線表現及玩家評價。\n(2). 追蹤主機版發布日期的進一步消息。\n(3). 評估試玩版回饋對最終產品的影響。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/1706510/Songs_of_Glimmerwick/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-14",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-18",
+    "lastChecked": "2026-08-18",
     "autoDiscovered": true
   },
   {
@@ -6209,29 +6218,42 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
     "launchEst": "2026-08-14",
     "desc": "這是一款包含四款《Mafia》系列遊戲的合集，預計於 2026 年 8 月 14 日在 PS5、Xbox Series 和 PC 平台推出。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【已上線】遊戲已於2026年8月14日正式發布，涵蓋PS5、Xbox Series X|S和PC (Steam) 平台。此合集包含四款《Mafia》系列遊戲，其中《Mafia: Definitive Edition》獲得了次世代主機的性能升級。\n\n▶ 建議行動：\n(1). 監控遊戲上線後的銷售表現和玩家回饋。\n(2). 分析市場對此類舊作合集加強版的接受度。\n(3). 評估未來是否需要追蹤單獨的《Mafia》系列遊戲更新。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "PlayStation Store",
+        "url": "https://store.playstation.com/en-us/product/UP1003-PPSA19024_00-MAFIAOMERTACOL00"
+      },
+      {
+        "label": "2K Games",
+        "url": "https://mafiagame.com/news/mafia-the-omerta-collection-arrives-august-14/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-14",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-18",
+    "lastChecked": "2026-08-18",
     "autoDiscovered": true
   },
   {
@@ -6254,7 +6276,7 @@
     "launchEst": "2027",
     "desc": "這是一款由 Magic Design Studios 開發的合作島嶼冒險遊戲，預計於 2027 年在 PC 平台推出搶先體驗版。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【狀態未變更】目前沒有關於NAUTUS的具體狀態更新，發布日期仍維持在2027年，且沒有測試階段或延遲的相關消息。\n\n▶ 建議行動：\n(1). 持續關注開發商Magic Design Studios的官方公告。\n(2). 定期重新搜尋遊戲名稱以捕捉任何新資訊。\n(3). 在缺乏新資訊的情況下，暫時維持現有追蹤狀態。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
@@ -6268,8 +6290,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-14",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-18",
+    "lastChecked": "2026-08-18",
     "autoDiscovered": true
   },
   {
@@ -6294,7 +6316,7 @@
     "launchEst": "2027-Q2 to 2028-Q1",
     "desc": "這是一款由 Gunfire Games 開發的動作冒險遊戲，預計於 2027 年 4 月至 2028 年 3 月之間推出。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【狀態未變更】Darksiders 4目前沒有任何新的狀態更新，發布窗口仍為2027年第二季度至2028年第一季度，且沒有測試階段或延遲的相關消息。\n\n▶ 建議行動：\n(1). 持續關注開發商Gunfire Games的官方公告。\n(2). 定期重新搜尋遊戲名稱以捕捉任何新資訊。\n(3). 在缺乏新資訊的情況下，暫時維持現有追蹤狀態。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
@@ -6308,8 +6330,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-14",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-18",
+    "lastChecked": "2026-08-18",
     "autoDiscovered": true
   },
   {
@@ -6328,29 +6350,42 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
     "launchEst": "2026-09-16",
     "desc": "這是一款由 Studio BBB Inc. 開發的益智平台冒險遊戲，預計於 2026 年 9 月 16 日在 Switch 和 PC 平台發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發布日期確認與測試階段活躍】遊戲已確認於2026年9月16日在PC (Steam) 和Nintendo Switch上線，並提供免費的Chapter 1試玩版。PS5和Xbox Series X|S版本預計於2026年稍晚推出。遊戲也將在gamescom 2026展出。這顯示遊戲開發進度良好，且積極進行推廣和測試。\n\n▶ 建議行動：\n(1). 關注PC和Switch版上線後的市場反應與玩家評價。\n(2). 追蹤PS5和Xbox Series X|S版本的具體發布日期。\n(3). 評估gamescom展出對遊戲熱度的影響。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2680440/MONOWAVE/"
+      },
+      {
+        "label": "Games Press",
+        "url": "https://www.gamespress.com/Heartfelt-puzzle-adventure-platformer-MONOWAVE-coming-to-Steam-and-Nintend"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-14",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-18",
+    "lastChecked": "2026-08-18",
     "autoDiscovered": true
   },
   {
