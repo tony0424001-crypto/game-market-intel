@@ -7,13 +7,18 @@
     "launchWindow": "（請填入預計上線時間，例如：2026-Q4）",
     "coreFeatures": "（請填入核心賣點，例如：即時戰鬥+公會系統）"
   },
-  "watchGenres": ["開放世界 RPG", "動作 RPG", "MMORPG"],
+  "watchGenres": ["開放世界 RPG", "動作 RPG", "MMORPG", "二次元/抽卡", "IP改編/回憶向"],
   "watchRegions": ["TW/HK/MO", "CN", "Global"],
+  "agent2BatchSize": 6,
+  "licenseRadarIntervalDays": 3,
   "rssFeeds": [
-    {"url": "https://gnn.gamer.com.tw/rss.xml", "name": "巴哈姆特GNN", "lang": "zh-TW"},
-    {"url": "https://www.4gamers.com.tw/rss/latest-news", "name": "4Gamers", "lang": "zh-TW"},
-    {"url": "https://www.gematsu.com/feed", "name": "Gematsu", "lang": "en"},
-    {"url": "https://www.ign.com/articles.rss", "name": "IGN", "lang": "en"},
-    {"url": "https://automaton-media.com/en/feed/", "name": "Automaton", "lang": "en"}
+    {"url": "https://gnn.gamer.com.tw/rss.xml", "name": "巴哈姆特GNN", "lang": "zh-TW", "trusted": false},
+    {"url": "https://www.4gamers.com.tw/rss/latest-news", "name": "4Gamers", "lang": "zh-TW", "trusted": false},
+    {"url": "https://www.gematsu.com/feed", "name": "Gematsu", "lang": "en", "trusted": false},
+    {"url": "https://www.ign.com/articles.rss", "name": "IGN", "lang": "en", "trusted": false},
+    {"url": "https://automaton-media.com/en/feed/", "name": "Automaton", "lang": "en", "trusted": false},
+    {"url": "https://www.gamelook.com.cn/feed", "name": "GameLook", "lang": "zh-CN", "trusted": true},
+    {"url": "https://www.youxituoluo.com/feed", "name": "遊資網", "lang": "zh-CN", "trusted": true},
+    {"url": "https://www.gamersky.com/rss/", "name": "遊民星空", "lang": "zh-CN", "trusted": true}
   ]
 }
