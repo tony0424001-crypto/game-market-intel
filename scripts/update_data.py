@@ -138,6 +138,35 @@ def parse_json(text):
             break
     return None
 
+def is_placeholder(v):
+    """Detects the '（請填入...）' style placeholder text left in a fresh config.json
+    so we don't feed literal placeholder strings into a Gemini prompt as if they
+    were real product data."""
+    if not v or not isinstance(v, str):
+        return not v
+    return "請填入" in v or v.strip() in ("", "TBD", "N/A")
+
+def build_watch_context(config, my):
+    """Turn config.json's myProduct/watchGenres/watchRegions into a short prompt
+    fragment so discovery threat-scoring is relative to the user's actual product,
+    not a generic guess. Returns "" if myProduct is still unfilled placeholder data."""
+    genres = config.get("watchGenres", [])
+    regions = config.get("watchRegions", [])
+    has_real_product = my and not is_placeholder(my.get("name")) and not is_placeholder(my.get("genre"))
+    lines = []
+    if has_real_product:
+        lines.append(
+            f"我方正在開發的產品：{my.get('name')}，類型：{my.get('genre')}，"
+            f"平台：{','.join(my.get('platform', []))}，目標市場：{my.get('targetMarket','?')}，"
+            f"預計上線：{my.get('launchWindow','?')}，核心賣點：{my.get('coreFeatures','?')}。"
+            f"請優先評估新發現的產品是否會與我方產品搶佔同一群受眾/檔期，這類重疊度高的請標記為 threat=high。"
+        )
+    if genres:
+        lines.append(f"我們重點關注的品類：{', '.join(genres)}。")
+    if regions:
+        lines.append(f"我們重點關注的市場：{', '.join(regions)}。")
+    return "\n".join(lines)
+
 def new_brief_id(today, title):
     return f"brief-{today.replace('-', '')}-{hashlib.md5(title.encode()).hexdigest()[:8]}"
 
@@ -434,6 +463,7 @@ DISCOVERY_KEYWORDS = [
 
 def agent1(articles):
     print("\n🔍 Agent 1: Product Discovery")
+    config, my = get_config()
     products = load(PRODUCTS, [])
     existing = {g["name"] for g in products}
     mid = max((g["id"] for g in products), default=0)
@@ -447,8 +477,11 @@ def agent1(articles):
         game_articles = articles
     article_text = "\n".join([f"- [{a['source']}] {a['title']}" for a in game_articles[:30]])
     current = ", ".join(sorted(existing))  # full list — no truncation, avoid re-suggesting duplicates
+    watch_context = build_watch_context(config, my)
 
     prompt = f"""從以下新聞與你自身知識（含網路搜尋）中，找出「還沒被我們追蹤」的新手遊。
+
+{watch_context}
 
 請特別優先找這幾類產品（這些是最容易被一般新聞漏掉、但威脅性最高的類型)：
 1. 二次元/抽卡手遊（原神、崩壞類競品，或新公布的二游）
@@ -534,14 +567,18 @@ Output ONLY valid JSON array, no markdown."""
 
 def agent4():
     print("\n🛰️ Agent 4: 版號雷達 (license radar)")
+    config, my = get_config()
     products = load(PRODUCTS, [])
     existing = {g["name"] for g in products}
     mid = max((g["id"] for g in products), default=0)
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     current = ", ".join(sorted(existing))
+    watch_context = build_watch_context(config, my)
 
     prompt = f"""請搜尋最近一批中國國家新闻出版署公布的遊戲版號審批名單（游戏版号公示），
 找出名單中「明顯屬於二次元/抽卡/大型IP改編/知名大廠」的新遊戲，且不在下方已追蹤清單中。
+
+{watch_context}
 
 已追蹤清單（避免重複)：
 {current}
