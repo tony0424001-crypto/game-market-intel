@@ -1,33 +1,39 @@
 {
-  "lastAudit": "2026-08-18T01:57:12.790874+00:00",
+  "lastAudit": "2026-08-19T01:58:17.922945+00:00",
   "totalProducts": 127,
-  "updatesApplied": 11,
+  "updatesApplied": 19,
   "findings": [
     {
-      "name": "Songs of Glimmerwick",
+      "name": "Aniimo",
       "status": "warning",
       "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "Mafia: The Omertà Collection",
+      "name": "噤下來",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: cbt→cbt",
       "autoFixed": true
     },
     {
-      "name": "MONOWAVE",
+      "name": "莫諾微步",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "骰途酒館",
       "status": "warning",
       "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     }
   ],
   "checked": [
-    "Songs of Glimmerwick",
-    "Mafia: The Omertà Collection",
-    "NAUTUS",
-    "Darksiders 4",
-    "MONOWAVE"
+    "Aniimo",
+    "木木屋",
+    "噤下來",
+    "莫諾微步",
+    "骰途酒館"
   ],
   "nextBatch": [
     "無限大",

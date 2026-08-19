@@ -6404,29 +6404,42 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
     "launchEst": "2026-09-16",
     "desc": "這是一款由 Pawprint Studio 開發的免費遊玩怪物收集開放世界角色扮演遊戲，預計於 2026 年 9 月 16 日在多平台發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發行日期確認與測試結束】遊戲已完成全球封閉測試，並確認於2026年9月16日正式上線，目前已開放多平台預購。這表示開發進度穩定，且市場預熱活動已展開。\n\n▶ 建議行動：\n(1). 持續關注遊戲上線後的初期表現與玩家回饋。\n(2). 評估預購活動的成效與不同平台的預購數據。\n(3). 準備上線後的推廣策略，特別是針對其「寶可夢代餐」的市場定位。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-07-25",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/234796"
+      },
+      {
+        "label": "官網",
+        "url": "https://www.aniimo.com/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-14",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-19",
+    "lastChecked": "2026-08-19",
     "autoDiscovered": true
   },
   {
@@ -6449,13 +6462,18 @@
     "launchEst": "TBD",
     "desc": "這是一款由 Studio Fizbin 開發，Daedalic Entertainment 發行的冒險解謎遊戲。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【狀態未變】遊戲狀態仍為宣布，發售日期未定，也無測試消息。市場關注度可能較低，需持續觀察是否有新的開發進度或測試計畫。\n\n▶ 建議行動：\n(1). 持續監測開發商Studio Fizbin的官方消息管道。\n(2). 定期檢查TapTap等遊戲平台是否有新的預約或測試資訊。\n(3). 考慮其休閒益智遊戲的定位，評估其潛在的市場機會。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/217992"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -6463,8 +6481,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-16",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-19",
+    "lastChecked": "2026-08-19",
     "autoDiscovered": true
   },
   {
@@ -6484,25 +6502,34 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "TBD",
+    "launchEst": "2026年內",
     "desc": "LINE Games 宣布其自研新作《噤下來》在 Steam 玩家測試中全球參與人數突破 15 萬。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【測試進度良好與發行目標】遊戲目前正在進行Steam 玩家測試，參與人數眾多，顯示市場對其有高度興趣。開發商目標在2026年內正式發售，進度明確。\n\n▶ 建議行動：\n(1). 持續關注玩家測試的回饋與遊戲優化進度。\n(2). 密切追蹤正式發售日期的確認。\n(3). 評估其合作恐怖遊戲的市場潛力與競爭環境。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-08-03",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2485560/QUIET/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "cbt"
+      },
+      {
+        "date": "2026-08",
+        "s": "cbt"
       }
     ],
-    "updatedAt": "2026-08-16",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-19",
+    "lastChecked": "2026-08-19",
     "autoDiscovered": true
   },
   {
@@ -6518,29 +6545,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-09",
+    "launchEst": "2026-09-17 (PC/Switch), 2026年內 (Xbox/PS5)",
     "desc": "這是一款 2D 解謎動作遊戲，將於 9 月 17 日上線。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發行日期明確與多平台策略】遊戲已確認PC (Steam) 和 Nintendo Switch 版的具體發售日期，並提供免費體驗版，有助於市場預熱。多平台發行策略有助於擴大玩家基礎。\n\n▶ 建議行動：\n(1). 關注PC/Switch 版上線後的初期銷售與玩家評價。\n(2). 評估Xbox/PS5 版的開發進度與後續宣傳計畫。\n(3). 分析體驗版數據，了解玩家對遊戲核心玩法的接受度。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2246730/MONOWAVE/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-16",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-19",
+    "lastChecked": "2026-08-19",
     "autoDiscovered": true
   },
   {
@@ -6556,29 +6592,38 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-09",
+    "launchEst": "2026-09-08",
     "desc": "這是一款在中世紀酒館擲骰冒險的構築 Roguelike 新作，將於 9 月 8 日發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【發行日期明確與試玩版】遊戲已確認Steam 平台的具體發售日期，並提供試玩版，有助於吸引玩家並收集反饋。Roguelike 構築遊戲的市場潛力值得關注。\n\n▶ 建議行動：\n(1). 關注遊戲上線後的初期銷售與玩家評價。\n(2). 分析試玩版數據，了解玩家對核心玩法的接受度與反饋。\n(3). 評估其在Roguelike 遊戲市場中的競爭力與獨特性。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/4587610/Farkle_Roguelike/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-16",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-19",
+    "lastChecked": "2026-08-19",
     "autoDiscovered": true
   },
   {
