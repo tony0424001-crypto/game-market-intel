@@ -4361,7 +4361,7 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08-07",
+    "launchEst": "2026-08-07 (JP Mobile)",
     "desc": "《幻想水滸傳》系列新作，8月7日在日本推出，是一款免費遊玩的策略角色扮演遊戲。",
     "tags": [],
     "threatAnalysis": "【已上市】遊戲已於日本地區正式上線，符合原定上市月份。需持續關注其營運狀況及全球版上市計畫。\n\n▶ 建議行動：\n(1). 追蹤日本地區的營收表現與玩家評價。\n(2). 關注全球版及Steam版的發布時程。\n(3). 分析遊戲內容更新與活動，評估其長線營運潛力。",
@@ -4503,45 +4503,6 @@
     "autoDiscovered": true,
     "currentEvent": "遊戲已於2026年8月6日正式發售，登陸Microsoft Windows、Nintendo Switch、PlayStation 5、Xbox Series X/S平台。此為2024年NES/Famicom版本的現代移植版。",
     "eventNote": "遊戲已於2026年8月6日正式發售，登陸Microsoft Windows、Nintendo Switch、PlayStation 5、Xbox Series X/S平台。此為2024年NES/Famicom版本的現代移植版。"
-  },
-  {
-    "id": 78,
-    "name": "超級機器人大戰Z II：破界篇 重製版",
-    "nameEn": "Super Robot Wars Z II: Ruination Remastered",
-    "developer": "Bandai Namco Forge Digitals",
-    "studio": "Bandai Namco Forge Digitals",
-    "publisher": "Bandai Namco Forge Digitals",
-    "genre": "策略角色扮演",
-    "platform": [
-      "Console",
-      "PC"
-    ],
-    "region": "待確認",
-    "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
-    "prereg": null,
-    "sentiment": 70,
-    "launchEst": "",
-    "desc": "《超級機器人大戰Z II：破界篇》的重製版，將首次在全球發行並支援多語言。",
-    "tags": [],
-    "threatAnalysis": "【資訊不足】目前搜尋結果中沒有關於《超級機器人大戰Z II：破界篇 重製版》的具體狀態更新、測試結束日期、上線日期或任何延遲、關閉、新測試階段的資訊。\n\n▶ 建議行動：\n(1). 持續監控相關遊戲新聞與開發商Bandai Namco Forge Digitals的官方公告。\n(2). 確認遊戲名稱是否完全正確，或是否有其他常用譯名，以便進行更精確的搜尋。\n(3). 若長時間無任何新資訊，可能需評估其專案狀態。",
-    "verified": "Agent 發現 (2026-08-04)",
-    "category": "active",
-    "testType": "待確認",
-    "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
-    "history": [
-      {
-        "date": "2026-08",
-        "s": "announced"
-      }
-    ],
-    "updatedAt": "2026-08-09",
-    "lastChecked": "2026-08-09",
-    "autoDiscovered": true
   },
   {
     "id": 79,
@@ -5819,10 +5780,6 @@
     "testDateEnd": "2026-06-05 (Prologue demo released, still available)",
     "sourceLinks": [
       {
-        "label": "Steam",
-        "url": "https://store.steampowered.com/app/2929250/over_the_hill/"
-      },
-      {
         "label": "Epic Games Store",
         "url": "https://store.epicgames.com/zh-Hant/p/1666-amsterdam"
       }
@@ -5892,54 +5849,6 @@
       {
         "date": "2026-08",
         "s": "announced"
-      }
-    ],
-    "updatedAt": "2026-08-15",
-    "lastChecked": "2026-08-15",
-    "autoDiscovered": true
-  },
-  {
-    "id": 107,
-    "name": "幻想水滸傳：星躍",
-    "nameEn": "Suikoden Star Leap",
-    "developer": "MYTHRIL, Konami Digital Entertainment",
-    "studio": "MYTHRIL, Konami Digital Entertainment",
-    "publisher": "MYTHRIL, Konami Digital Entertainment",
-    "genre": "角色扮演",
-    "platform": [
-      "Mobile",
-      "PC"
-    ],
-    "region": "待確認",
-    "model": "F2P",
-    "stage": "live-ops",
-    "threat": "medium",
-    "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-08-07 (JP Mobile)",
-    "desc": "一款角色扮演遊戲，日本已於 8 月 7 日推出行動版，全球版將於日後公布。",
-    "tags": [],
-    "threatAnalysis": "【已上線】《幻想水滸傳：星躍》已在日本地區手遊平台推出，但遊戲內容目前不完整且為Gacha模式。 全球版及PC版發售日未定。\n\n▶ 建議行動：\n(1). 密切觀察日本市場的營運表現與玩家反饋，特別是關於Gacha機制和內容完整度的評價。\n(2). 評估遊戲的長期盈利能力與玩家留存率。\n(3). 根據日本市場表現，重新評估全球版及PC版的推出策略與時間點。",
-    "verified": "Agent 發現 (2026-08-12)",
-    "category": "active",
-    "testType": "待確認",
-    "testDateStart": "待確認",
-    "testDateEnd": "2026-07-01 (JP Mobile pre-registration ended)",
-    "sourceLinks": [
-      {
-        "label": "Steam",
-        "url": "https://store.steampowered.com/app/2929250/over_the_hill/"
-      }
-    ],
-    "launchRegions": [],
-    "history": [
-      {
-        "date": "2026-08",
-        "s": "live-ops"
-      },
-      {
-        "date": "2026-08",
-        "s": "live-ops"
       }
     ],
     "updatedAt": "2026-08-15",
