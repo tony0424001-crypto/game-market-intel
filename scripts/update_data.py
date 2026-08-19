@@ -18,7 +18,7 @@ v5 changes vs v4:
 - New Agent4: 版號雷達 (license-registry radar), runs every N days
 - High-threat new discoveries are auto-pushed into daily-brief as urgent items
 """
-import json, os, sys, hashlib, re, time
+import json, os, sys, hashlib, re, time, socket
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -138,6 +138,36 @@ def parse_json(text):
             break
     return None
 
+def normalize_platform(platform_list):
+    """The frontend's mobile/console tab split depends on an exact-string
+    check (g.platform.includes('Mobile')). Existing data keeps granular
+    platform names (PS5, Switch 2, Xbox Series, iOS, Android, Mac, Quest,
+    PS VR2, Consoles, etc.) rather than collapsing them — so we must NOT
+    flatten everything into a generic 'Console' token, or we'd throw away
+    detail that's present throughout the real dataset and make new
+    discoveries look coarser than everything else on the board. We only
+    fix the one thing that actually breaks the tab split: casing/wording
+    variants of "mobile" that wouldn't match the literal 'Mobile' check."""
+    if not platform_list:
+        return ["Mobile"]
+    tokens = []
+    for p in platform_list:
+        s = str(p).strip()
+        if s.lower() in ("mobile", "ios", "android"):
+            tokens.append("Mobile")
+        elif s.lower() == "pc":
+            tokens.append("PC")
+        else:
+            tokens.append(s)  # keep as-is: PS5, Switch 2, Xbox Series, Consoles, Mac, Quest, etc.
+    return tokens or ["Mobile"]
+
+def brief_platform_tag(platform_list):
+    """BriefView filters items with an exact 'mobile'/'console' string match —
+    anything else silently disappears from both tabs. Always resolve to one
+    of those two literal values."""
+    norm = normalize_platform(platform_list)
+    return "mobile" if "Mobile" in norm else "console"
+
 def is_placeholder(v):
     """Detects the '（請填入...）' style placeholder text left in a fresh config.json
     so we don't feed literal placeholder strings into a Gemini prompt as if they
@@ -192,7 +222,7 @@ def push_urgent_brief(items, tag="🚨新品雷達"):
             "title": f"{it.get('name','')}（新發現・高威脅）",
             "detail": it.get("threatReason", it.get("desc", ""))[:60],
             "action": "加入追蹤並評估上線時程",
-            "platform": (it.get("platform") or ["mobile"])[0].lower() if it.get("platform") else "mobile",
+            "platform": brief_platform_tag(it.get("platform")),
             "source": it.get("sourceType", "Agent發現"),
             "fetchedAt": now.isoformat(),
         })
@@ -250,6 +280,7 @@ def scrape_rss():
 
     for feed in feeds:
         try:
+            socket.setdefaulttimeout(15)  # feedparser has no native timeout param — guard at the socket level
             f = feedparser.parse(feed["url"])
             count = 0
             trusted = feed.get("trusted", False)
@@ -445,10 +476,16 @@ Output ONLY valid JSON array."""
     if updates:
         save(PRODUCTS, products)
     print(f" ✅ {updates} updates")
+    next_batch_names = [g["name"] for g in products if g["lastChecked"] < today][:batch_size]
+    next_audit = (
+        f"下次執行時將檢查：{', '.join(next_batch_names)}" if next_batch_names
+        else "所有產品已於今日檢查完畢，下輪從最舊的重新開始"
+    )
     save(AUDIT, {
         "lastAudit": now.isoformat(), "totalProducts": len(products), "updatesApplied": updates,
+        "issuesFound": len(findings), "nextAudit": next_audit,
         "findings": findings, "checked": [g["name"] for g in batch],
-        "nextBatch": [g["name"] for g in products if g["lastChecked"] < today][:batch_size],
+        "nextBatch": next_batch_names,
     })
 
 # ══════════════════════════════════════════
@@ -489,6 +526,8 @@ def agent1(articles):
 3. 大廠（騰訊、網易、米哈遊、莉莉絲、疊紙、鷹角、Nexon、Netmarble等）公告的新作
 4. 中國版號公示名單中新出現、但市場上還沒被廣泛報導的遊戲
 
+請避免收錄以下類型，除非它是現象級大作（critical等級)：西方/日系小型獨立遊戲、視覺小說、單人PC/主機解謎或平台跳躍遊戲。這類產品雜訊會佔用發現名額，稀釋真正該追蹤的手遊/二游訊號，只有在它是家喻戶曉的大作（例如GTA、戰神等級)時才收錄。
+
 新聞素材：
 {article_text}
 
@@ -504,8 +543,9 @@ def agent1(articles):
 - "stage": "announced"/"pre-reg"/"cbt"/"live-ops"
 - "launchEst": "2026-07" 或 "2026-Q3"
 - "desc": 一句話繁體中文描述
-- "threat": "high"/"medium"/"low"，判斷標準：
-  - high: 二游/大IP/回憶向/大廠自研，可能直接搶佔目標受眾
+- "threat": "critical"/"high"/"medium"/"low"，判斷標準：
+  - critical: 現象級大作——國民級懷念IP復刻（例如「賽爾號」這類全民童年記憶產品)、頭部大廠（米哈遊/騰訊/網易等)自研旗艦新IP、或話題度極高的頭部二游，預期會大規模搶佔市場注意力
+  - high: 二游/大IP/回憶向/大廠自研，規模明顯但未達現象級
   - medium: 中等規模、仍待觀察
   - low: 小型/長尾產品
 - "threatReason": 一句話說明威脅等級理由
@@ -527,23 +567,31 @@ Output ONLY valid JSON array, no markdown."""
                 continue
             seen.add(n)
             mid += 1
+            threat = d.get("threat", "medium")
+            reason = d.get("threatReason", "")
+            source_type = d.get("sourceType", "模型知識推論")
             entry = {
                 "id": mid, "name": n, "nameEn": d.get("nameEn", ""),
                 "developer": d.get("developer", "未知"), "studio": d.get("developer", "未知"),
                 "publisher": d.get("developer", "未知"), "genre": d.get("genre", "未知"),
-                "platform": d.get("platform", ["Mobile"]), "region": "待確認", "model": "F2P",
-                "stage": d.get("stage", "announced"), "threat": d.get("threat", "medium"),
-                "threatReason": d.get("threatReason", ""), "prereg": None, "sentiment": 70,
-                "launchEst": d.get("launchEst", "待定"), "desc": d.get("desc", ""), "tags": [],
-                "threatAnalysis": "", "verified": f"Agent 發現 ({today})",
+                "platform": normalize_platform(d.get("platform", ["Mobile"])), "region": "待確認", "model": "F2P",
+                "stage": d.get("stage", "announced"), "threat": threat,
+                "threatReason": reason, "prereg": None, "sentiment": 70,
+                "launchEst": d.get("launchEst", "待定"), "desc": d.get("desc", ""), "tags": [source_type],
+                # Seed threatAnalysis with the discovery reason so it's visible in the
+                # Modal/ThreatView immediately — otherwise that panel stays empty until
+                # Agent2 happens to rotate onto this product and overwrites it with a
+                # fuller analysis.
+                "threatAnalysis": f"【自動發現・{source_type}】{reason}" if reason else "",
+                "verified": f"Agent 發現 ({today})",
                 "category": "active", "testType": "待確認", "testDateStart": "待確認",
                 "testDateEnd": "待確認", "sourceLinks": [], "launchRegions": [],
                 "history": [{"date": datetime.now(timezone.utc).strftime("%Y-%m"), "s": d.get("stage", "announced")}],
                 "updatedAt": today, "lastChecked": "2000-01-01", "autoDiscovered": True,
-                "sourceType": d.get("sourceType", "模型知識推論"),
+                "sourceType": source_type,
             }
             new_p.append(entry)
-            if entry["threat"] == "high":
+            if entry["threat"] in ("critical", "high"):
                 high_threat.append(entry)
             print(f" + {n} ({d.get('developer','?')}) [{d.get('stage','')}] threat={entry['threat']}")
     else:
@@ -591,7 +639,7 @@ def agent4():
 - "stage": "announced"
 - "launchEst": "待定" 或推估時間
 - "desc": 一句話描述
-- "threat": "high"/"medium"/"low"
+- "threat": "critical"/"high"/"medium"/"low"（critical=國民級懷念IP復刻或頭部大廠自研旗艦新IP等現象級大作)
 - "threatReason": 一句話理由
 - "sourceType": "版號公示"
 
@@ -610,15 +658,18 @@ Output ONLY valid JSON array, no markdown."""
                 continue
             seen.add(n)
             mid += 1
+            threat = d.get("threat", "medium")
+            reason = d.get("threatReason", "")
             entry = {
                 "id": mid, "name": n, "nameEn": d.get("nameEn", ""),
                 "developer": d.get("developer", "未知"), "studio": d.get("developer", "未知"),
                 "publisher": d.get("developer", "未知"), "genre": d.get("genre", "未知"),
-                "platform": d.get("platform", ["Mobile"]), "region": "中國", "model": "F2P",
-                "stage": "announced", "threat": d.get("threat", "medium"),
-                "threatReason": d.get("threatReason", ""), "prereg": None, "sentiment": 70,
+                "platform": normalize_platform(d.get("platform", ["Mobile"])), "region": "中國", "model": "F2P",
+                "stage": "announced", "threat": threat,
+                "threatReason": reason, "prereg": None, "sentiment": 70,
                 "launchEst": d.get("launchEst", "待定"), "desc": d.get("desc", ""), "tags": ["版號公示"],
-                "threatAnalysis": "", "verified": f"版號雷達 ({today})",
+                "threatAnalysis": f"【自動發現・版號公示】{reason}" if reason else "",
+                "verified": f"版號雷達 ({today})",
                 "category": "active", "testType": "待確認", "testDateStart": "待確認",
                 "testDateEnd": "待確認", "sourceLinks": [], "launchRegions": [],
                 "history": [{"date": datetime.now(timezone.utc).strftime("%Y-%m"), "s": "announced"}],
@@ -626,7 +677,7 @@ Output ONLY valid JSON array, no markdown."""
                 "sourceType": "版號公示",
             }
             new_p.append(entry)
-            if entry["threat"] == "high":
+            if entry["threat"] in ("critical", "high"):
                 high_threat.append(entry)
             print(f" + {n} ({d.get('developer','?')}) threat={entry['threat']}")
     else:
