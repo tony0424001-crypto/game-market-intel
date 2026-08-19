@@ -77,10 +77,13 @@ def parse_json(text):
     text=re.sub(r"```json\s*","",text);text=re.sub(r"```\s*","",text);text=text.strip()
     if text.startswith("[") and not text.endswith("]"):
         last=text.rfind("}");
-        if last>0:text=text[:last+1]+"]";print("    🔧 Repaired JSON")
-    if text.startswith("{") and not text.endswith("}"):
-        last=text.rfind("}");
-        if last>0:text=text[:last+1]
+        if last>0:text=text[:last+1]+"]";print("    🔧 Repaired truncated array")
+    elif text.startswith("{") and not text.endswith("}"):
+        # Try to extract the array inside the object
+        arr_start=text.find("[")
+        if arr_start>0:
+            last=text.rfind("}");
+            if last>arr_start:text=text[arr_start:last+1]+"]";print("    🔧 Extracted array from truncated object")
     for i,c in enumerate(text):
         if c in "[{":
             d=0
@@ -156,20 +159,14 @@ def agent3(articles):
     # Prepare scraped content for Gemini
     article_text="\n".join([f"[{a['source']}] {a['title']}\n{a['summary'][:150]}" for a in articles[:25]])
     
-    prompt=f"""Today is {today}. Below are game news articles scraped from 巴哈姆特GNN, 4Gamers, IGN, Gematsu etc.
+    prompt=f"""Today is {today}. Here are today's game news headlines:
 
-Articles:
 {article_text}
 
-Analyze and output ONE JSON object with:
-{{"news":[{{"title":"繁體中文 title","detail":"繁體中文 1-2 sentences","action":"PM should do what","priority":"urgent/watch/info","platform":"mobile/console","source":"source name"}}],"industry":[{{"title":"繁體中文","detail":"繁體中文","category":"財報/版號/市場/收購/技術","pmInsight":"PM insight","source":"source","date":"{today}"}}]}}
+Pick the 6 most important items. Output a JSON array (NOT object). Each item:
+{{"title":"繁中標題(15字內)","detail":"繁中摘要(30字內)","action":"建議(15字內)","priority":"urgent/watch/info","platform":"mobile/console","source":"來源"}}
 
-Rules:
-- news: pick 8-10 most important game news
-- industry: pick 2-3 business/industry items (earnings, policy, market trends)
-- priority "urgent" = directly affects competing products
-- All text in 繁體中文
-- Output ONLY valid JSON"""
+Keep VERY short. Output ONLY valid JSON array, no markdown."""
 
     r=gemini(prompt)  # No search needed - we already have the data!
     p=parse_json(r)
@@ -177,16 +174,7 @@ Rules:
     icons={"urgent":"🚨","watch":"👁","info":"ℹ️"}
     new_items=[]
     
-    if p and isinstance(p,dict):
-        for it in p.get("news",[]):
-            iid=f"brief-{today.replace('-','')}-{hashlib.md5(it.get('title','').encode()).hexdigest()[:8]}"
-            if iid not in eids:
-                new_items.append({"id":iid,"priority":it.get("priority","info"),"icon":icons.get(it.get("priority"),"📰"),"title":it.get("title",""),"detail":it.get("detail",""),"action":it.get("action",""),"platform":it.get("platform","mobile"),"source":it.get("source",""),"fetchedAt":now.isoformat()})
-        industry=p.get("industry",[])
-        if industry:
-            save(INDUSTRY,{"lastUpdated":now.isoformat(),"trends":industry})
-            print(f"  ✅ {len(industry)} industry trends")
-    elif p and isinstance(p,list):
+    if p and isinstance(p,list):
         for it in p:
             iid=f"brief-{today.replace('-','')}-{hashlib.md5(it.get('title','').encode()).hexdigest()[:8]}"
             if iid not in eids:
@@ -201,6 +189,14 @@ Rules:
     save(DAILY,{"lastUpdated":now.isoformat(),"fetchCount":existing.get("fetchCount",0)+1,"items":all_i})
     print(f"  ✅ +{len(new_items)} items, total {len(all_i)}")
     
+    # Industry trends from news
+    if new_items:
+        ind_kw=["財報","版號","收購","市場","AI","出海","融資","營收","投資","合併"]
+        ind=[{"title":it["title"],"detail":it["detail"],"category":"市場","pmInsight":it.get("action",""),"source":it.get("source",""),"date":today} for it in new_items if any(k in it.get("title","") for k in ind_kw)]
+        if ind:
+            save(INDUSTRY,{"lastUpdated":now.isoformat(),"trends":ind})
+            print(f"  ✅ {len(ind)} industry trends")
+
     # Quarterly
     q=load(QUARTERLY,{});cy=now.year
     if q.get("year")!=cy:q={"year":cy,"resetAt":f"{cy}-01-01T00:00:00Z","quarters":{f"Q{i}":{"label":f"{cy} Q{i}","events":[]} for i in range(1,5)}}
@@ -380,10 +376,10 @@ def main():
     
     # Step 4: Agent 1 - discover from scraped + search (Call 3, every 2 days)
     dy=now.timetuple().tm_yday
-    if dy%2==0 or "--all" in sys.argv:
+    if True:  # always run
         agent1(articles)
     else:
-        print(f"\n⏭ Agent 1 skipped (every 2 days)")
+        print(f"\n⏭ Agent 1 skipped")
     
     print(f"\n✅ Done! API calls: {'3' if dy%2==0 or '--all' in sys.argv else '2'}")
 
