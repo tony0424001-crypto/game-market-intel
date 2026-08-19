@@ -1,4 +1,4 @@
-name: Daily Game Intel Update (3-Agent)
+name: Daily Game Intel Update (4-Agent)
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       run_all:
-        description: 'Force run all 3 agents (including product discovery)'
+        description: 'Force run all 4 agents (including product discovery)'
         type: boolean
         default: false
 
