@@ -168,6 +168,16 @@ def brief_platform_tag(platform_list):
     norm = normalize_platform(platform_list)
     return "mobile" if "Mobile" in norm else "console"
 
+def normalize_name(name):
+    """Exact-string dedup let through confirmed duplicates in production data
+    (e.g. '幻想水滸傳 STAR LEAP' vs '幻想水滸傳：星躍' — same game, added twice
+    8 days apart because a colon/spacing difference bypassed `n in existing`).
+    Strip whitespace/punctuation before comparing so near-identical names
+    collide correctly."""
+    if not name:
+        return ""
+    return re.sub(r"[\s:：\-－_·,\.，。]+", "", str(name).lower())
+
 def is_placeholder(v):
     """Detects the '（請填入...）' style placeholder text left in a fresh config.json
     so we don't feed literal placeholder strings into a Gemini prompt as if they
@@ -514,6 +524,7 @@ def agent1(articles):
         game_articles = articles
     article_text = "\n".join([f"- [{a['source']}] {a['title']}" for a in game_articles[:30]])
     current = ", ".join(sorted(existing))  # full list — no truncation, avoid re-suggesting duplicates
+    existing_norm = {normalize_name(g["name"]) for g in products} | {normalize_name(g.get("nameEn", "")) for g in products if g.get("nameEn")}
     watch_context = build_watch_context(config, my)
 
     prompt = f"""從以下新聞與你自身知識（含網路搜尋）中，找出「還沒被我們追蹤」的新手遊。
@@ -561,11 +572,13 @@ Output ONLY valid JSON array, no markdown."""
         seen = set()
         for d in p:
             n = d.get("name", "")
-            if not n or n in existing or n in seen:
-                if n and n in existing:
+            n_norm = normalize_name(n)
+            nen_norm = normalize_name(d.get("nameEn", ""))
+            if not n or n in existing or n_norm in seen or n_norm in existing_norm or (nen_norm and nen_norm in existing_norm):
+                if n and (n in existing or n_norm in existing_norm):
                     print(f" ⏭ {n} (exists)")
                 continue
-            seen.add(n)
+            seen.add(n_norm)
             mid += 1
             threat = d.get("threat", "medium")
             reason = d.get("threatReason", "")
@@ -621,6 +634,7 @@ def agent4():
     mid = max((g["id"] for g in products), default=0)
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     current = ", ".join(sorted(existing))
+    existing_norm = {normalize_name(g["name"]) for g in products} | {normalize_name(g.get("nameEn", "")) for g in products if g.get("nameEn")}
     watch_context = build_watch_context(config, my)
 
     prompt = f"""請搜尋最近一批中國國家新闻出版署公布的遊戲版號審批名單（游戏版号公示），
@@ -654,9 +668,11 @@ Output ONLY valid JSON array, no markdown."""
         seen = set()
         for d in p:
             n = d.get("name", "")
-            if not n or n in existing or n in seen:
+            n_norm = normalize_name(n)
+            nen_norm = normalize_name(d.get("nameEn", ""))
+            if not n or n in existing or n_norm in seen or n_norm in existing_norm or (nen_norm and nen_norm in existing_norm):
                 continue
-            seen.add(n)
+            seen.add(n_norm)
             mid += 1
             threat = d.get("threat", "medium")
             reason = d.get("threatReason", "")
