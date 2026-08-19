@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-08-19T01:57:43.854387+00:00",
-  "fetchCount": 97,
+  "lastUpdated": "2026-08-19T09:37:34.883774+00:00",
+  "fetchCount": 98,
   "items": [
+    {
+      "id": "brief-20260819-3fc67202",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "FromSoft新作測試",
+      "detail": "《The Duskbloods》測試版開放預載，快檢查信箱。",
+      "action": "檢查信箱預載",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-08-19T09:37:34.883774+00:00"
+    },
+    {
+      "id": "brief-20260819-9facdb4c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Among Us新職業",
+      "detail": "推出「法官」，可無視投票結果流放玩家。",
+      "action": "體驗新玩法",
+      "platform": "multi",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-19T09:37:34.883774+00:00"
+    },
+    {
+      "id": "brief-20260819-c1ef445b",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "星戰零號連隊上市",
+      "detail": "回合制策略新作8月27日上市，預告片公開。",
+      "action": "觀看最終預告",
+      "platform": "pc/console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-19T09:37:34.883774+00:00"
+    },
+    {
+      "id": "brief-20260819-221f8628",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "明日方舟終末地聯動",
+      "detail": "與7-ELEVEN思樂冰合作，限定杯身、虛寶。",
+      "action": "購買思樂冰收藏",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-19T09:37:34.883774+00:00"
+    },
+    {
+      "id": "brief-20260819-5081f40f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "影之刃零台代預購",
+      "detail": "傑仕登代理《影之刃零》，數位版已開放預購。",
+      "action": "立即預購",
+      "platform": "multi",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-19T09:37:34.883774+00:00"
+    },
+    {
+      "id": "brief-20260819-273be4ae",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "劍之川事前預約",
+      "detail": "漢家松鼠新作《劍之川》開放全球事前預約。",
+      "action": "立即預約",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-19T09:37:34.883774+00:00"
+    },
     {
       "id": "brief-20260816-138d7dba",
       "priority": "urgent",
@@ -155,72 +221,6 @@
       "platform": "mobile",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-08-09T02:33:23.660325+00:00"
-    },
-    {
-      "id": "brief-20260816-5bc90390",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《王國之心》將在迪士尼頻道和 Disney+ 推出原創動畫影集",
-      "detail": "迪士尼宣布將與野村哲也及 SQUARE ENIX 合作，在迪士尼頻道和 Disney+ 推出《王國之心》題材的原創動畫影集，以全新故事擴展其世界觀。",
-      "action": "觀察跨媒體 IP 延伸的市場反應，研究動畫內容如何與遊戲 IP 互動，以借鑒未來產品的 IP 策略與品牌建設。",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-16T02:01:45.152929+00:00"
-    },
-    {
-      "id": "brief-20260816-b88dbf1a",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《沙金工業》搶先體驗兩日Steam壓倒性好評 結合《異星工廠》自動化與《泰拉瑞亞》像素建設",
-      "detail": "獨立遊戲《沙金工業》在 Steam 搶先體驗兩日內獲得壓倒性好評，其結合了工廠自動化與像素建設的玩法受到玩家青睞。",
-      "action": "關注獨立遊戲市場的潛力與玩家偏好，研究此類結合多種玩法的遊戲如何獲得成功，並評估搶先體驗模式的效益。",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-08-16T02:01:45.152929+00:00"
-    },
-    {
-      "id": "brief-20260816-a6fd7b47",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《Pokémon GO》10週年特展皮卡丘伊布同樂，GO Fest 2026超級壓軸設置更多道館",
-      "detail": "《Pokémon GO》在台北舉辦 10 週年特展，並為「Pokémon GO Fest 2026：超級壓軸」增加更多道館，持續強化玩家體驗與社群互動。",
-      "action": "觀察大型手遊 IP 的長線營運策略與線下活動結合模式，研究其如何維持玩家活躍度與社群參與，以借鑒產品生命週期管理。",
-      "platform": "mobile",
-      "source": "4Gamers",
-      "fetchedAt": "2026-08-16T02:01:45.152929+00:00"
-    },
-    {
-      "id": "brief-20260816-21bdf314",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《逆水寒》×《新世紀福音戰士》聯動外觀首度曝光 前導CG搶先釋出",
-      "detail": "開放世界 MMO《逆水寒》公開與日本經典動畫《新世紀福音戰士》的聯動外觀與前導 CG，預計 8 月 28 日正式上線。",
-      "action": "分析跨 IP 聯動對遊戲營收與玩家社群的影響，研究不同 IP 結合的策略與宣傳手法，以評估未來合作機會。",
-      "platform": "mobile",
-      "source": "4Gamers",
-      "fetchedAt": "2026-08-16T02:01:45.152929+00:00"
-    },
-    {
-      "id": "brief-20260816-d32c24fb",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "《復仇者聯盟：末日崛起》公開 D23 預告影片",
-      "detail": "漫威電影宇宙系列電影《復仇者聯盟：末日崛起》在 D23 粉絲大會上公開最新預告影片，預計今年 12 月上映，引發影迷熱烈討論。",
-      "action": "關注大型電影 IP 的宣傳策略與市場熱度，評估其對相關遊戲產品的潛在影響與合作機會，特別是超級英雄題材遊戲。",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-16T02:01:45.152929+00:00"
-    },
-    {
-      "id": "brief-20260816-e192c0df",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "《冰雪奇緣 3》預定 2027 年秋季上映 最新概念視覺圖搶先曝光",
-      "detail": "迪士尼動畫電影《冰雪奇緣》系列新作《冰雪奇緣 3》在 D23 大會上公開概念視覺圖，預定 2027 年秋季上映，延續其全球熱潮。",
-      "action": "關注迪士尼動畫 IP 的發展趨勢，評估其對家庭向遊戲市場的潛在影響與授權合作機會，特別是針對兒童與家庭的產品。",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-16T02:01:45.152929+00:00"
     }
   ]
 }
