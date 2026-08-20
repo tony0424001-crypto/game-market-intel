@@ -6552,26 +6552,41 @@
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "TBD",
+    "launchEst": "2026-08-13",
     "desc": "這是一款建設模擬新作，已展開搶先體驗，讓玩家探索開放世界中的遠古謎團。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【機會】遊戲已於2026年8月13日推出PC搶先體驗版，並獲得壓倒性好評。開發商Lantto Games與發行商Hooded Horse的合作表現良好。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲更新與正式版發布日期。\n(2). 關注玩家社群回饋，評估遊戲長期營運潛力。\n(3). 考慮PC Game Pass的影響，分析其對玩家獲取與營收的潛在效益。",
     "verified": "Agent 發現 (2026-08-16)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2071280/Sandustry/"
+      },
+      {
+        "label": "官網",
+        "url": "https://sandustry.com"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-16",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-20",
+    "lastChecked": "2026-08-20",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲《沙金工業》（Sandustry）已於2026年8月13日在PC平台（Steam、GOG、Microsoft Store）推出搶先體驗版，並支援PC Game Pass。 遊戲由Lantto Games開發，Hooded Horse發行，並獲得「壓倒性好評」。",
+    "eventNote": "遊戲《沙金工業》（Sandustry）已於2026年8月13日在PC平台（Steam、GOG、Microsoft Store）推出搶先體驗版，並支援PC Game Pass。 遊戲由Lantto Games開發，Hooded Horse發行，並獲得「壓倒性好評」。"
   },
   {
     "id": 124,
@@ -6586,30 +6601,41 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "cbt",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-03",
+    "launchEst": "2026",
     "desc": "這是一款搜打撤逆彈幕遊戲，首個公開 Demo 已上線，讓玩家體驗滿載而歸或一無所有的冒險。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【機會】遊戲已推出公開Demo，並在社群中引起討論，顯示其玩法具有吸引力。 發售日期從具體月份變為年份，可能意味著開發團隊正在調整，但Demo的推出是積極信號。\n\n▶ 建議行動：\n(1). 密切關注Demo反饋與後續開發進度。\n(2). 追蹤正式發售日期的進一步確認。\n(3). 評估遊戲在搜打撤與逆彈幕類型中的競爭力。",
     "verified": "Agent 發現 (2026-08-16)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-08-13 (公開Demo上線)",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/4554250/Hellforged/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "cbt"
       }
     ],
-    "updatedAt": "2026-08-16",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-20",
+    "lastChecked": "2026-08-20",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲《地獄鑄造》（Hellforged）於2026年8月13日推出首個公開Demo，此前曾進行封閉測試。 遊戲由Moonpyre開發，Grindstone發行，Steam頁面顯示計畫發行日期為2026年。",
+    "eventNote": "遊戲《地獄鑄造》（Hellforged）於2026年8月13日推出首個公開Demo，此前曾進行封閉測試。 遊戲由Moonpyre開發，Grindstone發行，Steam頁面顯示計畫發行日期為2026年。"
   },
   {
     "id": 125,
@@ -6629,30 +6655,45 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-09",
+    "launchEst": "2026-09-15",
     "desc": "這是一款模擬經營遊戲，玩家將經營自己的 TCG 卡牌店，將於 9 月 15 日發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【機會】遊戲即將於2026年9月15日推出正式版，並新增玩家期待的對戰系統，有望吸引更多玩家。 搶先體驗階段已累積良好口碑。\n\n▶ 建議行動：\n(1). 密切關注正式版上線後的玩家反應與營收表現。\n(2). 評估新增對戰系統對遊戲長期留存的影響。\n(3). 考慮其在多平台發行的潛力。",
     "verified": "Agent 發現 (2026-08-16)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2024-09-15 (搶先體驗開始)",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2513230/TCG_Card_Shop_Simulator/"
+      },
+      {
+        "label": "官網",
+        "url": "https://opneongames.com/tcg-card-shop-simulator/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-16",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-20",
+    "lastChecked": "2026-08-20",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲《TCG 卡牌店模擬器》（TCG Card Shop Simulator）將於2026年9月15日推出1.0正式版，並結束搶先體驗階段。 正式版將新增可遊玩的TCG對戰系統「Tetramon Duel Master」。 遊戲將登陸PC、PS5、Xbox Series X|S、Switch 2、Xbox One和Switch平台。",
+    "eventNote": "遊戲《TCG 卡牌店模擬器》（TCG Card Shop Simulator）將於2026年9月15日推出1.0正式版，並結束搶先體驗階段。 正式版將新增可遊玩的TCG對戰系統「Tetramon Duel Master」。 遊戲將登陸PC、PS5、Xbox Series X|S、Switch 2、Xbox One和Switch平台。"
   },
   {
     "id": 126,
@@ -6677,23 +6718,42 @@
     "launchEst": "2027-Q4",
     "desc": "備受期待的動作角色扮演遊戲《王國之心 IV》預計於 2027 年底推出，並將登陸多個平台。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【機會】發售日期已明確至2027年末，且開發團隊給出不延期承諾，為玩家帶來信心。 新預告片展示了《可可夜總會》世界與可操作角色米奇，提升了期待度。\n\n▶ 建議行動：\n(1). 持續追蹤後續宣傳活動與新世界、角色資訊。\n(2). 評估其在多平台發售的市場潛力。\n(3). 關注玩家對遊戲新機制的反應。",
     "verified": "Agent 發現 (2026-08-16)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "PlayStation Store",
+        "url": "https://store.playstation.com/en-us/concept/10005086"
+      },
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3216600/KINGDOM_HEARTS_IV/"
+      },
+      {
+        "label": "官網",
+        "url": "https://www.square-enix.com/kingdomhearts/kh4/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-16",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-20",
+    "lastChecked": "2026-08-20",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲《王國之心 IV》（Kingdom Hearts IV）於D23 2026活動中確認將於2027年末發售，並公開了以皮克斯電影《可可夜總會》為靈感的新世界。 開發團隊承諾遊戲不會延期。 遊戲將登陸PC、PlayStation 5、Xbox Series X|S和Nintendo Switch 2平台，並確認米奇老鼠為可操作角色。",
+    "eventNote": "遊戲《王國之心 IV》（Kingdom Hearts IV）於D23 2026活動中確認將於2027年末發售，並公開了以皮克斯電影《可可夜總會》為靈感的新世界。 開發團隊承諾遊戲不會延期。 遊戲將登陸PC、PlayStation 5、Xbox Series X|S和Nintendo Switch 2平台，並確認米奇老鼠為可操作角色。"
   },
   {
     "id": 127,
@@ -6708,30 +6768,41 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-09",
+    "launchEst": "2025-08-18 (搶先體驗版)",
     "desc": "這是一款基於物理的格鬥遊戲，玩家將扮演火柴人進行戰鬥，將於 9 月 23 日發售。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】資訊錯誤\n\n▶ 建議行動：\n(1). 修正遊戲名稱為《打工火柴人》（Stick it to the Stickman）。\n(2). 更新遊戲狀態為「live-ops」並記錄實際搶先體驗上線日期2025年8月18日。\n(3). 追蹤遊戲正式版發布計畫與後續更新。",
     "verified": "Agent 發現 (2026-08-16)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2025-08-18 (搶先體驗版上線，此前有Demo)",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/1897920/Stick_it_to_the_Stickman/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-16",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-20",
+    "lastChecked": "2026-08-20",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲《打工火柴人》（Stick it to the Stickman）已於2025年8月18日在PC平台（Steam）推出搶先體驗版。 遊戲由Free Lives開發，Devolver Digital發行。 原提供資訊中的「火柴人出擊」名稱與上線日期2026-09應為其他火柴人遊戲，例如《火柴人征戰異世界》已於2025年5月1日上線。",
+    "eventNote": "遊戲《打工火柴人》（Stick it to the Stickman）已於2025年8月18日在PC平台（Steam）推出搶先體驗版。 遊戲由Free Lives開發，Devolver Digital發行。 原提供資訊中的「火柴人出擊」名稱與上線日期2026-09應為其他火柴人遊戲，例如《火柴人征戰異世界》已於2025年5月1日上線。"
   },
   {
     "id": 128,
@@ -6756,9 +6827,9 @@
     "launchEst": "TBD",
     "desc": "這是一款敘事驅動的奇幻動作角色扮演遊戲，已宣布將登陸多個平台，並將在 Gamescom 2026 提供試玩。",
     "tags": [],
-    "threatAnalysis": "",
+    "threatAnalysis": "【威脅類型】資訊不足\n\n▶ 建議行動：\n(1). 持續監控開發商YHKT ENTERTAINMENT的官方公告與社群媒體。\n(2). 嘗試使用其他關鍵字或遊戲英文名稱進行搜尋（如果有的話）。\n(3). 若長時間無任何更新，需評估是否轉為「dead」狀態。",
     "verified": "Agent 發現 (2026-08-16)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
@@ -6770,8 +6841,10 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-16",
-    "lastChecked": "2000-01-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-08-20",
+    "lastChecked": "2026-08-20",
+    "autoDiscovered": true,
+    "currentEvent": "無最新資訊。",
+    "eventNote": "無最新資訊。"
   }
 ]

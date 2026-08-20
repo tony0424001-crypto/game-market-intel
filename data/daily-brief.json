@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-08-19T09:37:34.883774+00:00",
-  "fetchCount": 98,
+  "lastUpdated": "2026-08-20T01:56:31.648792+00:00",
+  "fetchCount": 99,
   "items": [
+    {
+      "id": "brief-20260820-4f55c956",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《NBA 2K27》情報",
+      "detail": "男女同場競技，搶先遊玩8/27",
+      "action": "預購搶先玩",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-20T01:56:31.648792+00:00"
+    },
+    {
+      "id": "brief-20260820-5caae883",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《仁王 3》DLC上市",
+      "detail": "第一彈DLC「慶安地獄變」今日發布",
+      "action": "玩家可更新遊玩",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-20T01:56:31.648792+00:00"
+    },
+    {
+      "id": "brief-20260820-62b02ebb",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《星際大戰》新作",
+      "detail": "回合制策略遊戲8/27上市",
+      "action": "關注上市資訊",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-20T01:56:31.648792+00:00"
+    },
+    {
+      "id": "brief-20260820-6d8da932",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《VAMPIR》大更新",
+      "detail": "新增成長內容「眷屬」與活動",
+      "action": "玩家可體驗新內容",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-20T01:56:31.648792+00:00"
+    },
     {
       "id": "brief-20260819-3fc67202",
       "priority": "urgent",
@@ -157,70 +201,26 @@
       "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
     },
     {
-      "id": "brief-20260814-fb7456f6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "收集型合作 RPG《風之痕跡》於雙平台開放預先註冊 循著風的痕跡前往被遺忘的大陸",
-      "detail": "Neptune 發行的收集型合作 RPG 手機遊戲《風之痕跡》已於 App Store 和 Google Play 開放預先註冊，上市時間未定。",
-      "action": "追蹤預先註冊人數和行銷活動，評估其潛在市場表現，分析其收集型合作 RPG 的特色。",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
-    },
-    {
-      "id": "brief-20260814-7eb4d5ed",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "寶可夢《Pokémon Pokopia》 發行約4個月後全球銷量突破500萬份",
-      "detail": "寶可夢首款慢活沙盒遊戲《Pokémon Pokopia》發行約 4 個月後，全球銷量已突破 500 萬份，顯示玩家對其全新體驗的喜愛。",
-      "action": "深入分析《Pokémon Pokopia》的成功因素，特別是「慢活沙盒」這一新穎玩法對玩家的吸引力，研究其市場定位和行銷策略。",
-      "platform": "mobile/console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
-    },
-    {
-      "id": "brief-20260814-7b0e3e31",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《明日方舟：終末地》宣布登陸Steam 願望清單達30萬解鎖限定頭像框",
-      "detail": "鷹角網絡開發的 3D 即時策略 RPG《明日方舟：終末地》宣布將登陸 Steam 平台，並開啟願望清單里程碑活動。",
-      "action": "密切關注此知名 IP 拓展 PC 平台的策略，分析其願望清單活動的成效，評估其在 PC 策略 RPG 市場的潛力。",
+      "id": "brief-20260820-acd46d70",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "SEGA PC遊戲特價",
+      "detail": "Steam多款PC遊戲限期特價中",
+      "action": "查看特價遊戲",
       "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-20T01:56:31.648792+00:00"
     },
     {
-      "id": "brief-20260813-68e494bc",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "末日風格魔女養成策略 RPG《MAJO》今日全球同步上市",
-      "detail": "由 DarkWind Ltd. 發行的末日風格魔女養成策略 RPG《MAJO》已於今日在 App Store 與 Google Play 全球同步上線，並釋出開服限定活動。",
-      "action": "立即評估此款新上市 RPG 的市場表現、營收與玩家評價，分析其競爭力與特色。",
-      "platform": "mobile",
+      "id": "brief-20260820-4a5df89e",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "《自決意志》亮相",
+      "detail": "《沉沒意志》團隊新作，Steam頁面公開",
+      "action": "關注新作資訊",
+      "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-13T03:05:15.090222+00:00"
-    },
-    {
-      "id": "brief-20260809-25b1e365",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "希臘神話 MMORPG《宙斯：傲慢之神》8/26 在韓國上市",
-      "detail": "以希臘神話為背景的MMORPG新作《宙斯：傲慢之神》宣布將於8月26日在韓國正式上市，並開放預約角色命名。",
-      "action": "密切關注韓國MMORPG市場的最新動態，分析此款競品的上市表現與玩家反饋。",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-09T02:33:23.660325+00:00"
-    },
-    {
-      "id": "brief-20260809-a70b788b",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "末日系魔女養成策略 RPG《MAJO》8 月 12 日雙平台上市",
-      "detail": "末日系魔女養成策略RPG《MAJO》宣布將於8月12日在雙平台上市，主打超現實懸疑與怪奇美術風格。",
-      "action": "關注新上市的養成策略RPG，分析其美術風格、玩法特色與市場定位，評估潛在競爭影響。",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-09T02:33:23.660325+00:00"
+      "fetchedAt": "2026-08-20T01:56:31.648792+00:00"
     }
   ]
 }
