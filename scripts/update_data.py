@@ -81,6 +81,9 @@ def gemini(prompt, search=False, tokens=8000):
                     d = r.json()
                     c = d.get("candidates", [])
                     if c:
+                        finish = c[0].get("finishReason", "")
+                        if finish == "MAX_TOKENS":
+                            print(f" ⚠️ Hit maxOutputTokens ({tokens}) — response was cut off, raise the tokens= value for this call")
                         text = " ".join(p.get("text", "") for p in c[0].get("content", {}).get("parts", []) if "text" in p).strip()
                         print(f" ✅ Gemini: {len(text)} chars")
                         return text
@@ -99,43 +102,83 @@ def gemini(prompt, search=False, tokens=8000):
                 else:
                     print(f" ❌ {r.status_code}")
                     return None
+            except req.exceptions.Timeout:
+                if retry < 2:
+                    print(f" ⏳ Timeout, retrying ({retry + 1}/3)...")
+                    continue
+                print(" ❌ Timed out after 3 attempts")
+                return None
             except Exception as e:
                 print(f" ❌ {e}")
                 return None
     return None
 
 def parse_json(text):
+    """Parse a JSON array from a Gemini response, salvaging whatever complete
+    objects exist even if the response was truncated mid-object (hit
+    maxOutputTokens). The old version required the whole array to be
+    perfectly balanced — one truncated object at the tail meant the ENTIRE
+    batch was discarded, even when 5+ earlier candidates were fully formed
+    and valid. This is what silently dropped every Agent1/Agent2 candidate
+    in production (log showed 'Parse failed' despite a well-formed prefix)."""
     if not text:
         return None
     text = re.sub(r"```json\s*", "", text)
     text = re.sub(r"```\s*", "", text)
     text = text.strip()
-    if text.startswith("[") and not text.endswith("]"):
-        last = text.rfind("}")
-        if last > 0:
-            text = text[:last + 1] + "]"
-            print(" 🔧 Repaired truncated array")
-    elif text.startswith("{") and not text.endswith("}"):
-        arr_start = text.find("[")
-        if arr_start > 0:
-            last = text.rfind("}")
-            if last > arr_start:
-                text = text[arr_start:last + 1] + "]"
-                print(" 🔧 Extracted array from truncated object")
-    for i, c in enumerate(text):
-        if c in "[{":
-            d = 0
-            for j in range(i, len(text)):
-                if text[j] in "[{":
-                    d += 1
-                elif text[j] in "]}":
-                    d -= 1
-                    if d == 0:
-                        try:
-                            return json.loads(text[i:j + 1])
-                        except Exception:
-                            break
+
+    # Fast path: response is already valid JSON.
+    try:
+        return json.loads(text)
+    except Exception:
+        pass
+
+    # Salvage path: walk the text from the first '[', pull out each complete
+    # top-level {...} object one at a time (string-aware, so braces inside
+    # quoted values don't confuse the depth counter), and stop the moment we
+    # hit an object that doesn't close — that's the truncated tail, discard
+    # just that one instead of everything before it.
+    start = text.find("[")
+    if start == -1:
+        return None
+    body = text[start + 1:]
+    items = []
+    i, n = 0, len(body)
+    while i < n:
+        while i < n and body[i] in " \t\n\r,":
+            i += 1
+        if i >= n or body[i] != "{":
             break
+        depth, j, in_str, esc = 0, i, False, False
+        while j < n:
+            ch = body[j]
+            if in_str:
+                if esc:
+                    esc = False
+                elif ch == "\\":
+                    esc = True
+                elif ch == '"':
+                    in_str = False
+            else:
+                if ch == '"':
+                    in_str = True
+                elif ch == "{":
+                    depth += 1
+                elif ch == "}":
+                    depth -= 1
+                    if depth == 0:
+                        break
+            j += 1
+        if depth != 0:
+            break  # truncated mid-object — this is the cut-off tail, stop here
+        try:
+            items.append(json.loads(body[i:j + 1]))
+        except Exception:
+            break
+        i = j + 1
+    if items:
+        print(f" 🔧 Salvaged {len(items)} complete item(s) from a truncated/malformed response")
+        return items
     return None
 
 def normalize_platform(platform_list):
@@ -428,7 +471,7 @@ Output JSON array:
 - "directLinks": [{{"label":"TapTap","url":"real URL"}},{{"label":"官網","url":"URL"}}]
 
 Output ONLY valid JSON array."""
-    r = gemini(prompt, search=True)
+    r = gemini(prompt, search=True, tokens=16000)
     p = parse_json(r)
     updates = 0
     findings = []
@@ -563,7 +606,7 @@ def agent1(articles):
 - "sourceType": "新聞報導"/"版號公示"/"官方公告"/"模型知識推論"
 
 Output ONLY valid JSON array, no markdown."""
-    r = gemini(prompt, search=True, tokens=8000)
+    r = gemini(prompt, search=True, tokens=12000)
     p = parse_json(r)
     new_p = []
     high_threat = []
@@ -659,7 +702,7 @@ def agent4():
 
 若找不到明確資料，回傳空陣列 []。
 Output ONLY valid JSON array, no markdown."""
-    r = gemini(prompt, search=True, tokens=6000)
+    r = gemini(prompt, search=True, tokens=10000)
     p = parse_json(r)
     new_p = []
     high_threat = []
