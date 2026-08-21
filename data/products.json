@@ -25,7 +25,7 @@
       "二次元",
       "免費角色"
     ],
-    "threatAnalysis": "【潛在延遲風險】儘管官方定檔2026年7月進行不刪檔公測，但部分社群討論顯示對實際公測時間存在不確定性，且遊戲發行日期尚未完全確認。\n\n▶ 建議行動：\n(1). 持續追蹤官方公告，特別是針對公測與正式上線日期的最終確認。\n(2). 關注遊戲開發進度與社群反饋，評估潛在的延遲風險。\n(3). 準備應對公測或上線日期變動的應變計畫。",
+    "threatAnalysis": "【資訊不足】目前缺乏《無限大》於2026年7月上線後的具體營運消息與測試結束資訊。由於原定上線日期已過，推測遊戲已進入營運階段，但市場聲量與後續更新動態不明。 \n\n▶ 建議行動：\n(1). 持續監測遊戲官方社群媒體與遊戲新聞網站，確認其正式上線公告與營運狀況。\n(2). 嘗試搜尋玩家評論與討論，評估遊戲初期表現與潛在問題。\n(3). 若長時間無任何更新或消息，需評估其市場表現與追蹤價值。",
     "verified": "網易 520 發布會、蘋果仁、VNG 情報站",
     "history": [
       {
@@ -37,7 +37,7 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-23",
+    "updatedAt": "2026-08-21",
     "category": "active",
     "launchRegions": [
       {
@@ -83,7 +83,8 @@
         "url": "https://www.taptap.cn/app/233075"
       }
     ],
-    "lastChecked": "2026-07-23"
+    "lastChecked": "2026-08-21",
+    "currentEvent": "遊戲應已於2026年7月上線並持續營運，但目前缺乏具體營運消息與測試結束資訊。"
   },
   {
     "id": 2,
@@ -103,7 +104,7 @@
     "threat": "high",
     "prereg": 18000000,
     "sentiment": 82,
-    "launchEst": "2026-04-23",
+    "launchEst": "2026-04-23 (中國大陸), 2026-04-29 (全球)",
     "desc": "幻塔團隊新作，超自然都市開放世界 RPG。4/23 全平台公測，結合都市生活與超自然冒險。",
     "tags": [
       "都市",
@@ -111,7 +112,7 @@
       "二次元",
       "幻塔團隊"
     ],
-    "threatAnalysis": "【市場表現強勁】《異環》自4月23日全球公測以來，營收表現超出預期，尤其在日本市場獲得巨大成功，顯示其在超自然都市開放世界RPG品類的競爭力。\n\n▶ 建議行動：\n(1). 持續關注遊戲的全球營收數據與市場趨勢，特別是海外市場的表現。\n(2). 分析其成功因素，如美術風格、玩法設計、在地化行銷策略等，作為未來產品借鑒。\n(3). 密切追蹤遊戲內容更新與營運活動，評估其長線營運潛力。",
+    "threatAnalysis": "【穩定營運】《異環》已於2026年4月23日（中國大陸）及4月29日（全球）正式上線，並持續進行版本更新，目前已推出1.3版本。遊戲營運狀況良好，有持續的內容更新與活動。\n\n▶ 建議行動：\n(1). 持續追蹤其版本更新內容與活動，評估對玩家留存與營收的影響。\n(2). 關注新角色與新玩法的推出，分析其市場反應。\n(3). 監測玩家社群討論，了解遊戲體驗與潛在問題。",
     "verified": "蘋果仁、巴哈姆特、Yahoo 遊戲 - 三個以上來源",
     "history": [
       {
@@ -125,9 +126,13 @@
       {
         "date": "2026-04",
         "s": "launched"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-23",
+    "updatedAt": "2026-08-21",
     "category": "active",
     "launchRegions": [
       {
@@ -157,18 +162,15 @@
     "publisher_global": "Level Infinite",
     "testType": "不刪檔公測",
     "testDateStart": "2026-04-23",
-    "testDateEnd": "不刪檔公測 2026-04-23~持續營運中",
+    "testDateEnd": "2026-04-23 (中國大陸公測開始), 2026-04-29 (全球公測開始)",
     "sourceLinks": [
       {
         "label": "官網",
-        "url": "https://yh.wanmei.com/"
-      },
-      {
-        "label": "TapTap",
-        "url": "https://www.taptap.cn/app/233076"
+        "url": "https://www.ntegame.net/"
       }
     ],
-    "lastChecked": "2026-07-23"
+    "lastChecked": "2026-08-21",
+    "currentEvent": "遊戲已於2026年4月23日（中國大陸）及4月29日（全球）正式上線，並於2026年8月19日推出1.3版本「霧中朔望星回」，新增角色與夏日活動。"
   },
   {
     "id": 3,
@@ -196,7 +198,7 @@
       "IP衍生",
       "明日方舟"
     ],
-    "threatAnalysis": "【IP影響力與市場接受度】《明日方舟：終末地》憑藉強大IP影響力，在全球市場，特別是日本，取得了顯著的商業成功。 持續的內容更新也顯示其積極的營運策略。\n\n▶ 建議行動：\n(1). 分析其IP衍生作品的成功模式，研究如何將既有IP優勢轉化為新產品的市場競爭力。\n(2). 關注其全球市場，尤其是日本市場的營運策略，學習其用戶獲取與留存經驗。\n(3). 追蹤其版本更新內容與玩家反饋，評估其長線營運的穩定性。",
+    "threatAnalysis": "【穩定營運，持續更新】《明日方舟：終末地》已於2026年1月22日全球上線，營運狀況良好，並持續推出新版本與活動。遊戲在市場上表現強勁，尤其在日本市場營收亮眼。\n\n▶ 建議行動：\n(1). 持續關注其版本更新、新角色推出及營收表現，特別是不同地區的市場反應。\n(2). 分析其雲遊戲版本的推廣效果與用戶接受度。\n(3). 監測玩家對遊戲內容（如抽卡系統優化）的討論與反饋。",
     "verified": "維基百科、巴哈姆特、QooApp、GNN",
     "history": [
       {
@@ -212,7 +214,7 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-07-23",
+    "updatedAt": "2026-08-21",
     "category": "active",
     "launchRegions": [
       {
@@ -250,15 +252,16 @@
     "testDateEnd": "不刪檔公測 2026-01-22~持續營運中",
     "sourceLinks": [
       {
-        "label": "官網",
-        "url": "https://ak.hypergryph.com/endfield/"
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/234790"
       },
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.cn/app/233077"
+        "label": "官網",
+        "url": "https://endfield.hypergryph.com/"
       }
     ],
-    "lastChecked": "2026-07-23"
+    "lastChecked": "2026-08-21",
+    "currentEvent": "遊戲已於2026年1月22日全球同步上線（PC、PS5、Android、iOS平台），目前正持續營運並推出新版本「相伴慶典&「向淵行」核心章節」，新增幹員「梨諾」。"
   },
   {
     "id": 4,
@@ -273,11 +276,11 @@
     ],
     "region": "CN/Global",
     "model": "F2P",
-    "stage": "pre-reg",
+    "stage": "live-ops",
     "threat": "critical",
     "prereg": 32000000,
     "sentiment": 80,
-    "launchEst": "2026-07-09",
+    "launchEst": "2026-07-09 (PC, iOS, Android, 鴻蒙)",
     "desc": "Rust 正版授權生存對抗大作，4x4km 海陸空無接縫開放世界。預約破 3200 萬，7 月全平台上線（PC/iOS/Android/鴻蒙/平板）。",
     "tags": [
       "生存",
@@ -287,7 +290,7 @@
       "Rust授權",
       "多端互通"
     ],
-    "threatAnalysis": "【即將上線與跨平台策略】《失控進化》即將於2026年7月9日在中國市場正式上線，並主打PC與手機跨平台遊玩，此策略有助於擴大用戶基礎。\n\n▶ 建議行動：\n(1). 密切關注遊戲上線後的初期市場表現，特別是跨平台數據互通的實際效果。\n(2). 分析其「Rust正版玩法授權」的市場接受度，以及硬派生存對抗玩法的用戶黏性。\n(3). 追蹤其營運活動與版本更新，評估其在中國生存遊戲市場的競爭力。",
+    "threatAnalysis": "【已正式上線】《失控進化》已於2026年7月9日全平台推出，並進入營運階段。遊戲作為《Rust》正版授權的生存對抗遊戲，市場反應與玩家體驗值得持續關注。\n\n▶ 建議行動：\n(1). 監測遊戲的營運數據與玩家活躍度，評估其在生存賽道的表現。\n(2). 關注遊戲內容更新與活動，分析其對玩家社群的影響。\n(3). 收集玩家對遊戲硬核玩法、外掛問題及時間成本的評價，作為未來產品優化的參考。",
     "verified": "快科技（4/29報導）、VNG 情報站",
     "history": [
       {
@@ -305,9 +308,13 @@
       {
         "date": "2026-07",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-23",
+    "updatedAt": "2026-08-21",
     "category": "active",
     "launchRegions": [
       {
@@ -332,18 +339,15 @@
     "publisher_global": "騰訊",
     "testType": "刪檔不計費（鴻蒙版技測）",
     "testDateStart": "2026-05-11",
-    "testDateEnd": "刪檔不計費（鴻蒙版技測） 2026-05-11~持續（全平台7月）",
+    "testDateEnd": "刪檔不計費（鴻蒙版技測） 2026-05-11~2026-05-11 (結束), 全平台公測 2026-07-09 (開始)",
     "sourceLinks": [
       {
-        "label": "官網",
-        "url": "https://rust.qq.com/"
-      },
-      {
         "label": "TapTap",
-        "url": "https://www.taptap.cn/app/233078"
+        "url": "https://www.taptap.cn/app/234790"
       }
     ],
-    "lastChecked": "2026-07-23"
+    "lastChecked": "2026-08-21",
+    "currentEvent": "遊戲已於2026年7月9日全平台（PC、iOS、Android、鴻蒙）正式上線，目前正持續營運。"
   },
   {
     "id": 5,
@@ -371,7 +375,7 @@
       "UE5",
       "手機核心"
     ],
-    "threatAnalysis": "【IP延伸與多平台發行】《王者榮耀：世界》作為國民級IP的開放世界衍生作，已成功在PC與手機平台於中國市場上線。 其IP影響力與多平台策略是主要優勢。\n\n▶ 建議行動：\n(1). 深入分析其IP粉絲轉化率與新用戶獲取成本，評估IP延伸的商業價值。\n(2). 關注其PC與手機雙端營運數據，特別是跨平台用戶行為與付費習慣。\n(3). 追蹤遊戲內容更新與社群反饋，確保其開放世界體驗能持續吸引玩家。",
+    "threatAnalysis": "【穩定營運】《王者榮耀：世界》已於2026年4月在PC與手機平台推出，並持續營運。作為《王者榮耀》IP的衍生作品，其市場表現與玩家接受度值得持續關注。\n\n▶ 建議行動：\n(1). 監測遊戲在不同平台（PC與手機）的用戶活躍度與營收表現。\n(2). 關注遊戲內容更新、新英雄與活動的推出，評估其對IP粉絲的吸引力。\n(3). 分析玩家對遊戲開放世界玩法與《王者榮耀》IP結合的評價。",
     "verified": "VNG 情報站、GameLook",
     "history": [
       {
@@ -387,7 +391,7 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-23",
+    "updatedAt": "2026-08-21",
     "category": "active",
     "launchRegions": [
       {
@@ -417,13 +421,10 @@
       {
         "label": "官網",
         "url": "https://world.qq.com/"
-      },
-      {
-        "label": "TapTap",
-        "url": "https://www.taptap.cn/app/233079"
       }
     ],
-    "lastChecked": "2026-07-23"
+    "lastChecked": "2026-08-21",
+    "currentEvent": "遊戲已於2026年4月10日（PC）及4月17日（手機）在中國推出，目前正持續營運。"
   },
   {
     "id": 6,
@@ -450,7 +451,7 @@
       "動作",
       "版本更新"
     ],
-    "threatAnalysis": "【威脅類型】營運穩定性/玩家滿意度\n\n▶ 建議行動：\n(1). 持續關注遊戲版本更新內容與玩家社群回饋，特別是福利活動的規劃，避免重蹈一週年福利爭議。\n(2). 監測跨平台表現，尤其是PC端與主機平台的營收與玩家活躍度，因其可能佔據重要份額。\n(3). 留意海外市場（如日本）的營運與宣發策略，確保在地化執行品質，避免因宣發失誤影響玩家觀感。",
+    "threatAnalysis": "【穩定營運，持續更新】《鳴潮》已於2024年5月23日全球上線，並持續進行版本更新，目前已推出3.6版本。遊戲營運狀況穩定，有持續的內容更新與活動。\n\n▶ 建議行動：\n(1). 持續追蹤其版本更新內容與活動，評估對玩家留存與營收的影響。\n(2). 關注新角色與新玩法的推出，分析其市場反應。\n(3). 監測玩家社群討論，了解遊戲體驗與潛在問題。",
     "verified": "VNG 情報站、巴哈姆特",
     "history": [
       {
@@ -466,10 +467,10 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-24",
+    "updatedAt": "2026-08-21",
     "category": "tracking",
-    "currentEvent": "Ver.3.5更新於2026年7月10日上線，新增星5共鳴者秧秧・玄翎、穗穗，並將推出Xbox版。",
-    "eventNote": "Ver.3.5更新於2026年7月10日上線，新增星5共鳴者秧秧・玄翎、穗穗，並將推出Xbox版。",
+    "currentEvent": "遊戲已於2024年5月23日全球正式上線。其「奏鳴測試」已於2024年3月17日結束。目前遊戲正持續營運，並於2026年8月20日推出3.6版本「蜃雲燈影，凡塵劍心」。",
+    "eventNote": "遊戲已於2024年5月23日全球正式上線。其「奏鳴測試」已於2024年3月17日結束。目前遊戲正持續營運，並於2026年8月20日推出3.6版本「蜃雲燈影，凡塵劍心」。",
     "launchRegions": [
       {
         "region": "CN",
@@ -495,18 +496,18 @@
     "developer": "庫洛遊戲",
     "testType": "未知",
     "testDateStart": "待確認",
-    "testDateEnd": "2024-03-17",
+    "testDateEnd": "奏鳴測試 2024-03-17 (結束)",
     "sourceLinks": [
       {
         "label": "官網",
-        "url": "https://wutheringwaves.kurogame.com/en/"
+        "url": "https://wutheringwaves.kurogame.com/"
       },
       {
         "label": "TapTap",
-        "url": "https://www.taptap.cn/app/215243"
+        "url": "https://www.taptap.cn/app/221084"
       }
     ],
-    "lastChecked": "2026-07-24"
+    "lastChecked": "2026-08-21"
   },
   {
     "id": 7,
@@ -6846,5 +6847,470 @@
     "autoDiscovered": true,
     "currentEvent": "無最新資訊。",
     "eventNote": "無最新資訊。"
+  },
+  {
+    "id": 129,
+    "name": "萊莎的鍊金工房 AI 聊天 RPG",
+    "nameEn": "RyzaChat: AI Ryza and Your One-of-a-Kind Summer Story",
+    "developer": "SpiralAI, Koei Tecmo, Gust",
+    "studio": "SpiralAI, Koei Tecmo, Gust",
+    "publisher": "SpiralAI, Koei Tecmo, Gust",
+    "genre": "AI聊天RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "知名IP改編，結合AI聊天新玩法，預期會吸引大量《鍊金工房》系列粉絲及對AI互動感興趣的玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3",
+    "desc": "一款基於《萊莎的鍊金工房》系列的AI聊天RPG，玩家透過與萊莎的對話來推動故事、探索、採集、合成和戰鬥。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP改編，結合AI聊天新玩法，預期會吸引大量《鍊金工房》系列粉絲及對AI互動感興趣的玩家。",
+    "verified": "Agent 發現 (2026-08-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 130,
+    "name": "石器時代：放置冒險",
+    "nameEn": "StoneAge: Idle Adventure",
+    "developer": "Netmarble N2",
+    "studio": "Netmarble N2",
+    "publisher": "Netmarble N2",
+    "genre": "放置RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "經典IP《石器時代》改編，網石大廠出品，全球發行，具有一定市場號召力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-03",
+    "desc": "網石基於經典IP《石器時代》推出的放置RPG手遊，保留原作魅力並簡化系統，讓玩家與恐龍寵物一同冒險。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典IP《石器時代》改編，網石大廠出品，全球發行，具有一定市場號召力。",
+    "verified": "Agent 發現 (2026-08-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 131,
+    "name": "七大罪：起源",
+    "nameEn": "The Seven Deadly Sins: Origin",
+    "developer": "Netmarble",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "開放世界動作RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "熱門動漫IP改編，網石大廠出品，開放世界動作RPG，跨平台發行，預期市場表現強勁。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-01",
+    "desc": "網石基於熱門動漫IP《七大罪》打造的開放世界動作RPG，玩家將探索廣闊的布里塔尼亞王國。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】熱門動漫IP改編，網石大廠出品，開放世界動作RPG，跨平台發行，預期市場表現強勁。",
+    "verified": "Agent 發現 (2026-08-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 132,
+    "name": "香格里拉·開拓異境：七大巨像",
+    "nameEn": "Shangri-La Frontier: The Seven Colossi",
+    "developer": "Netmarble Nexus",
+    "studio": "Netmarble Nexus",
+    "publisher": "Netmarble Nexus",
+    "genre": "動作RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "熱門動漫IP改編，網石大廠出品，跨平台動作RPG，具有潛在市場吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "網石改編自熱門網路小說及漫畫《香格里拉·開拓異境》的跨平台動作RPG，將在TGS 2026首次提供試玩。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】熱門動漫IP改編，網石大廠出品，跨平台動作RPG，具有潛在市場吸引力。",
+    "verified": "Agent 發現 (2026-08-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 133,
+    "name": "夢幻之星：星躍",
+    "nameEn": "MONGIL: STAR DIVE",
+    "developer": "Netmarble",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "怪物收集動作RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "網石大廠出品，經典手遊續作，Unreal Engine 5開發，跨平台發行，具有一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-H1",
+    "desc": "網石開發的怪物收集動作RPG，是2013年手遊《Monster Taming》的續作，以Unreal Engine 5打造。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網石大廠出品，經典手遊續作，Unreal Engine 5開發，跨平台發行，具有一定市場潛力。",
+    "verified": "Agent 發現 (2026-08-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 134,
+    "name": "Ananta",
+    "nameEn": "Ananta (formerly Project Mugen)",
+    "developer": "NetEase",
+    "studio": "NetEase",
+    "publisher": "NetEase",
+    "genre": "開放世界抽卡RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "網易大廠自研旗艦新IP，開放世界抽卡RPG，高話題度，預註冊人數龐大，預期會大規模搶佔市場注意力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "TBA 2026",
+    "desc": "網易開發的開放世界抽卡RPG，曾用名Project Mugen，被描述為GTA風格的抽卡遊戲，預註冊人數已超過1600萬。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易大廠自研旗艦新IP，開放世界抽卡RPG，高話題度，預註冊人數龐大，預期會大規模搶佔市場注意力。",
+    "verified": "Agent 發現 (2026-08-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 135,
+    "name": "黑幫海市蜃樓",
+    "nameEn": "Gangstar Mirage City",
+    "developer": "Level Infinite (Tencent)",
+    "studio": "Level Infinite (Tencent)",
+    "publisher": "Level Infinite (Tencent)",
+    "genre": "開放世界犯罪RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "騰訊大廠發行，知名IP續作，開放世界RPG，已開始區域性發行，具有較高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "騰訊Level Infinite發行的開放世界犯罪RPG，是Gameloft《Gangstar》系列的官方續作，結合GTA與Cyberpunk風格。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】騰訊大廠發行，知名IP續作，開放世界RPG，已開始區域性發行，具有較高市場潛力。",
+    "verified": "Agent 發現 (2026-08-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 136,
+    "name": "洛克王國：世界",
+    "nameEn": "Roco Kingdom: World",
+    "developer": "Tencent",
+    "studio": "Tencent",
+    "publisher": "Tencent",
+    "genre": "寵物收集養成RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "critical",
+    "threatReason": "國民級懷念IP《洛克王國》改編，騰訊大廠出品，已證明為熱門產品，預期會大規模搶佔市場注意力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-H1",
+    "desc": "騰訊基於經典IP《洛克王國》開發的新作，被騰訊財報稱為今年新手遊中日活躍用戶和收入最高的熱門產品。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】國民級懷念IP《洛克王國》改編，騰訊大廠出品，已證明為熱門產品，預期會大規模搶佔市場注意力。",
+    "verified": "Agent 發現 (2026-08-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 137,
+    "name": "DNF 養成",
+    "nameEn": "DNF Raising",
+    "developer": "Nexon Games",
+    "studio": "Nexon Games",
+    "publisher": "Nexon Games",
+    "genre": "放置RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名IP《DNF》改編，Nexon大廠出品，放置RPG，具有廣大粉絲基礎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "Nexon將全球擁有超過8.5億用戶的《DNF》IP重新詮釋為手機放置RPG。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP《DNF》改編，Nexon大廠出品，放置RPG，具有廣大粉絲基礎。",
+    "verified": "Agent 發現 (2026-08-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 138,
+    "name": "瑪奇M",
+    "nameEn": "Mabinogi Mobile",
+    "developer": "Nexon",
+    "studio": "Nexon",
+    "publisher": "Nexon",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "經典端遊IP改編，Nexon大廠出品，MMORPG，具有強烈回憶向和粉絲基礎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "TBA 2026",
+    "desc": "Nexon將經典PC MMORPG《瑪奇》帶到手機平台，進行了全面的視覺改造。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典端遊IP改編，Nexon大廠出品，MMORPG，具有強烈回憶向和粉絲基礎。",
+    "verified": "Agent 發現 (2026-08-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 139,
+    "name": "異獸衝突",
+    "nameEn": "Clash of Critters",
+    "developer": "Farlight Games (Lilith Games)",
+    "studio": "Farlight Games (Lilith Games)",
+    "publisher": "Farlight Games (Lilith Games)",
+    "genre": "怪物收集塔防",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "莉莉絲旗下發行，怪物收集玩法，全球發行，但玩法組合較為獨特，市場表現待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-05",
+    "desc": "莉莉絲旗下Farlight Games發行的怪物收集塔防遊戲，結合彈珠台小遊戲，全球發行。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】莉莉絲旗下發行，怪物收集玩法，全球發行，但玩法組合較為獨特，市場表現待觀察。",
+    "verified": "Agent 發現 (2026-08-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]

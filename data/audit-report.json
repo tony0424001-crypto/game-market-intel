@@ -1,55 +1,37 @@
 {
-  "lastAudit": "2026-08-20T01:56:52.736978+00:00",
+  "lastAudit": "2026-08-21T02:04:44.964051+00:00",
   "totalProducts": 125,
-  "updatesApplied": 29,
-  "issuesFound": 5,
-  "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮",
+  "updatesApplied": 18,
+  "issuesFound": 2,
+  "nextAudit": "下次執行時將檢查：遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神",
   "findings": [
     {
-      "name": "沙金工業",
+      "name": "異環",
       "status": "warning",
       "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "地獄鑄造",
+      "name": "失控進化",
       "status": "warning",
-      "issue": "狀態: announced→cbt",
-      "autoFixed": true
-    },
-    {
-      "name": "TCG 卡牌店模擬器",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "王國之心 IV",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "火柴人出擊",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: pre-reg→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "沙金工業",
-    "地獄鑄造",
-    "TCG 卡牌店模擬器",
-    "王國之心 IV",
-    "火柴人出擊",
-    "帶來者"
-  ],
-  "nextBatch": [
     "無限大",
     "異環",
     "明日方舟：終末地",
     "失控進化",
     "王者榮耀：世界",
     "鳴潮"
+  ],
+  "nextBatch": [
+    "遺忘之海",
+    "卡厄思夢境",
+    "藍色星原：旅謠",
+    "破界：界限終零",
+    "締造者：放逐之境",
+    "原神"
   ]
 }

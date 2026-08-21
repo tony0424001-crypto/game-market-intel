@@ -1,7 +1,139 @@
 {
-  "lastUpdated": "2026-08-20T01:56:31.648792+00:00",
-  "fetchCount": 99,
+  "lastUpdated": "2026-08-21T02:08:22.884253+00:00",
+  "fetchCount": 100,
   "items": [
+    {
+      "id": "brief-20260821-cbc4f560",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "瑪奇M（新發現・高威脅）",
+      "detail": "經典端遊IP改編，Nexon大廠出品，MMORPG，具有強烈回憶向和粉絲基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-21T02:08:22.884253+00:00"
+    },
+    {
+      "id": "brief-20260821-8242ee31",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "DNF 養成（新發現・高威脅）",
+      "detail": "知名IP《DNF》改編，Nexon大廠出品，放置RPG，具有廣大粉絲基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-21T02:08:22.884253+00:00"
+    },
+    {
+      "id": "brief-20260821-72f81127",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "洛克王國：世界（新發現・高威脅）",
+      "detail": "國民級懷念IP《洛克王國》改編，騰訊大廠出品，已證明為熱門產品，預期會大規模搶佔市場注意力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-21T02:08:22.884253+00:00"
+    },
+    {
+      "id": "brief-20260821-474ac2fc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "黑幫海市蜃樓（新發現・高威脅）",
+      "detail": "騰訊大廠發行，知名IP續作，開放世界RPG，已開始區域性發行，具有較高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-21T02:08:22.884253+00:00"
+    },
+    {
+      "id": "brief-20260821-d2a70f01",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Ananta（新發現・高威脅）",
+      "detail": "網易大廠自研旗艦新IP，開放世界抽卡RPG，高話題度，預註冊人數龐大，預期會大規模搶佔市場注意力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-21T02:08:22.884253+00:00"
+    },
+    {
+      "id": "brief-20260821-3cad66e0",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "夢幻之星：星躍（新發現・高威脅）",
+      "detail": "網石大廠出品，經典手遊續作，Unreal Engine 5開發，跨平台發行，具有一定市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-21T02:08:22.884253+00:00"
+    },
+    {
+      "id": "brief-20260821-587d652e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "香格里拉·開拓異境：七大巨像（新發現・高威脅）",
+      "detail": "熱門動漫IP改編，網石大廠出品，跨平台動作RPG，具有潛在市場吸引力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-21T02:08:22.884253+00:00"
+    },
+    {
+      "id": "brief-20260821-60ce14b8",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "七大罪：起源（新發現・高威脅）",
+      "detail": "熱門動漫IP改編，網石大廠出品，開放世界動作RPG，跨平台發行，預期市場表現強勁。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-21T02:08:22.884253+00:00"
+    },
+    {
+      "id": "brief-20260821-3f8cfe7f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "石器時代：放置冒險（新發現・高威脅）",
+      "detail": "經典IP《石器時代》改編，網石大廠出品，全球發行，具有一定市場號召力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-21T02:08:22.884253+00:00"
+    },
+    {
+      "id": "brief-20260821-f6d5ee63",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "萊莎的鍊金工房 AI 聊天 RPG（新發現・高威脅）",
+      "detail": "知名IP改編，結合AI聊天新玩法，預期會吸引大量《鍊金工房》系列粉絲及對AI互動感興趣的玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-21T02:08:22.884253+00:00"
+    },
+    {
+      "id": "brief-20260821-7dbaa2e1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《The Duskbloods》試玩",
+      "detail": "FS新作Switch 2獨佔PvPvE，封測今日啟動",
+      "action": "立即申請試玩",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-21T02:04:25.475869+00:00"
+    },
+    {
+      "id": "brief-20260821-72a15b96",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《戰犬行動》Beta",
+      "detail": "百人三方FPS新作，本週末限時封測",
+      "action": "把握機會體驗",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-21T02:04:25.475869+00:00"
+    },
     {
       "id": "brief-20260820-4f55c956",
       "priority": "urgent",
@@ -89,138 +221,6 @@
       "platform": "mobile",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-08-19T09:37:34.883774+00:00"
-    },
-    {
-      "id": "brief-20260819-5081f40f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "影之刃零台代預購",
-      "detail": "傑仕登代理《影之刃零》，數位版已開放預購。",
-      "action": "立即預購",
-      "platform": "multi",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-19T09:37:34.883774+00:00"
-    },
-    {
-      "id": "brief-20260819-273be4ae",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "劍之川事前預約",
-      "detail": "漢家松鼠新作《劍之川》開放全球事前預約。",
-      "action": "立即預約",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-19T09:37:34.883774+00:00"
-    },
-    {
-      "id": "brief-20260816-138d7dba",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《王國之心 4》確定 2027 年登場 將加入皮克斯動畫《可可夜總會》的世界",
-      "detail": "迪士尼與 SQUARE ENIX 合作的《王國之心》系列新作《王國之心 4》預計於 2027 年推出，並將加入皮克斯動畫《可可夜總會》的世界，擴展其豐富的遊戲宇宙。",
-      "action": "關注該系列新作的開發進度與新 IP 聯動策略，評估其對市場的影響及潛在合作機會，特別是對於奇幻 RPG 類型的競爭。",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-16T02:01:45.152929+00:00"
-    },
-    {
-      "id": "brief-20260816-d0935014",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "與《蔚藍檔案》「成分」不同的美少女遊戲《Project RX》究竟是什麼？開發團隊長篇專訪",
-      "detail": "由《蔚藍檔案》角色設定師 Yuto 參與的 NEXON Games 新作《Project RX》公開預告，引發玩家高度關注，並強調其與《蔚藍檔案》的差異化。",
-      "action": "密切關注此款美少女遊戲的開發進度與市場定位，特別是其與《蔚藍檔案》的差異化策略，評估其對二次元手遊市場的衝擊。",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-16T02:01:45.152929+00:00"
-    },
-    {
-      "id": "brief-20260816-09086f99",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "手機週報《賽爾號：巔峰之戰》、《幻想水滸傳 STAR LEAP》與《Runeborn》等遊戲",
-      "detail": "經典網頁遊戲《賽爾號》的官方正版手機遊戲《賽爾號：巔峰之戰》已推出，與多款新手機遊戲一同在電玩瘋週報中亮相。",
-      "action": "評估經典 IP 手遊化的市場表現與玩家接受度，分析其營運策略與潛在競爭力，特別是對於目標客群的吸引力。",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-16T02:01:45.152929+00:00"
-    },
-    {
-      "id": "brief-20260816-be74b439",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "LINE Games 宣布自研新作《噤下來》Steam 玩家測試全球參與人數突破 15 萬",
-      "detail": "LINE Games 的 PC 新作《噤下來》Steam 玩家測試參與人數已突破 15 萬人，顯示出市場對其的高度期待與潛力。",
-      "action": "分析該遊戲在測試階段的玩家反饋與數據，研究其成功吸引大量玩家參與的策略，並評估其正式上線後的市場潛力。",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-16T02:01:45.152929+00:00"
-    },
-    {
-      "id": "brief-20260814-5f291069",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《eFootball》新賽季開踢！大型更新與遊戲內新活動同步登場",
-      "detail": "Konami 宣布《eFootball》推出大型更新，開啟新賽季並新增多項遊戲功能、競技模式及活動內容，涵蓋家用主機、PC 及行動裝置平台。",
-      "action": "立即分析本次更新內容，特別是新功能和競技模式對玩家留存和活躍度的影響，評估是否對自家產品構成競爭壓力。",
-      "platform": "mobile/console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
-    },
-    {
-      "id": "brief-20260814-26e1cfcf",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《平凡職業造就世界最強 反叛之魂》 與動畫《OVERLORD》合作登場 與安茲等人並肩作戰",
-      "detail": "H5 遊戲《平凡職業造就世界最強 反叛之魂》與動畫《OVERLORD》展開合作活動，多位《OVERLORD》角色於遊戲內登場。",
-      "action": "評估此類動漫 IP 合作對遊戲數據的影響，研究合作模式和行銷策略，考慮未來自家產品的 IP 合作機會。",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
-    },
-    {
-      "id": "brief-20260814-d8af80f1",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《三國志 霸道》賽季「三勢猛進」第三期開幕 全新 LR 武將「沮授」「蒙恬」於 8 月更新登場",
-      "detail": "MMO 戰略模擬手機遊戲《三國志 霸道》8 月更新，賽季「三勢猛進」第三期開幕，並新增 LR 武將「沮授」與「蒙恬」。",
-      "action": "分析新武將和賽季內容對遊戲生態和玩家付費的影響，評估其在策略手遊市場的競爭力。",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
-    },
-    {
-      "id": "brief-20260814-a853828b",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "橫向 2D 卷軸 MMORPG《搞鬼 M》今日正式上市 揭曉兩大 PVP 玩法",
-      "detail": "橫向 2D 卷軸 MMORPG《搞鬼 M》於今日正式開服，並揭曉了「1:1 決鬥場」與其他 PVP 玩法，推出多項開服福利。",
-      "action": "立即關注遊戲上市後的營運活動、玩家反饋和數據表現，特別是其 PVP 玩法的吸引力。",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-14T03:04:40.484585+00:00"
-    },
-    {
-      "id": "brief-20260820-acd46d70",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "SEGA PC遊戲特價",
-      "detail": "Steam多款PC遊戲限期特價中",
-      "action": "查看特價遊戲",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-20T01:56:31.648792+00:00"
-    },
-    {
-      "id": "brief-20260820-4a5df89e",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "《自決意志》亮相",
-      "detail": "《沉沒意志》團隊新作，Steam頁面公開",
-      "action": "關注新作資訊",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-20T01:56:31.648792+00:00"
     }
   ]
 }
