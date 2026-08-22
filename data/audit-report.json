@@ -1,37 +1,55 @@
 {
-  "lastAudit": "2026-08-21T02:04:44.964051+00:00",
-  "totalProducts": 125,
+  "lastAudit": "2026-08-22T01:57:48.874626+00:00",
+  "totalProducts": 136,
   "updatesApplied": 18,
-  "issuesFound": 2,
-  "nextAudit": "下次執行時將檢查：遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神",
+  "issuesFound": 5,
+  "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮",
   "findings": [
     {
-      "name": "異環",
+      "name": "萊莎的鍊金工房 AI 聊天 RPG",
+      "status": "warning",
+      "issue": "狀態: pre-reg→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "石器時代：放置冒險",
       "status": "warning",
       "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "失控進化",
+      "name": "七大罪：起源",
       "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "夢幻之星：星躍",
+      "status": "error",
+      "issue": "移除: 未找到相關資訊或已取消",
+      "autoFixed": false
+    },
+    {
+      "name": "Ananta",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
       "autoFixed": true
     }
   ],
   "checked": [
+    "萊莎的鍊金工房 AI 聊天 RPG",
+    "石器時代：放置冒險",
+    "七大罪：起源",
+    "香格里拉·開拓異境：七大巨像",
+    "夢幻之星：星躍",
+    "Ananta"
+  ],
+  "nextBatch": [
     "無限大",
     "異環",
     "明日方舟：終末地",
     "失控進化",
     "王者榮耀：世界",
     "鳴潮"
-  ],
-  "nextBatch": [
-    "遺忘之海",
-    "卡厄思夢境",
-    "藍色星原：旅謠",
-    "破界：界限終零",
-    "締造者：放逐之境",
-    "原神"
   ]
 }
