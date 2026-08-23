@@ -7185,34 +7185,49 @@
     ],
     "region": "待確認",
     "model": "F2P",
-    "stage": "live-ops",
+    "stage": "soft-launch",
     "threat": "high",
     "threatReason": "騰訊大廠發行，知名IP續作，開放世界RPG，已開始區域性發行，具有較高市場潛力。",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08",
+    "launchEst": "2026-08-20",
     "desc": "騰訊Level Infinite發行的開放世界犯罪RPG，是Gameloft《Gangstar》系列的官方續作，結合GTA與Cyberpunk風格。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】騰訊大廠發行，知名IP續作，開放世界RPG，已開始區域性發行，具有較高市場潛力。",
+    "threatAnalysis": "【威脅類型】市場競爭激烈\n\n▶ 描述：遊戲已於2026年8月20日進行軟啟動，但僅限於部分地區。雖然已達到3000萬預註冊玩家，但作為一款開放世界動作RPG，其長期表現將取決於內容更新、社群參與和全球推廣策略。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲在軟啟動地區的玩家回饋、營收表現和留存率數據。\n(2). 密切關注Level Infinite和Gameloft關於全球發布計劃和新內容更新的公告。\n(3). 分析競爭對手在相同類型遊戲中的表現，評估《黑幫海市蜃樓》的獨特賣點和市場潛力。",
     "verified": "Agent 發現 (2026-08-21)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Level Infinite 官網",
+        "url": "https://www.levelinfinite.com/games/gangstar-mirage-city/"
+      },
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.io/app/237586"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-08",
+        "s": "soft-launch"
       }
     ],
-    "updatedAt": "2026-08-21",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-23",
+    "lastChecked": "2026-08-23",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲《Gangstar Mirage City》已於2026年8月20日在東南亞、南亞、東歐、中歐、中東北非和拉丁美洲地區軟啟動，適用於iOS和Android平台。",
+    "eventNote": "遊戲《Gangstar Mirage City》已於2026年8月20日在東南亞、南亞、東歐、中歐、中東北非和拉丁美洲地區軟啟動，適用於iOS和Android平台。"
   },
   {
     "id": 136,
@@ -8182,5 +8197,471 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 159,
+    "name": "源初之結",
+    "nameEn": "The Weavers / NODUSFALL",
+    "developer": "米哈遊",
+    "studio": "米哈遊",
+    "publisher": "米哈遊",
+    "genre": "動作RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "critical",
+    "threatReason": "米哈遊新作，UE5打造的寫實奇幻開放世界動作RPG，強調多人合作與巨型BOSS戰，預期將吸引大量玩家關注。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "米哈遊開發的UE5奇幻寫實動作RPG，主打多人合作、開放世界與巨型BOSS戰，風格異於傳統二次元。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】米哈遊新作，UE5打造的寫實奇幻開放世界動作RPG，強調多人合作與巨型BOSS戰，預期將吸引大量玩家關注。",
+    "verified": "Agent 發現 (2026-08-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-08-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 160,
+    "name": "Varsapura",
+    "nameEn": "Varsapura",
+    "developer": "米哈遊",
+    "studio": "米哈遊",
+    "publisher": "米哈遊",
+    "genre": "開放世界RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "米哈遊旗艦級新IP，由《原神》製作人領導，都市開放世界題材，預期將是市場焦點。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q2",
+    "desc": "米哈遊的下一代旗艦都市開放世界遊戲，採用UE5引擎，由《原神》製作人蔡浩宇領導，包含競速玩法。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】米哈遊旗艦級新IP，由《原神》製作人領導，都市開放世界題材，預期將是市場焦點。",
+    "verified": "Agent 發現 (2026-08-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 161,
+    "name": "崩壞：因緣精靈",
+    "nameEn": "Honkai: Nexus Anima",
+    "developer": "米哈遊",
+    "studio": "米哈遊",
+    "publisher": "米哈遊",
+    "genre": "收集RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "米哈遊《崩壞》系列新IP，結合寶可夢式收集玩法，有望吸引二次元與收集類玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "米哈遊旗下《崩壞》系列新作，一款類似寶可夢的生物收集遊戲。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】米哈遊《崩壞》系列新IP，結合寶可夢式收集玩法，有望吸引二次元與收集類玩家。",
+    "verified": "Agent 發現 (2026-08-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 162,
+    "name": "登天之境",
+    "nameEn": "Era of Ascendancy",
+    "developer": "騰訊",
+    "studio": "騰訊",
+    "publisher": "騰訊",
+    "genre": "角色扮演",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "騰訊自研國風RPG，結合修仙題材，有一定市場吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3",
+    "desc": "騰訊推出的水墨國風修仙RPG，玩家可自由選擇修煉路徑，探索基於八卦陰陽概念的內容。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】騰訊自研國風RPG，結合修仙題材，有一定市場吸引力。",
+    "verified": "Agent 發現 (2026-08-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 163,
+    "name": "一人之下",
+    "nameEn": "The Outcast",
+    "developer": "騰訊",
+    "studio": "騰訊",
+    "publisher": "騰訊",
+    "genre": "動作格鬥",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "騰訊出品，改編自熱門國漫IP，預註冊人數極高，有望成為現象級產品。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "騰訊基於熱門國漫IP《一人之下》打造的3D格鬥遊戲，預註冊人數已超3000萬。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】騰訊出品，改編自熱門國漫IP，預註冊人數極高，有望成為現象級產品。",
+    "verified": "Agent 發現 (2026-08-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-08-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 164,
+    "name": "虛擬環",
+    "nameEn": "Virtual Ring",
+    "developer": "騰訊",
+    "studio": "騰訊",
+    "publisher": "騰訊",
+    "genre": "策略RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "騰訊新嘗試，結合虛擬偶像IP與策略組隊玩法，有望吸引二次元與VTuber粉絲。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "騰訊探索虛擬偶像遊戲化市場的新作，整合真實VTuber IP，核心玩法為自動戰鬥與策略組隊。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】騰訊新嘗試，結合虛擬偶像IP與策略組隊玩法，有望吸引二次元與VTuber粉絲。",
+    "verified": "Agent 發現 (2026-08-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 165,
+    "name": "全境封鎖：曙光",
+    "nameEn": "The Division: Resurgence",
+    "developer": "Ubisoft",
+    "studio": "Ubisoft",
+    "publisher": "Ubisoft",
+    "genre": "開放世界RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "threatReason": "知名IP《全境封鎖》手遊化，騰訊代理發行，開放世界RPG，具備高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "騰訊代理發行的知名IP《全境封鎖》系列手遊，是一款開放世界RPG。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP《全境封鎖》手遊化，騰訊代理發行，開放世界RPG，具備高市場潛力。",
+    "verified": "Agent 發現 (2026-08-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-08-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 166,
+    "name": "逆水寒：風起江湖",
+    "nameEn": "Where Winds Meet",
+    "developer": "網易",
+    "studio": "網易",
+    "publisher": "網易",
+    "genre": "開放世界RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "critical",
+    "threatReason": "網易旗艦級開放世界武俠RPG，畫面精美，玩法豐富，已在部分地區上線並獲得好評，有望成為現象級大作。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3",
+    "desc": "網易旗艦級武俠開放世界動作RPG，融合武術戰鬥與生活模擬，已在部分地區上線。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易旗艦級開放世界武俠RPG，畫面精美，玩法豐富，已在部分地區上線並獲得好評，有望成為現象級大作。",
+    "verified": "Agent 發現 (2026-08-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 167,
+    "name": "正義之劍",
+    "nameEn": "Sword of Justice",
+    "developer": "網易",
+    "studio": "網易",
+    "publisher": "網易",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "網易出品的暗黑奇幻動作RPG，具備一定市場吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "網易推出的暗黑奇幻動作RPG，強調職業戰鬥與合作地城內容。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易出品的暗黑奇幻動作RPG，具備一定市場吸引力。",
+    "verified": "Agent 發現 (2026-08-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 168,
+    "name": "天下：万象",
+    "nameEn": "Tianxia: Vientiane",
+    "developer": "網易",
+    "studio": "網易",
+    "publisher": "網易",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "網易旗艦級東方幻想MMORPG，畫面與世界觀宏大，有望吸引大量MMORPG玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "網易自研的東方幻想MMORPG，畫面質感升級，擁有龐大架空世界與七大門派。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易旗艦級東方幻想MMORPG，畫面與世界觀宏大，有望吸引大量MMORPG玩家。",
+    "verified": "Agent 發現 (2026-08-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 169,
+    "name": "冒險島經典世界",
+    "nameEn": "MapleStory Classic World",
+    "developer": "Nexon",
+    "studio": "Nexon",
+    "publisher": "Nexon",
+    "genre": "MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "待確認",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "threatReason": "經典IP《冒險島》的懷舊服，Nexon開發，有望吸引大量老玩家回歸。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "Nexon開發的《冒險島》經典懷舊版本，旨在忠實還原早期遊戲體驗。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典IP《冒險島》的懷舊服，Nexon開發，有望吸引大量老玩家回歸。",
+    "verified": "Agent 發現 (2026-08-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-08-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]
