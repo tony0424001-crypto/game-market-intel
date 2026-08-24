@@ -1,7 +1,139 @@
 {
-  "lastUpdated": "2026-08-23T02:10:05.128151+00:00",
-  "fetchCount": 102,
+  "lastUpdated": "2026-08-24T02:05:48.975647+00:00",
+  "fetchCount": 103,
   "items": [
+    {
+      "id": "brief-20260824-93bea78c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Project: Dawnbreaker（新發現・高威脅）",
+      "detail": "頭部大廠騰訊自研新IP，預期有大規模推廣。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
+    },
+    {
+      "id": "brief-20260824-2c91a293",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Project X（新發現・高威脅）",
+      "detail": "頭部大廠米哈遊自研新IP，具備極高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
+    },
+    {
+      "id": "brief-20260824-d02b8d61",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "蔚藍檔案2：星辰彼岸（新發現・高威脅）",
+      "detail": "大廠IP續作，知名二次元IP，預期有高市場熱度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
+    },
+    {
+      "id": "brief-20260824-37583e09",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "仙劍世界（新發現・高威脅）",
+      "detail": "經典IP手遊化，擁有廣大粉絲基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
+    },
+    {
+      "id": "brief-20260824-7db4bb9a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "燕雲十六聲（新發現・高威脅）",
+      "detail": "大廠新作，知名PC IP手遊化，具備高市場關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
+    },
+    {
+      "id": "brief-20260824-5df47223",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "無限暖暖（新發現・高威脅）",
+      "detail": "大廠新作，知名二次元IP延伸，預期有高話題度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
+    },
+    {
+      "id": "brief-20260824-412337d3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "星垣：彼方（新發現・高威脅）",
+      "detail": "頭部二游開發商新作，具備高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
+    },
+    {
+      "id": "brief-20260824-a65fed5a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "魔獸世界：永恆（新發現・高威脅）",
+      "detail": "國民級懷念IP復刻，預期會大規模搶佔市場注意力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
+    },
+    {
+      "id": "brief-20260824-824120fc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "決勝時刻MW4搶先測",
+      "detail": "搶先體驗測試登場，對戰節奏快，重生點待改進。",
+      "action": "參與搶先體驗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-24T02:03:43.541448+00:00"
+    },
+    {
+      "id": "brief-20260824-e46b7e47",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA6洩密者遭追查",
+      "detail": "Take-Two發傳票要求微軟、Discord提供洩密者資料。",
+      "action": "關注事件發展",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-24T02:03:43.541448+00:00"
+    },
+    {
+      "id": "brief-20260824-4be0caee",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "The Duskbloods測試中止",
+      "detail": "FromSoftware新作Switch 2測試因伺服器問題中止。",
+      "action": "等待後續公告",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-24T02:03:43.541448+00:00"
+    },
+    {
+      "id": "brief-20260824-77059be8",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "FreeStyle將結束服務",
+      "detail": "經典籃球線上遊戲《FreeStyle》將於10月1日結束服務。",
+      "action": "把握最後遊玩機會",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-24T02:03:43.541448+00:00"
+    },
     {
       "id": "brief-20260823-223c77ea",
       "priority": "urgent",
@@ -89,138 +221,6 @@
       "platform": "mobile",
       "source": "新聞報導",
       "fetchedAt": "2026-08-23T02:10:05.128151+00:00"
-    },
-    {
-      "id": "brief-20260823-ed7b29b0",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA6洩密追查",
-      "detail": "Take-Two向微軟Discord發傳票，追查GTA6洩密者資訊。",
-      "action": "關注後續發展",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-23T02:07:17.929146+00:00"
-    },
-    {
-      "id": "brief-20260823-2ffb8876",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《FreeStyle》將停服",
-      "detail": "經典籃球線上遊戲《FreeStyle》宣布10月1日結束服務。",
-      "action": "玩家留意公告",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-23T02:07:17.929146+00:00"
-    },
-    {
-      "id": "brief-20260822-b1c3d580",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "永恆之塔：經典（新發現・高威脅）",
-      "detail": "經典MMORPG大作《永恆之塔》的官方手遊化，由盛趣遊戲與NCsoft聯合開發，有望吸引大量懷舊玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-22T02:00:08.616493+00:00"
-    },
-    {
-      "id": "brief-20260822-56aa05bf",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "影之刃零（新發現・高威脅）",
-      "detail": "備受矚目的國產3A大作，獨特的「武俠朋克」風格，由知名開發商靈游坊打造，並獲得了PlayStation Showcase",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "console",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-22T02:00:08.616493+00:00"
-    },
-    {
-      "id": "brief-20260822-44445adf",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "夢幻西遊：再續前緣（新發現・高威脅）",
-      "detail": "網易旗下國民級懷舊IP《夢幻西遊》的移動端互通版，且無需點卡，預計將吸引大量老玩家回歸。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-22T02:00:08.616493+00:00"
-    },
-    {
-      "id": "brief-20260822-c91db4b1",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "AION 2（新發現・高威脅）",
-      "detail": "知名端遊IP《AION》正統續作，由大廠NCSoft開發，使用UE5打造，具備高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-22T02:00:08.616493+00:00"
-    },
-    {
-      "id": "brief-20260822-dcd60c54",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "恐龍快打·起源（新發現・高威脅）",
-      "detail": "經典街機IP改編，具備懷舊情懷與玩家基礎，有望吸引大量老玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-22T02:00:08.616493+00:00"
-    },
-    {
-      "id": "brief-20260822-33ec8e2f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "異人之下（新發現・高威脅）",
-      "detail": "騰訊大廠開發的知名國漫IP改編動作RPG，具備高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-22T02:00:08.616493+00:00"
-    },
-    {
-      "id": "brief-20260822-595006ab",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "鐳明閃擊（新發現・高威脅）",
-      "detail": "字節跳動發行，投入高且已獲版號，在二次元卡牌賽道具備競爭力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-22T02:00:08.616493+00:00"
-    },
-    {
-      "id": "brief-20260822-95af9e4d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "伊克萊普斯：覺醒（新發現・高威脅）",
-      "detail": "預創建火爆顯示其市場熱度與潛力，MMORPG類型在亞洲市場具備高吸金能力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-22T02:00:08.616493+00:00"
-    },
-    {
-      "id": "brief-20260822-d7dcfb06",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "阿索拉：星之祈願（新發現・高威脅）",
-      "detail": "韓國大廠NCSoft的二次元新作，有望憑藉其開發實力與市場經驗獲得高關注。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-22T02:00:08.616493+00:00"
-    },
-    {
-      "id": "brief-20260822-2d9bf12e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "千年之旅：ELF（新發現・高威脅）",
-      "detail": "憑藉精美美術、創新戰鬥設計和豐富小玩法，在二次元市場中獲得好評，港台市場預約開啟顯示其潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-22T02:00:08.616493+00:00"
     }
   ]
 }
