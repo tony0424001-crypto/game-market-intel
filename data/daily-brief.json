@@ -1,7 +1,150 @@
 {
-  "lastUpdated": "2026-08-24T02:05:48.975647+00:00",
-  "fetchCount": 103,
+  "lastUpdated": "2026-08-25T02:02:24.203964+00:00",
+  "fetchCount": 104,
   "items": [
+    {
+      "id": "brief-20260825-0475881a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "奥星熱浪（新發現・高威脅）",
+      "detail": "騰訊旗下光子工作室群開發，具備二次元風格、開放世界及多人派對玩法，市場潛力較高。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-08-25T02:02:24.203964+00:00"
+    },
+    {
+      "id": "brief-20260825-fac4fa6e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "塔塔冒險隊（新發現・高威脅）",
+      "detail": "知名大廠莉莉絲遊戲開發，結合寵物養成與塔防玩法，已於台港澳市場開啟預約並確定上市日期。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-08-25T02:02:24.203964+00:00"
+    },
+    {
+      "id": "brief-20260825-1af7883a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "王者萬象棋（新發現・高威脅）",
+      "detail": "國民級IP《王者榮耀》改編，由頭部大廠騰訊天美工作室群自研，具備多平台發行潛力及強大的用戶基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-08-25T02:02:24.203964+00:00"
+    },
+    {
+      "id": "brief-20260825-2336c907",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "時空獵人·覺醒（新發現・高威脅）",
+      "detail": "經典手遊IP續作，擁有大量老玩家基礎，市場號召力強，有望吸引回憶向玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-25T02:02:24.203964+00:00"
+    },
+    {
+      "id": "brief-20260825-2c100e68",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "舞力全開：派對（新發現・高威脅）",
+      "detail": "知名國際IP改編，騰訊代理發行，體感音舞玩法在移動端有潛力，具備大廠資源。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-25T02:02:24.203964+00:00"
+    },
+    {
+      "id": "brief-20260825-e6047df3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "基地：星界無間（新發現・高威脅）",
+      "detail": "知名科幻IP改編，大廠聯手開發，在歐美市場表現亮眼後登陸台港澳。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-25T02:02:24.203964+00:00"
+    },
+    {
+      "id": "brief-20260825-e9f8da00",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "生化危機生存兵種（新發現・高威脅）",
+      "detail": "知名國際IP改編，玩法創新，已在市場上線並獲得高聲量。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-25T02:02:24.203964+00:00"
+    },
+    {
+      "id": "brief-20260825-689e69d5",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "無職轉生～到了異世界就拿出真本事～迴響編年史（新發現・高威脅）",
+      "detail": "熱門二次元IP改編，在台港澳市場有潛力，預期將吸引大量粉絲關注。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-25T02:02:24.203964+00:00"
+    },
+    {
+      "id": "brief-20260825-3d306a6f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "絕區零3.2版預告",
+      "detail": "前瞻特別節目8/28播出",
+      "action": "玩家可鎖定直播",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-25T01:57:35.609533+00:00"
+    },
+    {
+      "id": "brief-20260825-92d73d39",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "闇影詩章新卡包",
+      "detail": "第9彈卡包8/27登場",
+      "action": "卡牌玩家注意",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-25T01:57:35.609533+00:00"
+    },
+    {
+      "id": "brief-20260825-69d88b01",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《致命之爪》正式版",
+      "detail": "8/26結束搶先體驗，正式上市",
+      "action": "喜歡動作可關注",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-25T01:57:35.609533+00:00"
+    },
+    {
+      "id": "brief-20260825-cb98b4b8",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《時間掌控者》全球測試",
+      "detail": "生存射擊新作9/5-8展開測試",
+      "action": "玩家可報名體驗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-25T01:57:35.609533+00:00"
+    },
+    {
+      "id": "brief-20260825-97ecf517",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "決勝時刻M S7聯動",
+      "detail": "S7「搞鬼夜行」展開，崩壞3rd聯動9月",
+      "action": "手遊玩家注意",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-25T01:57:35.609533+00:00"
+    },
     {
       "id": "brief-20260824-93bea78c",
       "priority": "urgent",
@@ -78,149 +221,6 @@
       "platform": "mobile",
       "source": "模型知識推論",
       "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
-    },
-    {
-      "id": "brief-20260824-a65fed5a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "魔獸世界：永恆（新發現・高威脅）",
-      "detail": "國民級懷念IP復刻，預期會大規模搶佔市場注意力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
-    },
-    {
-      "id": "brief-20260824-824120fc",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "決勝時刻MW4搶先測",
-      "detail": "搶先體驗測試登場，對戰節奏快，重生點待改進。",
-      "action": "參與搶先體驗",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-24T02:03:43.541448+00:00"
-    },
-    {
-      "id": "brief-20260824-e46b7e47",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA6洩密者遭追查",
-      "detail": "Take-Two發傳票要求微軟、Discord提供洩密者資料。",
-      "action": "關注事件發展",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-24T02:03:43.541448+00:00"
-    },
-    {
-      "id": "brief-20260824-4be0caee",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "The Duskbloods測試中止",
-      "detail": "FromSoftware新作Switch 2測試因伺服器問題中止。",
-      "action": "等待後續公告",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-24T02:03:43.541448+00:00"
-    },
-    {
-      "id": "brief-20260824-77059be8",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "FreeStyle將結束服務",
-      "detail": "經典籃球線上遊戲《FreeStyle》將於10月1日結束服務。",
-      "action": "把握最後遊玩機會",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-24T02:03:43.541448+00:00"
-    },
-    {
-      "id": "brief-20260823-223c77ea",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "冒險島經典世界（新發現・高威脅）",
-      "detail": "經典IP《冒險島》的懷舊服，Nexon開發，有望吸引大量老玩家回歸。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-23T02:10:05.128151+00:00"
-    },
-    {
-      "id": "brief-20260823-e96bff51",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "天下：万象（新發現・高威脅）",
-      "detail": "網易旗艦級東方幻想MMORPG，畫面與世界觀宏大，有望吸引大量MMORPG玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-23T02:10:05.128151+00:00"
-    },
-    {
-      "id": "brief-20260823-c6370066",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "逆水寒：風起江湖（新發現・高威脅）",
-      "detail": "網易旗艦級開放世界武俠RPG，畫面精美，玩法豐富，已在部分地區上線並獲得好評，有望成為現象級大作。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-23T02:10:05.128151+00:00"
-    },
-    {
-      "id": "brief-20260823-4efc4d04",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "全境封鎖：曙光（新發現・高威脅）",
-      "detail": "知名IP《全境封鎖》手遊化，騰訊代理發行，開放世界RPG，具備高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-23T02:10:05.128151+00:00"
-    },
-    {
-      "id": "brief-20260823-ff5c8686",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "一人之下（新發現・高威脅）",
-      "detail": "騰訊出品，改編自熱門國漫IP，預註冊人數極高，有望成為現象級產品。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-23T02:10:05.128151+00:00"
-    },
-    {
-      "id": "brief-20260823-e895d5f8",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "崩壞：因緣精靈（新發現・高威脅）",
-      "detail": "米哈遊《崩壞》系列新IP，結合寶可夢式收集玩法，有望吸引二次元與收集類玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-23T02:10:05.128151+00:00"
-    },
-    {
-      "id": "brief-20260823-317ed77b",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Varsapura（新發現・高威脅）",
-      "detail": "米哈遊旗艦級新IP，由《原神》製作人領導，都市開放世界題材，預期將是市場焦點。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-23T02:10:05.128151+00:00"
-    },
-    {
-      "id": "brief-20260823-af5aa255",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "源初之結（新發現・高威脅）",
-      "detail": "米哈遊新作，UE5打造的寫實奇幻開放世界動作RPG，強調多人合作與巨型BOSS戰，預期將吸引大量玩家關注。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-23T02:10:05.128151+00:00"
     }
   ]
 }

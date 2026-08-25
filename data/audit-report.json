@@ -1,48 +1,54 @@
 {
-  "lastAudit": "2026-08-24T02:04:14.651551+00:00",
-  "totalProducts": 166,
-  "updatesApplied": 22,
-  "issuesFound": 5,
+  "lastAudit": "2026-08-25T01:57:58.224001+00:00",
+  "totalProducts": 178,
+  "updatesApplied": 23,
+  "issuesFound": 6,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮",
   "findings": [
     {
-      "name": "洛克王國：世界",
+      "name": "物華彌新",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
+      "issue": "狀態: pre-reg→live-ops",
       "autoFixed": true
     },
     {
-      "name": "瑪奇M",
+      "name": "失樂枷鎖",
+      "status": "warning",
+      "issue": "狀態: pre-reg→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "千年之旅：ELF",
+      "status": "warning",
+      "issue": "狀態: pre-reg→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "千年之旅：ELF",
+      "status": "error",
+      "issue": "移除: 原遊戲已於2024年10月26日停止營運。雖然製作組宣布將開發2.0版本，但目前無具體上線或測試計畫，原遊戲狀態為已關閉。",
+      "autoFixed": false
+    },
+    {
+      "name": "阿索拉：星之祈願",
+      "status": "warning",
+      "issue": "狀態: announced→cbt",
+      "autoFixed": true
+    },
+    {
+      "name": "鐳明閃擊",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "異獸衝突",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "夢戰：劍之海",
-      "status": "warning",
-      "issue": "狀態: pre-reg→cbt",
-      "autoFixed": true
-    },
-    {
-      "name": "賽爾號：巔峰之戰",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "洛克王國：世界",
-    "DNF 養成",
-    "瑪奇M",
-    "異獸衝突",
-    "夢戰：劍之海",
-    "賽爾號：巔峰之戰"
+    "物華彌新",
+    "失樂枷鎖",
+    "千年之旅：ELF",
+    "阿索拉：星之祈願",
+    "伊克萊普斯：覺醒",
+    "鐳明閃擊"
   ],
   "nextBatch": [
     "無限大",
