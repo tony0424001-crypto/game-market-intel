@@ -35,5 +35,9 @@
   "182": {
     "threat": "medium",
     "updatedAt": "2026-08-25"
+  },
+  "194": {
+    "excluded": true,
+    "updatedAt": "2026-08-25"
   }
 }
