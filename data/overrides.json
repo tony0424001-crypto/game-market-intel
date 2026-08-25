@@ -1,4 +1,8 @@
 {
+  "24": {
+    "excluded": true,
+    "updatedAt": "2026-08-25"
+  },
   "129": {
     "threat": "medium",
     "updatedAt": "2026-08-25"
