@@ -128,22 +128,43 @@ const MZH=["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月
 function useJson(p,fb){const[d,setD]=useState(null);const[l,setL]=useState(true);
 useEffect(()=>{let c=false;fetch(p).then(r=>{if(!r.ok)throw r.status;return r.json()}).then(j=>{if(!c){setD(j);setL(false)}}).catch(()=>{if(!c){setD(fb);setL(false)}});return()=>{c=true}},[]);return[d,l]}
 
+// ══ Manual override layer (persists locally; see OVERRIDE_SYNC_URL for real backend sync) ══
+const OVERRIDE_KEY='gmi_overrides_v1';
+function loadOverrides(){try{return JSON.parse(localStorage.getItem(OVERRIDE_KEY)||'{}')}catch(e){return{}}}
+function saveOverridesLocal(ov){try{localStorage.setItem(OVERRIDE_KEY,JSON.stringify(ov))}catch(e){}}
+// If you set this to your Apps Script doPost URL (see backend setup notes), manual
+// reclassifications will also be pushed server-side into data/overrides.json so
+// they persist across browsers/devices instead of only this one browser's storage.
+const OVERRIDE_SYNC_URL='https://script.google.com/macros/s/AKfycbxKBRt_hT6vvOjn2d9ZTZqGevmrRbLSJigBvnBST8qbO8nvRLnW9ftYRHPXlnrPYeGe6w/exec';
+function trySyncOverride(id,patch){
+  if(!OVERRIDE_SYNC_URL)return;
+  fetch(OVERRIDE_SYNC_URL,{method:"POST",headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify({action:"override",id:String(id),patch})}).catch(()=>{});
+}
+
 const FLAG={"CN":"🇨🇳","TW/HK/MO":"🇹🇼","JP":"🇯🇵","KR":"🇰🇷","Global":"🌏","TW":"🇹🇼"};
 const daysUntil=(ds)=>{if(!ds)return null;const m=ds.match(/^(\d{4})-(\d{2})-(\d{2})$/);if(!m)return null;const t=new Date(+m[1],+m[2]-1,+m[3]);const n=new Date();n.setHours(0,0,0,0);return Math.ceil((t-n)/(86400000));};
 const Pill=({c,ch})=><span className="pill" style={{background:`${c}22`,color:c,border:`1px solid ${c}44`}}>{ch}</span>;
 function parseD(s){if(!s)return null;const m=s.match(/^(\d{4})-(\d{2})$/);if(m)return{y:+m[1],m:+m[2]};const q=s.match(/^(\d{4})-Q(\d)$/);if(q){return{y:+q[1],m:{"1":2,"2":5,"3":8,"4":11}[q[2]]};}return null;}
 function getQ(s){const d=parseD(s);if(!d)return null;if(d.m<=3)return"Q1";if(d.m<=6)return"Q2";if(d.m<=9)return"Q3";return"Q4";}
 
-function GameCard({g,onClick,ac}){const tc={critical:"tc",high:"th",medium:"tm",low:"tl"}[g.threat]||"";
+function GameCard({g,onClick,ac,onOverride}){const tc={critical:"tc",high:"th",medium:"tm",low:"tl"}[g.threat]||"";
 return(<div className={`gcard ${tc}`} onClick={()=>onClick(g)}>
   <div className="gcard-h"><div className="gcard-t">{g.name}</div><Pill c={TC[g.threat]} ch={`威脅:${TM[g.threat]}`}/></div>
   <div className="gcard-s">{g.developer||g.studio} · {g.region}{g.testType&&g.testType!=="未知"&&<span style={{color:"var(--cyan)"}}> · {g.testType}</span>}</div>
   <div className="gcard-tags"><Pill c={SC[g.stage]} ch={SM[g.stage]}/><Pill c={ac} ch={g.genre}/>{g.platform.map(p=><Pill key={p} c="var(--muted)" ch={p}/>)}</div>
   {(()=>{const d=daysUntil(g.testDateStart);return d!==null&&d>=0&&d<=30?<div style={{fontSize:10,fontWeight:700,padding:"3px 8px",borderRadius:4,marginBottom:4,display:"inline-block",background:d===0?"var(--red)":d<=3?"var(--orange)":d<=7?"var(--yellow)":"rgba(0,212,255,.1)",color:d<=3?"#000":d<=7?"#000":"var(--cyan)"}}>{d===0?"📢 今日開測":d===1?"⏰ 明日開測":`⏳ ${d} 天後開測`}</div>:null})()}
     <div className="gcard-d">{g.desc}</div>
+  {onOverride&&<div onClick={e=>e.stopPropagation()} style={{display:"flex",gap:4,alignItems:"center",marginBottom:6,paddingTop:4}}>
+    <select value={g.threat} onChange={e=>onOverride(g.id,{threat:e.target.value})} style={{fontSize:9,background:"var(--surface)",color:"var(--text)",border:"1px solid var(--border)",borderRadius:4,padding:"2px 4px",fontFamily:"inherit"}}>
+      {["critical","high","medium","low"].map(t=><option key={t} value={t}>{TM[t]}</option>)}
+    </select>
+    <button onClick={()=>onOverride(g.id,{excluded:true})} style={{fontSize:9,background:"var(--surface)",color:"var(--muted)",border:"1px solid var(--border)",borderRadius:4,padding:"2px 6px",cursor:"pointer",fontFamily:"inherit"}}>移入已排除</button>
+    {g._overridden&&<span style={{fontSize:9,color:"var(--cyan)"}}>✓已手動調整</span>}
+  </div>}
   <div style={{borderTop:"1px solid var(--border)",paddingTop:6,marginTop:2}}>
     {g.sourceLinks&&g.sourceLinks.length>0&&<div style={{display:"flex",gap:4,marginBottom:5}}>{g.sourceLinks.slice(0,3).map((l,i)=><a key={i} href={l.url} target="_blank" rel="noopener" onClick={e=>e.stopPropagation()} style={{fontSize:9,color:"var(--cyan)",textDecoration:"none",padding:"2px 6px",borderRadius:4,background:"rgba(0,212,255,.06)",border:"1px solid rgba(0,212,255,.1)"}}>{l.label} ↗</a>)}</div>}
     <div style={{display:"flex",justifyContent:"space-between",fontSize:10,color:"var(--muted)"}}><span>{g.testDateStart&&g.testDateStart!=="待確認"?g.testDateStart:g.launchEst||"未定"}</span>{g.prereg?<span style={{color:"var(--green)"}}>預註冊:{(g.prereg/10000).toFixed(0)}萬</span>:null}<span style={{color:g.sentiment>80?"var(--green)":g.sentiment>60?"var(--yellow)":"var(--red)"}}>{g.sentiment}/100</span></div>
+    {g.addedAt&&<div style={{fontSize:9,color:"var(--muted)",marginTop:3}}>加入時間：{g.addedAt}</div>}
   </div>
 </div>);}
 
@@ -465,10 +486,22 @@ function IndustryView(){
 function App(){
   const[plat,setPlat]=useState("mobile");const[mod,setMod]=useState("list");
   const[search,setSearch]=useState("");const[sf,setSf]=useState("all");const[tf,setTf]=useState("all");const[sel,setSel]=useState(null);
+  const[sortMode,setSortMode]=useState("threat");const[showExcluded,setShowExcluded]=useState(false);
+  const[overrides,setOverrides]=useState(()=>loadOverrides());
   const[products,pLd]=useJson("data/products.json",[]);const[brief]=useJson("data/daily-brief.json",{items:[]});const[qdata]=useJson("data/quarterly.json",{year:2026,quarters:{}});
-  const all=products||[];const mob=useMemo(()=>all.filter(g=>g.platform.includes("Mobile")),[all]);const con=useMemo(()=>all.filter(g=>!g.platform.includes("Mobile")),[all]);
+  const[remoteOverrides]=useJson("data/overrides.json",{});
+  const raw=products||[];
+  function onOverride(id,patch){
+    setOverrides(prev=>{const next={...prev,[id]:{...prev[id],...patch}};saveOverridesLocal(next);trySyncOverride(id,patch);return next});
+  }
+  const all=useMemo(()=>raw.map(g=>{
+    const ov={...(overrides[g.id]||{}),...(remoteOverrides&&remoteOverrides[g.id]||{})}; // remote (shared, persisted) wins once synced; local gives instant feedback before that
+    if(!Object.keys(ov).length)return g;
+    const patched={...g};if(ov.threat)patched.threat=ov.threat;if(ov.excluded)patched.category="excluded";patched._overridden=true;return patched}),[raw,overrides,remoteOverrides]);
+  const mob=useMemo(()=>all.filter(g=>g.platform.includes("Mobile")),[all]);const con=useMemo(()=>all.filter(g=>!g.platform.includes("Mobile")),[all]);
   const base=plat==="mobile"?mob:con;
-  const filtered=useMemo(()=>{let r=base;if(search.trim()){const q=search.toLowerCase();r=r.filter(g=>g.name.toLowerCase().includes(q)||(g.nameEn||"").toLowerCase().includes(q)||g.studio.toLowerCase().includes(q)||g.publisher.toLowerCase().includes(q)||g.genre.toLowerCase().includes(q)||g.desc.includes(q)||(g.tags||[]).some(t=>t.toLowerCase().includes(q)))}
+  const excludedList=useMemo(()=>base.filter(g=>g.category==="excluded"),[base]);
+  const filtered=useMemo(()=>{let r=base.filter(g=>g.category!=="excluded");if(search.trim()){const q=search.toLowerCase();r=r.filter(g=>g.name.toLowerCase().includes(q)||(g.nameEn||"").toLowerCase().includes(q)||g.studio.toLowerCase().includes(q)||g.publisher.toLowerCase().includes(q)||g.genre.toLowerCase().includes(q)||g.desc.includes(q)||(g.tags||[]).some(t=>t.toLowerCase().includes(q)))}
   if(sf!=="all")r=r.filter(g=>g.stage===sf);if(tf!=="all")r=r.filter(g=>g.threat===tf);return r},[base,search,sf,tf]);
   const ac=plat==="mobile"?"var(--mobile)":"var(--console)";
   const MODS=[
@@ -496,27 +529,43 @@ function App(){
         <div className="sbox"><div className="lb">即將上線</div><div className="vl" style={{color:"var(--console)"}}>{base.filter(g=>["soft-launch","pre-reg"].includes(g.stage)).length}</div></div>
       </div>
       <div className="search"><input className="sinput" placeholder="🔍 搜尋遊戲名稱、開發商、品類、標籤..." value={search} onChange={e=>setSearch(e.target.value)}/>
+        {mod==="list"&&<button className={`fbtn ${sortMode==="time"?"on":""}`} onClick={()=>setSortMode(sortMode==="time"?"threat":"time")}>{sortMode==="time"?"🕐 依加入時間":"⚠️ 依威脅排序"}</button>}
         <button className={`fbtn ${sf==="all"?"on":""}`} onClick={()=>setSf("all")}>全部</button>
         {ST.map(s=>{const n=base.filter(g=>g.stage===s).length;return n?<button key={s} className={`fbtn ${sf===s?"on":""}`} onClick={()=>setSf(sf===s?"all":s)}>{SM[s]}({n})</button>:null})}
         {["critical","high"].map(t=>{const n=base.filter(g=>g.threat===t).length;return n?<button key={t} className="fbtn" style={tf===t?{background:TC[t],color:"#000",borderColor:TC[t]}:{}} onClick={()=>setTf(tf===t?"all":t)}>威脅{TM[t]}({n})</button>:null})}
       </div></>}
-      {mod==="list"&&(()=>{const tOrder={critical:0,high:1,medium:2,low:3};const sorted=[...filtered].sort((a,b)=>tOrder[a.threat]-tOrder[b.threat]||(b.prereg||0)-(a.prereg||0));const groups=[{key:"critical",label:"🚨 威脅極高",clr:"var(--red)"},{key:"high",label:"⚠️ 威脅高",clr:"var(--orange)"},{key:"medium",label:"● 威脅中",clr:"var(--yellow)"},{key:"low",label:"○ 威脅低",clr:"var(--green)"}];
-  return sorted.length?<div>{groups.map(gr=>{const items=sorted.filter(g=>g.threat===gr.key);if(!items.length)return null;return<div key={gr.key} style={{marginBottom:20}}>
+      {mod==="list"&&(()=>{const tOrder={critical:0,high:1,medium:2,low:3};
+  const sorted=sortMode==="time"
+    ? [...filtered].sort((a,b)=>(b.addedAt||"0000-00-00").localeCompare(a.addedAt||"0000-00-00"))
+    : [...filtered].sort((a,b)=>tOrder[a.threat]-tOrder[b.threat]||(b.prereg||0)-(a.prereg||0));
+  const groups=[{key:"critical",label:"🚨 威脅極高",clr:"var(--red)"},{key:"high",label:"⚠️ 威脅高",clr:"var(--orange)"},{key:"medium",label:"● 威脅中",clr:"var(--yellow)"},{key:"low",label:"○ 威脅低",clr:"var(--green)"}];
+  return<div>
+    {sortMode==="time"
+      ?(sorted.length?<div className="grid">{sorted.map(g=><GameCard key={g.id} g={g} onClick={setSel} ac={ac} onOverride={onOverride}/>)}</div>:<div className="empty"><div className="ic">🔍</div><div>無符合條件的產品</div></div>)
+      :(sorted.length?groups.map(gr=>{const items=sorted.filter(g=>g.threat===gr.key);if(!items.length)return null;return<div key={gr.key} style={{marginBottom:20}}>
     <div style={{display:"flex",alignItems:"center",gap:8,marginBottom:10,padding:"6px 12px",borderRadius:8,background:`${gr.clr}0a`,borderLeft:`3px solid ${gr.clr}`}}>
       <span style={{fontSize:13,fontWeight:700,color:gr.clr}}>{gr.label}</span>
       <span style={{fontSize:11,color:"var(--muted)"}}>{items.length} 款</span>
     </div>
-    <div className="grid">{items.map(g=><GameCard key={g.id} g={g} onClick={setSel} ac={ac}/>)}</div>
-  </div>})}</div>:<div className="empty"><div className="ic">🔍</div><div>無符合條件的產品</div></div>})()}
+    <div className="grid">{items.map(g=><GameCard key={g.id} g={g} onClick={setSel} ac={ac} onOverride={onOverride}/>)}</div>
+  </div>}):<div className="empty"><div className="ic">🔍</div><div>無符合條件的產品</div></div>)}
+    {excludedList.length>0&&<div style={{marginTop:24}}>
+      <div style={{cursor:"pointer",display:"flex",alignItems:"center",gap:8,padding:"8px 12px",borderRadius:8,background:"rgba(84,93,104,.06)",border:"1px solid var(--border)"}} onClick={()=>setShowExcluded(v=>!v)}>
+        <span style={{fontSize:12,color:"var(--muted)",fontWeight:700}}>{showExcluded?"▾":"▸"} 已排除（明顯衰退/手動移除)</span>
+        <span style={{fontSize:11,color:"var(--muted)"}}>{excludedList.length} 款</span>
+      </div>
+      {showExcluded&&<div className="grid" style={{marginTop:10,opacity:.65}}>{excludedList.map(g=><GameCard key={g.id} g={g} onClick={setSel} ac={ac} onOverride={onOverride}/>)}</div>}
+    </div>}
+  </div>})()}
       {mod==="kanban"&&<div className="kanban">{ST.map(s=>{const gs=[...filtered.filter(g=>g.stage===s)].sort((a,b)=>{const o={critical:0,high:1,medium:2,low:3};return o[a.threat]-o[b.threat]||(b.prereg||0)-(a.prereg||0)});return<div key={s} className="kcol">
         <div className="kcol-h" style={{background:`${SC[s]}12`,borderLeft:`3px solid ${SC[s]}`}}><span style={{width:7,height:7,borderRadius:4,background:SC[s]}}/><span style={{fontSize:11,fontWeight:700,color:SC[s],textTransform:"uppercase"}}>{SM[s]}</span><span style={{fontSize:10,color:"var(--muted)",marginLeft:"auto"}}>{gs.length}</span></div>
-        {gs.map(g=><GameCard key={g.id} g={g} onClick={setSel} ac={ac}/>)}{!gs.length&&<div style={{textAlign:"center",padding:16,fontSize:11,color:"var(--muted)"}}>無產品</div>}</div>})}</div>}
-      {mod==="threat"&&<ThreatView games={base.filter(g=>g.category!=="tracking")} onSelect={setSel}/>}
+        {gs.map(g=><GameCard key={g.id} g={g} onClick={setSel} ac={ac} onOverride={onOverride}/>)}{!gs.length&&<div style={{textAlign:"center",padding:16,fontSize:11,color:"var(--muted)"}}>無產品</div>}</div>})}</div>}
+      {mod==="threat"&&<ThreatView games={base.filter(g=>g.category!=="tracking"&&g.category!=="excluded")} onSelect={setSel}/>}
       {mod==="tracking"&&<TrackingView games={base}/>}
-      {mod==="gantt"&&<GanttView games={base.filter(g=>g.category!=="tracking")} onSelect={setSel}/>}
-      {mod==="qprod"&&<QProductsView games={base.filter(g=>g.category!=="tracking")} onSelect={setSel} ac={ac}/>}
+      {mod==="gantt"&&<GanttView games={base.filter(g=>g.category!=="tracking"&&g.category!=="excluded")} onSelect={setSel}/>}
+      {mod==="qprod"&&<QProductsView games={base.filter(g=>g.category!=="tracking"&&g.category!=="excluded")} onSelect={setSel} ac={ac}/>}
       {mod==="trend"&&<TrendView games={base}/>}
-      {mod==="launch"&&<LaunchView games={base.filter(g=>g.category!=="tracking")}/>}
+      {mod==="launch"&&<LaunchView games={base.filter(g=>g.category!=="tracking"&&g.category!=="excluded")}/>}
       {mod==="brief"&&<BriefView plat={plat} data={brief}/>}
       {mod==="quarterly"&&<QuarterlyView plat={plat} data={qdata}/>}
       {mod==="industry"&&<IndustryView/>}
