@@ -470,6 +470,7 @@ For EACH game, search and check:
    - medium: 中等規模，仍待觀察
    - low: 小型/長尾，已無明顯威脅
 6. 如果這款產品分類是「tracking」（長期營運)，評估是否有明顯衰退訊號（營收/玩家熱度/話題度持續下滑、遠不如上線初期)——只有證據明確時才回報 true，不確定就回報 false
+7. 確認實際已上線/預計上線的地區——如果目前資料是「待確認」或明顯不完整，查證並填入實際地區（例如 "CN/Global"、"TW/HK/MO"、"JP"、"US" 等)
 
 Output JSON array:
 - "name": exact name
@@ -486,6 +487,7 @@ Output JSON array:
 - "newSentiment": 0-100 的整數，根據目前真實市場表現重新估算（不是憑空給分)
 - "isDeclining": true/false（只有分類是 tracking 的產品才需要判斷,其他填 false）
 - "declineReason": 一句話說明衰退證據，isDeclining 為 false 則填 null
+- "newRegion": 確認後的實際地區字串（跟目前相同或無法確認則填 null，不要亂猜)
 - "pmAnalysis": 繁體中文 PM analysis, format: "【威脅類型】描述\\n\\n▶ 建議行動：\\n(1)...\\n(2)...\\n(3)..."
 - "directLinks": [{{"label":"TapTap","url":"real URL"}},{{"label":"官網","url":"URL"}}]
 
@@ -517,6 +519,12 @@ Output ONLY valid JSON array."""
                 prod["updatedAt"] = today
                 updates += 1
                 print(f" 📅 {n}: {old} → {u['newLaunchEst']}")
+            if u.get("newRegion") and u["newRegion"] != prod.get("region"):
+                old_r = prod.get("region", "?")
+                prod["region"] = u["newRegion"]
+                prod["updatedAt"] = today
+                updates += 1
+                print(f" 🌏 {n}: 地區 {old_r} → {u['newRegion']}")
             if u.get("newThreat") and u["newThreat"] != prod.get("threat"):
                 if str(prod.get("id")) in locked_ids:
                     print(f" 🔒 {n}: 已手動鎖定，略過威脅重新評估（模型建議: {u['newThreat']}）")
@@ -639,6 +647,7 @@ def agent1(articles):
 - "developer": 開發商
 - "genre": 類型（中文，2-3字）
 - "platform": ["Mobile"] 或 ["PC","Mobile"]
+- "region": 目前已知或推估的上線/營運地區，例如 "CN/Global"、"TW/HK/MO"、"JP"、"KR/Global"、"US"、"Global"——不確定就盡量推估開發商/發行商所屬市場，避免直接填「待確認」
 - "stage": "announced"/"pre-reg"/"cbt"/"live-ops"
 - "launchEst": "2026-07" 或 "2026-Q3"
 - "desc": 一句話繁體中文描述
@@ -675,7 +684,7 @@ Output ONLY valid JSON array, no markdown."""
                 "id": mid, "name": n, "nameEn": d.get("nameEn", ""),
                 "developer": d.get("developer", "未知"), "studio": d.get("developer", "未知"),
                 "publisher": d.get("developer", "未知"), "genre": d.get("genre", "未知"),
-                "platform": normalize_platform(d.get("platform", ["Mobile"])), "region": "待確認", "model": "F2P",
+                "platform": normalize_platform(d.get("platform", ["Mobile"])), "region": d.get("region", "待確認"), "model": "F2P",
                 "stage": d.get("stage", "announced"), "threat": threat,
                 "threatReason": reason, "prereg": None, "sentiment": 70,
                 "launchEst": d.get("launchEst", "待定"), "desc": d.get("desc", ""), "tags": [source_type],
