@@ -3,6 +3,10 @@
     "threat": "critical",
     "updatedAt": "2026-08-25"
   },
+  "14": {
+    "threat": "critical",
+    "updatedAt": "2026-08-25"
+  },
   "17": {
     "threat": "medium",
     "updatedAt": "2026-08-25"
