@@ -38,6 +38,7 @@ DAILY = DATA / "daily-brief.json"
 QUARTERLY = DATA / "quarterly.json"
 AUDIT = DATA / "audit-report.json"
 INDUSTRY = DATA / "industry-trends.json"
+OVERRIDES = DATA / "overrides.json"
 MODEL = "gemini-2.5-flash"
 
 # ══════════════════════════════════════════
@@ -438,6 +439,13 @@ def agent2():
     today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     now = datetime.now(timezone.utc)
 
+    # Manual overrides (set via the frontend, written by the Apps Script proxy)
+    # win over anything the model decides here — once a person has locked in a
+    # threat level or excluded a product, Agent2 shouldn't keep re-litigating
+    # it every time it happens to rotate onto that product.
+    overrides = load(OVERRIDES, {})
+    locked_ids = {str(k) for k, v in overrides.items() if v.get("threat") or v.get("excluded")}
+
     for g in products:
         if "lastChecked" not in g:
             g["lastChecked"] = "2000-01-01"
@@ -510,13 +518,16 @@ Output ONLY valid JSON array."""
                 updates += 1
                 print(f" 📅 {n}: {old} → {u['newLaunchEst']}")
             if u.get("newThreat") and u["newThreat"] != prod.get("threat"):
-                old_t = prod.get("threat", "?")
-                prod["threat"] = u["newThreat"]
-                prod["threatReason"] = u.get("newThreatReason", prod.get("threatReason", ""))
-                prod["updatedAt"] = today
-                updates += 1
-                print(f" ⚠️ {n}: 威脅 {old_t} → {u['newThreat']} ({u.get('newThreatReason','')})")
-            if u.get("newSentiment") is not None:
+                if str(prod.get("id")) in locked_ids:
+                    print(f" 🔒 {n}: 已手動鎖定，略過威脅重新評估（模型建議: {u['newThreat']}）")
+                else:
+                    old_t = prod.get("threat", "?")
+                    prod["threat"] = u["newThreat"]
+                    prod["threatReason"] = u.get("newThreatReason", prod.get("threatReason", ""))
+                    prod["updatedAt"] = today
+                    updates += 1
+                    print(f" ⚠️ {n}: 威脅 {old_t} → {u['newThreat']} ({u.get('newThreatReason','')})")
+            if u.get("newSentiment") is not None and str(prod.get("id")) not in locked_ids:
                 try:
                     ns = int(u["newSentiment"])
                     if 0 <= ns <= 100 and ns != prod.get("sentiment"):
@@ -525,7 +536,7 @@ Output ONLY valid JSON array."""
                         updates += 1
                 except (ValueError, TypeError):
                     pass
-            if u.get("isDeclining") and prod.get("category") == "tracking":
+            if u.get("isDeclining") and prod.get("category") == "tracking" and str(prod.get("id")) not in locked_ids:
                 prod["category"] = "excluded"
                 prod["excludedReason"] = u.get("declineReason", "")
                 prod["excludedAt"] = today
