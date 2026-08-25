@@ -22,5 +22,9 @@
   "175": {
     "threat": "critical",
     "updatedAt": "2026-08-25"
+  },
+  "182": {
+    "threat": "medium",
+    "updatedAt": "2026-08-25"
   }
 }
