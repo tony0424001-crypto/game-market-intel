@@ -19,6 +19,10 @@
     "threat": "critical",
     "updatedAt": "2026-08-25"
   },
+  "148": {
+    "threat": "low",
+    "updatedAt": "2026-08-25"
+  },
   "154": {
     "excluded": true,
     "updatedAt": "2026-08-25"
