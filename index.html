@@ -124,6 +124,17 @@ const TC={critical:"#ff6b6b",high:"#ffaa33",medium:"#ffe066",low:"#2dd4a8"};
 const ST=["announced","pre-reg","cbt","soft-launch","live-ops"];
 const PM={urgent:{c:"bu",l:"🚨 需立即行動",k:"var(--red)"},watch:{c:"bw",l:"👁 值得關注",k:"var(--orange)"},info:{c:"bi",l:"ℹ️ 背景資訊",k:"var(--muted)"}};
 const MZH=["1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"];
+// 地區相關性評分：分數越低代表跟台港澳星馬市場越相關，排序時優先顯示
+function regionScore(region){
+  const r=(region||"").toUpperCase();
+  if(!r||r.includes("待確認")||r.includes("未知"))return 2.5;
+  if(r.includes("TW")||r.includes("HK")||r.includes("MO"))return 0;
+  if(r.includes("SG")||r.includes("MY"))return 0.5;
+  if(r.includes("CN")||r.includes("JP")||r.includes("KR"))return 1;
+  if(r.includes("GLOBAL"))return 1.5;
+  if(r.includes("US")||r.includes("EU")||r.includes("EUROPE")||r.includes("NA"))return 3;
+  return 2;
+}
 
 function useJson(p,fb){const[d,setD]=useState(null);const[l,setL]=useState(true);
 useEffect(()=>{let c=false;fetch(p).then(r=>{if(!r.ok)throw r.status;return r.json()}).then(j=>{if(!c){setD(j);setL(false)}}).catch(()=>{if(!c){setD(fb);setL(false)}});return()=>{c=true}},[]);return[d,l]}
@@ -529,7 +540,11 @@ function App(){
         <div className="sbox"><div className="lb">即將上線</div><div className="vl" style={{color:"var(--console)"}}>{base.filter(g=>["soft-launch","pre-reg"].includes(g.stage)).length}</div></div>
       </div>
       <div className="search"><input className="sinput" placeholder="🔍 搜尋遊戲名稱、開發商、品類、標籤..." value={search} onChange={e=>setSearch(e.target.value)}/>
-        {mod==="list"&&<button className={`fbtn ${sortMode==="time"?"on":""}`} onClick={()=>setSortMode(sortMode==="time"?"threat":"time")}>{sortMode==="time"?"🕐 依加入時間":"⚠️ 依威脅排序"}</button>}
+        {mod==="list"&&<select value={sortMode} onChange={e=>setSortMode(e.target.value)} className="fbtn" style={{cursor:"pointer"}}>
+          <option value="threat">⚠️ 依威脅排序</option>
+          <option value="time">🕐 依加入時間</option>
+          <option value="region">🌏 依地區相關性</option>
+        </select>}
         <button className={`fbtn ${sf==="all"?"on":""}`} onClick={()=>setSf("all")}>全部</button>
         {ST.map(s=>{const n=base.filter(g=>g.stage===s).length;return n?<button key={s} className={`fbtn ${sf===s?"on":""}`} onClick={()=>setSf(sf===s?"all":s)}>{SM[s]}({n})</button>:null})}
         {["critical","high"].map(t=>{const n=base.filter(g=>g.threat===t).length;return n?<button key={t} className="fbtn" style={tf===t?{background:TC[t],color:"#000",borderColor:TC[t]}:{}} onClick={()=>setTf(tf===t?"all":t)}>威脅{TM[t]}({n})</button>:null})}
@@ -537,10 +552,12 @@ function App(){
       {mod==="list"&&(()=>{const tOrder={critical:0,high:1,medium:2,low:3};
   const sorted=sortMode==="time"
     ? [...filtered].sort((a,b)=>(b.addedAt||"0000-00-00").localeCompare(a.addedAt||"0000-00-00"))
+    : sortMode==="region"
+    ? [...filtered].sort((a,b)=>regionScore(a.region)-regionScore(b.region)||tOrder[a.threat]-tOrder[b.threat])
     : [...filtered].sort((a,b)=>tOrder[a.threat]-tOrder[b.threat]||(b.prereg||0)-(a.prereg||0));
   const groups=[{key:"critical",label:"🚨 威脅極高",clr:"var(--red)"},{key:"high",label:"⚠️ 威脅高",clr:"var(--orange)"},{key:"medium",label:"● 威脅中",clr:"var(--yellow)"},{key:"low",label:"○ 威脅低",clr:"var(--green)"}];
   return<div>
-    {sortMode==="time"
+    {(sortMode==="time"||sortMode==="region")
       ?(sorted.length?<div className="grid">{sorted.map(g=><GameCard key={g.id} g={g} onClick={setSel} ac={ac} onOverride={onOverride}/>)}</div>:<div className="empty"><div className="ic">🔍</div><div>無符合條件的產品</div></div>)
       :(sorted.length?groups.map(gr=>{const items=sorted.filter(g=>g.threat===gr.key);if(!items.length)return null;return<div key={gr.key} style={{marginBottom:20}}>
     <div style={{display:"flex",alignItems:"center",gap:8,marginBottom:10,padding:"6px 12px",borderRadius:8,background:`${gr.clr}0a`,borderLeft:`3px solid ${gr.clr}`}}>
