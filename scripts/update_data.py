@@ -445,8 +445,8 @@ def agent2():
     batch = products[:batch_size]
     print(f" Checking: {', '.join(g['name'] for g in batch)}")
 
-    info = "\n".join([f"- {g['name']} | 狀態:{g['stage']} | 開發商:{g.get('developer','?')} | 上線:{g.get('launchEst','?')} | 測試:{g.get('testType','?')} {g.get('testDateStart','?')}~{g.get('testDateEnd','?')}" for g in batch])
-    prompt = f"""Today is {today}. Check these games for concrete status changes.
+    info = "\n".join([f"- {g['name']} | 狀態:{g['stage']} | 開發商:{g.get('developer','?')} | 上線:{g.get('launchEst','?')} | 測試:{g.get('testType','?')} {g.get('testDateStart','?')}~{g.get('testDateEnd','?')} | 目前威脅:{g.get('threat','?')} | 目前分類:{g.get('category','?')}" for g in batch])
+    prompt = f"""Today is {today}. Check these games for concrete status changes AND re-evaluate their threat level.
 
 Games:
 {info}
@@ -456,6 +456,12 @@ For EACH game, search and check:
 2. Has LAUNCH DATE been confirmed or changed?
 3. Has the game LAUNCHED? On which platforms/regions?
 4. Any delay, shutdown, or new test phase?
+5. 重新評估威脅等級——不要假設舊的威脅等級一定還對，根據目前實際市場地位/營收/話題度重新判斷：
+   - critical: 現象級大作，長期霸榜、話題度極高
+   - high: 具體威脅，二次元/大IP/大廠自研，規模明顯
+   - medium: 中等規模，仍待觀察
+   - low: 小型/長尾，已無明顯威脅
+6. 如果這款產品分類是「tracking」（長期營運)，評估是否有明顯衰退訊號（營收/玩家熱度/話題度持續下滑、遠不如上線初期)——只有證據明確時才回報 true，不確定就回報 false
 
 Output JSON array:
 - "name": exact name
@@ -467,6 +473,11 @@ Output JSON array:
 - "shouldBeTracking": true if live 1+ year
 - "shouldRemove": true if dead
 - "removeReason": or null
+- "newThreat": "critical"/"high"/"medium"/"low"（跟目前不同才填，否則填 null）
+- "newThreatReason": 一句話說明為什麼調整（跟目前相同則填 null）
+- "newSentiment": 0-100 的整數，根據目前真實市場表現重新估算（不是憑空給分)
+- "isDeclining": true/false（只有分類是 tracking 的產品才需要判斷,其他填 false）
+- "declineReason": 一句話說明衰退證據，isDeclining 為 false 則填 null
 - "pmAnalysis": 繁體中文 PM analysis, format: "【威脅類型】描述\\n\\n▶ 建議行動：\\n(1)...\\n(2)...\\n(3)..."
 - "directLinks": [{{"label":"TapTap","url":"real URL"}},{{"label":"官網","url":"URL"}}]
 
@@ -498,6 +509,29 @@ Output ONLY valid JSON array."""
                 prod["updatedAt"] = today
                 updates += 1
                 print(f" 📅 {n}: {old} → {u['newLaunchEst']}")
+            if u.get("newThreat") and u["newThreat"] != prod.get("threat"):
+                old_t = prod.get("threat", "?")
+                prod["threat"] = u["newThreat"]
+                prod["threatReason"] = u.get("newThreatReason", prod.get("threatReason", ""))
+                prod["updatedAt"] = today
+                updates += 1
+                print(f" ⚠️ {n}: 威脅 {old_t} → {u['newThreat']} ({u.get('newThreatReason','')})")
+            if u.get("newSentiment") is not None:
+                try:
+                    ns = int(u["newSentiment"])
+                    if 0 <= ns <= 100 and ns != prod.get("sentiment"):
+                        prod["sentiment"] = ns
+                        prod["updatedAt"] = today
+                        updates += 1
+                except (ValueError, TypeError):
+                    pass
+            if u.get("isDeclining") and prod.get("category") == "tracking":
+                prod["category"] = "excluded"
+                prod["excludedReason"] = u.get("declineReason", "")
+                prod["excludedAt"] = today
+                prod["updatedAt"] = today
+                updates += 1
+                print(f" 📉 {n}: 明顯衰退，移入已排除 ({u.get('declineReason','')})")
             if u.get("testDateUpdate"):
                 prod["testDateEnd"] = u["testDateUpdate"]
                 prod["updatedAt"] = today
@@ -643,7 +677,7 @@ Output ONLY valid JSON array, no markdown."""
                 "category": "active", "testType": "待確認", "testDateStart": "待確認",
                 "testDateEnd": "待確認", "sourceLinks": [], "launchRegions": [],
                 "history": [{"date": datetime.now(timezone.utc).strftime("%Y-%m"), "s": d.get("stage", "announced")}],
-                "updatedAt": today, "lastChecked": "2000-01-01", "autoDiscovered": True,
+                "updatedAt": today, "addedAt": today, "lastChecked": "2000-01-01", "autoDiscovered": True,
                 "sourceType": source_type,
             }
             new_p.append(entry)
@@ -732,7 +766,7 @@ Output ONLY valid JSON array, no markdown."""
                 "category": "active", "testType": "待確認", "testDateStart": "待確認",
                 "testDateEnd": "待確認", "sourceLinks": [], "launchRegions": [],
                 "history": [{"date": datetime.now(timezone.utc).strftime("%Y-%m"), "s": "announced"}],
-                "updatedAt": today, "lastChecked": "2000-01-01", "autoDiscovered": True,
+                "updatedAt": today, "addedAt": today, "lastChecked": "2000-01-01", "autoDiscovered": True,
                 "sourceType": "版號公示",
             }
             new_p.append(entry)
