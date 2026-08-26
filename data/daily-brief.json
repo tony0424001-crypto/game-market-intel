@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-08-25T02:02:24.203964+00:00",
-  "fetchCount": 104,
+  "lastUpdated": "2026-08-26T02:06:22.133638+00:00",
+  "fetchCount": 105,
   "items": [
+    {
+      "id": "brief-20260826-b7ba82a0",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "巫師3重製版",
+      "detail": "9/29上市，新資料片「舊時曲」揭露",
+      "action": "經典重製，不容錯過",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-26T02:06:22.133638+00:00"
+    },
+    {
+      "id": "brief-20260826-3d1ab84d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "FF7 啟示",
+      "detail": "公開最新宣傳影片「星之守護者」",
+      "action": "必玩大作，持續關注",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-26T02:06:22.133638+00:00"
+    },
+    {
+      "id": "brief-20260826-84ef7a55",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "流亡黯道 2",
+      "detail": "12/12正式版上市，新職業「決鬥者」",
+      "action": "免費遊玩，準備開刷",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-26T02:06:22.133638+00:00"
+    },
+    {
+      "id": "brief-20260826-1c5c610c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "戰爭機器：事變日",
+      "detail": "戰役模式影片公開，重回故事開端",
+      "action": "Xbox大作，預定10/6",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-26T02:06:22.133638+00:00"
+    },
+    {
+      "id": "brief-20260826-231e0aae",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "絕地求生：DED.NET",
+      "detail": "FPS新作揭露，即將展開封測",
+      "action": "PUBG新作，搶先體驗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-26T02:06:22.133638+00:00"
+    },
     {
       "id": "brief-20260825-0475881a",
       "priority": "urgent",
@@ -157,70 +212,15 @@
       "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
     },
     {
-      "id": "brief-20260824-2c91a293",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Project X（新發現・高威脅）",
-      "detail": "頭部大廠米哈遊自研新IP，具備極高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
-    },
-    {
-      "id": "brief-20260824-d02b8d61",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "蔚藍檔案2：星辰彼岸（新發現・高威脅）",
-      "detail": "大廠IP續作，知名二次元IP，預期有高市場熱度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
-    },
-    {
-      "id": "brief-20260824-37583e09",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "仙劍世界（新發現・高威脅）",
-      "detail": "經典IP手遊化，擁有廣大粉絲基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
-    },
-    {
-      "id": "brief-20260824-7db4bb9a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "燕雲十六聲（新發現・高威脅）",
-      "detail": "大廠新作，知名PC IP手遊化，具備高市場關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
-    },
-    {
-      "id": "brief-20260824-5df47223",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "無限暖暖（新發現・高威脅）",
-      "detail": "大廠新作，知名二次元IP延伸，預期有高話題度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
-    },
-    {
-      "id": "brief-20260824-412337d3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "星垣：彼方（新發現・高威脅）",
-      "detail": "頭部二游開發商新作，具備高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
+      "id": "brief-20260826-738dde77",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "控制：共振",
+      "detail": "公開以「異變」為主題戰鬥影片",
+      "action": "續作情報，值得期待",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-26T02:06:22.133638+00:00"
     }
   ]
 }

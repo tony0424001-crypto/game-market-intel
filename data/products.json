@@ -7880,7 +7880,7 @@
     "platform": [
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "CN (iOS/Android/PC)",
     "model": "F2P",
     "stage": "announced",
     "threat": "high",
@@ -7892,13 +7892,22 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】騰訊大廠開發的知名國漫IP改編動作RPG，具備高市場潛力。",
+    "threatAnalysis": "【威脅類型】高\n\n《異人之下》作為騰訊魔方工作室基於熱門國漫IP《一人之下》開發的3D動作格鬥遊戲，擁有龐大的粉絲基礎和高達3000萬的預約量。遊戲強調無數值PVP和電影級PVE劇情，預計在2026年10月進行大規模測試，並計劃於2026年內上線。其市場潛力巨大，可能對同類產品構成顯著威脅。\n\n▶ 建議行動：\n(1). 持續關注10月大規模測試的玩家反饋與媒體評價。\n(2). 深入分析其PVP系統設計與付費模式，評估對市場的實際衝擊。\n(3). 監測其宣發策略，特別是與IP聯動的活動。",
     "verified": "Agent 發現 (2026-08-22)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "17173新聞",
+        "url": "https://news.17173.com/content/06092026/170412644.shtml"
+      },
+      {
+        "label": "3DM新聞",
+        "url": "https://www.3dmgame.com/news/202412/3929427.html"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -7906,10 +7915,11 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-22",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-26",
+    "lastChecked": "2026-08-26",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "預計2026年10月開啟大規模測試，目前已達成3000萬預約。"
   },
   {
     "id": 149,
@@ -7922,25 +7932,34 @@
     "platform": [
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "CN (Mobile)",
     "model": "F2P",
     "stage": "announced",
     "threat": "high",
     "threatReason": "經典街機IP改編，具備懷舊情懷與玩家基礎，有望吸引大量老玩家。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027-Q1",
+    "sentiment": 75,
+    "launchEst": "2026-Q4",
     "desc": "經典街機IP《恐龍快打》改編的手機遊戲，已於2026年5月獲得中國版號。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】經典街機IP改編，具備懷舊情懷與玩家基礎，有望吸引大量老玩家。",
+    "threatAnalysis": "【威脅類型】高\n\n《恐龍快打·起源》作為經典街機IP的3D橫版動作手遊，憑藉情懷加成和3D重製畫面，吸引了大量老玩家關注。遊戲已於2026年7月9日進行首次計費測試，並將上線日期從2027年Q1提前至2026年Q4。其在中國市場的表現值得密切觀察。\n\n▶ 建議行動：\n(1). 追蹤首次計費測試的數據表現與玩家反饋，特別是付費轉化率和留存情況。\n(2). 關注遊戲在TapTap等平台的預約熱度與社區討論。\n(3). 評估其IP改編的深度與創新性，以及對核心玩法的還原度。",
     "verified": "Agent 發現 (2026-08-22)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/237613"
+      },
+      {
+        "label": "九游",
+        "url": "https://www.9game.cn/klkdqy/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -7948,10 +7967,11 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-22",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-26",
+    "lastChecked": "2026-08-26",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "已於2026年7月9日進行首次計費測試，全平台預約開啟。"
   },
   {
     "id": 150,
@@ -7964,36 +7984,51 @@
     "platform": [
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "KR/TW (Live), Global (PC)",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "high",
     "threatReason": "知名端遊IP《AION》正統續作，由大廠NCSoft開發，使用UE5打造，具備高市場潛力。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027-Q1",
+    "sentiment": 80,
+    "launchEst": "2026-10-05",
     "desc": "由NCSoft使用Unreal Engine 5打造的全新MMORPG，為其代表性IP《AION》的正統續作。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名端遊IP《AION》正統續作，由大廠NCSoft開發，使用UE5打造，具備高市場潛力。",
+    "threatAnalysis": "【威脅類型】高\n\n《AION 2》作為NCSoft的旗艦MMORPG續作，已於2025年11月在韓國和台灣上線，並確認全球PC版將於2026年10月5日正式發布，搶先體驗於9月30日開始。遊戲採用Unreal Engine 5開發，主打廣闊世界和空戰系統，其全球發行將對MMORPG市場產生重要影響。\n\n▶ 建議行動：\n(1). 密切關注全球版上線後的玩家數據、營收表現及媒體評價。\n(2). 分析其在韓國/台灣市場的長期運營數據，預判全球市場潛力。\n(3). 關注其空戰系統的創新性與玩家接受度，以及對現有MMORPG競品的影響。",
     "verified": "Agent 發現 (2026-08-22)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-10-04",
+    "sourceLinks": [
+      {
+        "label": "Gematsu新聞",
+        "url": "https://www.gematsu.com/2026/08/aion-2-delayed-to-october-5-worldwide"
+      },
+      {
+        "label": "MMOBomb新聞",
+        "url": "https://www.mmobomb.com/news/gamescom-2026-aion-2-drops-launch-date-with-action-filled-trailer/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-22",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-26",
+    "lastChecked": "2026-08-26",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "全球版預計於2026年9月17-18日進行Launch Scale Test，9月30日開啟搶先體驗，10月5日正式全球上線PC平台。 已於2025年11月19日在韓國/台灣上線PC、iOS、Android平台。",
+    "eventNote": "全球版預計於2026年9月17-18日進行Launch Scale Test，9月30日開啟搶先體驗，10月5日正式全球上線PC平台。 已於2025年11月19日在韓國/台灣上線PC、iOS、Android平台。"
   },
   {
     "id": 151,
@@ -8006,36 +8041,55 @@
     "platform": [
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "Global (iOS/Android)",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "threatReason": "韓國二次元RPG，具備一定市場潛力，但具體發行信息較少，威脅等級待觀察。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027-Q1",
+    "sentiment": 65,
+    "launchEst": "2026-06-30",
     "desc": "一款韓國開發的3D指令戰鬥二次元RPG手遊，以美少女和美少年角色為特色。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】韓國二次元RPG，具備一定市場潛力，但具體發行信息較少，威脅等級待觀察。",
+    "threatAnalysis": "【威脅類型】中等\n\n《星屑の絆》作為Com2uS Holdings發行的收集型RPG，已於2026年6月30日全球上線。遊戲採用動畫風格，具備策略性回合制戰鬥和豐富角色。雖然已上線，但目前市場表現和話題度仍待觀察，尚未展現出\"現象級\"潛力。\n\n▶ 建議行動：\n(1). 監測遊戲上線後的營收排名、下載量和玩家評價，特別是日本和韓國市場的表現。\n(2). 分析其內容更新頻率和活動運營策略，評估長期留存能力。\n(3). 關注玩家社區對遊戲平衡性、新內容和付費體驗的討論。",
     "verified": "Agent 發現 (2026-08-22)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "PR TIMES新聞",
+        "url": "https://prtimes.jp/main/html/rd/p/000000969.000006940.html"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/jp/app/%E6%98%9F%E5%B1%91%E3%81%AE%E7%B5%86/id6749404408"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.com2usholdings.starsailors.android.google.global.normal"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-22",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-26",
+    "lastChecked": "2026-08-26",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "已於2026年6月30日全球上線iOS/Android平台。",
+    "eventNote": "已於2026年6月30日全球上線iOS/Android平台。"
   },
   {
     "id": 152,
@@ -8048,36 +8102,51 @@
     "platform": [
       "Mobile"
     ],
-    "region": "中國",
+    "region": "CN (Android/iOS, PC data interoperability)",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "critical",
     "threatReason": "網易旗下國民級懷舊IP《夢幻西遊》的移動端互通版，且無需點卡，預計將吸引大量老玩家回歸。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026年8月21日",
+    "sentiment": 90,
+    "launchEst": "2026-08-21",
     "desc": "《夢幻西遊：再續前緣》是《夢幻西遊》電腦版暢玩服面向移動端推出的全新專屬產品，數據與電腦版暢玩服完全互通，無需點卡即可暢玩。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】網易旗下國民級懷舊IP《夢幻西遊》的移動端互通版，且無需點卡，預計將吸引大量老玩家回歸。",
+    "threatAnalysis": "【威脅類型】critical\n\n《夢幻西遊：再續前緣》作為網易旗艦IP《夢幻西遊》電腦版暢玩服的移動端延伸，於2026年8月21日正式上線，實現了手機與PC雙端數據互通。憑藉《夢幻西遊》系列長期霸榜的市場地位和龐大用戶基礎，該作一經上線便展現出極高的威脅等級，預計將長期佔據市場主導地位。\n\n▶ 建議行動：\n(1). 持續監測其上線後的營收排名、活躍用戶數和玩家口碑，特別是與電腦版暢玩服的聯動效果。\n(2). 深入分析其免點卡模式和簡化養成系統對新老玩家的吸引力。\n(3). 關注其在中國手遊市場的長期運營策略和內容更新。",
     "verified": "版號雷達 (2026-08-22)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "網易官網",
+        "url": "https://xyq.163.com/news/20260817/15724_1120286.html"
+      },
+      {
+        "label": "TapTap新聞",
+        "url": "https://www.taptap.cn/news/247957"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-22",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-26",
+    "lastChecked": "2026-08-26",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "已於2026年8月21日中午12點在安卓與iOS雙端同步上線，與《夢幻西遊》電腦版暢玩服數據互通。",
+    "eventNote": "已於2026年8月21日中午12點在安卓與iOS雙端同步上線，與《夢幻西遊》電腦版暢玩服數據互通。"
   },
   {
     "id": 153,
@@ -8091,25 +8160,38 @@
       "PC",
       "PS5"
     ],
-    "region": "中國",
+    "region": "Global (PS5/PC)",
     "model": "F2P",
     "stage": "announced",
     "threat": "high",
     "threatReason": "備受矚目的國產3A大作，獨特的「武俠朋克」風格，由知名開發商靈游坊打造，並獲得了PlayStation Showcase的展示。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026年10月28日",
+    "sentiment": 90,
+    "launchEst": "2026-10-29",
     "desc": "由靈游坊自主研發及發行，虛幻5引擎打造的暗黑武俠動作冒險遊戲，玩家將扮演心臟遭受重創的劍客，在僅餘六十六天的生命裡，逃亡於刀光劍影和腥風血雨之間，並粉碎一樁籠罩在整個武林上方的驚天陰謀。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】備受矚目的國產3A大作，獨特的「武俠朋克」風格，由知名開發商靈游坊打造，並獲得了PlayStation Showcase的展示。",
+    "threatAnalysis": "【威脅類型】高\n\n《影之刃零》作為備受矚目的暗黑武俠動作RPG，雖然發售日從2026年9月9日延期至10月29日，但此舉旨在提升遊戲品質，並未影響其市場期待。遊戲在全球範圍內獲得極高關注，在數位商店上線15天內願望清單數量突破100萬。國際巨星甄子丹的參與也進一步提升了其話題度。\n\n▶ 建議行動：\n(1). 密切關注10月29日上線後的媒體評分、玩家口碑和銷售數據。\n(2). 深入分析其獨特的「功夫龐克」美術風格和戰鬥系統的市場接受度。\n(3). 監測其在PS5和PC平台的表現差異，以及後續可能的內容更新計畫。",
     "verified": "版號雷達 (2026-08-22)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "PlayStation Blog",
+        "url": "https://blog.playstation.com/cht-tw/2026/08/12/phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-18-pre-orders-open-today/"
+      },
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2767050/Phantom_Blade_Zero/"
+      },
+      {
+        "label": "維基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -8117,10 +8199,11 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-22",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-26",
+    "lastChecked": "2026-08-26",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "原定2026年9月9日發售，延期至2026年10月29日，以進一步提升遊戲品質。 2026年8月18日將有State of Play深度解析節目，目前已開放預購。 國際動作巨星甄子丹擔任創意顧問及主角父親的動捕演員。"
   },
   {
     "id": 154,
