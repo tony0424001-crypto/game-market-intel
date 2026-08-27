@@ -1,36 +1,36 @@
 {
-  "lastAudit": "2026-08-26T02:07:41.162277+00:00",
+  "lastAudit": "2026-08-27T10:05:28.577810+00:00",
   "totalProducts": 192,
-  "updatesApplied": 35,
+  "updatesApplied": 23,
   "issuesFound": 3,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮",
   "findings": [
     {
-      "name": "AION 2",
+      "name": "永恆之塔：經典",
       "status": "warning",
       "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "星屑の絆",
+      "name": "護核紀元",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "夢幻西遊：再續前緣",
+      "name": "源初之結",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: cbt→pre-reg",
       "autoFixed": true
     }
   ],
   "checked": [
-    "異人之下",
-    "恐龍快打·起源",
-    "AION 2",
-    "星屑の絆",
-    "夢幻西遊：再續前緣",
-    "影之刃零"
+    "這島有幻獸",
+    "守衛穹頂",
+    "妖怪哪裡跑",
+    "永恆之塔：經典",
+    "護核紀元",
+    "源初之結"
   ],
   "nextBatch": [
     "無限大",

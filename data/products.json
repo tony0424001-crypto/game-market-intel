@@ -8228,7 +8228,7 @@
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】由知名直播平台虎牙開發/發行，但遊戲類型和具體玩法資訊較少，潛力有待觀察。",
+    "threatAnalysis": "【中等規模，仍待觀察】目前市場上無《這島有幻獸》的具體消息，開發商虎牙也未有相關宣傳或測試資訊釋出。遊戲狀態仍停留在「announced」，缺乏進一步的市場動態或玩家討論度。建議持續觀察，待有更多資訊釋出後再進行評估。\n\n▶ 建議行動：\n(1). 持續監測遊戲相關新聞與開發商動態。\n(2). 關注是否有測試或預約活動開啟。\n(3). 收集玩家社群討論，評估潛在市場熱度。",
     "verified": "版號雷達 (2026-08-22)",
     "category": "active",
     "testType": "待確認",
@@ -8242,10 +8242,11 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-22",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-27",
+    "lastChecked": "2026-08-27",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "無最新消息"
   },
   {
     "id": 155,
@@ -8264,13 +8265,13 @@
     "threat": "low",
     "threatReason": "由中型廠商開發，遊戲資訊有限，預計影響力較為區域性。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "待定",
     "desc": "廣州星輝娛樂開發的移動遊戲，已於7月23日獲版號。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】由中型廠商開發，遊戲資訊有限，預計影響力較為區域性。",
+    "threatAnalysis": "【小型/長尾，已無明顯威脅】目前市場上無《守衛穹頂》的具體消息，開發商廣州星輝娛樂也未有相關宣傳或測試資訊釋出。遊戲狀態仍停留在「announced」，缺乏進一步的市場動態或玩家討論度。建議持續觀察，待有更多資訊釋出後再進行評估。\n\n▶ 建議行動：\n(1). 持續監測遊戲相關新聞與開發商動態。\n(2). 關注是否有測試或預約活動開啟。\n(3). 收集玩家社群討論，評估潛在市場熱度。",
     "verified": "版號雷達 (2026-08-22)",
     "category": "active",
     "testType": "待確認",
@@ -8284,10 +8285,11 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-22",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-27",
+    "lastChecked": "2026-08-27",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "無最新消息"
   },
   {
     "id": 156,
@@ -8306,13 +8308,13 @@
     "threat": "medium",
     "threatReason": "結合熱門西遊IP的休閒卡牌策略遊戲，由波克科技開發，在手遊市場有一定潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "待定",
     "desc": "一款以西遊題材為背景的休閒向卡牌策略手游，主打輕鬆有趣的養成體驗與富有創意的劇情演繹。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】結合熱門西遊IP的休閒卡牌策略遊戲，由波克科技開發，在手遊市場有一定潛力。",
+    "threatAnalysis": "【中等規模，仍待觀察】目前市場上無《妖怪哪裡跑》的具體消息，開發商波克科技也未有相關宣傳或測試資訊釋出。遊戲狀態仍停留在「announced」，缺乏進一步的市場動態或玩家討論度。建議持續觀察，待有更多資訊釋出後再進行評估。\n\n▶ 建議行動：\n(1). 持續監測遊戲相關新聞與開發商動態。\n(2). 關注是否有測試或預約活動開啟。\n(3). 收集玩家社群討論，評估潛在市場熱度。",
     "verified": "版號雷達 (2026-08-22)",
     "category": "active",
     "testType": "待確認",
@@ -8326,10 +8328,11 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-22",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-27",
+    "lastChecked": "2026-08-27",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "無最新消息"
   },
   {
     "id": 157,
@@ -8342,36 +8345,50 @@
     "platform": [
       "Mobile"
     ],
-    "region": "中國",
+    "region": "CN (Mobile), Global (PC Classic)",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "high",
     "threatReason": "經典MMORPG大作《永恆之塔》的官方手遊化，由盛趣遊戲與NCsoft聯合開發，有望吸引大量懷舊玩家。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 85,
     "launchEst": "2026年內",
     "desc": "韓國NCsoft開發的經典3D魔幻MMORPG《永恆之塔》的正統傳承手遊，旨在手機端完美重現亞特雷亞世界，保留天魔兩族對抗、空戰系統、千人要塞戰等核心玩法。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】經典MMORPG大作《永恆之塔》的官方手遊化，由盛趣遊戲與NCsoft聯合開發，有望吸引大量懷舊玩家。",
+    "threatAnalysis": "【具體威脅】《永恆之塔：經典》移動版已於2026年7月獲得中國版號，並已開啟預約，顯示其在中國市場的推進速度加快。PC經典版已於2026年5月上線，且有相關測試活動預告，證明其市場活躍度高。作為大IP作品，其市場潛力與威脅等級維持高位。\n\n▶ 建議行動：\n(1). 密切關注移動版的測試進度與確切上線日期。\n(2). 分析PC經典版的市場表現與玩家反饋，預估移動版潛力。\n(3). 監測中國地區的預約數據與宣傳活動。",
     "verified": "版號雷達 (2026-08-22)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "官網 (移動版)",
+        "url": "https://aion.sdo.com/"
+      },
+      {
+        "label": "TapTap (移動版)",
+        "url": "https://www.taptap.cn/app/234731"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-22",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-27",
+    "lastChecked": "2026-08-27",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "移動版已於2026年7月獲中國版號並開啟預約。PC經典版已於2026年5月上線。"
   },
   {
     "id": 158,
@@ -8384,36 +8401,55 @@
     "platform": [
       "Mobile"
     ],
-    "region": "中國",
+    "region": "CN (Mobile), Global (PC, Console)",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
-    "threatReason": "PC端廣受好評的獨立沙盒遊戲，由Bilibili代理發行移動版，在中國市場具有一定號召力。",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "PC版已成功上線並獲得高評價與大量玩家，移動版獲得中國版號並由Bilibili發行，市場潛力巨大。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 90,
     "launchEst": "待定",
     "desc": "一款可供1至8名玩家暢玩的挖礦類沙盒冒險遊戲，玩家將探索一座充滿各種生物、遺物與資源的無窮無盡的洞窟，不斷挖掘、建造、戰鬥、打造、耕作，最終揭曉古代核心的奧秘。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】PC端廣受好評的獨立沙盒遊戲，由Bilibili代理發行移動版，在中國市場具有一定號召力。",
+    "threatAnalysis": "【具體威脅】《護核紀元》PC版作為一款成功的沙盒冒險遊戲，已於2024年8月發行1.0正式版，並在全球累積超過400萬玩家，獲得極高評價。其移動版已於2026年7月獲得中國版號，並由Bilibili代理發行，市場地位顯著提升。憑藉PC版的成功基礎與移動版在中國市場的潛力，其威脅等級從中等提升至高。\n\n▶ 建議行動：\n(1). 密切關注移動版在中國的預約數據、測試進度及上線時間。\n(2). 分析PC版持續的內容更新與玩家活躍度，作為移動版營運參考。\n(3). 評估其在沙盒品類中的競爭力，特別是與其他多平台沙盒遊戲的對比。",
     "verified": "版號雷達 (2026-08-22)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "TapTap (移動版)",
+        "url": "https://www.taptap.cn/app/234731"
+      },
+      {
+        "label": "Steam (PC版)",
+        "url": "https://store.steampowered.com/app/1621690/Core_Keeper/"
+      },
+      {
+        "label": "Bilibili遊戲中心",
+        "url": "https://game.bilibili.com/corekeeper/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-22",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-27",
+    "lastChecked": "2026-08-27",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "移動版已於2026年7月獲中國版號並開啟預約。PC版已於2024年8月27日發行1.0正式版，全球銷量超過400萬套。",
+    "eventNote": "移動版已於2026年7月獲中國版號並開啟預約。PC版已於2024年8月27日發行1.0正式版，全球銷量超過400萬套。"
   },
   {
     "id": 159,
@@ -8427,36 +8463,46 @@
       "PC",
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "Global (PC/Console, Mobile TBD)",
     "model": "F2P",
-    "stage": "cbt",
+    "stage": "pre-reg",
     "threat": "critical",
     "threatReason": "米哈遊新作，UE5打造的寫實奇幻開放世界動作RPG，強調多人合作與巨型BOSS戰，預期將吸引大量玩家關注。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027-Q1",
+    "sentiment": 95,
+    "launchEst": "2027年",
     "desc": "米哈遊開發的UE5奇幻寫實動作RPG，主打多人合作、開放世界與巨型BOSS戰，風格異於傳統二次元。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】米哈遊新作，UE5打造的寫實奇幻開放世界動作RPG，強調多人合作與巨型BOSS戰，預期將吸引大量玩家關注。",
+    "threatAnalysis": "【現象級大作，長期霸榜、話題度極高】米哈遊新作《源初之結》於2026年科隆遊戲展全球首曝，以其寫實奇幻風格和多人合作戰鬥的核心玩法，引起了廣泛關注。作為米哈遊出品，且採用UE5開發，其市場潛力與話題度極高，威脅等級維持為critical。目前已開啟預約，預計2027年上線。\n\n▶ 建議行動：\n(1). 密切追蹤遊戲的開發進度、測試資訊及確切上線日期。\n(2). 分析其不同於米哈遊以往作品的風格，評估其在不同玩家群體中的接受度。\n(3). 監測全球範圍內的預約數據、社群討論熱度及媒體評價。",
     "verified": "Agent 發現 (2026-08-23)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "官網",
+        "url": "https://nodusfall.hoyoverse.com/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "cbt"
+      },
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-23",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-27",
+    "lastChecked": "2026-08-27",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "於2026年8月26日科隆遊戲展正式全球首曝，並同步開啟官網預約。"
   },
   {
     "id": 160,
@@ -9973,5 +10019,349 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 196,
+    "name": "天上碑 K",
+    "nameEn": "Chun Ryong K",
+    "developer": "Playworks",
+    "studio": "Playworks",
+    "publisher": "Playworks",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR/TW/HK/MO",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "經典PC線上遊戲IP改編，在韓國已取得百萬預約，預計在台灣市場有高關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "承襲經典線上遊戲《新天上碑》世界觀的武俠MMORPG手遊，已於韓國上市並將在台灣推出。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典PC線上遊戲IP改編，在韓國已取得百萬預約，預計在台灣市場有高關注度。",
+    "verified": "Agent 發現 (2026-08-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-27",
+    "addedAt": "2026-08-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 197,
+    "name": "初音未來GRAPHY COLLECTION 謎之音樂彗星Re:Merge",
+    "nameEn": "Hatsune Miku Graphy Collection: Riddle Music Comet Re:Merge",
+    "developer": "Crypton Future Media, INC.",
+    "studio": "Crypton Future Media, INC.",
+    "publisher": "Crypton Future Media, INC.",
+    "genre": "音樂RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名二次元IP「初音未來」改編，具有廣大粉絲基礎，預期在日本市場有高關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3",
+    "desc": "以初音未來等Piapro Characters為主題的全新手機音樂RPG，預計於2026年秋季在日本推出。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名二次元IP「初音未來」改編，具有廣大粉絲基礎，預期在日本市場有高關注度。",
+    "verified": "Agent 發現 (2026-08-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-27",
+    "addedAt": "2026-08-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 198,
+    "name": "霧海之下",
+    "nameEn": "Under the Fog",
+    "developer": "網易 (Joker Studio)",
+    "studio": "網易 (Joker Studio)",
+    "publisher": "網易 (Joker Studio)",
+    "genre": "射擊RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "threatReason": "網易大廠新作，創新「吃打撤」玩法，預期在中國市場有高關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "網易首款「吃打撤」玩法手遊，玩家與隊友狩獵魔物、收集寶藏並撤離。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易大廠新作，創新「吃打撤」玩法，預期在中國市場有高關注度。",
+    "verified": "Agent 發現 (2026-08-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-08-27",
+    "addedAt": "2026-08-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 199,
+    "name": "穿越火線：虹",
+    "nameEn": "Crossfire: Rainbow",
+    "developer": "騰訊 (天美工作室群)",
+    "studio": "騰訊 (天美工作室群)",
+    "publisher": "騰訊 (天美工作室群)",
+    "genre": "射擊",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "騰訊大廠與知名IP「穿越火線」結合，預期在中國市場有高關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "騰訊天美工作室研發的《穿越火線》IP新作，預計2026年推出測試版本。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】騰訊大廠與知名IP「穿越火線」結合，預期在中國市場有高關注度。",
+    "verified": "Agent 發現 (2026-08-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-27",
+    "addedAt": "2026-08-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 200,
+    "name": "歸環",
+    "nameEn": "Return Ring",
+    "developer": "騰訊 (光子薩羅斯工作室)",
+    "studio": "騰訊 (光子薩羅斯工作室)",
+    "publisher": "騰訊 (光子薩羅斯工作室)",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "騰訊大廠新作，但目前資訊較少，威脅等級待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "騰訊光子薩羅斯工作室研發的新作，預計2026年推出測試版本。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】騰訊大廠新作，但目前資訊較少，威脅等級待觀察。",
+    "verified": "Agent 發現 (2026-08-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-27",
+    "addedAt": "2026-08-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 201,
+    "name": "粒粒的小人國",
+    "nameEn": "Lili's Miniature Kingdom",
+    "developer": "騰訊 (北極光工作室)",
+    "studio": "騰訊 (北極光工作室)",
+    "publisher": "騰訊 (北極光工作室)",
+    "genre": "模擬經營",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "騰訊大廠新作，生活模擬類遊戲，潛在受眾廣泛。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "騰訊北極光工作室旗下的生活模擬產品，預計2026年推出測試版本。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】騰訊大廠新作，生活模擬類遊戲，潛在受眾廣泛。",
+    "verified": "Agent 發現 (2026-08-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-27",
+    "addedAt": "2026-08-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 202,
+    "name": "劍與遠征：家園",
+    "nameEn": "AFK Journey: Homestead",
+    "developer": "Lilith Games",
+    "studio": "Lilith Games",
+    "publisher": "Lilith Games",
+    "genre": "角色扮演",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "莉莉絲大廠新作，可能與知名IP《劍與遠征》相關，潛力高。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "莉莉絲遊戲旗下新作，主打「空靈奇幻RPG」體驗。",
+    "tags": [
+      "官方公告"
+    ],
+    "threatAnalysis": "【自動發現・官方公告】莉莉絲大廠新作，可能與知名IP《劍與遠征》相關，潛力高。",
+    "verified": "Agent 發現 (2026-08-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-27",
+    "addedAt": "2026-08-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告"
+  },
+  {
+    "id": 203,
+    "name": "星布穀地",
+    "nameEn": "Petit Planet",
+    "developer": "miHoYo",
+    "studio": "miHoYo",
+    "publisher": "miHoYo",
+    "genre": "模擬經營",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "米哈遊大廠新作，雖然是模擬經營，但其品牌號召力極強，預期會引起全球玩家高度關注。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "米哈遊旗下首款種田模擬經營手遊，預期帶來不同於以往的遊戲體驗。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】米哈遊大廠新作，雖然是模擬經營，但其品牌號召力極強，預期會引起全球玩家高度關注。",
+    "verified": "Agent 發現 (2026-08-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-27",
+    "addedAt": "2026-08-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]

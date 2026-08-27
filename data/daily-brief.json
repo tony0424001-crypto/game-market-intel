@@ -1,7 +1,128 @@
 {
-  "lastUpdated": "2026-08-26T02:06:22.133638+00:00",
-  "fetchCount": 105,
+  "lastUpdated": "2026-08-27T10:07:52.555193+00:00",
+  "fetchCount": 106,
   "items": [
+    {
+      "id": "brief-20260827-178c2468",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "星布穀地（新發現・高威脅）",
+      "detail": "米哈遊大廠新作，雖然是模擬經營，但其品牌號召力極強，預期會引起全球玩家高度關注。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-27T10:07:52.555193+00:00"
+    },
+    {
+      "id": "brief-20260827-a122c86f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "劍與遠征：家園（新發現・高威脅）",
+      "detail": "莉莉絲大廠新作，可能與知名IP《劍與遠征》相關，潛力高。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-08-27T10:07:52.555193+00:00"
+    },
+    {
+      "id": "brief-20260827-02b58e91",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "穿越火線：虹（新發現・高威脅）",
+      "detail": "騰訊大廠與知名IP「穿越火線」結合，預期在中國市場有高關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-27T10:07:52.555193+00:00"
+    },
+    {
+      "id": "brief-20260827-0ee26958",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "霧海之下（新發現・高威脅）",
+      "detail": "網易大廠新作，創新「吃打撤」玩法，預期在中國市場有高關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-27T10:07:52.555193+00:00"
+    },
+    {
+      "id": "brief-20260827-2fb04180",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "初音未來GRAPHY COLLECTION 謎之音樂彗星Re:Merge（新發現・高威脅）",
+      "detail": "知名二次元IP「初音未來」改編，具有廣大粉絲基礎，預期在日本市場有高關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-27T10:07:52.555193+00:00"
+    },
+    {
+      "id": "brief-20260827-f2e1a394",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "天上碑 K（新發現・高威脅）",
+      "detail": "經典PC線上遊戲IP改編，在韓國已取得百萬預約，預計在台灣市場有高關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-27T10:07:52.555193+00:00"
+    },
+    {
+      "id": "brief-20260827-aa79deeb",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《聯盟戰棋》新棋組上線",
+      "detail": "首套Unreal引擎棋組「蒼林祕境」上線，聯合徵召回歸。",
+      "action": "立即體驗新引擎與棋組",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-27T10:05:05.311094+00:00"
+    },
+    {
+      "id": "brief-20260827-0a9720f2",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《異域戰記》PC版Steam上線",
+      "detail": "美少女策略RPG今日登Steam，確定參加東京電玩展。",
+      "action": "Steam下載體驗PC版",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-27T10:05:05.311094+00:00"
+    },
+    {
+      "id": "brief-20260827-0143b242",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《塔塔冒險隊》亞太上市",
+      "detail": "彈珠寵物養成塔防手遊，今日雙平台開放下載。",
+      "action": "下載體驗全新塔防",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-27T10:05:05.311094+00:00"
+    },
+    {
+      "id": "brief-20260827-35a2e252",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《締造者》搶先創角",
+      "detail": "MMORPG新作8/28開放搶先選定伺服器與角色名。",
+      "action": "準備搶先創角命名",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-27T10:05:05.311094+00:00"
+    },
+    {
+      "id": "brief-20260827-6ab12fed",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《夜勤人 2》9/2推出",
+      "detail": "續作《無盡寶庫》1.0版即將於9月2日登場。",
+      "action": "準備迎接正式版上市",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-08-27T10:05:05.311094+00:00"
+    },
     {
       "id": "brief-20260826-b7ba82a0",
       "priority": "urgent",
@@ -100,127 +221,6 @@
       "platform": "mobile",
       "source": "新聞報導",
       "fetchedAt": "2026-08-25T02:02:24.203964+00:00"
-    },
-    {
-      "id": "brief-20260825-2c100e68",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "舞力全開：派對（新發現・高威脅）",
-      "detail": "知名國際IP改編，騰訊代理發行，體感音舞玩法在移動端有潛力，具備大廠資源。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-25T02:02:24.203964+00:00"
-    },
-    {
-      "id": "brief-20260825-e6047df3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "基地：星界無間（新發現・高威脅）",
-      "detail": "知名科幻IP改編，大廠聯手開發，在歐美市場表現亮眼後登陸台港澳。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-25T02:02:24.203964+00:00"
-    },
-    {
-      "id": "brief-20260825-e9f8da00",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "生化危機生存兵種（新發現・高威脅）",
-      "detail": "知名國際IP改編，玩法創新，已在市場上線並獲得高聲量。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-25T02:02:24.203964+00:00"
-    },
-    {
-      "id": "brief-20260825-689e69d5",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "無職轉生～到了異世界就拿出真本事～迴響編年史（新發現・高威脅）",
-      "detail": "熱門二次元IP改編，在台港澳市場有潛力，預期將吸引大量粉絲關注。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-25T02:02:24.203964+00:00"
-    },
-    {
-      "id": "brief-20260825-3d306a6f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "絕區零3.2版預告",
-      "detail": "前瞻特別節目8/28播出",
-      "action": "玩家可鎖定直播",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-25T01:57:35.609533+00:00"
-    },
-    {
-      "id": "brief-20260825-92d73d39",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "闇影詩章新卡包",
-      "detail": "第9彈卡包8/27登場",
-      "action": "卡牌玩家注意",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-25T01:57:35.609533+00:00"
-    },
-    {
-      "id": "brief-20260825-69d88b01",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《致命之爪》正式版",
-      "detail": "8/26結束搶先體驗，正式上市",
-      "action": "喜歡動作可關注",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-25T01:57:35.609533+00:00"
-    },
-    {
-      "id": "brief-20260825-cb98b4b8",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《時間掌控者》全球測試",
-      "detail": "生存射擊新作9/5-8展開測試",
-      "action": "玩家可報名體驗",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-25T01:57:35.609533+00:00"
-    },
-    {
-      "id": "brief-20260825-97ecf517",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "決勝時刻M S7聯動",
-      "detail": "S7「搞鬼夜行」展開，崩壞3rd聯動9月",
-      "action": "手遊玩家注意",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-25T01:57:35.609533+00:00"
-    },
-    {
-      "id": "brief-20260824-93bea78c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Project: Dawnbreaker（新發現・高威脅）",
-      "detail": "頭部大廠騰訊自研新IP，預期有大規模推廣。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-08-24T02:05:48.975647+00:00"
-    },
-    {
-      "id": "brief-20260826-738dde77",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "控制：共振",
-      "detail": "公開以「異變」為主題戰鬥影片",
-      "action": "續作情報，值得期待",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-26T02:06:22.133638+00:00"
     }
   ]
 }
