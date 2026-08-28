@@ -10363,5 +10363,696 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
+  },
+  {
+    "id": 204,
+    "name": "法雷多利亞",
+    "nameEn": "FAREIDOLIA",
+    "developer": "Nexon Games (IO Division / RX Studio)",
+    "studio": "Nexon Games (IO Division / RX Studio)",
+    "publisher": "Nexon Games (IO Division / RX Studio)",
+    "genre": "二次元, 動作RPG",
+    "platform": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "蔚藍檔案開發商新作，具備二次元與動作RPG要素，多平台發行，預期將吸引大量玩家關注。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "TBD",
+    "desc": "蔚藍檔案開發商Nexon Games推出的全新3D動畫風格遊戲，結合沉浸式故事、角色互動與生活內容，原代號為Project RX。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】蔚藍檔案開發商新作，具備二次元與動作RPG要素，多平台發行，預期將吸引大量玩家關注。",
+    "verified": "Agent 發現 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 205,
+    "name": "斗羅大陸：傳承",
+    "nameEn": "Douluo Dalu: Inheritance",
+    "developer": "TBD",
+    "studio": "TBD",
+    "publisher": "TBD",
+    "genre": "放置, 策略",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "medium",
+    "threatReason": "知名國漫IP改編，放置策略玩法，具備一定市場吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3/Q4",
+    "desc": "以經典國漫IP《斗羅大陸》為基底的輕量化放置掛機與策略小隊戰鬥手遊。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名國漫IP改編，放置策略玩法，具備一定市場吸引力。",
+    "verified": "Agent 發現 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 206,
+    "name": "天堂2：盟約",
+    "nameEn": "Lineage 2: Covenant",
+    "developer": "TBD",
+    "studio": "TBD",
+    "publisher": "TBD",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "全球知名MMORPG IP改編，次世代3D畫面，預期將吸引大量MMORPG玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3/Q4",
+    "desc": "基於全球知名魔幻MMORPG IP《天堂2》打造，採用次世代3D引擎呈現廣闊無縫地圖與細膩角色建模。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】全球知名MMORPG IP改編，次世代3D畫面，預期將吸引大量MMORPG玩家。",
+    "verified": "Agent 發現 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 207,
+    "name": "三國：謀定天下",
+    "nameEn": "Three Kingdoms: Strategy",
+    "developer": "TBD",
+    "studio": "TBD",
+    "publisher": "TBD",
+    "genre": "策略",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/TW/HK/MO",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "經典三國IP，策略類手遊在華人市場有廣大受眾。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3/Q4",
+    "desc": "以三國IP為背景的策略手遊，強調戰略佈局。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典三國IP，策略類手遊在華人市場有廣大受眾。",
+    "verified": "Agent 發現 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 208,
+    "name": "我的英雄學院：聯合生存",
+    "nameEn": "My Hero Academia: UNITED SURVIVAL",
+    "developer": "TBD",
+    "studio": "TBD",
+    "publisher": "TBD",
+    "genre": "動作",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global/JP",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名日本動漫IP改編，動作類玩法，預期將吸引大量粉絲。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3/Q4",
+    "desc": "知名日本動漫IP《我的英雄學院》改編的動作手遊。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名日本動漫IP改編，動作類玩法，預期將吸引大量粉絲。",
+    "verified": "Agent 發現 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 209,
+    "name": "JoJo的奇妙冒險：黃金聖歌",
+    "nameEn": "JoJo's Bizarre Adventure: Golden Anthem",
+    "developer": "TBD",
+    "studio": "TBD",
+    "publisher": "TBD",
+    "genre": "動作",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global/JP",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名日本動漫IP改編，動作類玩法，預期將吸引大量粉絲。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3/Q4",
+    "desc": "知名日本動漫IP《JoJo的奇妙冒險》改編的動作手遊。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名日本動漫IP改編，動作類玩法，預期將吸引大量粉絲。",
+    "verified": "Agent 發現 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 210,
+    "name": "逆戰：未來",
+    "nameEn": "CrossFire: Future",
+    "developer": "Tencent (天美工作室)",
+    "studio": "Tencent (天美工作室)",
+    "publisher": "Tencent (天美工作室)",
+    "genre": "射擊",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "騰訊大廠IP射擊新作，已上線並有長期運營規劃，具備強大市場競爭力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-01",
+    "desc": "騰訊天美工作室研發的射擊手遊，為《逆戰》IP新作，主打賽季制更新與IP聯動。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】騰訊大廠IP射擊新作，已上線並有長期運營規劃，具備強大市場競爭力。",
+    "verified": "Agent 發現 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 211,
+    "name": "全明星覺醒",
+    "nameEn": "All-Star Awakening",
+    "developer": "凱撒文化研發, 騰訊代理發行",
+    "studio": "凱撒文化研發, 騰訊代理發行",
+    "publisher": "凱撒文化研發, 騰訊代理發行",
+    "genre": "格鬥, IP改編",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "SNK經典格鬥IP改編，騰訊代理發行，已上線，預期有高人氣。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-01",
+    "desc": "由SNK官方正版授權，集結《拳皇》系列經典角色的格鬥手遊。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】SNK經典格鬥IP改編，騰訊代理發行，已上線，預期有高人氣。",
+    "verified": "Agent 發現 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 212,
+    "name": "彩虹六號",
+    "nameEn": "Rainbow Six Mobile",
+    "developer": "Ubisoft (育碧研發), 騰訊代理國服",
+    "studio": "Ubisoft (育碧研發), 騰訊代理國服",
+    "publisher": "Ubisoft (育碧研發), 騰訊代理國服",
+    "genre": "射擊",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global/CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "知名PC/主機IP改編，大廠育碧開發，騰訊代理國服，具備全球與中國市場的強大潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "Global: 2026-02, CN: 2026-Q3/Q4",
+    "desc": "育碧知名IP《彩虹六號》改編的移動射擊遊戲，國際服已上線，國服版號已獲批。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名PC/主機IP改編，大廠育碧開發，騰訊代理國服，具備全球與中國市場的強大潛力。",
+    "verified": "Agent 發現 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 213,
+    "name": "絕地求生：DED.NET",
+    "nameEn": "PUBG: DED.NET",
+    "developer": "KRAFTON",
+    "studio": "KRAFTON",
+    "publisher": "KRAFTON",
+    "genre": "射擊, Roguelite",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "threatReason": "知名IP《絕地求生》新作，大廠KRAFTON開發，結合熱門Roguelite玩法，預期將吸引大量射擊遊戲玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "TBD",
+    "desc": "KRAFTON推出的《絕地求生》系列新作，融合射擊與Roguelite要素，背景設定在虛構的90年代地區。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP《絕地求生》新作，大廠KRAFTON開發，結合熱門Roguelite玩法，預期將吸引大量射擊遊戲玩家。",
+    "verified": "Agent 發現 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 214,
+    "name": "按讚或去死",
+    "nameEn": "Like or Die",
+    "developer": "NCSOFT",
+    "studio": "NCSOFT",
+    "publisher": "NCSOFT",
+    "genre": "射擊",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "大廠NCSOFT新作，射擊類玩法，獨特直播主主題，具備潛在市場吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "TBD",
+    "desc": "《天堂》開發商NCSOFT發表的新射擊遊戲，主打可破壞地形、建造掩體、快速戰鬥節奏，角色設定為直播主。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】大廠NCSOFT新作，射擊類玩法，獨特直播主主題，具備潛在市場吸引力。",
+    "verified": "Agent 發現 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 215,
+    "name": "星際理想國",
+    "nameEn": "Starry Ideal Kingdom",
+    "developer": "像素軟件研發, 騰訊代理",
+    "studio": "像素軟件研發, 騰訊代理",
+    "publisher": "像素軟件研發, 騰訊代理",
+    "genre": "策略, SLG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "medium",
+    "threatReason": "騰訊代理發行，剛獲得版號，屬於版號公示中新出現但未廣泛報導的類型，潛力待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3/Q4",
+    "desc": "由像素軟件研發、騰訊代理發行的策略SLG手遊，剛獲得中國版號，正在積極準備國服測試。",
+    "tags": [
+      "新聞報導/版號公示"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/版號公示】騰訊代理發行，剛獲得版號，屬於版號公示中新出現但未廣泛報導的類型，潛力待觀察。",
+    "verified": "Agent 發現 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/版號公示"
+  },
+  {
+    "id": 216,
+    "name": "原始传奇2",
+    "nameEn": "",
+    "developer": "恺英网络 (Kingnet)",
+    "studio": "恺英网络 (Kingnet)",
+    "publisher": "恺英网络 (Kingnet)",
+    "genre": "动作角色扮演 (Action RPG), MMORPG, 传奇类",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "中國",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名IP“传奇”的续作，由知名大厂恺英网络运营，在传奇类手游市场有强大号召力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款爆率极高的热血传奇类型动作角色扮演手机游戏，完美复刻经典传奇核心玩法，强调高频次打怪与高产拾取。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名IP“传奇”的续作，由知名大厂恺英网络运营，在传奇类手游市场有强大号召力。",
+    "verified": "版號雷達 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 217,
+    "name": "大侠立志传：侠道相逢",
+    "nameEn": "",
+    "developer": "半瓶醋工作室 (Half Amateur Studio)",
+    "studio": "半瓶醋工作室 (Half Amateur Studio)",
+    "publisher": "半瓶醋工作室 (Half Amateur Studio)",
+    "genre": "开放世界武侠RPG (Open World Wuxia RPG), 像素风",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "中國",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名独立游戏《大侠立志传》的外传，拥有一定玩家基础和IP影响力，开放世界武侠RPG玩法吸引人。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026年8月19日",
+    "desc": "一款像素风开放世界武侠RPG，延续前作世界观的外传性质衍生作，玩家可自由打造角色，体验江湖纷争与抉择。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名独立游戏《大侠立志传》的外传，拥有一定玩家基础和IP影响力，开放世界武侠RPG玩法吸引人。",
+    "verified": "版號雷達 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 218,
+    "name": "灵气与仙门",
+    "nameEn": "",
+    "developer": "凉屋游戏 (ChillyRoom)",
+    "studio": "凉屋游戏 (ChillyRoom)",
+    "publisher": "凉屋游戏 (ChillyRoom)",
+    "genre": "像素风修仙题材轻量级MMO, 弹幕动作, 沙盒探索, 宗门建设",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "中國",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名独立游戏开发商凉屋游戏新作，像素风修仙MMO题材独特，结合弹幕动作和沙盒探索，具备一定市场潜力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款由凉屋游戏打造的像素风修仙题材轻量级MMO，融合弹幕动作、沙盒探索与宗门建设，玩家将重建宗门，御剑破敌。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名独立游戏开发商凉屋游戏新作，像素风修仙MMO题材独特，结合弹幕动作和沙盒探索，具备一定市场潜力。",
+    "verified": "版號雷達 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 219,
+    "name": "无限和鸣",
+    "nameEn": "",
+    "developer": "艺画开天 (YiHua KaiTian)",
+    "studio": "艺画开天 (YiHua KaiTian)",
+    "publisher": "艺画开天 (YiHua KaiTian)",
+    "genre": "角色扮演 (RPG), 动作 (Action), 二次元 (Anime-style)",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "中國",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名动画公司艺画开天（代表作《灵笼》、《三体》动画）的首款自研游戏，拥有强大的IP制作背景和粉丝基础，有望成为高品质二次元或IP改编大作。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "由知名动画公司艺画开天开发，预计将延续其高品质动画风格，可能为二次元或IP改编的RPG/动作游戏。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名动画公司艺画开天（代表作《灵笼》、《三体》动画）的首款自研游戏，拥有强大的IP制作背景和粉丝基础，有望成为高品质二次元或IP改编大作。",
+    "verified": "版號雷達 (2026-08-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-28",
+    "addedAt": "2026-08-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
   }
 ]

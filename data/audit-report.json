@@ -1,36 +1,17 @@
 {
-  "lastAudit": "2026-08-27T10:05:28.577810+00:00",
-  "totalProducts": 192,
-  "updatesApplied": 23,
-  "issuesFound": 3,
+  "lastAudit": "2026-08-28T11:34:56.475336+00:00",
+  "totalProducts": 200,
+  "updatesApplied": 0,
+  "issuesFound": 0,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮",
-  "findings": [
-    {
-      "name": "永恆之塔：經典",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "護核紀元",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "源初之結",
-      "status": "warning",
-      "issue": "狀態: cbt→pre-reg",
-      "autoFixed": true
-    }
-  ],
+  "findings": [],
   "checked": [
-    "這島有幻獸",
-    "守衛穹頂",
-    "妖怪哪裡跑",
-    "永恆之塔：經典",
-    "護核紀元",
-    "源初之結"
+    "Varsapura",
+    "崩壞：因緣精靈",
+    "登天之境",
+    "一人之下",
+    "虛擬環",
+    "全境封鎖：曙光"
   ],
   "nextBatch": [
     "無限大",
