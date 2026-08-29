@@ -8516,25 +8516,38 @@
       "PC",
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "Global (expected)",
     "model": "F2P",
     "stage": "announced",
     "threat": "critical",
     "threatReason": "米哈遊旗艦級新IP，由《原神》製作人領導，都市開放世界題材，預期將是市場焦點。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027-Q2",
+    "sentiment": 90,
+    "launchEst": "2027-Q2 (unconfirmed)",
     "desc": "米哈遊的下一代旗艦都市開放世界遊戲，採用UE5引擎，由《原神》製作人蔡浩宇領導，包含競速玩法。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】米哈遊旗艦級新IP，由《原神》製作人領導，都市開放世界題材，預期將是市場焦點。",
+    "threatAnalysis": "【威脅類型】critical\n\nVarsapura 是米哈遊下一款主要開放世界遊戲，採用 Unreal Engine 5 開發，與其以往作品的卡通風格不同，呈現更為寫實的視覺風格。遊戲於 2025 年 11 月 20 日正式公布，並釋出 31 分鐘的實機演示，引起市場高度關注。儘管尚未公布確切上線日期，但米哈遊作為業界巨頭，其新作具備現象級潛力，威脅等級維持 critical。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與測試消息，特別是首次公開測試的具體時間與內容。\n(2). 密切關注米哈遊官方發布的任何新資訊，包括平台、地區及商業模式的確認。\n(3). 分析遊戲的市場定位與潛在競爭者，評估其對現有市場格局的影響。",
     "verified": "Agent 發現 (2026-08-23)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "April 1, 2026 (rumored test start, end date unconfirmed)",
+    "sourceLinks": [
+      {
+        "label": "Gematsu Announcement",
+        "url": "https://www.gematsu.com/2025/11/mihoyo-announces-varsapura"
+      },
+      {
+        "label": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Varsapura"
+      },
+      {
+        "label": "YouTube Gameplay Search",
+        "url": "https://www.youtube.com/results?search_query=Varsapura+gameplay+demo+miHoYo"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -8542,10 +8555,11 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-23",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-08-29",
+    "lastChecked": "2026-08-29",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "miHoYo officially announced Varsapura on November 20, 2025, with a 31-minute gameplay demonstration."
   },
   {
     "id": 161,
@@ -11054,5 +11068,397 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 220,
+    "name": "王者榮耀：星之破曉",
+    "nameEn": "Honor of Kings: Breaking Dawn",
+    "developer": "騰訊 (Tencent)",
+    "studio": "騰訊 (Tencent)",
+    "publisher": "騰訊 (Tencent)",
+    "genre": "動作格鬥",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "critical",
+    "threatReason": "國民級IP《王者榮耀》新作，騰訊大廠出品，預約量巨大，預期將大規模搶佔市場注意力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09-10",
+    "desc": "騰訊旗下國民級IP《王者榮耀》的全新格鬥手遊，預約量已突破7000萬，定檔9月10日上線。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】國民級IP《王者榮耀》新作，騰訊大廠出品，預約量巨大，預期將大規模搶佔市場注意力。",
+    "verified": "Agent 發現 (2026-08-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-08-29",
+    "addedAt": "2026-08-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 221,
+    "name": "LIMIT ZERO BREAKERS",
+    "nameEn": "LIMIT ZERO BREAKERS",
+    "developer": "VIC GAME STUDIOS",
+    "studio": "VIC GAME STUDIOS",
+    "publisher": "VIC GAME STUDIOS",
+    "genre": "動作RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名發行商NCSOFT的二次元動作RPG，具備跨平台和Gacha元素，有潛力吸引大量玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "VIC GAME STUDIOS開發、NCSOFT發行的免費二次元動作RPG，玩家在浮空島探索、組隊並狩獵巨型怪物，支援PC與手機跨平台。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】知名發行商NCSOFT的二次元動作RPG，具備跨平台和Gacha元素，有潛力吸引大量玩家。",
+    "verified": "Agent 發現 (2026-08-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-29",
+    "addedAt": "2026-08-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 222,
+    "name": "Project Sun",
+    "nameEn": "Project Sun",
+    "developer": "Kuro Games (庫洛遊戲)",
+    "studio": "Kuro Games (庫洛遊戲)",
+    "publisher": "Kuro Games (庫洛遊戲)",
+    "genre": "開放世界RPG",
+    "platform": [
+      "PC",
+      "Console",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "early development",
+    "threat": "critical",
+    "threatReason": "庫洛遊戲繼《鳴潮》後的又一旗艦級開放世界二次元RPG，大廠出品，預期將有極高關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-2028",
+    "desc": "繼《鳴潮》之後，庫洛遊戲正在開發的另一款開放世界動作RPG，強調電影級敘事和PVE內容，預計將登陸PC、主機和手機平台。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】庫洛遊戲繼《鳴潮》後的又一旗艦級開放世界二次元RPG，大廠出品，預期將有極高關注度。",
+    "verified": "Agent 發現 (2026-08-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "early development"
+      }
+    ],
+    "updatedAt": "2026-08-29",
+    "addedAt": "2026-08-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 223,
+    "name": "BanG Dream! Our Notes",
+    "nameEn": "BanG Dream! Our Notes",
+    "developer": "Bushiroad (武士道)",
+    "studio": "Bushiroad (武士道)",
+    "publisher": "Bushiroad (武士道)",
+    "genre": "節奏Gacha",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名二次元IP新作，雖然是節奏遊戲，但IP影響力大，且是Gacha模式，在日本市場有一定威脅。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "Bushiroad旗下《BanG Dream!》系列的第二款手機節奏遊戲，將與《Girls Band Party!》並行營運，預計2026年發布。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名二次元IP新作，雖然是節奏遊戲，但IP影響力大，且是Gacha模式，在日本市場有一定威脅。",
+    "verified": "Agent 發現 (2026-08-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-29",
+    "addedAt": "2026-08-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 224,
+    "name": "Project 2/3 Utopia",
+    "nameEn": "Project 2/3 Utopia",
+    "developer": "Diversity Game Studio",
+    "studio": "Diversity Game Studio",
+    "publisher": "Diversity Game Studio",
+    "genre": "開放世界RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "獨立工作室開發的二次元開放世界動作RPG，概念有趣，但開發商規模較小，威脅等級中等。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "TBD",
+    "desc": "Diversity Game Studio開發的二次元開放世界動作RPG，特色是跨越2D與3D世界的時間旅行，預計登陸PC和手機平台。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】獨立工作室開發的二次元開放世界動作RPG，概念有趣，但開發商規模較小，威脅等級中等。",
+    "verified": "Agent 發現 (2026-08-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-29",
+    "addedAt": "2026-08-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 225,
+    "name": "Rewinding Cadence",
+    "nameEn": "Rewinding Cadence",
+    "developer": "Unconfirmed",
+    "studio": "Unconfirmed",
+    "publisher": "Unconfirmed",
+    "genre": "開放世界RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "資訊較少，開發商不明，威脅等級較低。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "TBD",
+    "desc": "一款以時間循環為核心玩法和敘事的開放世界動作RPG，預計登陸手機平台。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】資訊較少，開發商不明，威脅等級較低。",
+    "verified": "Agent 發現 (2026-08-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-08-29",
+    "addedAt": "2026-08-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 226,
+    "name": "Sea of Remnants",
+    "nameEn": "Sea of Remnants",
+    "developer": "Joker Studio",
+    "studio": "Joker Studio",
+    "publisher": "Joker Studio",
+    "genre": "策略RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "threatReason": "網易大廠出品的開放世界海洋奇幻RPG，玩法獨特，有潛力吸引特定玩家群體。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-CN / 2027-Global",
+    "desc": "網易Joker Studio開發的海洋奇幻冒險RPG，玩家扮演傀儡水手，在廣闊海洋中航行、戰鬥並建立艦隊，中國地區預計2026年發布，全球預計2027年。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】網易大廠出品的開放世界海洋奇幻RPG，玩法獨特，有潛力吸引特定玩家群體。",
+    "verified": "Agent 發現 (2026-08-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-08-29",
+    "addedAt": "2026-08-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 227,
+    "name": "Project Spirits",
+    "nameEn": "Project Spirits",
+    "developer": "Shift Up",
+    "studio": "Shift Up",
+    "publisher": "Shift Up",
+    "genre": "動作RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "early development",
+    "threat": "high",
+    "threatReason": "Shift Up (Nikke開發商) 和 Level Infinite (騰訊海外發行品牌) 合作，高視覺品質的二次元動作RPG，有潛力成為熱門Gacha遊戲。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "Shift Up開發、Level Infinite發行的奇幻動作RPG，強調高視覺品質和waifu角色，預計2027年全球發布PC和手機版本。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】Shift Up (Nikke開發商) 和 Level Infinite (騰訊海外發行品牌) 合作，高視覺品質的二次元動作RPG，有潛力成為熱門Gacha遊戲。",
+    "verified": "Agent 發現 (2026-08-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "early development"
+      }
+    ],
+    "updatedAt": "2026-08-29",
+    "addedAt": "2026-08-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 228,
+    "name": "Wongwa",
+    "nameEn": "Wongwa",
+    "developer": "Star Studios",
+    "studio": "Star Studios",
+    "publisher": "Star Studios",
+    "genre": "開放世界RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "medium",
+    "threatReason": "獨特的現代中國奇幻開放世界設定，結合寵物收集和載具創造，但開發商規模不明，威脅等級中等。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "Star Studios開發的開放世界動作RPG，設定在現代中國奇幻世界，結合寵物收集和載具創造，目前正在進行beta測試，預計2027年發布。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】獨特的現代中國奇幻開放世界設定，結合寵物收集和載具創造，但開發商規模不明，威脅等級中等。",
+    "verified": "Agent 發現 (2026-08-29)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-08",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-08-29",
+    "addedAt": "2026-08-29",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
   }
 ]

@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-08-28T11:37:45.016885+00:00",
-  "fetchCount": 107,
+  "lastUpdated": "2026-08-29T07:17:47.662342+00:00",
+  "fetchCount": 108,
   "items": [
+    {
+      "id": "brief-20260829-ac68c99f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Project Spirits（新發現・高威脅）",
+      "detail": "Shift Up (Nikke開發商) 和 Level Infinite (騰訊海外發行品牌) 合作，高視覺品質的二次元",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-08-29T07:17:47.662342+00:00"
+    },
+    {
+      "id": "brief-20260829-4a6e3287",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Sea of Remnants（新發現・高威脅）",
+      "detail": "網易大廠出品的開放世界海洋奇幻RPG，玩法獨特，有潛力吸引特定玩家群體。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-08-29T07:17:47.662342+00:00"
+    },
+    {
+      "id": "brief-20260829-912a325d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Project Sun（新發現・高威脅）",
+      "detail": "庫洛遊戲繼《鳴潮》後的又一旗艦級開放世界二次元RPG，大廠出品，預期將有極高關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-08-29T07:17:47.662342+00:00"
+    },
+    {
+      "id": "brief-20260829-19e8bf83",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "LIMIT ZERO BREAKERS（新發現・高威脅）",
+      "detail": "知名發行商NCSOFT的二次元動作RPG，具備跨平台和Gacha元素，有潛力吸引大量玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-08-29T07:17:47.662342+00:00"
+    },
+    {
+      "id": "brief-20260829-b9826fe4",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "王者榮耀：星之破曉（新發現・高威脅）",
+      "detail": "國民級IP《王者榮耀》新作，騰訊大廠出品，預約量巨大，預期將大規模搶佔市場注意力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-29T07:17:47.662342+00:00"
+    },
+    {
+      "id": "brief-20260829-44d1fe7c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA6家機30FPS",
+      "detail": "開發版僅30FPS，首發60FPS未定",
+      "action": "關注遊戲效能",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-08-29T07:12:36.464569+00:00"
+    },
+    {
+      "id": "brief-20260829-2494d458",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA6六星通緝回歸",
+      "detail": "警方蒐集情報，影響逃亡難度",
+      "action": "了解遊戲機制",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-08-29T07:12:36.464569+00:00"
+    },
+    {
+      "id": "brief-20260829-d58f0ad1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA6 NPC更智能",
+      "detail": "路人會反擊，犯罪檔案記錄暴力",
+      "action": "了解遊戲機制",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-08-29T07:12:36.464569+00:00"
+    },
     {
       "id": "brief-20260828-98042389",
       "priority": "urgent",
@@ -133,94 +221,6 @@
       "platform": "mobile",
       "source": "新聞報導",
       "fetchedAt": "2026-08-28T11:37:45.016885+00:00"
-    },
-    {
-      "id": "brief-20260828-91983c8f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《GTA6》家機30FPS",
-      "detail": "開發版30FPS，60FPS未定",
-      "action": "關注後續消息",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-08-28T11:34:28.985874+00:00"
-    },
-    {
-      "id": "brief-20260828-4b689b97",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《GTA6》六星通緝",
-      "detail": "通緝系統回歸，情報蒐集",
-      "action": "關注遊戲細節",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-08-28T11:34:28.985874+00:00"
-    },
-    {
-      "id": "brief-20260828-1396fd44",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《龍族拼圖》死神聯動",
-      "detail": "推出新角色，即日起合作",
-      "action": "登入遊戲查看",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-28T11:34:28.985874+00:00"
-    },
-    {
-      "id": "brief-20260828-65b7f7fb",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《死神：鏡像高地》",
-      "detail": "2026年推出，已開放預註冊",
-      "action": "前往預先註冊",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-28T11:34:28.985874+00:00"
-    },
-    {
-      "id": "brief-20260828-f25f66fc",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《勝利女神：妮姬》",
-      "detail": "9月中旬兔女郎活動預告",
-      "action": "關注活動詳情",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-08-28T11:34:28.985874+00:00"
-    },
-    {
-      "id": "brief-20260827-178c2468",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "星布穀地（新發現・高威脅）",
-      "detail": "米哈遊大廠新作，雖然是模擬經營，但其品牌號召力極強，預期會引起全球玩家高度關注。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-27T10:07:52.555193+00:00"
-    },
-    {
-      "id": "brief-20260827-a122c86f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "劍與遠征：家園（新發現・高威脅）",
-      "detail": "莉莉絲大廠新作，可能與知名IP《劍與遠征》相關，潛力高。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "官方公告",
-      "fetchedAt": "2026-08-27T10:07:52.555193+00:00"
-    },
-    {
-      "id": "brief-20260827-02b58e91",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "穿越火線：虹（新發現・高威脅）",
-      "detail": "騰訊大廠與知名IP「穿越火線」結合，預期在中國市場有高關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-27T10:07:52.555193+00:00"
     }
   ]
 }
