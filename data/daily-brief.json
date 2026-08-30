@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-08-29T07:17:47.662342+00:00",
-  "fetchCount": 108,
+  "lastUpdated": "2026-08-30T05:36:38.838204+00:00",
+  "fetchCount": 109,
   "items": [
+    {
+      "id": "brief-20260830-be6bf758",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "代號：血戰（新發現・高威脅）",
+      "detail": "網易大廠出品，全球市場定位，射擊大逃殺為熱門品類，具備高競爭力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告 / 模型知識推論",
+      "fetchedAt": "2026-08-30T05:36:38.838204+00:00"
+    },
+    {
+      "id": "brief-20260830-d14102c8",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "女神異聞錄：夜幕魅影（新發現・高威脅）",
+      "detail": "《女神異聞錄5》是全球知名JRPG IP，完美世界大廠開發，二次元風格，預期將大規模搶佔市場注意力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告 / 模型知識推論",
+      "fetchedAt": "2026-08-30T05:36:38.838204+00:00"
+    },
+    {
+      "id": "brief-20260830-20c1db38",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "劍靈S（新發現・高威脅）",
+      "detail": "知名IP《劍靈》的衍生作，NCSoft大廠出品，Q版風格有望吸引不同受眾。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告 / 模型知識推論",
+      "fetchedAt": "2026-08-30T05:36:38.838204+00:00"
+    },
+    {
+      "id": "brief-20260830-5a3af8fb",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "塔瑞斯世界（新發現・高威脅）",
+      "detail": "騰訊大廠發行，全球市場定位，強調硬核MMORPG玩法，具備較高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論 / 官方公告",
+      "fetchedAt": "2026-08-30T05:36:38.838204+00:00"
+    },
+    {
+      "id": "brief-20260830-36f4fd43",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "劍靈M（新發現・高威脅）",
+      "detail": "經典MMORPG IP改編，NCSoft大廠出品，具備高人氣與玩家期待。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論 / 官方公告",
+      "fetchedAt": "2026-08-30T05:36:38.838204+00:00"
+    },
+    {
+      "id": "brief-20260830-68547f05",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "地下城與勇士：超殺（新發現・高威脅）",
+      "detail": "DNF是全球頂級IP，Nexon大廠出品，3D化新作有望吸引大量新舊玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告 / 模型知識推論",
+      "fetchedAt": "2026-08-30T05:36:38.838204+00:00"
+    },
+    {
+      "id": "brief-20260830-a98285be",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "永劫無間手遊（新發現・高威脅）",
+      "detail": "知名端遊IP改編，網易大廠出品，全球玩家基礎龐大，預期將搶佔大量市場注意力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告 / 模型知識推論",
+      "fetchedAt": "2026-08-30T05:36:38.838204+00:00"
+    },
+    {
+      "id": "brief-20260830-64c4709d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "九陰真經：武俠（新發現・高威脅）",
+      "detail": "經典武俠IP改編，具備一定玩家基礎與市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-08-30T05:36:38.838204+00:00"
+    },
+    {
+      "id": "brief-20260830-c2b9f06e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《GTA6》家機僅30FPS",
+      "detail": "Rockstar不確定首發是否提供60FPS模式",
+      "action": "關注效能表現",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-08-30T05:34:36.405329+00:00"
+    },
+    {
+      "id": "brief-20260830-fbce1c78",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Konami計畫每年推新作",
+      "detail": "《沉默之丘》系列將每年推出一款新作",
+      "action": "期待新作消息",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-08-30T05:34:36.405329+00:00"
+    },
     {
       "id": "brief-20260829-ac68c99f",
       "priority": "urgent",
@@ -110,116 +220,6 @@
       "action": "加入追蹤並評估上線時程",
       "platform": "mobile",
       "source": "版號公示",
-      "fetchedAt": "2026-08-28T11:37:45.016885+00:00"
-    },
-    {
-      "id": "brief-20260828-66f6cf05",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "按讚或去死（新發現・高威脅）",
-      "detail": "大廠NCSOFT新作，射擊類玩法，獨特直播主主題，具備潛在市場吸引力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-28T11:37:45.016885+00:00"
-    },
-    {
-      "id": "brief-20260828-32d9ba19",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "絕地求生：DED.NET（新發現・高威脅）",
-      "detail": "知名IP《絕地求生》新作，大廠KRAFTON開發，結合熱門Roguelite玩法，預期將吸引大量射擊遊戲玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-28T11:37:45.016885+00:00"
-    },
-    {
-      "id": "brief-20260828-d0028a99",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "彩虹六號（新發現・高威脅）",
-      "detail": "知名PC/主機IP改編，大廠育碧開發，騰訊代理國服，具備全球與中國市場的強大潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-28T11:37:45.016885+00:00"
-    },
-    {
-      "id": "brief-20260828-088b5d33",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "全明星覺醒（新發現・高威脅）",
-      "detail": "SNK經典格鬥IP改編，騰訊代理發行，已上線，預期有高人氣。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-28T11:37:45.016885+00:00"
-    },
-    {
-      "id": "brief-20260828-6965d941",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "逆戰：未來（新發現・高威脅）",
-      "detail": "騰訊大廠IP射擊新作，已上線並有長期運營規劃，具備強大市場競爭力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-28T11:37:45.016885+00:00"
-    },
-    {
-      "id": "brief-20260828-7682a05a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "JoJo的奇妙冒險：黃金聖歌（新發現・高威脅）",
-      "detail": "知名日本動漫IP改編，動作類玩法，預期將吸引大量粉絲。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-28T11:37:45.016885+00:00"
-    },
-    {
-      "id": "brief-20260828-efd4c40f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "我的英雄學院：聯合生存（新發現・高威脅）",
-      "detail": "知名日本動漫IP改編，動作類玩法，預期將吸引大量粉絲。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-28T11:37:45.016885+00:00"
-    },
-    {
-      "id": "brief-20260828-9ff76f69",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "三國：謀定天下（新發現・高威脅）",
-      "detail": "經典三國IP，策略類手遊在華人市場有廣大受眾。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-28T11:37:45.016885+00:00"
-    },
-    {
-      "id": "brief-20260828-675b5ec2",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "天堂2：盟約（新發現・高威脅）",
-      "detail": "全球知名MMORPG IP改編，次世代3D畫面，預期將吸引大量MMORPG玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-08-28T11:37:45.016885+00:00"
-    },
-    {
-      "id": "brief-20260828-c3295ea3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "法雷多利亞（新發現・高威脅）",
-      "detail": "蔚藍檔案開發商新作，具備二次元與動作RPG要素，多平台發行，預期將吸引大量玩家關注。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
       "fetchedAt": "2026-08-28T11:37:45.016885+00:00"
     }
   ]

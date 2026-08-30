@@ -1,17 +1,48 @@
 {
-  "lastAudit": "2026-08-29T07:13:09.212488+00:00",
-  "totalProducts": 216,
-  "updatesApplied": 6,
-  "issuesFound": 0,
+  "lastAudit": "2026-08-30T05:34:53.731632+00:00",
+  "totalProducts": 225,
+  "updatesApplied": 34,
+  "issuesFound": 5,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮",
-  "findings": [],
+  "findings": [
+    {
+      "name": "崩壞：因緣精靈",
+      "status": "warning",
+      "issue": "狀態: announced→cbt",
+      "autoFixed": true
+    },
+    {
+      "name": "登天之境",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "登天之境",
+      "status": "error",
+      "issue": "移除: 未找到任何公開資訊，可能已延期或取消開發。",
+      "autoFixed": false
+    },
+    {
+      "name": "一人之下",
+      "status": "warning",
+      "issue": "狀態: pre-reg→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "全境封鎖：曙光",
+      "status": "warning",
+      "issue": "狀態: cbt→live-ops",
+      "autoFixed": true
+    }
+  ],
   "checked": [
-    "Varsapura",
     "崩壞：因緣精靈",
     "登天之境",
     "一人之下",
     "虛擬環",
-    "全境封鎖：曙光"
+    "全境封鎖：曙光",
+    "逆水寒：風起江湖"
   ],
   "nextBatch": [
     "無限大",
