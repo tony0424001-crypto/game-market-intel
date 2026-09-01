@@ -9199,36 +9199,50 @@
     "platform": [
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "Global (PC/PS5/Xbox/Android/iOS)",
     "model": "F2P",
-    "stage": "cbt",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "大廠新作，知名PC IP手遊化，具備高市場關注度。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "sentiment": 85,
+    "launchEst": "2025-11-14 (PC, PS5), 2025-12-12 (Android, iOS), 2026-06-07 (Xbox Series X/S)",
     "desc": "網易開發的武俠MMORPG《燕雲十六聲》手遊版據傳已在內部測試。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】大廠新作，知名PC IP手遊化，具備高市場關注度。",
+    "threatAnalysis": "【高威脅】網易旗下武俠開放世界ARPG大作，已於多平台全球上線，支援跨平台遊玩與進度共享。遊戲品質與網易的資源投入使其在市場上具有顯著競爭力。\n\n▶ 建議行動：\n(1). 持續關注遊戲內容更新與營運活動，特別是新地區開放與大型資料片。\n(2). 分析其跨平台營運策略與玩家社群反饋，學習其優勢。\n(3). 評估其對同類型武俠或開放世界遊戲的市場影響。",
     "verified": "Agent 發現 (2026-08-24)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "官網",
+        "url": "https://www.wherewindsmeet.com/"
+      },
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2046670/Where_Winds_Meet/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "cbt"
+      },
+      {
+        "date": "2026-09",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-24",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-09-01",
+    "lastChecked": "2026-09-01",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "遊戲已於2025年11月14日在PC和PS5平台全球上線，隨後於2025年12月12日上線Android和iOS，並於2026年6月7日上線Xbox Series X/S平台。"
   },
   {
     "id": 174,
@@ -9241,36 +9255,47 @@
     "platform": [
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "CN/SEA (Android/iOS)",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "經典IP手遊化，擁有廣大粉絲基礎。",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "launchEst": "2025-02-19 (Android/iOS)",
     "desc": "經典IP《仙劍奇俠傳》系列新作，主打開放世界RPG玩法。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】經典IP手遊化，擁有廣大粉絲基礎。",
+    "threatAnalysis": "【高威脅】仙劍IP首款開放世界MMORPG手遊，已於2025年初上線。憑藉強大IP號召力，對二次元/MMORPG市場構成威脅。\n\n▶ 建議行動：\n(1). 密切追蹤其營收表現與玩家活躍度，評估長期營運潛力。\n(2). 分析其IP改編與開放世界玩法結合的成效，作為未來產品開發參考。\n(3). 關注其在華語地區及東南亞市場的表現，了解其在地化策略。",
     "verified": "Agent 發現 (2026-08-24)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2024-11-04",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/229007"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-24",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-09-01",
+    "lastChecked": "2026-09-01",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "遊戲已於2025年2月19日在Android/iOS平台正式上線，並於2024年10月15日至11月4日進行了封閉測試。",
+    "eventNote": "遊戲已於2025年2月19日在Android/iOS平台正式上線，並於2024年10月15日至11月4日進行了封閉測試。"
   },
   {
     "id": 175,
@@ -9295,7 +9320,7 @@
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】大廠IP續作，知名二次元IP，預期有高市場熱度。",
+    "threatAnalysis": "【高威脅】知名IP《蔚藍檔案》續作，由Nexon開發，預計2027年Q1上線。由於前作的成功，續作具備高話題度與潛在市場影響力。\n\n▶ 建議行動：\n(1). 持續關注官方發布的任何測試、宣傳或上線日期更新。\n(2). 分析前作《蔚藍檔案》的營運數據與玩家社群動態，預判續作市場表現。\n(3). 準備應對其上線後可能對二次元手遊市場造成的衝擊。",
     "verified": "Agent 發現 (2026-08-24)",
     "category": "active",
     "testType": "待確認",
@@ -9309,10 +9334,11 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-24",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-09-01",
+    "lastChecked": "2026-09-01",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "目前無最新消息，狀態仍為已公布，預計上線時間為2027年Q1。"
   },
   {
     "id": 176,
@@ -9325,36 +9351,46 @@
     "platform": [
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "Global (PC/Console/High-end Mobile)",
     "model": "F2P",
     "stage": "announced",
-    "threat": "high",
-    "threatReason": "頭部大廠米哈遊自研新IP，具備極高市場潛力。",
+    "threat": "critical",
+    "threatReason": "米哈遊新作《Nodusfall》以其非傳統的寫實風格、Monster Hunter-like共鬥玩法及非抽卡角色獲取模式，預計將在市場上引起巨大反響，對現有遊戲構成現象級威脅。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027-Q2",
+    "sentiment": 95,
+    "launchEst": "2028",
     "desc": "米哈遊內部測試中的神秘新作，據傳為科幻題材二次元射擊手遊。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】頭部大廠米哈遊自研新IP，具備極高市場潛力。",
+    "threatAnalysis": "【現象級大作】米哈遊全新力作《Nodusfall》已於Gamescom曝光，預計2028年上線。其寫實風格、Monster Hunter-like共鬥玩法及非抽卡角色獲取模式，顛覆了米哈遊以往的產品路線，具備極高的市場潛力與話題度，將對全球遊戲市場產生重大影響。\n\n▶ 建議行動：\n(1). 立即將其列為最高優先級追蹤目標，深入研究其商業模式與玩法創新。\n(2). 密切關注其後續測試與宣傳活動，分析玩家社群反應與預期熱度。\n(3). 評估其對現有二次元及動作RPG市場的顛覆性影響，並思考應對策略。",
     "verified": "Agent 發現 (2026-08-24)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Nodusfall官網",
+        "url": "https://nodusfall.hoyoverse.com/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-24",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-09-01",
+    "lastChecked": "2026-09-01",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "米哈遊的「Project X」已演變為新作《Nodusfall》，於2026年Gamescom科隆電玩展正式曝光。這是一款寫實風格的多神話合作動作遊戲，被描述為「米哈遊版魔物獵人」，預計2028年上線。遊戲將採免費遊玩模式，角色非透過抽卡獲得，主要透過外觀道具進行商業化。"
   },
   {
     "id": 177,
@@ -9379,7 +9415,7 @@
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】頭部大廠騰訊自研新IP，預期有大規模推廣。",
+    "threatAnalysis": "【高威脅】騰訊旗下尚未有更多細節公布的專案。由於騰訊的開發實力與發行能力，即使資訊稀少，仍需保持高度關注。\n\n▶ 建議行動：\n(1). 持續監測任何關於「Project: Dawnbreaker」的官方或非官方消息。\n(2). 參考騰訊近期其他大型專案的開發進度與市場策略。\n(3). 預留資源以應對其未來可能帶來的市場競爭。",
     "verified": "Agent 發現 (2026-08-24)",
     "category": "active",
     "testType": "待確認",
@@ -9393,10 +9429,11 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-24",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-09-01",
+    "lastChecked": "2026-09-01",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "目前無最新消息，狀態仍為已公布，預計上線時間為2027年Q2。"
   },
   {
     "id": 178,
@@ -9409,21 +9446,21 @@
     "platform": [
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "TW/HK/MO, JP (Mobile)",
     "model": "F2P",
-    "stage": "pre-reg",
+    "stage": "live-ops",
     "threat": "medium",
     "threatReason": "大廠新作，鎖定特定二次元細分市場。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "sentiment": 80,
+    "launchEst": "2023-03-24 (TW/HK/MO), 2023-05-16 (JP)",
     "desc": "網易推出的女性向二次元卡牌RPG，已開啟事前登錄。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】大廠新作，鎖定特定二次元細分市場。",
+    "threatAnalysis": "【中等規模】網易旗下女性向戀愛策略手遊，已於2023年在台港澳及日本市場上線並穩定營運。在特定細分市場表現良好。\n\n▶ 建議行動：\n(1). 追蹤其在女性向遊戲市場的營收與玩家活躍數據，分析其成功因素。\n(2). 關注其內容更新與活動策略，了解如何維持玩家黏著度。\n(3). 評估其對其他女性向產品的競爭影響，特別是在日韓及華語市場。",
     "verified": "Agent 發現 (2026-08-24)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
@@ -9433,12 +9470,18 @@
       {
         "date": "2026-08",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-09",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-24",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-09-01",
+    "lastChecked": "2026-09-01",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "遊戲已於2023年3月24日在台灣、香港、澳門地區上線，並於2023年5月16日在日本上線，目前處於長期營運階段。",
+    "eventNote": "遊戲已於2023年3月24日在台灣、香港、澳門地區上線，並於2023年5月16日在日本上線，目前處於長期營運階段。"
   },
   {
     "id": 179,
@@ -12922,5 +12965,439 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 260,
+    "name": "永夜傳說",
+    "nameEn": "Eternal Night Legend",
+    "developer": "北京夢幻之巔科技有限公司",
+    "studio": "北京夢幻之巔科技有限公司",
+    "publisher": "北京夢幻之巔科技有限公司",
+    "genre": "MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "新成立小型初創公司的雙端線上遊戲，版號已獲批，但市場知名度尚待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "一款獲得中國版號的雙端線上遊戲，預計將同時推出PC和手機版本，由北京夢幻之巔科技有限公司開發營運。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】新成立小型初創公司的雙端線上遊戲，版號已獲批，但市場知名度尚待觀察。",
+    "verified": "Agent 發現 (2026-09-01)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-01",
+    "addedAt": "2026-09-01",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 261,
+    "name": "千里之路",
+    "nameEn": "Qian Li Zhi Lu",
+    "developer": "網易雷火",
+    "studio": "網易雷火",
+    "publisher": "網易雷火",
+    "genre": "開放世界MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "網易大廠投入巨資的開放世界武俠MMO，IP改編，雖曾回爐重塑，但其規模和潛在影響力仍極高。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "網易耗資10億、耗時六年打造的開放世界武俠MMO《射雕》回爐重塑後更名為《千里之路》，並於2026年8月獲得版號變更，預計將以全新面貌回歸。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易大廠投入巨資的開放世界武俠MMO，IP改編，雖曾回爐重塑，但其規模和潛在影響力仍極高。",
+    "verified": "Agent 發現 (2026-09-01)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-01",
+    "addedAt": "2026-09-01",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 262,
+    "name": "七日防線",
+    "nameEn": "Seven Day Defense",
+    "developer": "愷英網絡",
+    "studio": "愷英網絡",
+    "publisher": "愷英網絡",
+    "genre": "塔防RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "中等規模開發商的休閒塔防RPG，版號已獲批，具備一定的市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3",
+    "desc": "一款融合角色養成與模擬經營的休閒塔防手遊，於2026年2月獲得中國版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】中等規模開發商的休閒塔防RPG，版號已獲批，具備一定的市場潛力。",
+    "verified": "Agent 發現 (2026-09-01)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-01",
+    "addedAt": "2026-09-01",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 263,
+    "name": "逆水寒：新世界",
+    "nameEn": "Justice: New World",
+    "developer": "網易",
+    "studio": "網易",
+    "publisher": "網易",
+    "genre": "開放世界MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "網易旗下知名MMORPG的重大升級與品牌重塑，具備強大的用戶基礎和市場影響力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-06",
+    "desc": "網易旗下《逆水寒》三周年之際全面升級為《逆水寒：新世界》，號稱打造玩法、畫質、故事、社交、戰鬥全面煥新的新世界，已於2026年6月26日上線。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易旗下知名MMORPG的重大升級與品牌重塑，具備強大的用戶基礎和市場影響力。",
+    "verified": "Agent 發現 (2026-09-01)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-01",
+    "addedAt": "2026-09-01",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 264,
+    "name": "SOL: Enchant",
+    "nameEn": "SOL: Enchant",
+    "developer": "韓國網石 (Netmarble)",
+    "studio": "韓國網石 (Netmarble)",
+    "publisher": "韓國網石 (Netmarble)",
+    "genre": "MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "韓國大廠Netmarble的虛幻5引擎MMORPG新作，具備高製作水準和全球發行潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-06",
+    "desc": "由前NC《天堂M》製作人帶隊開發，基於虛幻引擎5製作的MMORPG，核心特色為「神權系統」與「完全自由經濟」，已於2026年6月18日上線。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】韓國大廠Netmarble的虛幻5引擎MMORPG新作，具備高製作水準和全球發行潛力。",
+    "verified": "Agent 發現 (2026-09-01)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-01",
+    "addedAt": "2026-09-01",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 265,
+    "name": "幻獸帕魯Mobile",
+    "nameEn": "Palworld Mobile",
+    "developer": "Pocketpair (待確認)",
+    "studio": "Pocketpair (待確認)",
+    "publisher": "Pocketpair (待確認)",
+    "genre": "開放世界生存",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "《幻獸帕魯》是現象級IP，若推出官方手遊將會是市場焦點，但目前消息仍待官方確認。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "《幻獸帕魯》的官方手機版本，若屬實將是一款現象級大作，但目前官方尚未正式公布。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】《幻獸帕魯》是現象級IP，若推出官方手遊將會是市場焦點，但目前消息仍待官方確認。",
+    "verified": "Agent 發現 (2026-09-01)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-01",
+    "addedAt": "2026-09-01",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 266,
+    "name": "邊緣禁地Mobile",
+    "nameEn": "Borderlands Mobile",
+    "developer": "Gearbox Software (待確認)",
+    "studio": "Gearbox Software (待確認)",
+    "publisher": "Gearbox Software (待確認)",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "《邊緣禁地》是全球知名IP，若推出官方手遊將吸引大量玩家，具備高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "知名射擊RPG系列《邊緣禁地》的官方手機版本，若屬實將是一款高威脅產品。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】《邊緣禁地》是全球知名IP，若推出官方手遊將吸引大量玩家，具備高市場潛力。",
+    "verified": "Agent 發現 (2026-09-01)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-01",
+    "addedAt": "2026-09-01",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 267,
+    "name": "少女前線：藍蝶契約",
+    "nameEn": "Girls' Frontline: Blue Butterfly Contract",
+    "developer": "散爆網絡 (MICA Team)",
+    "studio": "散爆網絡 (MICA Team)",
+    "publisher": "散爆網絡 (MICA Team)",
+    "genre": "二次元/抽卡",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "《少女前線》是頭部二次元IP，其新作手遊將吸引大量核心玩家，具備高市場競爭力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "《少女前線》系列的新作手遊，預計將延續其二次元戰術策略與抽卡玩法。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】《少女前線》是頭部二次元IP，其新作手遊將吸引大量核心玩家，具備高市場競爭力。",
+    "verified": "Agent 發現 (2026-09-01)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-01",
+    "addedAt": "2026-09-01",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 268,
+    "name": "Code Geass Knightmare Survivor",
+    "nameEn": "Code Geass Knightmare Survivor",
+    "developer": "Sunrise (待確認)",
+    "studio": "Sunrise (待確認)",
+    "publisher": "Sunrise (待確認)",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "《Code Geass》是全球知名動畫IP，其手遊改編作品將吸引大量粉絲，具備高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "知名動畫IP《Code Geass》改編的手機遊戲新作，預計將以機甲戰鬥為核心。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】《Code Geass》是全球知名動畫IP，其手遊改編作品將吸引大量粉絲，具備高市場潛力。",
+    "verified": "Agent 發現 (2026-09-01)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-01",
+    "addedAt": "2026-09-01",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 269,
+    "name": "代號：神不言",
+    "nameEn": "Code: God Says Nothing",
+    "developer": "待確認",
+    "studio": "待確認",
+    "publisher": "待確認",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "目前資訊有限，但作為期待榜上的新作，仍需持續關注其後續公布的遊戲類型與開發商背景。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "一款尚未公布詳細資訊但被列為2026年下半年期待手遊的神秘新作。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】目前資訊有限，但作為期待榜上的新作，仍需持續關注其後續公布的遊戲類型與開發商背景。",
+    "verified": "Agent 發現 (2026-09-01)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-01",
+    "addedAt": "2026-09-01",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
   }
 ]
