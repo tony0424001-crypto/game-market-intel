@@ -9,7 +9,7 @@
   },
   "watchGenres": ["開放世界 RPG", "動作 RPG", "MMORPG", "二次元/抽卡", "IP改編/回憶向"],
   "watchRegions": ["TW/HK/MO", "CN", "Global"],
-  "agent2BatchSize": 6,
+  "agent2BatchSize": 15,
   "licenseRadarIntervalDays": 3,
   "rssFeeds": [
     {"url": "https://gnn.gamer.com.tw/rss.xml", "name": "巴哈姆特GNN", "lang": "zh-TW", "trusted": false},
