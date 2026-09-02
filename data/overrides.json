@@ -132,5 +132,9 @@
   "261": {
     "threat": "medium",
     "updatedAt": "2026-09-02"
+  },
+  "273": {
+    "threat": "low",
+    "updatedAt": "2026-09-02"
   }
 }
