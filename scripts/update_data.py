@@ -488,6 +488,7 @@ Output JSON array:
 - "isDeclining": true/false（只有分類是 tracking 的產品才需要判斷,其他填 false）
 - "declineReason": 一句話說明衰退證據，isDeclining 為 false 則填 null
 - "newRegion": 確認後的實際地區字串（跟目前相同或無法確認則填 null，不要亂猜)
+- "newLaunchRegions": 逐地區上線狀態陣列（格式同 Agent1，找到具體地區資訊才填,不確定就填 null 不要覆蓋原本資料)
 - "pmAnalysis": 繁體中文 PM analysis, format: "【威脅類型】描述\\n\\n▶ 建議行動：\\n(1)...\\n(2)...\\n(3)..."
 - "directLinks": [{{"label":"TapTap","url":"real URL"}},{{"label":"官網","url":"URL"}}]
 
@@ -525,6 +526,11 @@ Output ONLY valid JSON array."""
                 prod["updatedAt"] = today
                 updates += 1
                 print(f" 🌏 {n}: 地區 {old_r} → {u['newRegion']}")
+            if u.get("newLaunchRegions") and isinstance(u["newLaunchRegions"], list) and len(u["newLaunchRegions"]) > 0:
+                prod["launchRegions"] = u["newLaunchRegions"]
+                prod["updatedAt"] = today
+                updates += 1
+                print(f" 🗺️ {n}: 補上逐地區狀態 ({len(u['newLaunchRegions'])} 個地區)")
             if u.get("newThreat") and u["newThreat"] != prod.get("threat"):
                 if str(prod.get("id")) in locked_ids:
                     print(f" 🔒 {n}: 已手動鎖定，略過威脅重新評估（模型建議: {u['newThreat']}）")
@@ -648,6 +654,7 @@ def agent1(articles):
 - "genre": 類型（中文，2-3字）
 - "platform": ["Mobile"] 或 ["PC","Mobile"]
 - "region": 目前已知或推估的上線/營運地區，例如 "CN/Global"、"TW/HK/MO"、"JP"、"KR/Global"、"US"、"Global"——不確定就盡量推估開發商/發行商所屬市場，避免直接填「待確認」
+- "launchRegions": 逐地區的上線狀態陣列，每筆格式 {{"region":"CN","status":"已上線/封測中/預註冊/未上線","date":"2026-07-09"}}，region 用 "CN"/"TW/HK/MO"/"JP"/"KR"/"Global" 這幾種標準寫法。只列出實際有查到資訊的地區，沒有把握的地區不要編造，找不到任何地區資訊就給空陣列 []
 - "stage": "announced"/"pre-reg"/"cbt"/"live-ops"
 - "launchEst": "2026-07" 或 "2026-Q3"
 - "desc": 一句話繁體中文描述
@@ -695,7 +702,7 @@ Output ONLY valid JSON array, no markdown."""
                 "threatAnalysis": f"【自動發現・{source_type}】{reason}" if reason else "",
                 "verified": f"Agent 發現 ({today})",
                 "category": "active", "testType": "待確認", "testDateStart": "待確認",
-                "testDateEnd": "待確認", "sourceLinks": [], "launchRegions": [],
+                "testDateEnd": "待確認", "sourceLinks": [], "launchRegions": d.get("launchRegions", []),
                 "history": [{"date": datetime.now(timezone.utc).strftime("%Y-%m"), "s": d.get("stage", "announced")}],
                 "updatedAt": today, "addedAt": today, "lastChecked": "2000-01-01", "autoDiscovered": True,
                 "sourceType": source_type,
@@ -747,6 +754,8 @@ def agent4():
 - "developer": 送審/開發公司
 - "genre": 類型
 - "platform": ["Mobile"]
+- "region": 目前已知或推估的地區，例如 "CN"、"CN/Global"——版號公示對象通常至少確定是 CN
+- "launchRegions": 逐地區上線狀態陣列，格式同 {{"region":"CN","status":"...","date":"..."}}，沒把握就給空陣列 []
 - "stage": "announced"
 - "launchEst": "待定" 或推估時間
 - "desc": 一句話描述
@@ -777,14 +786,14 @@ Output ONLY valid JSON array, no markdown."""
                 "id": mid, "name": n, "nameEn": d.get("nameEn", ""),
                 "developer": d.get("developer", "未知"), "studio": d.get("developer", "未知"),
                 "publisher": d.get("developer", "未知"), "genre": d.get("genre", "未知"),
-                "platform": normalize_platform(d.get("platform", ["Mobile"])), "region": "中國", "model": "F2P",
+                "platform": normalize_platform(d.get("platform", ["Mobile"])), "region": d.get("region", "中國"), "model": "F2P",
                 "stage": "announced", "threat": threat,
                 "threatReason": reason, "prereg": None, "sentiment": 70,
                 "launchEst": d.get("launchEst", "待定"), "desc": d.get("desc", ""), "tags": ["版號公示"],
                 "threatAnalysis": f"【自動發現・版號公示】{reason}" if reason else "",
                 "verified": f"版號雷達 ({today})",
                 "category": "active", "testType": "待確認", "testDateStart": "待確認",
-                "testDateEnd": "待確認", "sourceLinks": [], "launchRegions": [],
+                "testDateEnd": "待確認", "sourceLinks": [], "launchRegions": d.get("launchRegions", []),
                 "history": [{"date": datetime.now(timezone.utc).strftime("%Y-%m"), "s": "announced"}],
                 "updatedAt": today, "addedAt": today, "lastChecked": "2000-01-01", "autoDiscovered": True,
                 "sourceType": "版號公示",
