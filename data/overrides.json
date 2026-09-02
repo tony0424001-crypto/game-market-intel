@@ -58,7 +58,8 @@
   },
   "175": {
     "threat": "critical",
-    "updatedAt": "2026-08-25"
+    "updatedAt": "2026-09-02",
+    "excluded": true
   },
   "182": {
     "threat": "medium",
