@@ -493,7 +493,7 @@ Output JSON array:
 - "directLinks": [{{"label":"TapTap","url":"real URL"}},{{"label":"官網","url":"URL"}}]
 
 Output ONLY valid JSON array."""
-    r = gemini(prompt, search=True, tokens=16000)
+    r = gemini(prompt, search=True, tokens=32000)
     p = parse_json(r)
     updates = 0
     findings = []
