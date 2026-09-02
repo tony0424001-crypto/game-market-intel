@@ -506,7 +506,7 @@ function App(){
     setOverrides(prev=>{const next={...prev,[id]:{...prev[id],...patch}};saveOverridesLocal(next);trySyncOverride(id,patch);return next});
   }
   const all=useMemo(()=>raw.map(g=>{
-    const ov={...(overrides[g.id]||{}),...(remoteOverrides&&remoteOverrides[g.id]||{})}; // remote (shared, persisted) wins once synced; local gives instant feedback before that
+    const ov={...(remoteOverrides&&remoteOverrides[g.id]||{}),...(overrides[g.id]||{})}; // local wins — it's always the latest click; remote is only as fresh as page-load time
     if(!Object.keys(ov).length)return g;
     const patched={...g};if(ov.threat)patched.threat=ov.threat;if(ov.excluded)patched.category="excluded";patched._overridden=true;return patched}),[raw,overrides,remoteOverrides]);
   const mob=useMemo(()=>all.filter(g=>g.platform.includes("Mobile")),[all]);const con=useMemo(()=>all.filter(g=>!g.platform.includes("Mobile")),[all]);
