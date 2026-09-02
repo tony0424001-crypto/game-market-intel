@@ -97,6 +97,10 @@
     "threat": "low",
     "updatedAt": "2026-09-02"
   },
+  "240": {
+    "excluded": true,
+    "updatedAt": "2026-09-02"
+  },
   "242": {
     "threat": "low",
     "updatedAt": "2026-09-02"
