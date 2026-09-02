@@ -1,42 +1,24 @@
 {
-  "lastAudit": "2026-09-01T05:23:07.633629+00:00",
-  "totalProducts": 256,
-  "updatesApplied": 28,
-  "issuesFound": 4,
+  "lastAudit": "2026-09-02T04:49:17.192082+00:00",
+  "totalProducts": 266,
+  "updatesApplied": 20,
+  "issuesFound": 1,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮",
   "findings": [
     {
-      "name": "燕雲十六聲",
-      "status": "warning",
-      "issue": "狀態: cbt→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "仙劍世界",
+      "name": "無職轉生～到了異世界就拿出真本事～迴響編年史",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "Project X",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "代號：鳶",
-      "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "燕雲十六聲",
-    "仙劍世界",
-    "蔚藍檔案2：星辰彼岸",
-    "Project X",
-    "Project: Dawnbreaker",
-    "代號：鳶"
+    "劍與遠征：起源",
+    "代號：龍吟",
+    "星塵契約",
+    "無職轉生～到了異世界就拿出真本事～迴響編年史",
+    "生化危機生存兵種",
+    "基地：星界無間"
   ],
   "nextBatch": [
     "無限大",

@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-09-01T05:24:52.247435+00:00",
-  "fetchCount": 111,
+  "lastUpdated": "2026-09-02T04:51:06.218665+00:00",
+  "fetchCount": 112,
   "items": [
+    {
+      "id": "brief-20260902-4716a0e2",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "大宇資訊日本知名動作IP授權手遊新作（新發現・高威脅）",
+      "detail": "大宇資訊與日本經典動作IP合作，全球發行，具備高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-02T04:51:06.218665+00:00"
+    },
+    {
+      "id": "brief-20260902-642decd8",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "湍流（新發現・高威脅）",
+      "detail": "鷹角網路新作，PVPVE動作玩法，具備一定市場關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-02T04:51:06.218665+00:00"
+    },
+    {
+      "id": "brief-20260902-a5b8f0e4",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "噬血戰記（新發現・高威脅）",
+      "detail": "網石大廠MMORPG新作，已在亞洲市場取得成功，全球發行預期將有高關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-02T04:51:06.218665+00:00"
+    },
+    {
+      "id": "brief-20260902-d9417231",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "RO 仙境傳說：口袋戰記（新發現・高威脅）",
+      "detail": "經典IP改編，具備一定玩家基礎和回憶向吸引力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-02T04:51:06.218665+00:00"
+    },
+    {
+      "id": "brief-20260902-4bd26e3b",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "NVIDIA DLSS 5 登場",
+      "detail": "9/4 推出，NBA 2K27 首發，RTX 50 系列支援。",
+      "action": "關注技術發展",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-02T04:48:56.121860+00:00"
+    },
+    {
+      "id": "brief-20260902-53b20581",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "鬼武者新作試玩",
+      "detail": "睽違 20 年新作，9/4 推出，三船敏郎復活。",
+      "action": "關注遊戲上市",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-02T04:48:56.121860+00:00"
+    },
+    {
+      "id": "brief-20260902-c900f6e6",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "黎明行者之血上市",
+      "detail": "巫師 3 團隊打造，9/3 上市，黑暗奇幻 RPG。",
+      "action": "關注遊戲上市",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-02T04:48:56.121860+00:00"
+    },
+    {
+      "id": "brief-20260902-180a9fd2",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "RO 口袋戰記終測",
+      "detail": "今日開放刪檔測試，同步開啟事前預約。",
+      "action": "參與測試預約",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-02T04:48:56.121860+00:00"
+    },
+    {
+      "id": "brief-20260902-1df093b1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "鬥陣特攻 Rush 試玩",
+      "detail": "手機遊戲搶先體驗，電玩瘋實機影片。",
+      "action": "觀看試玩影片",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-02T04:48:56.121860+00:00"
+    },
+    {
+      "id": "brief-20260902-6c82abff",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "締造者搶先選角",
+      "detail": "前 3 輪額滿，今晚緊急追加第 4 輪。",
+      "action": "把握選角機會",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-02T04:48:56.121860+00:00"
+    },
     {
       "id": "brief-20260901-678bd17b",
       "priority": "urgent",
@@ -111,116 +221,6 @@
       "platform": "mobile",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-09-01T05:22:43.535716+00:00"
-    },
-    {
-      "id": "brief-20260831-ce9b0954",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "三國志霸王崛起（新發現・高威脅）",
-      "detail": "經典「三國志」IP改編，由上市遊戲公司愷英網絡開發。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-31T05:55:15.439802+00:00"
-    },
-    {
-      "id": "brief-20260831-aecb1dad",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "蒼藍避風港（新發現・高威脅）",
-      "detail": "具備二次元風格和潛在抽卡機制，開發商名稱也暗示其品類。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-31T05:55:15.439802+00:00"
-    },
-    {
-      "id": "brief-20260831-c137188a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "失落之魂（新發現・高威脅）",
-      "detail": "潛力動作RPG新作，同時登陸PC和PS5平台。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "console",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-31T05:55:15.439802+00:00"
-    },
-    {
-      "id": "brief-20260831-384fc512",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "夢想世界：弈劍逍遙（新發現・高威脅）",
-      "detail": "知名MMORPG IP續作，由知名遊戲公司多益網絡開發。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-31T05:55:15.439802+00:00"
-    },
-    {
-      "id": "brief-20260831-5e67084b",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "黑子的籃球：街頭對決（新發現・高威脅）",
-      "detail": "知名動漫IP改編，具有廣泛的粉絲基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-31T05:55:15.439802+00:00"
-    },
-    {
-      "id": "brief-20260831-66f0e96d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "古龍群俠錄（新發現・高威脅）",
-      "detail": "知名武俠文學IP改編，由上市遊戲公司愷英網絡開發。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-31T05:55:15.439802+00:00"
-    },
-    {
-      "id": "brief-20260831-9e5dbbaf",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "紅警：榮耀（新發現・高威脅）",
-      "detail": "經典RTS遊戲IP改編，由中國遊戲巨頭騰訊開發/發行。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-31T05:55:15.439802+00:00"
-    },
-    {
-      "id": "brief-20260831-799577c5",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "仙境傳說：重生（新發現・高威脅）",
-      "detail": "國民級MMORPG IP改編，由知名廠商心動公司發行。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-31T05:55:15.439802+00:00"
-    },
-    {
-      "id": "brief-20260831-7c4d8a46",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "波斯王子：失落的王冠（新發現・高威脅）",
-      "detail": "全球知名大型IP改編，由知名大廠育碧開發，多平台發行。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-31T05:55:15.439802+00:00"
-    },
-    {
-      "id": "brief-20260831-197abc9a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "斗羅大陸：啟程（新發現・高威脅）",
-      "detail": "熱門小說IP改編，具備廣泛的受眾基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-08-31T05:55:15.439802+00:00"
     }
   ]
 }

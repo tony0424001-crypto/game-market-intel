@@ -9500,13 +9500,13 @@
     "threat": "medium",
     "threatReason": "大廠新作，知名放置IP續作，有一定市場基礎。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026-Q3",
     "desc": "莉莉絲遊戲《AFK Arena》系列新作，主打放置RPG玩法。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】大廠新作，知名放置IP續作，有一定市場基礎。",
+    "threatAnalysis": "【威脅類型：中等】目前無新消息，持續觀察中。\n\n▶ 建議行動：\n(1). 持續追蹤開發商Lilith Games的官方公告與社群動態。\n(2). 關注是否有新的測試或預約活動資訊釋出。\n(3). 評估其與《劍與遠征》IP的連結度及市場潛力。",
     "verified": "Agent 發現 (2026-08-24)",
     "category": "active",
     "testType": "待確認",
@@ -9520,8 +9520,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-24",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-09-02",
+    "lastChecked": "2026-09-02",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -9542,13 +9542,13 @@
     "threat": "medium",
     "threatReason": "雖為新興工作室，但版號公示且玩法受關注，有潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026-Q4",
     "desc": "中國版號公示名單中新出現的MMORPG手遊，玩法引起關注。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】雖為新興工作室，但版號公示且玩法受關注，有潛力。",
+    "threatAnalysis": "【威脅類型：中等】目前無新消息，持續觀察中。\n\n▶ 建議行動：\n(1). 持續追蹤新興工作室的相關新聞與招聘資訊。\n(2). 關注是否有遊戲名稱、類型或美術風格的初步揭露。\n(3). 評估其潛在的市場定位與競爭力。",
     "verified": "Agent 發現 (2026-08-24)",
     "category": "active",
     "testType": "待確認",
@@ -9562,8 +9562,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-24",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-09-02",
+    "lastChecked": "2026-09-02",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -9584,13 +9584,13 @@
     "threat": "medium",
     "threatReason": "版號公示的二次元卡牌遊戲，有機會在市場佔據一席之地。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026-Q4",
     "desc": "中小型廠商開發的二次元卡牌遊戲，已獲得中國版號。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】版號公示的二次元卡牌遊戲，有機會在市場佔據一席之地。",
+    "threatAnalysis": "【威脅類型：中等】目前無新消息，持續觀察中。\n\n▶ 建議行動：\n(1). 持續追蹤中小型廠商的官方公告與社群動態。\n(2). 關注是否有新的測試或預約活動資訊釋出。\n(3). 評估其美術風格、玩法創新度及目標客群。",
     "verified": "Agent 發現 (2026-08-24)",
     "category": "active",
     "testType": "待確認",
@@ -9604,8 +9604,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-24",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-09-02",
+    "lastChecked": "2026-09-02",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -9620,9 +9620,9 @@
     "platform": [
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "JP/TW/HK/MO",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "熱門二次元IP改編，在台港澳市場有潛力，預期將吸引大量粉絲關注。",
     "prereg": null,
@@ -9632,24 +9632,42 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】熱門二次元IP改編，在台港澳市場有潛力，預期將吸引大量粉絲關注。",
+    "threatAnalysis": "【威脅類型：高】日本地區已成功上線並取得不錯的下載量，台港澳代理權確認，預計年底前推出。IP影響力強大，市場關注度高。\n\n▶ 建議行動：\n(1). 密切關注台港澳地區的預約進度與行銷策略。\n(2). 分析日本市場的營收表現與玩家反饋，作為台港澳營運參考。\n(3). 評估其對同類型二次元RPG產品的潛在衝擊。",
     "verified": "Agent 發現 (2026-08-25)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "TapTap (JP)",
+        "url": "https://www.taptap.cn/app/237699"
+      },
+      {
+        "label": "官網 (JP)",
+        "url": "https://mushokutensei-chronicle.com/"
+      },
+      {
+        "label": "官方粉絲團 (TW/HK/MO)",
+        "url": "https://www.facebook.com/mushokutensei.chronicle.tw"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-25",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-09-02",
+    "lastChecked": "2026-09-02",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "日本地區已於2026年7月27日正式上線，並於8月24日宣布台港澳代理權，預計2026年內推出。"
   },
   {
     "id": 183,
@@ -9662,25 +9680,38 @@
     "platform": [
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "Global (US/EU/JP/TW/KR/ME)",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "high",
     "threatReason": "知名國際IP改編，玩法創新，已在市場上線並獲得高聲量。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 90,
     "launchEst": "2026-02",
     "desc": "CAPCOM經典IP《生化危機》改編的策略手遊，結合單人動作解謎與即時策略建設玩法，已於2026年2月上線。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名國際IP改編，玩法創新，已在市場上線並獲得高聲量。",
+    "threatAnalysis": "【威脅類型：高】全球範圍內已成功上線並取得優異下載量，結合強大IP與策略玩法，市場表現亮眼。持續吸引新玩家加入。\n\n▶ 建議行動：\n(1). 持續監測其全球營收與玩家活躍數據。\n(2). 分析其版本更新內容與活動策略，學習成功經驗。\n(3). 評估其長期營運能力及對同類型策略遊戲的影響。",
     "verified": "Agent 發現 (2026-08-25)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/tw/app/%E7%94%9F%E5%8C%96%E5%8D%B1%E6%A9%9F%E7%94%9F%E5%AD%98%E5%85%B5%E7%A8%AE/id6446700085"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.joycity.resurvivalunit"
+      },
+      {
+        "label": "官網",
+        "url": "https://www.residentevil-survivalunit.com/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -9688,10 +9719,12 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-25",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-09-02",
+    "lastChecked": "2026-09-02",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "全球已於2025年11月在151個國家推出，並於2026年2月5日在台、韓、中東地區正式上線。全球累積下載量已突破600萬次。",
+    "eventNote": "全球已於2025年11月在151個國家推出，並於2026年2月5日在台、韓、中東地區正式上線。全球累積下載量已突破600萬次。"
   },
   {
     "id": 184,
@@ -9704,25 +9737,38 @@
     "platform": [
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "Global (US/UK/DE/CA/TW/HK/MO)",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "high",
     "threatReason": "知名科幻IP改編，大廠聯手開發，在歐美市場表現亮眼後登陸台港澳。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 88,
     "launchEst": "2026-01",
     "desc": "改編自科幻巨擘阿西莫夫經典神作的策略RPG手遊，結合母艦模擬與太空策略經營，已於2026年1月登陸台港澳。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名科幻IP改編，大廠聯手開發，在歐美市場表現亮眼後登陸台港澳。",
+    "threatAnalysis": "【威脅類型：高】改編自知名科幻IP，全球及台港澳市場上線後表現強勁，曾登頂多國免費榜。遊戲品質與深度策略玩法獲得媒體好評。\n\n▶ 建議行動：\n(1). 持續監測其營收與玩家留存數據，特別是長期表現。\n(2). 分析其版本更新內容與活動策略，以應對玩家對PvP和付費的潛在不滿。\n(3). 評估其對同類型SLG產品的競爭影響。",
     "verified": "Agent 發現 (2026-08-25)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/tw/app/%E5%9F%BA%E5%9C%B0-%E6%98%9F%E7%95%8C%E7%84%A1%E9%96%93/id6446700085"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.games.foundation"
+      },
+      {
+        "label": "官網",
+        "url": "https://www.foundation.game/zh-TW"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -9730,10 +9776,12 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-25",
-    "lastChecked": "2000-01-01",
+    "updatedAt": "2026-09-02",
+    "lastChecked": "2026-09-02",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "已於2026年1月5日在台港澳地區正式上線，PC版已全球同步推出。在歐美及台港澳市場均取得App Store免費遊戲榜首的佳績。",
+    "eventNote": "已於2026年1月5日在台港澳地區正式上線，PC版已全球同步推出。在歐美及台港澳市場均取得App Store免費遊戲榜首的佳績。"
   },
   {
     "id": 185,
@@ -13399,5 +13447,479 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
+  },
+  {
+    "id": 270,
+    "name": "RO 仙境傳說：口袋戰記",
+    "nameEn": "Ragnarok Online: Pocket Chronicle",
+    "developer": "Gravity",
+    "studio": "Gravity",
+    "publisher": "Gravity",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "TW/HK/MO",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "經典IP改編，具備一定玩家基礎和回憶向吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "經典MMORPG《RO 仙境傳說》的全新手機版，目前正在進行最終測試並開放事前預約。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典IP改編，具備一定玩家基礎和回憶向吸引力。",
+    "verified": "Agent 發現 (2026-09-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-09-02",
+    "addedAt": "2026-09-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 271,
+    "name": "噬血戰記",
+    "nameEn": "Vampir",
+    "developer": "Netmarble Neo",
+    "studio": "Netmarble Neo",
+    "publisher": "Netmarble Neo",
+    "genre": "MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "網石大廠MMORPG新作，已在亞洲市場取得成功，全球發行預期將有高關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "網石推出的吸血鬼主題MMORPG，已在韓國、台港澳及日本上線，現正開放全球預約。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網石大廠MMORPG新作，已在亞洲市場取得成功，全球發行預期將有高關注度。",
+    "verified": "Agent 發現 (2026-09-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-09-02",
+    "addedAt": "2026-09-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 272,
+    "name": "湍流",
+    "nameEn": "Turbulence",
+    "developer": "Hypergryph",
+    "studio": "Hypergryph",
+    "publisher": "Hypergryph",
+    "genre": "PVPVE動作",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "鷹角網路新作，PVPVE動作玩法，具備一定市場關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "鷹角網路新公布的PVPVE動作遊戲，可能為《明日方舟》IP的衍生作。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】鷹角網路新作，PVPVE動作玩法，具備一定市場關注度。",
+    "verified": "Agent 發現 (2026-09-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-02",
+    "addedAt": "2026-09-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 273,
+    "name": "夢想英雄",
+    "nameEn": "Dream Heroes",
+    "developer": "(未知)",
+    "studio": "(未知)",
+    "publisher": "(未知)",
+    "genre": "放置卡牌",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "二次元放置卡牌，玩法相對輕度，威脅等級較低。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q1",
+    "desc": "輕度體驗與收集深度的二次元放置向卡牌手遊，玩家可收集英雄角色組建冒險編隊。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】二次元放置卡牌，玩法相對輕度，威脅等級較低。",
+    "verified": "Agent 發現 (2026-09-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-02",
+    "addedAt": "2026-09-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 274,
+    "name": "來自黑洞的旅人",
+    "nameEn": "Traveler from the Black Hole",
+    "developer": "(未知)",
+    "studio": "(未知)",
+    "publisher": "(未知)",
+    "genre": "Roguelike卡牌",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "融合Roguelike與卡牌構築的二次元手遊，玩法獨特，具備一定吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q1",
+    "desc": "融合Roguelike元素與卡組構築玩法的科幻風二次元手遊，強調隨機探索與臨場應變。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】融合Roguelike與卡牌構築的二次元手遊，玩法獨特，具備一定吸引力。",
+    "verified": "Agent 發現 (2026-09-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-02",
+    "addedAt": "2026-09-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 275,
+    "name": "靈魂潮汐",
+    "nameEn": "Soul Tide",
+    "developer": "(未知)",
+    "studio": "(未知)",
+    "publisher": "(未知)",
+    "genre": "策略RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "二次元策略RPG，半即時戰鬥與迷宮探索玩法，具備一定策略性。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q1",
+    "desc": "採用半即時時間軸戰鬥框架的二次元策略RPG，玩家可操控人偶釋放技能並探索迷宮。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】二次元策略RPG，半即時戰鬥與迷宮探索玩法，具備一定策略性。",
+    "verified": "Agent 發現 (2026-09-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-02",
+    "addedAt": "2026-09-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 276,
+    "name": "永暮幻想",
+    "nameEn": "Eternal Twilight Fantasy",
+    "developer": "(未知)",
+    "studio": "(未知)",
+    "publisher": "(未知)",
+    "genre": "卡牌RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "日式豎屏卡牌RPG，二次元美術風格，具備一定二次元玩家吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q1",
+    "desc": "典型的日式豎屏卡牌RPG，收錄數百位幻想種族角色，美術風格獨特。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】日式豎屏卡牌RPG，二次元美術風格，具備一定二次元玩家吸引力。",
+    "verified": "Agent 發現 (2026-09-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-02",
+    "addedAt": "2026-09-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 277,
+    "name": "踢爆那西游",
+    "nameEn": "Kick That Journey to the West",
+    "developer": "(未知)",
+    "studio": "(未知)",
+    "publisher": "(未知)",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "經典西遊IP改編，水墨風格與空投式RPG成長機制具備新穎性。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q1",
+    "desc": "基於經典西遊題材重構的RPG手遊，採用水墨暈染美術風格，融合空投式RPG成長機制。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典西遊IP改編，水墨風格與空投式RPG成長機制具備新穎性。",
+    "verified": "Agent 發現 (2026-09-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-02",
+    "addedAt": "2026-09-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 278,
+    "name": "斗轉武林",
+    "nameEn": "Martial Arts Transference",
+    "developer": "(未知)",
+    "studio": "(未知)",
+    "publisher": "(未知)",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "武俠題材動作RPG，快節奏戰鬥與自由探索玩法，具備一定市場吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q1",
+    "desc": "主打快節奏戰鬥體驗的武俠題材ARPG，支持自由探索與高機動性戰場馳騁。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】武俠題材動作RPG，快節奏戰鬥與自由探索玩法，具備一定市場吸引力。",
+    "verified": "Agent 發現 (2026-09-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-02",
+    "addedAt": "2026-09-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 279,
+    "name": "踏風行",
+    "nameEn": "Treading the Wind",
+    "developer": "(未知)",
+    "studio": "(未知)",
+    "publisher": "(未知)",
+    "genre": "修仙RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "3D修仙題材RPG，虛幻引擎打造，具備一定視覺吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q1",
+    "desc": "採用Unreal Engine 4打造的3D修仙題材手遊，山川建築恢弘寫意，技能表現華麗流暢。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】3D修仙題材RPG，虛幻引擎打造，具備一定視覺吸引力。",
+    "verified": "Agent 發現 (2026-09-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-02",
+    "addedAt": "2026-09-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 280,
+    "name": "大宇資訊日本知名動作IP授權手遊新作",
+    "nameEn": "Softstar new mobile game with Japanese action IP",
+    "developer": "Softstar (大宇資訊)",
+    "studio": "Softstar (大宇資訊)",
+    "publisher": "Softstar (大宇資訊)",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "大宇資訊與日本經典動作IP合作，全球發行，具備高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q1",
+    "desc": "大宇資訊獲得日本知名60週年動作IP授權，開發中的全新手遊，預計2026年全球發行。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】大宇資訊與日本經典動作IP合作，全球發行，具備高市場潛力。",
+    "verified": "Agent 發現 (2026-09-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-02",
+    "addedAt": "2026-09-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]
