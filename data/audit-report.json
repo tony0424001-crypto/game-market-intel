@@ -1,24 +1,69 @@
 {
-  "lastAudit": "2026-09-02T04:49:17.192082+00:00",
-  "totalProducts": 266,
-  "updatesApplied": 20,
-  "issuesFound": 1,
-  "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮",
+  "lastAudit": "2026-09-03T04:49:41.192224+00:00",
+  "totalProducts": 277,
+  "updatesApplied": 61,
+  "issuesFound": 7,
+  "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "無職轉生～到了異世界就拿出真本事～迴響編年史",
+      "name": "舞力全開：派對",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "時空獵人·覺醒",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "王者萬象棋",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "塔塔冒險隊",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "天上碑 K",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "初音未來GRAPHY COLLECTION 謎之音樂彗星Re:Merge",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "霧海之下",
+      "status": "warning",
+      "issue": "狀態: cbt→announced",
       "autoFixed": true
     }
   ],
   "checked": [
-    "劍與遠征：起源",
-    "代號：龍吟",
-    "星塵契約",
-    "無職轉生～到了異世界就拿出真本事～迴響編年史",
-    "生化危機生存兵種",
-    "基地：星界無間"
+    "火線戰姬",
+    "次元召喚師",
+    "雲上征途",
+    "女巫之刃",
+    "舞力全開：派對",
+    "時空獵人·覺醒",
+    "王者萬象棋",
+    "塔塔冒險隊",
+    "奥星熱浪",
+    "雪中悍刀行之世子多嬌",
+    "三國殺：極速",
+    "天上碑 K",
+    "初音未來GRAPHY COLLECTION 謎之音樂彗星Re:Merge",
+    "霧海之下",
+    "穿越火線：虹"
   ],
   "nextBatch": [
     "無限大",
@@ -26,6 +71,15 @@
     "明日方舟：終末地",
     "失控進化",
     "王者榮耀：世界",
-    "鳴潮"
+    "鳴潮",
+    "遺忘之海",
+    "卡厄思夢境",
+    "藍色星原：旅謠",
+    "破界：界限終零",
+    "締造者：放逐之境",
+    "原神",
+    "絕區零",
+    "崩壞：星穹鐵道",
+    "白銀之城"
   ]
 }
