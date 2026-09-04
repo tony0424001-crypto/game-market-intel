@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-09-03T04:51:42.448438+00:00",
-  "fetchCount": 113,
+  "lastUpdated": "2026-09-04T04:58:59.656499+00:00",
+  "fetchCount": 114,
   "items": [
+    {
+      "id": "brief-20260904-a6834b6d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "戀與深空（新發現・高威脅）",
+      "detail": "疊紙遊戲在女性向二游領域的旗艦新作，預期將吸引大量玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導/模型知識推論",
+      "fetchedAt": "2026-09-04T04:58:59.656499+00:00"
+    },
+    {
+      "id": "brief-20260904-d7f568cb",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "詭秘之主（新發現・高威脅）",
+      "detail": "頂級網文IP改編，大製作MMORPG，公測數據顯示其市場影響力巨大。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-04T04:58:59.656499+00:00"
+    },
+    {
+      "id": "brief-20260904-38b4d6b0",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《FF Resonance》釋出試玩",
+      "detail": "HD-2D新作試玩版開放，進度可繼承。",
+      "action": "立即下載試玩",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-04T04:48:52.929864+00:00"
+    },
     {
       "id": "brief-20260903-663bf65a",
       "priority": "urgent",
@@ -157,70 +190,37 @@
       "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
     },
     {
-      "id": "brief-20260903-09cda7a7",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "幻獸帕魯世界（新發現・高威脅）",
-      "detail": "《幻獸帕魯》是全球現象級IP，其手遊版本預計將吸引大量玩家，對市場產生巨大影響。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-b9151a0d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "龍族教義2大型更新",
-      "detail": "今日推出3.2版，優化效能增功能",
-      "action": "玩家立即更新體驗",
+      "id": "brief-20260904-cdf209be",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "Frontier與迪士尼合作",
+      "detail": "開發融合經典IP的模擬經營新作。",
+      "action": "關注開發進度",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-03T04:49:19.789058+00:00"
+      "fetchedAt": "2026-09-04T04:48:52.929864+00:00"
     },
     {
-      "id": "brief-20260902-4716a0e2",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "大宇資訊日本知名動作IP授權手遊新作（新發現・高威脅）",
-      "detail": "大宇資訊與日本經典動作IP合作，全球發行，具備高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-02T04:51:06.218665+00:00"
+      "id": "brief-20260904-c8df5ff9",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《FF VII 啟示》2027年推出",
+      "detail": "FF7重製版第三部，2027/4/8上市。",
+      "action": "關注後續情報",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-04T04:48:52.929864+00:00"
     },
     {
-      "id": "brief-20260902-642decd8",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "湍流（新發現・高威脅）",
-      "detail": "鷹角網路新作，PVPVE動作玩法，具備一定市場關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-02T04:51:06.218665+00:00"
-    },
-    {
-      "id": "brief-20260902-a5b8f0e4",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "噬血戰記（新發現・高威脅）",
-      "detail": "網石大廠MMORPG新作，已在亞洲市場取得成功，全球發行預期將有高關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-02T04:51:06.218665+00:00"
-    },
-    {
-      "id": "brief-20260902-d9417231",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "RO 仙境傳說：口袋戰記（新發現・高威脅）",
-      "detail": "經典IP改編，具備一定玩家基礎和回憶向吸引力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-02T04:51:06.218665+00:00"
+      "id": "brief-20260904-5bc6a53f",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《DQ怪物仙境4》續報",
+      "detail": "12/3上市，公布續報宣傳影片。",
+      "action": "準備預購",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-04T04:48:52.929864+00:00"
     }
   ]
 }

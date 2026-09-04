@@ -14818,5 +14818,151 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 297,
+    "name": "詭秘之主",
+    "nameEn": "Lord of the Mysteries",
+    "developer": "未知",
+    "studio": "未知",
+    "publisher": "未知",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "critical",
+    "threatReason": "頂級網文IP改編，大製作MMORPG，公測數據顯示其市場影響力巨大。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-08",
+    "desc": "改編自熱門網文IP的MMORPG手遊，採用UE5引擎打造，公測首日表現強勁。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】頂級網文IP改編，大製作MMORPG，公測數據顯示其市場影響力巨大。",
+    "verified": "Agent 發現 (2026-09-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2026-08-21"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-04",
+    "addedAt": "2026-09-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 298,
+    "name": "戀與深空",
+    "nameEn": "Love and Deepspace",
+    "developer": "Papergames (疊紙)",
+    "studio": "Papergames (疊紙)",
+    "publisher": "Papergames (疊紙)",
+    "genre": "戀愛模擬",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "疊紙遊戲在女性向二游領域的旗艦新作，預期將吸引大量玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "疊紙遊戲開發的女性向3D戀愛動作手遊，結合科幻背景與抽卡元素。",
+    "tags": [
+      "新聞報導/模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/模型知識推論】疊紙遊戲在女性向二游領域的旗艦新作，預期將吸引大量玩家。",
+    "verified": "Agent 發現 (2026-09-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-09-04",
+    "addedAt": "2026-09-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/模型知識推論"
+  },
+  {
+    "id": 299,
+    "name": "誰ガ為のアルケミスト ポートマスターズ",
+    "nameEn": "The Alchemist Code: Portmasters",
+    "developer": "K3 Studio",
+    "studio": "K3 Studio",
+    "publisher": "K3 Studio",
+    "genre": "戰棋RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP/Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "medium",
+    "threatReason": "經典IP衍生作，戰棋玩法有特定受眾，但規模可能不如頂級二游。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-10",
+    "desc": "經典戰棋RPG《誰ガ為のアルケミスト》的衍生手遊，主打高速戰術戰鬥。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典IP衍生作，戰棋玩法有特定受眾，但規模可能不如頂級二游。",
+    "verified": "Agent 發現 (2026-09-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "預註冊",
+        "date": "2026-09-02"
+      },
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "2026-10-08"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-09-04",
+    "addedAt": "2026-09-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]
