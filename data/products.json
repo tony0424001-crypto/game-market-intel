@@ -10571,37 +10571,51 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "CN/Global",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
-    "threatReason": "騰訊大廠新作，但目前資訊較少，威脅等級待觀察。",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "騰訊大廠自研二次元開放世界大作，首測反響熱烈，TapTap預約量高且評分優異，市場期待度極高，預計上線時間提前至2026年下半年。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027-Q1",
+    "sentiment": 85,
+    "launchEst": "2026-Q4",
     "desc": "騰訊光子薩羅斯工作室研發的新作，預計2026年推出測試版本。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】騰訊大廠新作，但目前資訊較少，威脅等級待觀察。",
+    "threatAnalysis": "【具體威脅】騰訊光子薩羅斯工作室開發的《歸環》是一款備受矚目的時間循環開放世界二次元大作。遊戲在2026年3月底啟動PC端技術測試，並於4月底進行了為期四天的「一周目測試」，已於5月1日結束。目前遊戲已開啟官方預約，市場普遍預期將在2026年下半年開啟公測，較原定2027年Q1提前。遊戲憑藉其獨特的時間循環開放世界玩法、精美的二次元美術風格以及騰訊的強大發行能力，在TapTap上獲得了近30萬的預約量和9.5的高分，被社群譽為「原神殺手」或「二次元博德之門」，顯示出極高的市場潛力和話題度。\n\n▶ 建議行動：\n(1). 持續密切追蹤遊戲的後續測試、宣傳活動及確切上線日期。\n(2). 深入分析遊戲的測試報告與玩家反饋，特別是其時間循環機制、開放世界內容和戰鬥系統的創新點。\n(3). 評估其對目標市場同類競品的潛在衝擊，並制定相應的應對策略。",
     "verified": "Agent 發現 (2026-08-27)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-05-01",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/233075"
+      },
+      {
+        "label": "官網",
+        "url": "https://gh.qq.com/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-27",
+    "updatedAt": "2026-09-05",
     "addedAt": "2026-08-27",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-05",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "「一周目測試」已於2026年5月1日結束，並預計於2026年下半年公測。"
   },
   {
     "id": 201,
@@ -14964,5 +14978,510 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
+  },
+  {
+    "id": 300,
+    "name": "灼眼的夏娜 烈焰之刃",
+    "nameEn": "Shakugan no Shana: Flame of Blade",
+    "developer": "CTW, INC.",
+    "studio": "CTW, INC.",
+    "publisher": "CTW, INC.",
+    "genre": "放置RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP/TW/HK/MO/Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "知名輕小說IP改編，二次元放置RPG玩法，預期有較高市場關注度，且支援多語言發行。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "改編自知名輕小說《灼眼的夏娜》的放置型RPG網頁遊戲，主打角色養成與戰鬥，並收錄全新語音。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名輕小說IP改編，二次元放置RPG玩法，預期有較高市場關注度，且支援多語言發行。",
+    "verified": "Agent 發現 (2026-09-05)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "預註冊",
+        "date": "2026-Q4"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "預註冊",
+        "date": "2026-Q4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-09-05",
+    "addedAt": "2026-09-05",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 301,
+    "name": "我想成為影之強者！Phantom Echoes",
+    "nameEn": "The Eminence in Shadow! Phantom Echoes",
+    "developer": "Aiming Inc.",
+    "studio": "Aiming Inc.",
+    "publisher": "Aiming Inc.",
+    "genre": "動作RPG",
+    "platform": [
+      "PC",
+      "Console"
+    ],
+    "region": "JP/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "雖然是人氣IP改編，但目前公布為PC/家用主機平台，不符合手遊追蹤重點，除非成為現象級大作。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "改編自人氣輕小說《我想成為影之強者！》的全新3D動作Rogue-lite家用主機遊戲，預計2027年發售。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】雖然是人氣IP改編，但目前公布為PC/家用主機平台，不符合手遊追蹤重點，除非成為現象級大作。",
+    "verified": "Agent 發現 (2026-09-05)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "未上線",
+        "date": "2027"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "未上線",
+        "date": "2027"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-05",
+    "addedAt": "2026-09-05",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 302,
+    "name": "塔防三國志：群英傳",
+    "nameEn": "Tower Defense Three Kingdoms: Heroes",
+    "developer": "騰訊遊戲 (Tencent Games)",
+    "studio": "騰訊遊戲 (Tencent Games)",
+    "publisher": "騰訊遊戲 (Tencent Games)",
+    "genre": "策略/塔防",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "medium",
+    "threatReason": "騰訊出品，三國IP具備一定號召力，但塔防類遊戲市場威脅性通常不如RPG。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "騰訊推出的三國題材塔防策略手遊，結合了三國武將養成與塔防玩法。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】騰訊出品，三國IP具備一定號召力，但塔防類遊戲市場威脅性通常不如RPG。",
+    "verified": "Agent 發現 (2026-09-05)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "預註冊",
+        "date": "2026-Q4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-09-05",
+    "addedAt": "2026-09-05",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 303,
+    "name": "射鵰英雄傳：群俠傳",
+    "nameEn": "The Legend of the Condor Heroes: Group Heroes",
+    "developer": "網易遊戲 (NetEase Games)",
+    "studio": "網易遊戲 (NetEase Games)",
+    "publisher": "網易遊戲 (NetEase Games)",
+    "genre": "開放世界RPG",
+    "platform": [
+      "Mobile",
+      "PC"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "網易大廠開發，金庸頂級武俠IP，開放世界RPG玩法，具備極高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q2",
+    "desc": "網易開發的金庸武俠IP改編開放世界RPG，重現射鵰江湖。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】網易大廠開發，金庸頂級武俠IP，開放世界RPG玩法，具備極高市場潛力。",
+    "verified": "Agent 發現 (2026-09-05)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "2027-Q2"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-05",
+    "addedAt": "2026-09-05",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 304,
+    "name": "劍與遠征：啟程",
+    "nameEn": "AFK Journey",
+    "developer": "莉莉絲遊戲 (Lilith Games)",
+    "studio": "莉莉絲遊戲 (Lilith Games)",
+    "publisher": "莉莉絲遊戲 (Lilith Games)",
+    "genre": "開放世界RPG",
+    "platform": [
+      "Mobile",
+      "PC"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "critical",
+    "threatReason": "莉莉絲大廠，知名IP續作，已於全球市場上線並取得良好成績，具備極高市場影響力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2024-08",
+    "desc": "莉莉絲遊戲《劍與遠征》IP的全新開放世界RPG續作，主打探索與策略戰鬥。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】莉莉絲大廠，知名IP續作，已於全球市場上線並取得良好成績，具備極高市場影響力。",
+    "verified": "Agent 發現 (2026-09-05)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2024-08-08"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-05",
+    "addedAt": "2026-09-05",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 305,
+    "name": "來自星塵",
+    "nameEn": "Ex Astris",
+    "developer": "鷹角網路 (Hypergryph)",
+    "studio": "鷹角網路 (Hypergryph)",
+    "publisher": "鷹角網路 (Hypergryph)",
+    "genre": "回合制RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "《明日方舟》開發商鷹角網路新作，二次元風格與高品質RPG，已於全球市場上線，在二次元玩家群體中受歡迎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2024-02",
+    "desc": "鷹角網路開發的買斷制3D半即時制回合RPG手遊，以獨特的科幻美術風格和策略戰鬥為特色。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】《明日方舟》開發商鷹角網路新作，二次元風格與高品質RPG，已於全球市場上線，在二次元玩家群體中受歡迎。",
+    "verified": "Agent 發現 (2026-09-05)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2024-02-27"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-05",
+    "addedAt": "2026-09-05",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 306,
+    "name": "DNF Duel Mobile",
+    "nameEn": "DNF Duel Mobile",
+    "developer": "Nexon",
+    "studio": "Nexon",
+    "publisher": "Nexon",
+    "genre": "動作格鬥",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "Nexon大廠出品，DNF知名IP改編格鬥手遊，具備龐大粉絲基礎和競技潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q3",
+    "desc": "知名格鬥遊戲《DNF Duel》的行動版，將經典格鬥體驗帶到手機平台。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】Nexon大廠出品，DNF知名IP改編格鬥手遊，具備龐大粉絲基礎和競技潛力。",
+    "verified": "Agent 發現 (2026-09-05)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "未上線",
+        "date": "2027-Q3"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-05",
+    "addedAt": "2026-09-05",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 307,
+    "name": "白荊迴廊",
+    "nameEn": "Project Snow",
+    "developer": "Bilibili (發行), Studio Mirai (開發)",
+    "studio": "Bilibili (發行), Studio Mirai (開發)",
+    "publisher": "Bilibili (發行), Studio Mirai (開發)",
+    "genre": "策略RPG",
+    "platform": [
+      "Mobile",
+      "PC"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "Bilibili發行，二次元風格，策略RPG玩法，已於全球市場上線，具備一定市場競爭力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2023-07",
+    "desc": "Bilibili發行的二次元即時策略RPG，結合了塔防與角色養成元素，已更名為《塵白禁區》。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】Bilibili發行，二次元風格，策略RPG玩法，已於全球市場上線，具備一定市場競爭力。",
+    "verified": "Agent 發現 (2026-09-05)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2023-07-20"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-05",
+    "addedAt": "2026-09-05",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 308,
+    "name": "冒險島：楓之傳說",
+    "nameEn": "MapleStory M: The Legend of Maple",
+    "developer": "Nexon",
+    "studio": "Nexon",
+    "publisher": "Nexon",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "critical",
+    "threatReason": "Nexon大廠出品，國民級回憶IP《冒險島》全新MMORPG手遊，已在中國市場上線，預期將引發大規模懷舊熱潮。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2023-08",
+    "desc": "Nexon官方正版授權，知名端遊《冒險島》IP的全新行動版MMORPG，高度還原端遊內容。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】Nexon大廠出品，國民級回憶IP《冒險島》全新MMORPG手遊，已在中國市場上線，預期將引發大規模懷舊熱潮。",
+    "verified": "Agent 發現 (2026-09-05)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2023-08-17"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-05",
+    "addedAt": "2026-09-05",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 309,
+    "name": "晶核",
+    "nameEn": "Project: Crystal",
+    "developer": "Nuverse (字節跳動)",
+    "studio": "Nuverse (字節跳動)",
+    "publisher": "Nuverse (字節跳動)",
+    "genre": "開放世界RPG",
+    "platform": [
+      "Mobile",
+      "PC"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "threatReason": "字節跳動大廠出品，二次元開放世界動作RPG，畫面精美，戰鬥流暢，具備成為爆款的潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "字節跳動旗下Nuverse開發的二次元開放世界動作RPG，主打高自由度探索與爽快戰鬥。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】字節跳動大廠出品，二次元開放世界動作RPG，畫面精美，戰鬥流暢，具備成為爆款的潛力。",
+    "verified": "Agent 發現 (2026-09-05)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "封測中",
+        "date": "2026-11-01"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-09-05",
+    "addedAt": "2026-09-05",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
   }
 ]

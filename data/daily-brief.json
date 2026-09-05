@@ -1,7 +1,139 @@
 {
-  "lastUpdated": "2026-09-04T04:58:59.656499+00:00",
-  "fetchCount": 114,
+  "lastUpdated": "2026-09-05T04:44:40.538893+00:00",
+  "fetchCount": 115,
   "items": [
+    {
+      "id": "brief-20260905-42fc2b18",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "晶核（新發現・高威脅）",
+      "detail": "字節跳動大廠出品，二次元開放世界動作RPG，畫面精美，戰鬥流暢，具備成為爆款的潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
+    },
+    {
+      "id": "brief-20260905-0979a690",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "冒險島：楓之傳說（新發現・高威脅）",
+      "detail": "Nexon大廠出品，國民級回憶IP《冒險島》全新MMORPG手遊，已在中國市場上線，預期將引發大規模懷舊熱潮。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
+    },
+    {
+      "id": "brief-20260905-0de30f41",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "白荊迴廊（新發現・高威脅）",
+      "detail": "Bilibili發行，二次元風格，策略RPG玩法，已於全球市場上線，具備一定市場競爭力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
+    },
+    {
+      "id": "brief-20260905-e7e09f8b",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "DNF Duel Mobile（新發現・高威脅）",
+      "detail": "Nexon大廠出品，DNF知名IP改編格鬥手遊，具備龐大粉絲基礎和競技潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
+    },
+    {
+      "id": "brief-20260905-7f88f507",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "來自星塵（新發現・高威脅）",
+      "detail": "《明日方舟》開發商鷹角網路新作，二次元風格與高品質RPG，已於全球市場上線，在二次元玩家群體中受歡迎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
+    },
+    {
+      "id": "brief-20260905-7884bde8",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "劍與遠征：啟程（新發現・高威脅）",
+      "detail": "莉莉絲大廠，知名IP續作，已於全球市場上線並取得良好成績，具備極高市場影響力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
+    },
+    {
+      "id": "brief-20260905-77785065",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "射鵰英雄傳：群俠傳（新發現・高威脅）",
+      "detail": "網易大廠開發，金庸頂級武俠IP，開放世界RPG玩法，具備極高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
+    },
+    {
+      "id": "brief-20260905-1391fe67",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "灼眼的夏娜 烈焰之刃（新發現・高威脅）",
+      "detail": "知名輕小說IP改編，二次元放置RPG玩法，預期有較高市場關注度，且支援多語言發行。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
+    },
+    {
+      "id": "brief-20260905-3e7fe100",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Switch 2直面會9/9登場",
+      "detail": "任天堂將介紹冬季Switch 2遊戲",
+      "action": "準時收看直播",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-05T04:42:53.861337+00:00"
+    },
+    {
+      "id": "brief-20260905-c8f06e32",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "鬼武者Way of Sword上市",
+      "detail": "CAPCOM新作已於9/4正式發售",
+      "action": "立即體驗劍鬥動作",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-05T04:42:53.861337+00:00"
+    },
+    {
+      "id": "brief-20260905-749132f4",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "NBA 2K27正式上市",
+      "detail": "籃球模擬遊戲新作已登陸多平台",
+      "action": "立即體驗籃球樂趣",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-05T04:42:53.861337+00:00"
+    },
+    {
+      "id": "brief-20260905-369e4205",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "波拉西亞戰記停運",
+      "detail": "遊戲橘子MMORPG將於12/31結束營運",
+      "action": "玩家留意權益",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-05T04:42:53.861337+00:00"
+    },
     {
       "id": "brief-20260904-a6834b6d",
       "priority": "urgent",
@@ -89,138 +221,6 @@
       "platform": "console",
       "source": "版號公示",
       "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-22a3fb82",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "龍之谷：經典（新發現・高威脅）",
-      "detail": "知名MMORPG IP改編，具備大量粉絲基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-e5f81e0e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "絕區零：深淵（新發現・高威脅）",
-      "detail": "《絕區零》作為米哈遊的新IP，其衍生作品將受益於大廠的品牌效應和高質量製作，具備較高威脅。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-763cec90",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "少女前線2：追放（新發現・高威脅）",
-      "detail": "《少女前線》IP擁有龐大的粉絲基礎，續作在中國市場已上線並表現良好，全球化後將是重要的二次元競品。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-3d1119bd",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "代號：ATLAS（新發現・高威脅）",
-      "detail": "騰訊作為全球頂級遊戲大廠，其自研開放世界新作具備雄厚的資源和技術支持，有望成為市場黑馬。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-4afc6c7a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "仙境傳說：新世代（新發現・高威脅）",
-      "detail": "《仙境傳說》是亞洲地區極具影響力的經典IP，其新世代手遊版本將吸引大量回憶向玩家和MMORPG愛好者。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-74c75015",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "地下城與勇士：起源（新發現・高威脅）",
-      "detail": "《地下城與勇士》是國民級IP，其手遊版本在中國市場已證明其吸金能力，全球化後將是現象級產品。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-42518c61",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "崩壞：星穹鐵道 2（新發現・高威脅）",
-      "detail": "《崩壞：星穹鐵道》是米哈遊另一款成功的二次元IP，其續作將繼承龐大的玩家基礎和高期待度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-e949b447",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "原神：提瓦特編年史（新發現・高威脅）",
-      "detail": "《原神》是全球頂級的二次元開放世界IP，任何相關新作都將是市場焦點，具備現象級潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-966eb1ca",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "鳴潮：無限（新發現・高威脅）",
-      "detail": "《鳴潮》作為一款成功的二次元開放世界ARPG，其續作或大型更新將吸引大量核心玩家，具備高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260904-cdf209be",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "Frontier與迪士尼合作",
-      "detail": "開發融合經典IP的模擬經營新作。",
-      "action": "關注開發進度",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-04T04:48:52.929864+00:00"
-    },
-    {
-      "id": "brief-20260904-c8df5ff9",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《FF VII 啟示》2027年推出",
-      "detail": "FF7重製版第三部，2027/4/8上市。",
-      "action": "關注後續情報",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-04T04:48:52.929864+00:00"
-    },
-    {
-      "id": "brief-20260904-5bc6a53f",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《DQ怪物仙境4》續報",
-      "detail": "12/3上市，公布續報宣傳影片。",
-      "action": "準備預購",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-04T04:48:52.929864+00:00"
     }
   ]
 }
