@@ -15483,5 +15483,489 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
+  },
+  {
+    "id": 310,
+    "name": "鬼影都市",
+    "nameEn": "Ghosts in the City",
+    "developer": "未公開",
+    "studio": "未公開",
+    "publisher": "未公開",
+    "genre": "開放世界",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "開放世界合作遊戲，具備一定市場潛力，但開發商與具體玩法細節待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "一款合作開放世界新作，玩家將化身「鬼影」勇闖東京異變廢墟。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】開放世界合作遊戲，具備一定市場潛力，但開發商與具體玩法細節待觀察。",
+    "verified": "Agent 發現 (2026-09-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-06",
+    "addedAt": "2026-09-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 311,
+    "name": "Rev. NOiR",
+    "nameEn": "Rev. NOiR",
+    "developer": "KONAMI",
+    "studio": "KONAMI",
+    "publisher": "KONAMI",
+    "genre": "角色扮演",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "由大廠 KONAMI 推出，雖然平台未完全確定，但作為 RPG 新作，具備較高關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "KONAMI 公布的全新 RPG 作品，預計於 2027 年推出，已公開故事與戰鬥預告。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】由大廠 KONAMI 推出，雖然平台未完全確定，但作為 RPG 新作，具備較高關注度。",
+    "verified": "Agent 發現 (2026-09-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-06",
+    "addedAt": "2026-09-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 312,
+    "name": "緋紅狂想曲",
+    "nameEn": "RHAPSODY IN SCARLET",
+    "developer": "KONAMI",
+    "studio": "KONAMI",
+    "publisher": "KONAMI",
+    "genre": "動作冒險",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "由大廠 KONAMI 推出，動作冒險類型具備市場潛力，且背景設定獨特。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "KONAMI 宣布的神秘動作冒險遊戲，背景設定在 1920 年代的紐約。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】由大廠 KONAMI 推出，動作冒險類型具備市場潛力，且背景設定獨特。",
+    "verified": "Agent 發現 (2026-09-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-06",
+    "addedAt": "2026-09-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 313,
+    "name": "鋼彈 叛逆軌道",
+    "nameEn": "Gundam Rogue Orbit",
+    "developer": "未公開",
+    "studio": "未公開",
+    "publisher": "未公開",
+    "genre": "動作",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "鋼彈是全球知名的大型 IP，其手遊新作預期將吸引大量粉絲，具備現象級潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-03",
+    "desc": "一款全新的鋼彈動作遊戲，主打高機動性戰鬥，對抗「未知威脅」。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】鋼彈是全球知名的大型 IP，其手遊新作預期將吸引大量粉絲，具備現象級潛力。",
+    "verified": "Agent 發現 (2026-09-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-06",
+    "addedAt": "2026-09-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 314,
+    "name": "王者榮耀：破曉",
+    "nameEn": "Honor of Kings: Dawn",
+    "developer": "騰訊",
+    "studio": "騰訊",
+    "publisher": "騰訊",
+    "genre": "動作",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "critical",
+    "threatReason": "騰訊旗下《王者榮耀》的衍生新作，擁有龐大的用戶基礎和極高的市場關注度，預期將是現象級產品。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "騰訊「王者新作」之一，預約人數已突破 7000 萬，預計 9 月 10 日正式定檔。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】騰訊旗下《王者榮耀》的衍生新作，擁有龐大的用戶基礎和極高的市場關注度，預期將是現象級產品。",
+    "verified": "Agent 發現 (2026-09-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "預註冊",
+        "date": "2026-09-10"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-09-06",
+    "addedAt": "2026-09-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 315,
+    "name": "不良人8",
+    "nameEn": "",
+    "developer": "海南苍茂网络技术有限公司",
+    "studio": "海南苍茂网络技术有限公司",
+    "publisher": "海南苍茂网络技术有限公司",
+    "genre": "武侠RPG",
+    "platform": [
+      "Mobile",
+      "Client"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名国漫IP改编，拥有庞大粉丝基础，且为移动和客户端双端游戏。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "由知名国漫《画江湖之不良人》改编的武侠角色扮演游戏，支持移动和客户端双端游玩。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名国漫IP改编，拥有庞大粉丝基础，且为移动和客户端双端游戏。",
+    "verified": "版號雷達 (2026-09-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-06",
+    "addedAt": "2026-09-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 316,
+    "name": "哆奇哆棋",
+    "nameEn": "",
+    "developer": "勇仕网络",
+    "studio": "勇仕网络",
+    "publisher": "勇仕网络",
+    "genre": "策略棋牌/二次元/抽卡",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名二次元/抽卡游戏开发商勇仕网络的新作，有望吸引二次元玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "由知名二次元/抽卡游戏开发商勇仕网络开发，可能融合二次元风格和抽卡元素的策略棋牌游戏。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名二次元/抽卡游戏开发商勇仕网络的新作，有望吸引二次元玩家。",
+    "verified": "版號雷達 (2026-09-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-06",
+    "addedAt": "2026-09-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 317,
+    "name": "主公快上马",
+    "nameEn": "",
+    "developer": "三七互娱",
+    "studio": "三七互娱",
+    "publisher": "三七互娱",
+    "genre": "策略/RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名大厂三七互娱的新作，可能为热门的三国题材。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "由知名大厂三七互娱开发或发行，可能为热门的三国题材策略或角色扮演游戏。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名大厂三七互娱的新作，可能为热门的三国题材。",
+    "verified": "版號雷達 (2026-09-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-06",
+    "addedAt": "2026-09-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 318,
+    "name": "合合骑士团",
+    "nameEn": "",
+    "developer": "电魂网络",
+    "studio": "电魂网络",
+    "publisher": "电魂网络",
+    "genre": "角色扮演/策略",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名开发商电魂网络的新作，可能为RPG或策略类游戏。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "由知名开发商电魂网络开发，可能是一款奇幻背景的角色扮演或策略游戏。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名开发商电魂网络的新作，可能为RPG或策略类游戏。",
+    "verified": "版號雷達 (2026-09-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-06",
+    "addedAt": "2026-09-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 319,
+    "name": "驭龙之契",
+    "nameEn": "",
+    "developer": "苏州利为网络科技有限公司 (出版单位: 广州多益网络股份有限公司)",
+    "studio": "苏州利为网络科技有限公司 (出版单位: 广州多益网络股份有限公司)",
+    "publisher": "苏州利为网络科技有限公司 (出版单位: 广州多益网络股份有限公司)",
+    "genre": "角色扮演/奇幻",
+    "platform": [
+      "Mobile",
+      "Client"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名大厂多益网络出版，且为移动和客户端双端奇幻RPG，有较大市场潜力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "由知名大厂多益网络出版的双端奇幻角色扮演游戏，覆盖移动与客户端双端运行场景。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名大厂多益网络出版，且为移动和客户端双端奇幻RPG，有较大市场潜力。",
+    "verified": "版號雷達 (2026-09-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-06",
+    "addedAt": "2026-09-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 320,
+    "name": "勇者工坊",
+    "nameEn": "",
+    "developer": "厦门雷霆互动网络有限公司",
+    "studio": "厦门雷霆互动网络有限公司",
+    "publisher": "厦门雷霆互动网络有限公司",
+    "genre": "角色扮演/模拟经营",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名开发商雷霆互动的新作，可能为RPG或模拟经营类游戏。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "由知名开发商雷霆互动开发，可能是一款融合了角色扮演和模拟经营元素的游戏。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名开发商雷霆互动的新作，可能为RPG或模拟经营类游戏。",
+    "verified": "版號雷達 (2026-09-06)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-06",
+    "addedAt": "2026-09-06",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
   }
 ]

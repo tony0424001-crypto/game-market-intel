@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-09-05T04:44:40.538893+00:00",
-  "fetchCount": 115,
+  "lastUpdated": "2026-09-06T05:04:47.937032+00:00",
+  "fetchCount": 116,
   "items": [
+    {
+      "id": "brief-20260906-b796f885",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "驭龙之契（新發現・高威脅）",
+      "detail": "知名大厂多益网络出版，且为移动和客户端双端奇幻RPG，有较大市场潜力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-06T05:04:47.937032+00:00"
+    },
+    {
+      "id": "brief-20260906-49e06743",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "哆奇哆棋（新發現・高威脅）",
+      "detail": "知名二次元/抽卡游戏开发商勇仕网络的新作，有望吸引二次元玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-06T05:04:47.937032+00:00"
+    },
+    {
+      "id": "brief-20260906-191aa13f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "不良人8（新發現・高威脅）",
+      "detail": "知名国漫IP改编，拥有庞大粉丝基础，且为移动和客户端双端游戏。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-06T05:04:47.937032+00:00"
+    },
+    {
+      "id": "brief-20260906-e484877f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "王者榮耀：破曉（新發現・高威脅）",
+      "detail": "騰訊旗下《王者榮耀》的衍生新作，擁有龐大的用戶基礎和極高的市場關注度，預期將是現象級產品。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-06T05:04:47.937032+00:00"
+    },
+    {
+      "id": "brief-20260906-fb3cd8d0",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "鋼彈 叛逆軌道（新發現・高威脅）",
+      "detail": "鋼彈是全球知名的大型 IP，其手遊新作預期將吸引大量粉絲，具備現象級潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-06T05:04:47.937032+00:00"
+    },
+    {
+      "id": "brief-20260906-d2c325bc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "緋紅狂想曲（新發現・高威脅）",
+      "detail": "由大廠 KONAMI 推出，動作冒險類型具備市場潛力，且背景設定獨特。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-06T05:04:47.937032+00:00"
+    },
+    {
+      "id": "brief-20260906-734a764e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Rev. NOiR（新發現・高威脅）",
+      "detail": "由大廠 KONAMI 推出，雖然平台未完全確定，但作為 RPG 新作，具備較高關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-06T05:04:47.937032+00:00"
+    },
     {
       "id": "brief-20260905-42fc2b18",
       "priority": "urgent",
@@ -144,83 +221,6 @@
       "platform": "mobile",
       "source": "新聞報導/模型知識推論",
       "fetchedAt": "2026-09-04T04:58:59.656499+00:00"
-    },
-    {
-      "id": "brief-20260904-d7f568cb",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "詭秘之主（新發現・高威脅）",
-      "detail": "頂級網文IP改編，大製作MMORPG，公測數據顯示其市場影響力巨大。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-04T04:58:59.656499+00:00"
-    },
-    {
-      "id": "brief-20260904-38b4d6b0",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《FF Resonance》釋出試玩",
-      "detail": "HD-2D新作試玩版開放，進度可繼承。",
-      "action": "立即下載試玩",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-04T04:48:52.929864+00:00"
-    },
-    {
-      "id": "brief-20260903-663bf65a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "希望之啟航（新發現・高威脅）",
-      "detail": "經典MMORPG IP改編，具備懷舊情懷和粉絲基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-f098cd29",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "我獨自升級：崛起（新發現・高威脅）",
-      "detail": "全球爆紅IP改編，已在海外市場取得巨大成功，由知名大廠Netmarble開發。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-f6e9ba37",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "凡人修仙傳：大道（新發現・高威脅）",
-      "detail": "熱門網路小說IP改編，由知名遊戲公司開發。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-d5b2d2e6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "天龍八部：經典永恆（新發現・高威脅）",
-      "detail": "知名武俠MMORPG IP改編，擁有龐大華人玩家群。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
-    },
-    {
-      "id": "brief-20260903-16e315c6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "魔法門之英雄無敵III重製版（新發現・高威脅）",
-      "detail": "全球國民級策略IP復刻，由知名大廠育碧主導開發。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "console",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-03T04:51:42.448438+00:00"
     }
   ]
 }

@@ -1,19 +1,11 @@
 {
-  "lastAudit": "2026-09-05T04:43:19.832133+00:00",
-  "totalProducts": 296,
-  "updatesApplied": 8,
-  "issuesFound": 1,
+  "lastAudit": "2026-09-06T04:58:57.640395+00:00",
+  "totalProducts": 306,
+  "updatesApplied": 0,
+  "issuesFound": 0,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
-  "findings": [
-    {
-      "name": "歸環",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    }
-  ],
+  "findings": [],
   "checked": [
-    "歸環",
     "粒粒的小人國",
     "劍與遠征：家園",
     "星布穀地",
@@ -27,7 +19,8 @@
     "全明星覺醒",
     "彩虹六號",
     "絕地求生：DED.NET",
-    "按讚或去死"
+    "按讚或去死",
+    "星際理想國"
   ],
   "nextBatch": [
     "無限大",
