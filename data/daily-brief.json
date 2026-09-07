@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-09-06T05:04:47.937032+00:00",
-  "fetchCount": 116,
+  "lastUpdated": "2026-09-07T05:07:57.517005+00:00",
+  "fetchCount": 117,
   "items": [
+    {
+      "id": "brief-20260907-992adb67",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "閃耀吧！嚕咪（新發現・高威脅）",
+      "detail": "B站自研，捉寵題材，休閒治癒風格，預期在中國市場有高關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導/官方公告",
+      "fetchedAt": "2026-09-07T05:07:57.517005+00:00"
+    },
+    {
+      "id": "brief-20260907-f334eef1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "藍色真珠（新發現・高威脅）",
+      "detail": "大廠網石，二次元/抽卡美少女RPG，針對日本市場，預期有高市場關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導/官方公告",
+      "fetchedAt": "2026-09-07T05:07:57.517005+00:00"
+    },
+    {
+      "id": "brief-20260907-4ef87e44",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "七騎士Re:BIRTH（新發現・高威脅）",
+      "detail": "經典IP重製，大廠網石，收集型RPG，已全球上線並持續更新，預期有高市場關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導/官方公告",
+      "fetchedAt": "2026-09-07T05:07:57.517005+00:00"
+    },
+    {
+      "id": "brief-20260907-1fb37314",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Nintendo Direct 9/9",
+      "detail": "9/9晚間登場，介紹Switch 2冬季遊戲",
+      "action": "準時收看",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-07T04:58:45.821649+00:00"
+    },
+    {
+      "id": "brief-20260907-8efc5854",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《NBA 2K27》已上市",
+      "detail": "全新籃球模擬遊戲，多平台推出",
+      "action": "立即體驗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-07T04:58:45.821649+00:00"
+    },
+    {
+      "id": "brief-20260907-a1788e8b",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《鬼武者》已上市",
+      "detail": "9/4發售，公開上市宣傳影片",
+      "action": "立即體驗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-07T04:58:45.821649+00:00"
+    },
+    {
+      "id": "brief-20260907-ca1e7e05",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《波拉西亞戰記》停運",
+      "detail": "12/31結束營運，關閉所有伺服器",
+      "action": "留意公告",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-07T04:58:45.821649+00:00"
+    },
     {
       "id": "brief-20260906-b796f885",
       "priority": "urgent",
@@ -144,83 +221,6 @@
       "platform": "mobile",
       "source": "模型知識推論",
       "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
-    },
-    {
-      "id": "brief-20260905-77785065",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "射鵰英雄傳：群俠傳（新發現・高威脅）",
-      "detail": "網易大廠開發，金庸頂級武俠IP，開放世界RPG玩法，具備極高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
-    },
-    {
-      "id": "brief-20260905-1391fe67",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "灼眼的夏娜 烈焰之刃（新發現・高威脅）",
-      "detail": "知名輕小說IP改編，二次元放置RPG玩法，預期有較高市場關注度，且支援多語言發行。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
-    },
-    {
-      "id": "brief-20260905-3e7fe100",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Switch 2直面會9/9登場",
-      "detail": "任天堂將介紹冬季Switch 2遊戲",
-      "action": "準時收看直播",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-05T04:42:53.861337+00:00"
-    },
-    {
-      "id": "brief-20260905-c8f06e32",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "鬼武者Way of Sword上市",
-      "detail": "CAPCOM新作已於9/4正式發售",
-      "action": "立即體驗劍鬥動作",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-05T04:42:53.861337+00:00"
-    },
-    {
-      "id": "brief-20260905-749132f4",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "NBA 2K27正式上市",
-      "detail": "籃球模擬遊戲新作已登陸多平台",
-      "action": "立即體驗籃球樂趣",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-05T04:42:53.861337+00:00"
-    },
-    {
-      "id": "brief-20260905-369e4205",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "波拉西亞戰記停運",
-      "detail": "遊戲橘子MMORPG將於12/31結束營運",
-      "action": "玩家留意權益",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-05T04:42:53.861337+00:00"
-    },
-    {
-      "id": "brief-20260904-a6834b6d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "戀與深空（新發現・高威脅）",
-      "detail": "疊紙遊戲在女性向二游領域的旗艦新作，預期將吸引大量玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導/模型知識推論",
-      "fetchedAt": "2026-09-04T04:58:59.656499+00:00"
     }
   ]
 }

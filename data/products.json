@@ -15967,5 +15967,397 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 321,
+    "name": "七騎士Re:BIRTH",
+    "nameEn": "Seven Knights Re:BIRTH",
+    "developer": "Netmarble Nexus Inc.",
+    "studio": "Netmarble Nexus Inc.",
+    "publisher": "Netmarble Nexus Inc.",
+    "genre": "收集型RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "經典IP重製，大廠網石，收集型RPG，已全球上線並持續更新，預期有高市場關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2025-Q3",
+    "desc": "網石集團旗下經典IP《七騎士》的重製版，是一款回合制收集型RPG，擁有華麗視覺效果與策略戰鬥。",
+    "tags": [
+      "新聞報導/官方公告"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/官方公告】經典IP重製，大廠網石，收集型RPG，已全球上線並持續更新，預期有高市場關注度。",
+    "verified": "Agent 發現 (2026-09-07)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR/Global",
+        "status": "已上線",
+        "date": "2025-09-18"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/官方公告"
+  },
+  {
+    "id": 322,
+    "name": "藍色真珠",
+    "nameEn": "Pearl in Blue",
+    "developer": "Netmarble N2 Inc.",
+    "studio": "Netmarble N2 Inc.",
+    "publisher": "Netmarble N2 Inc.",
+    "genre": "美少女RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "大廠網石，二次元/抽卡美少女RPG，針對日本市場，預期有高市場關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "網石N2開發的美少女系RPG，以「月刊戀愛喜劇」為概念，玩家扮演經紀人引導少女騎士成長。",
+    "tags": [
+      "新聞報導/官方公告"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/官方公告】大廠網石，二次元/抽卡美少女RPG，針對日本市場，預期有高市場關注度。",
+    "verified": "Agent 發現 (2026-09-07)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "未上線",
+        "date": "TBA"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/官方公告"
+  },
+  {
+    "id": 323,
+    "name": "閃耀吧！嚕咪",
+    "nameEn": "Shanyao Ba! Lumi",
+    "developer": "嗶哩嗶哩遊戲",
+    "studio": "嗶哩嗶哩遊戲",
+    "publisher": "嗶哩嗶哩遊戲",
+    "genre": "捉寵經營",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "threatReason": "B站自研，捉寵題材，休閒治癒風格，預期在中國市場有高關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "嗶哩嗶哩自研自發的休閒治癒捉寵經營手遊，強調輕量化與無壓力體驗。",
+    "tags": [
+      "新聞報導/官方公告"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/官方公告】B站自研，捉寵題材，休閒治癒風格，預期在中國市場有高關注度。",
+    "verified": "Agent 發現 (2026-09-07)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "封測中",
+        "date": "2026-09"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/官方公告"
+  },
+  {
+    "id": 324,
+    "name": "星眠",
+    "nameEn": "Xing Mian",
+    "developer": "阿里巴巴靈犀互娛 (運營商)",
+    "studio": "阿里巴巴靈犀互娛 (運營商)",
+    "publisher": "阿里巴巴靈犀互娛 (運營商)",
+    "genre": "文字冒險",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "女性向，AI互動，敘事驅動，但文字冒險類型市場規模待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "一款女性向沉浸式文字冒險手遊，融合AI互動、夢境探索、旅店經營與情感養成。",
+    "tags": [
+      "版號公示/新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・版號公示/新聞報導】女性向，AI互動，敘事驅動，但文字冒險類型市場規模待觀察。",
+    "verified": "Agent 發現 (2026-09-07)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "TBA"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示/新聞報導"
+  },
+  {
+    "id": 325,
+    "name": "高塔旅人",
+    "nameEn": "Gao Ta Lü Ren",
+    "developer": "Stargazer Games",
+    "studio": "Stargazer Games",
+    "publisher": "Stargazer Games",
+    "genre": "解謎冒險",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "RPG元素，都市奇幻，但解謎為主，已上線。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3",
+    "desc": "一款都市奇幻解謎冒險RPG，玩家將與「旅人」少女們組隊攀登「星塔」揭開歷史秘密。",
+    "tags": [
+      "版號公示/官方公告"
+    ],
+    "threatAnalysis": "【自動發現・版號公示/官方公告】RPG元素，都市奇幻，但解謎為主，已上線。",
+    "verified": "Agent 發現 (2026-09-07)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-07-10"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示/官方公告"
+  },
+  {
+    "id": 326,
+    "name": "33號避難所",
+    "nameEn": "33 Hao Bi Nan Suo",
+    "developer": "廣州龍暢網絡科技有限公司",
+    "studio": "廣州龍暢網絡科技有限公司",
+    "publisher": "廣州龍暢網絡科技有限公司",
+    "genre": "生存策略",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "生存策略題材受歡迎，已獲得版號，但非二次元/大IP。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "一款生存策略手遊，玩家需爭奪避難所並管理資源，已獲得中國版號。",
+    "tags": [
+      "版號公示/新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・版號公示/新聞報導】生存策略題材受歡迎，已獲得版號，但非二次元/大IP。",
+    "verified": "Agent 發現 (2026-09-07)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "TBA"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示/新聞報導"
+  },
+  {
+    "id": 327,
+    "name": "百獸家園",
+    "nameEn": "Bai Shou Jia Yuan",
+    "developer": "廣州俊豪雲技術有限公司",
+    "studio": "廣州俊豪雲技術有限公司",
+    "publisher": "廣州俊豪雲技術有限公司",
+    "genre": "寵物養成",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "寵物題材有潛力，紫龍遊戲參與，已獲得版號，但具體玩法和規模待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "一款以寵物為主題的手遊，具體玩法待公布，已獲得中國版號。",
+    "tags": [
+      "版號公示/新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・版號公示/新聞報導】寵物題材有潛力，紫龍遊戲參與，已獲得版號，但具體玩法和規模待觀察。",
+    "verified": "Agent 發現 (2026-09-07)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "TBA"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示/新聞報導"
+  },
+  {
+    "id": 328,
+    "name": "長生：天機降世",
+    "nameEn": "Chang Sheng: Tian Ji Jiang Shi",
+    "developer": "電魂網絡 (推測)",
+    "studio": "電魂網絡 (推測)",
+    "publisher": "電魂網絡 (推測)",
+    "genre": "修真RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "修真題材受歡迎，單機RPG，已上線。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2025-Q4",
+    "desc": "一款單機修真題材RPG，以五行卡牌回合制戰鬥和深度劇情為特色。",
+    "tags": [
+      "版號公示/新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・版號公示/新聞報導】修真題材受歡迎，單機RPG，已上線。",
+    "verified": "Agent 發現 (2026-09-07)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "TBA"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-07",
+    "addedAt": "2026-09-07",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示/新聞報導"
   }
 ]
