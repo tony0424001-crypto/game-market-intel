@@ -10628,25 +10628,34 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "PC/Nintendo Switch 2/PS5 (預計中國大陸/全球)",
     "model": "F2P",
     "stage": "announced",
     "threat": "medium",
     "threatReason": "騰訊大廠新作，生活模擬類遊戲，潛在受眾廣泛。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "2027-Q1",
     "desc": "騰訊北極光工作室旗下的生活模擬產品，預計2026年推出測試版本。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】騰訊大廠新作，生活模擬類遊戲，潛在受眾廣泛。",
+    "threatAnalysis": "【中等規模】騰訊北極光工作室群自研的生活模擬遊戲，已於2026年3月進行首次技術測試，並確認將登陸PC、Nintendo Switch 2、PS5平台。遊戲美術風格獨特，玩法具備高自由度潛力，但目前仍處於早期階段，市場表現待觀察。\n\n▶ 建議行動：\n(1). 持續關注後續測試與市場反饋。\n(2). 評估其在生活模擬賽道的創新點與競爭力。\n(3). 追蹤其多平台發行策略。",
     "verified": "Agent 發現 (2026-08-27)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2744360/_/"
+      },
+      {
+        "label": "Epic Games Store",
+        "url": "https://store.epicgames.com/zh-Hant/p/lillilandia-28203c"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -10654,11 +10663,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-27",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-27",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2026年3月19日開啟首次技術測試。"
   },
   {
     "id": 202,
@@ -10671,19 +10681,19 @@
     "platform": [
       "Mobile"
     ],
-    "region": "Global",
+    "region": "全球 (預計)",
     "model": "F2P",
     "stage": "announced",
     "threat": "high",
     "threatReason": "莉莉絲大廠新作，可能與知名IP《劍與遠征》相關，潛力高。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "2027-Q1",
     "desc": "莉莉絲遊戲旗下新作，主打「空靈奇幻RPG」體驗。",
     "tags": [
       "官方公告"
     ],
-    "threatAnalysis": "【自動發現・官方公告】莉莉絲大廠新作，可能與知名IP《劍與遠征》相關，潛力高。",
+    "threatAnalysis": "【具體威脅】由Lilith Games開發的《劍與遠征》IP新作，預計2027年Q1上線。憑藉原IP的巨大成功和Lilith Games的研發實力，具備高度市場潛力。目前無新測試或上線資訊。\n\n▶ 建議行動：\n(1). 持續關注遊戲開發進度與宣傳活動。\n(2). 評估其對現有《劍與遠征》生態的影響。\n(3). 監測同類IP衍生遊戲的市場表現。",
     "verified": "Agent 發現 (2026-08-27)",
     "category": "active",
     "testType": "待確認",
@@ -10697,9 +10707,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-27",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-27",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
     "sourceType": "官方公告"
   },
@@ -10714,19 +10724,19 @@
     "platform": [
       "Mobile"
     ],
-    "region": "Global",
+    "region": "全球 (預計)",
     "model": "F2P",
     "stage": "announced",
     "threat": "critical",
     "threatReason": "米哈遊大廠新作，雖然是模擬經營，但其品牌號召力極強，預期會引起全球玩家高度關注。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 90,
     "launchEst": "2027-Q1",
     "desc": "米哈遊旗下首款種田模擬經營手遊，預期帶來不同於以往的遊戲體驗。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】米哈遊大廠新作，雖然是模擬經營，但其品牌號召力極強，預期會引起全球玩家高度關注。",
+    "threatAnalysis": "【現象級大作】米哈遊新作，預計2027年Q1上線。鑒於米哈遊過往作品的現象級表現（如《原神》、《崩壞：星穹鐵道》），此遊戲自公布起即被視為市場上的「critical」威脅。目前無新測試或上線資訊。\n\n▶ 建議行動：\n(1). 密切關注遊戲公布的任何新消息，包括玩法、美術風格和世界觀。\n(2). 提前分析其潛在的目標用戶群與市場策略。\n(3). 準備應對其可能帶來的市場衝擊。",
     "verified": "Agent 發現 (2026-08-27)",
     "category": "active",
     "testType": "待確認",
@@ -10740,9 +10750,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-27",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-27",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -10759,7 +10769,7 @@
       "Console",
       "Mobile"
     ],
-    "region": "Global",
+    "region": "全球 (預計)",
     "model": "F2P",
     "stage": "announced",
     "threat": "high",
@@ -10771,7 +10781,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】蔚藍檔案開發商新作，具備二次元與動作RPG要素，多平台發行，預期將吸引大量玩家關注。",
+    "threatAnalysis": "【具體威脅】Nexon Games (IO Division / RX Studio) 開發的遊戲，目前上線時間待定。Nexon作為大廠，其自研產品通常具備較高威脅等級。目前無新測試或上線資訊。\n\n▶ 建議行動：\n(1). 追蹤Nexon Games的官方公告與媒體報導。\n(2). 分析Nexon近期發行遊戲的市場表現。\n(3). 關注其是否會進行測試活動。",
     "verified": "Agent 發現 (2026-08-28)",
     "category": "active",
     "testType": "待確認",
@@ -10785,9 +10795,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-28",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -10802,19 +10812,19 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "中國大陸 (預計)",
     "model": "F2P",
     "stage": "pre-reg",
     "threat": "medium",
     "threatReason": "知名國漫IP改編，放置策略玩法，具備一定市場吸引力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2026-Q3/Q4",
     "desc": "以經典國漫IP《斗羅大陸》為基底的輕量化放置掛機與策略小隊戰鬥手遊。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名國漫IP改編，放置策略玩法，具備一定市場吸引力。",
+    "threatAnalysis": "【中等規模】基於熱門IP《斗羅大陸》開發，目前處於預註冊階段，預計2026年Q3/Q4上線。開發商待確認，市場表現仍需觀察。由於Q3已近尾聲，若未上線則可能延期至Q4。\n\n▶ 建議行動：\n(1). 密切關注其是否已於Q3上線或公布具體上線日期。\n(2). 追蹤預註冊人數與宣傳力度。\n(3). 評估IP改編遊戲的市場競爭。",
     "verified": "Agent 發現 (2026-08-28)",
     "category": "active",
     "testType": "待確認",
@@ -10828,9 +10838,9 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-28",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -10845,19 +10855,19 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN/Global",
+    "region": "韓國/東南亞 (預計)",
     "model": "F2P",
     "stage": "pre-reg",
     "threat": "high",
     "threatReason": "全球知名MMORPG IP改編，次世代3D畫面，預期將吸引大量MMORPG玩家。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "2026-Q3/Q4",
     "desc": "基於全球知名魔幻MMORPG IP《天堂2》打造，採用次世代3D引擎呈現廣闊無縫地圖與細膩角色建模。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】全球知名MMORPG IP改編，次世代3D畫面，預期將吸引大量MMORPG玩家。",
+    "threatAnalysis": "【具體威脅】基於經典IP《天堂2》開發，目前處於預註冊階段，預計2026年Q3/Q4上線。IP影響力巨大，具備較高市場潛力。開發商待確認。由於Q3已近尾聲，若未上線則可能延期至Q4。\n\n▶ 建議行動：\n(1). 密切關注其是否已於Q3上線或公布具體上線日期。\n(2). 追蹤預註冊人數與宣傳力度。\n(3). 評估其在MMORPG市場的競爭力。",
     "verified": "Agent 發現 (2026-08-28)",
     "category": "active",
     "testType": "待確認",
@@ -10871,9 +10881,9 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-28",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -10888,7 +10898,7 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN/TW/HK/MO",
+    "region": "中國大陸/台灣/香港/澳門 (預計)",
     "model": "F2P",
     "stage": "announced",
     "threat": "high",
@@ -10900,7 +10910,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】經典三國IP，策略類手遊在華人市場有廣大受眾。",
+    "threatAnalysis": "【具體威脅】以「三國」為題材的遊戲，預計2026年Q3/Q4上線。該題材在華人市場競爭激烈，具備一定威脅。開發商待確認。由於Q3已近尾聲，若未上線則可能延期至Q4。\n\n▶ 建議行動：\n(1). 密切關注其是否已於Q3上線或公布具體上線日期。\n(2). 追蹤預註冊人數與宣傳力度。\n(3). 分析其在三國策略遊戲市場的差異化競爭優勢。",
     "verified": "Agent 發現 (2026-08-28)",
     "category": "active",
     "testType": "待確認",
@@ -10914,9 +10924,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-28",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -10931,37 +10941,61 @@
     "platform": [
       "Mobile"
     ],
-    "region": "Global/JP",
+    "region": "全球 (中國大陸除外)",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "知名日本動漫IP改編，動作類玩法，預期將吸引大量粉絲。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q3/Q4",
+    "sentiment": 80,
+    "launchEst": "2026-08-06",
     "desc": "知名日本動漫IP《我的英雄學院》改編的動作手遊。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名日本動漫IP改編，動作類玩法，預期將吸引大量粉絲。",
+    "threatAnalysis": "【具體威脅】由KLab與gumi共同開發，改編自知名動畫IP《我的英雄學院》的Roguelite英雄動作遊戲，已於2026年8月6日全球（中國大陸除外）正式上線。遊戲事前登錄人數突破百萬，顯示其IP號召力與市場熱度。\n\n▶ 建議行動：\n(1). 監測遊戲上線後的營收與玩家活躍數據。\n(2). 分析其內容更新頻率與活動策略。\n(3). 評估其在動漫IP改編手遊市場的長期表現。",
     "verified": "Agent 發現 (2026-08-28)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "sourceLinks": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/tw/app/%E6%88%91%E7%9A%84%E8%8B%B1%E9%9B%84%E5%AD%B8%E9%99%A2-united-survival/id6449830580"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.klab.heroaca.unitedsurvival"
+      },
+      {
+        "label": "官網",
+        "url": "https://www.heroaca-unitedsurvival.com"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "全球 (中國大陸除外)",
+        "status": "launched",
+        "date": "2026-08-06"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-28",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2026年8月6日全球（中國大陸除外）正式上線。"
   },
   {
     "id": 209,
@@ -10974,37 +11008,57 @@
     "platform": [
       "Mobile"
     ],
-    "region": "Global/JP",
+    "region": "全球 (日本、中國大陸、港澳台及澳門除外)",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "知名日本動漫IP改編，動作類玩法，預期將吸引大量粉絲。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q3/Q4",
+    "sentiment": 80,
+    "launchEst": "2026-08-13",
     "desc": "知名日本動漫IP《JoJo的奇妙冒險》改編的動作手遊。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名日本動漫IP改編，動作類玩法，預期將吸引大量粉絲。",
+    "threatAnalysis": "【具體威脅】由KLab Games與萬達電影遊戲共同開發，改編自知名IP《JoJo的奇妙冒險》的3D策略卡牌手遊，已於2026年8月13日全球（日本、中國大陸、港澳台及澳門除外）正式上線。遊戲事前預約人數突破200萬，顯示其IP的強大號召力。\n\n▶ 建議行動：\n(1). 監測遊戲上線後的營收與玩家活躍數據。\n(2). 分析其內容更新頻率與活動策略。\n(3). 評估其在動漫IP改編手遊市場的長期表現。",
     "verified": "Agent 發現 (2026-08-28)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "sourceLinks": [
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.wandagames.jojogs"
+      },
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/205634"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "全球 (日本、中國大陸、港澳台及澳門除外)",
+        "status": "launched",
+        "date": "2026-08-13"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-28",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2026年8月13日全球（日本、中國大陸、港澳台及澳門除外）正式上線。"
   },
   {
     "id": 210,
@@ -11017,7 +11071,7 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "中國大陸 (預計)",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "high",
@@ -11029,7 +11083,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】騰訊大廠IP射擊新作，已上線並有長期運營規劃，具備強大市場競爭力。",
+    "threatAnalysis": "【具體威脅】騰訊天美工作室開發的FPS遊戲，已於2026年1月上線。作為騰訊旗下工作室的產品，具備穩定營運能力和市場影響力。目前無明顯衰退跡象。\n\n▶ 建議行動：\n(1). 持續監測遊戲的營收與玩家活躍數據。\n(2). 關注其版本更新與電競活動。\n(3). 分析其在中國大陸FPS市場的競爭態勢。",
     "verified": "Agent 發現 (2026-08-28)",
     "category": "active",
     "testType": "待確認",
@@ -11043,9 +11097,9 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-28",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -11060,19 +11114,19 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "中國大陸 (預計)",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "high",
     "threatReason": "SNK經典格鬥IP改編，騰訊代理發行，已上線，預期有高人氣。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "2026-01",
     "desc": "由SNK官方正版授權，集結《拳皇》系列經典角色的格鬥手遊。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】SNK經典格鬥IP改編，騰訊代理發行，已上線，預期有高人氣。",
+    "threatAnalysis": "【具體威脅】由凱撒文化研發、騰訊代理發行的遊戲，已於2026年1月上線。騰訊代理發行確保了其市場推廣和營運資源。目前無明顯衰退跡象。\n\n▶ 建議行動：\n(1). 持續監測遊戲的營收與玩家活躍數據。\n(2). 關注其版本更新與活動。\n(3). 分析其在中國大陸市場的表現。",
     "verified": "Agent 發現 (2026-08-28)",
     "category": "active",
     "testType": "待確認",
@@ -11086,9 +11140,9 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-28",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -11103,37 +11157,64 @@
     "platform": [
       "Mobile"
     ],
-    "region": "Global/CN",
+    "region": "全球 (圍攻與手遊), 中國大陸 (攻勢)",
     "model": "F2P",
     "stage": "live-ops",
-    "threat": "high",
-    "threatReason": "知名PC/主機IP改編，大廠育碧開發，騰訊代理國服，具備全球與中國市場的強大潛力。",
+    "threat": "critical",
+    "threatReason": "《彩虹六號：圍攻》作為全球現象級FPS遊戲，擁有龐大玩家基礎與高額營收。其手遊版已全球上線，國服PC/主機版亦由騰訊代理並開啟測試，顯示IP持續擴張與強勁市場地位。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 90,
     "launchEst": "Global: 2026-02, CN: 2026-Q3/Q4",
     "desc": "育碧知名IP《彩虹六號》改編的移動射擊遊戲，國際服已上線，國服版號已獲批。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名PC/主機IP改編，大廠育碧開發，騰訊代理國服，具備全球與中國市場的強大潛力。",
+    "threatAnalysis": "【現象級大作】《彩虹六號：圍攻》是育碧旗下的全球知名戰術射擊遊戲，自2015年上線以來持續保持高人氣與營收。其手遊版《虹彩六號M》已於2026年2月全球發行，而國服PC/主機版《彩虹六號：攻勢》由騰訊代理，並於2026年6月開啟首次技術測試，顯示該IP在全球及中國市場的強勁擴張勢頭。\n\n▶ 建議行動：\n(1). 密切關注《彩虹六號：攻勢》國服的測試進度與正式上線時間。\n(2). 分析《虹彩六號M》在全球手遊市場的營收與玩家留存數據。\n(3). 評估該IP在不同平台和地區的協同效應與競爭影響。",
     "verified": "Agent 發現 (2026-08-28)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "sourceLinks": [
+      {
+        "label": "彩虹六號：攻勢 官網",
+        "url": "https://r6.qq.com/"
+      },
+      {
+        "label": "虹彩六號：圍攻行動 維基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E8%99%B9%E5%BD%A9%E5%85%AD%E8%99%9F%EF%BC%9A%E5%9C%8D%E6%94%BB%E8%A1%8C%E5%8B%95"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "全球 (PC/主機版《彩虹六號：圍攻》)",
+        "status": "launched",
+        "date": "2015-12-01"
+      },
+      {
+        "region": "全球 (手遊版《虹彩六號M》)",
+        "status": "launched",
+        "date": "2026-02-23"
+      },
+      {
+        "region": "中國大陸 (PC/主機版《彩虹六號：攻勢》)",
+        "status": "cbt",
+        "date": "2026-06-17 (首次技術測試)"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-28",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "《虹彩六號M》手遊已於2026年2月23日全球上線；《彩虹六號：攻勢》（國服PC/主機版）已於2026年6月17日開啟首次技術測試。",
+    "eventNote": "《虹彩六號M》手遊已於2026年2月23日全球上線；《彩虹六號：攻勢》（國服PC/主機版）已於2026年6月17日開啟首次技術測試。"
   },
   {
     "id": 213,
@@ -11146,19 +11227,19 @@
     "platform": [
       "Mobile"
     ],
-    "region": "Global",
+    "region": "全球 (預計)",
     "model": "F2P",
     "stage": "cbt",
     "threat": "high",
     "threatReason": "知名IP《絕地求生》新作，大廠KRAFTON開發，結合熱門Roguelite玩法，預期將吸引大量射擊遊戲玩家。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "TBD",
     "desc": "KRAFTON推出的《絕地求生》系列新作，融合射擊與Roguelite要素，背景設定在虛構的90年代地區。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名IP《絕地求生》新作，大廠KRAFTON開發，結合熱門Roguelite玩法，預期將吸引大量射擊遊戲玩家。",
+    "threatAnalysis": "【具體威脅】KRAFTON開發的《絕地求生》系列新作，目前仍處於CBT階段。憑藉《絕地求生》的全球影響力，此新作仍具備高度威脅。目前無新測試或上線資訊。\n\n▶ 建議行動：\n(1). 密切關注其CBT進度與結束時間。\n(2). 追蹤遊戲玩法創新與市場定位。\n(3). 評估其對現有《絕地求生》產品線的影響。",
     "verified": "Agent 發現 (2026-08-28)",
     "category": "active",
     "testType": "待確認",
@@ -11172,9 +11253,9 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-08-28",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -11189,7 +11270,7 @@
     "platform": [
       "Mobile"
     ],
-    "region": "KR/Global",
+    "region": "韓國/全球 (預計)",
     "model": "F2P",
     "stage": "announced",
     "threat": "high",
@@ -11201,7 +11282,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】大廠NCSOFT新作，射擊類玩法，獨特直播主主題，具備潛在市場吸引力。",
+    "threatAnalysis": "【具體威脅】NCSOFT開發的遊戲，目前處於公布階段，上線時間待定。NCSOFT作為韓國大廠，其產品通常具備較高威脅等級。目前無新測試或上線資訊。\n\n▶ 建議行動：\n(1). 追蹤NCSOFT的官方公告與媒體報導。\n(2). 分析NCSOFT近期發行遊戲的市場表現。\n(3). 關注其是否會進行測試活動。",
     "verified": "Agent 發現 (2026-08-28)",
     "category": "active",
     "testType": "待確認",
@@ -11215,9 +11296,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-28",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -11232,19 +11313,19 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "中國大陸 (預計)",
     "model": "F2P",
     "stage": "cbt",
     "threat": "medium",
     "threatReason": "騰訊代理發行，剛獲得版號，屬於版號公示中新出現但未廣泛報導的類型，潛力待觀察。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2026-Q3/Q4",
     "desc": "由像素軟件研發、騰訊代理發行的策略SLG手遊，剛獲得中國版號，正在積極準備國服測試。",
     "tags": [
       "新聞報導/版號公示"
     ],
-    "threatAnalysis": "【自動發現・新聞報導/版號公示】騰訊代理發行，剛獲得版號，屬於版號公示中新出現但未廣泛報導的類型，潛力待觀察。",
+    "threatAnalysis": "【中等規模】由像素軟件研發、騰訊代理的遊戲，目前仍處於CBT階段，預計2026年Q3/Q4上線。騰訊代理發行提供了一定市場保障，但具體市場表現仍待觀察。由於Q3已近尾聲，若未上線則可能延期至Q4。\n\n▶ 建議行動：\n(1). 密切關注其CBT進度與結束時間。\n(2). 追蹤遊戲玩法創新與市場定位。\n(3). 評估其在中國大陸市場的競爭力。",
     "verified": "Agent 發現 (2026-08-28)",
     "category": "active",
     "testType": "待確認",
@@ -11258,9 +11339,9 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-08-28",
+    "updatedAt": "2026-09-08",
     "addedAt": "2026-08-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-08",
     "autoDiscovered": true,
     "sourceType": "新聞報導/版號公示"
   },

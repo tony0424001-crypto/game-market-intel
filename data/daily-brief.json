@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-09-07T05:07:57.517005+00:00",
-  "fetchCount": 117,
+  "lastUpdated": "2026-09-08T04:55:07.839999+00:00",
+  "fetchCount": 118,
   "items": [
+    {
+      "id": "brief-20260908-21897c32",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA 6帶動主機銷量",
+      "detail": "GTA 6預覽影片刺激PS5/Xbox買氣，PS5 Pro售罄。",
+      "action": "關注市場動態",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-08T04:55:07.839999+00:00"
+    },
+    {
+      "id": "brief-20260908-b4775fc4",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "黎明行者之血破百萬",
+      "detail": "《巫師3》團隊新作《黎明行者之血》上市3天銷量破百萬。",
+      "action": "考慮入手體驗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-08T04:55:07.839999+00:00"
+    },
+    {
+      "id": "brief-20260908-0ed95b3f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "鬼武者首日破百萬",
+      "detail": "《鬼武者Way of the Sword》首日銷量破百萬，系列累計千萬。",
+      "action": "領取免費DLC",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-08T04:55:07.839999+00:00"
+    },
     {
       "id": "brief-20260907-992adb67",
       "priority": "urgent",
@@ -157,70 +190,37 @@
       "fetchedAt": "2026-09-06T05:04:47.937032+00:00"
     },
     {
-      "id": "brief-20260905-42fc2b18",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "晶核（新發現・高威脅）",
-      "detail": "字節跳動大廠出品，二次元開放世界動作RPG，畫面精美，戰鬥流暢，具備成為爆款的潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
+      "id": "brief-20260908-c3211371",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "天機行：古朝之影",
+      "detail": "軒轅劍之父新作2027發售，主打快節奏連擊與2D手繪。",
+      "action": "關注遊戲進度",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-08T04:55:07.839999+00:00"
     },
     {
-      "id": "brief-20260905-0979a690",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "冒險島：楓之傳說（新發現・高威脅）",
-      "detail": "Nexon大廠出品，國民級回憶IP《冒險島》全新MMORPG手遊，已在中國市場上線，預期將引發大規模懷舊熱潮。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
+      "id": "brief-20260908-cca19c93",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "LoL MMO專案聖杯",
+      "detail": "Riot創辦人稱LoL MMO為「聖杯」，前景光明。",
+      "action": "關注開發進度",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-08T04:55:07.839999+00:00"
     },
     {
-      "id": "brief-20260905-0de30f41",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "白荊迴廊（新發現・高威脅）",
-      "detail": "Bilibili發行，二次元風格，策略RPG玩法，已於全球市場上線，具備一定市場競爭力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
-    },
-    {
-      "id": "brief-20260905-e7e09f8b",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "DNF Duel Mobile（新發現・高威脅）",
-      "detail": "Nexon大廠出品，DNF知名IP改編格鬥手遊，具備龐大粉絲基礎和競技潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
-    },
-    {
-      "id": "brief-20260905-7f88f507",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "來自星塵（新發現・高威脅）",
-      "detail": "《明日方舟》開發商鷹角網路新作，二次元風格與高品質RPG，已於全球市場上線，在二次元玩家群體中受歡迎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
-    },
-    {
-      "id": "brief-20260905-7884bde8",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "劍與遠征：啟程（新發現・高威脅）",
-      "detail": "莉莉絲大廠，知名IP續作，已於全球市場上線並取得良好成績，具備極高市場影響力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-05T04:44:40.538893+00:00"
+      "id": "brief-20260908-77900fd0",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "漫威金鋼狼快閃",
+      "detail": "《漫威金鋼狼》上市快閃活動9/11起三創登場。",
+      "action": "參與實體活動",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-08T04:55:07.839999+00:00"
     }
   ]
 }

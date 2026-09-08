@@ -1,10 +1,23 @@
 {
-  "lastAudit": "2026-09-07T05:02:26.272288+00:00",
-  "totalProducts": 317,
-  "updatesApplied": 0,
-  "issuesFound": 0,
+  "lastAudit": "2026-09-08T04:55:32.524238+00:00",
+  "totalProducts": 325,
+  "updatesApplied": 54,
+  "issuesFound": 2,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
-  "findings": [],
+  "findings": [
+    {
+      "name": "我的英雄學院：聯合生存",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "JoJo的奇妙冒險：黃金聖歌",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    }
+  ],
   "checked": [
     "粒粒的小人國",
     "劍與遠征：家園",
