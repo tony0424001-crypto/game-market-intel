@@ -16440,5 +16440,863 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示/新聞報導"
+  },
+  {
+    "id": 329,
+    "name": "裝備仔：OVERGEARED",
+    "nameEn": "OVERGEARED",
+    "developer": "One More Entertainment",
+    "studio": "One More Entertainment",
+    "publisher": "One More Entertainment",
+    "genre": "MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名韓國網路小說IP改編，由Kakao Games發行，具備一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2025-Q3",
+    "desc": "改編自人氣韓國網路小說的MMORPG新作，強調裝備製作與成長的核心玩法。",
+    "tags": [
+      "新聞報導/網路搜尋"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/網路搜尋】知名韓國網路小說IP改編，由Kakao Games發行，具備一定市場潛力。",
+    "verified": "Agent 發現 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "未上線",
+        "date": "待確認"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/網路搜尋"
+  },
+  {
+    "id": 330,
+    "name": "熱血物語：喪屍橫行",
+    "nameEn": "River City Survivors: Downtown of the Dead",
+    "developer": "WayForward",
+    "studio": "WayForward",
+    "publisher": "WayForward",
+    "genre": "動作遊戲",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "經典IP改編，但為Apple Arcade獨佔，市場範圍受限。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2025-Q1",
+    "desc": "經典「熱血物語」系列新作，以「倖存者like」玩法為核心的動作遊戲，Apple Arcade獨佔。",
+    "tags": [
+      "新聞報導/網路搜尋"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/網路搜尋】經典IP改編，但為Apple Arcade獨佔，市場範圍受限。",
+    "verified": "Agent 發現 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "待確認"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/網路搜尋"
+  },
+  {
+    "id": 331,
+    "name": "地下城與勇士：DX",
+    "nameEn": "Project DX",
+    "developer": "Neople",
+    "studio": "Neople",
+    "publisher": "Neople",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名IP《地下城與勇士》新作，由Nexon大廠開發，MMORPG類型具備高潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2025-Q4",
+    "desc": "Nexon旗下Neople開發的全新《地下城與勇士》IP手機MMORPG，與《DNF Duel Mobile》和《DNF起源》不同。",
+    "tags": [
+      "官方公告/網路搜尋"
+    ],
+    "threatAnalysis": "【自動發現・官方公告/網路搜尋】知名IP《地下城與勇士》新作，由Nexon大廠開發，MMORPG類型具備高潛力。",
+    "verified": "Agent 發現 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "未上線",
+        "date": "待確認"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告/網路搜尋"
+  },
+  {
+    "id": 332,
+    "name": "刺客教條：代號Jade",
+    "nameEn": "Assassin's Creed Jade",
+    "developer": "Level Infinite / Ubisoft",
+    "studio": "Level Infinite / Ubisoft",
+    "publisher": "Level Infinite / Ubisoft",
+    "genre": "開放世界RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global/CN",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "critical",
+    "threatReason": "頂級全球IP《刺客教條》改編，由騰訊旗下Level Infinite開發，開放世界RPG，預期將是現象級大作。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2025-Q1",
+    "desc": "知名IP《刺客教條》系列首款開放世界手機RPG，背景設定在古代中國。",
+    "tags": [
+      "官方公告/網路搜尋"
+    ],
+    "threatAnalysis": "【自動發現・官方公告/網路搜尋】頂級全球IP《刺客教條》改編，由騰訊旗下Level Infinite開發，開放世界RPG，預期將是現象級大作。",
+    "verified": "Agent 發現 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "封測中",
+        "date": "待確認"
+      },
+      {
+        "region": "CN",
+        "status": "封測中",
+        "date": "待確認"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告/網路搜尋"
+  },
+  {
+    "id": 333,
+    "name": "塔之傳說",
+    "nameEn": "Project TS (Tower of Saga)",
+    "developer": "NCSoft",
+    "studio": "NCSoft",
+    "publisher": "NCSoft",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "韓國大廠NCSoft新作，MMORPG類型，具備高潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2025-Q3",
+    "desc": "NCSoft開發的全新MMORPG手遊，以其高品質畫面和大規模戰鬥為特色。",
+    "tags": [
+      "官方公告/網路搜尋"
+    ],
+    "threatAnalysis": "【自動發現・官方公告/網路搜尋】韓國大廠NCSoft新作，MMORPG類型，具備高潛力。",
+    "verified": "Agent 發現 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "未上線",
+        "date": "待確認"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告/網路搜尋"
+  },
+  {
+    "id": 334,
+    "name": "劍網3：無界",
+    "nameEn": "JX3: Unbounded",
+    "developer": "西山居 (Kingsoft Seasun)",
+    "studio": "西山居 (Kingsoft Seasun)",
+    "publisher": "西山居 (Kingsoft Seasun)",
+    "genre": "MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "知名國產武俠MMORPG IP改編，PC與手機雙端互通，在中國市場有巨大影響力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2024-Q3",
+    "desc": "經典武俠MMORPG《劍俠情緣網路版叁》的PC與手機雙端互通版本。",
+    "tags": [
+      "官方公告/網路搜尋"
+    ],
+    "threatAnalysis": "【自動發現・官方公告/網路搜尋】知名國產武俠MMORPG IP改編，PC與手機雙端互通，在中國市場有巨大影響力。",
+    "verified": "Agent 發現 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "預註冊",
+        "date": "2024-06-13"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告/網路搜尋"
+  },
+  {
+    "id": 335,
+    "name": "Final Fantasy VII Ever Crisis",
+    "nameEn": "Final Fantasy VII Ever Crisis",
+    "developer": "Square Enix / Applibot",
+    "studio": "Square Enix / Applibot",
+    "publisher": "Square Enix / Applibot",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global/JP",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "critical",
+    "threatReason": "頂級全球IP《Final Fantasy VII》改編，整合系列故事，具備極高話題度和玩家基礎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2023-09",
+    "desc": "整合《Final Fantasy VII》系列所有故事章節的章節式RPG手遊。",
+    "tags": [
+      "官方公告/網路搜尋"
+    ],
+    "threatAnalysis": "【自動發現・官方公告/網路搜尋】頂級全球IP《Final Fantasy VII》改編，整合系列故事，具備極高話題度和玩家基礎。",
+    "verified": "Agent 發現 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2023-09-07"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告/網路搜尋"
+  },
+  {
+    "id": 336,
+    "name": "勇者鬥惡龍 冠軍",
+    "nameEn": "Dragon Quest Champions",
+    "developer": "Square Enix / Koei Tecmo",
+    "studio": "Square Enix / Koei Tecmo",
+    "publisher": "Square Enix / Koei Tecmo",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "知名日本國民級RPG IP改編，雖然是已上線的日本市場產品，但其IP影響力巨大。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2023-06",
+    "desc": "知名IP《勇者鬥惡龍》系列首款大逃殺動作RPG手遊，強調即時戰鬥。",
+    "tags": [
+      "官方公告/網路搜尋"
+    ],
+    "threatAnalysis": "【自動發現・官方公告/網路搜尋】知名日本國民級RPG IP改編，雖然是已上線的日本市場產品，但其IP影響力巨大。",
+    "verified": "Agent 發現 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2023-06-13"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告/網路搜尋"
+  },
+  {
+    "id": 337,
+    "name": "阿斯達年代記：三方爭霸",
+    "nameEn": "Arthdal Chronicles: Three Factions",
+    "developer": "Netmarble F&C",
+    "studio": "Netmarble F&C",
+    "publisher": "Netmarble F&C",
+    "genre": "MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "KR/TW/HK/MO/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "知名韓劇IP改編，由Netmarble大廠開發，跨平台MMORPG，在韓國及港澳台市場已上線。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2024-04",
+    "desc": "改編自韓國熱門電視劇的跨平台MMORPG，強調三方勢力的大規模戰爭。",
+    "tags": [
+      "官方公告/網路搜尋"
+    ],
+    "threatAnalysis": "【自動發現・官方公告/網路搜尋】知名韓劇IP改編，由Netmarble大廠開發，跨平台MMORPG，在韓國及港澳台市場已上線。",
+    "verified": "Agent 發現 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "已上線",
+        "date": "2024-04-24"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2024-05-29"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告/網路搜尋"
+  },
+  {
+    "id": 338,
+    "name": "仙劍奇俠傳：新的開始",
+    "nameEn": "Sword and Fairy: A New Beginning",
+    "developer": "騰訊 (Tencent)",
+    "studio": "騰訊 (Tencent)",
+    "publisher": "騰訊 (Tencent)",
+    "genre": "角色扮演",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名國產IP《仙劍奇俠傳》改編，由騰訊發行，在中國市場有巨大潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2025-Q2",
+    "desc": "經典國產仙俠RPG《仙劍奇俠傳》系列新作手遊，由騰訊發行。",
+    "tags": [
+      "版號公示/網路搜尋"
+    ],
+    "threatAnalysis": "【自動發現・版號公示/網路搜尋】知名國產IP《仙劍奇俠傳》改編，由騰訊發行，在中國市場有巨大潛力。",
+    "verified": "Agent 發現 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "待確認"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示/網路搜尋"
+  },
+  {
+    "id": 339,
+    "name": "白夜極光：星辰",
+    "nameEn": "Alchemy Stars: Starlight",
+    "developer": "Tourdog Studio",
+    "studio": "Tourdog Studio",
+    "publisher": "Tourdog Studio",
+    "genre": "二次元/策略",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global/CN/JP",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名二次元IP《白夜極光》新作，具備成熟的玩家社群和美術風格。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2025-Q1",
+    "desc": "知名二次元策略RPG《白夜極光》系列新作，延續其獨特美術風格與戰棋玩法。",
+    "tags": [
+      "版號公示/網路搜尋"
+    ],
+    "threatAnalysis": "【自動發現・版號公示/網路搜尋】知名二次元IP《白夜極光》新作，具備成熟的玩家社群和美術風格。",
+    "verified": "Agent 發現 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "待確認"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示/網路搜尋"
+  },
+  {
+    "id": 340,
+    "name": "金鏟鏟之戰",
+    "nameEn": "",
+    "developer": "騰訊遊戲",
+    "studio": "騰訊遊戲",
+    "publisher": "騰訊遊戲",
+    "genre": "自走棋, 策略, 卡牌收集",
+    "platform": [
+      "Mobile",
+      "PC"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名IP《英雄聯盟》改編，騰訊大廠開發，已在移動端取得巨大成功，PC客戶端版號獲批將進一步擴大其影響力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款由騰訊遊戲開發，基於《英雄聯盟》宇宙的自走棋類策略手遊，現已獲批PC客戶端版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名IP《英雄聯盟》改編，騰訊大廠開發，已在移動端取得巨大成功，PC客戶端版號獲批將進一步擴大其影響力。",
+    "verified": "版號雷達 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "launched",
+        "date": "2021年11月10日"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 341,
+    "name": "墨境",
+    "nameEn": "",
+    "developer": "Leap Studio",
+    "studio": "Leap Studio",
+    "publisher": "Leap Studio",
+    "genre": "動作, 冒險, 獨立, 角色扮演, Roguelite",
+    "platform": [
+      "PC",
+      "Mobile",
+      "PS5",
+      "Nintendo Switch"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "獨特水墨風格的動作Roguelite遊戲，在PC平台已有一定知名度，多平台版號獲批有望擴大玩家群體。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款水墨風格的動作Roguelite遊戲，玩家扮演俠女丹朱在墨色世界中戰鬥，現已獲批移動、PS5及Nintendo Switch版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】獨特水墨風格的動作Roguelite遊戲，在PC平台已有一定知名度，多平台版號獲批有望擴大玩家群體。",
+    "verified": "版號雷達 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "announced",
+        "date": "待定"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 342,
+    "name": "問劍長生",
+    "nameEn": "",
+    "developer": "深圳雷霆數字娛樂有限公司",
+    "studio": "深圳雷霆數字娛樂有限公司",
+    "publisher": "深圳雷霆數字娛樂有限公司",
+    "genre": "3D御劍飛行修仙MMO, 放置, 角色扮演",
+    "platform": [
+      "Mobile",
+      "PC"
+    ],
+    "region": "CN/TW/HK/MO/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名開發商雷霆遊戲出品，3D修仙MMO題材受眾廣泛，已在海外進行測試，潛力較高。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款由雷霆開發的3D御劍飛行修仙MMO手遊，融合修仙、放置與國風元素，支持多人聯機空戰。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名開發商雷霆遊戲出品，3D修仙MMO題材受眾廣泛，已在海外進行測試，潛力較高。",
+    "verified": "版號雷達 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "announced",
+        "date": "待定"
+      },
+      {
+        "region": "TW/HK/MO/SG/MY/KR",
+        "status": "CBT",
+        "date": "2025年7月4日"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 343,
+    "name": "釋厄英雄",
+    "nameEn": "",
+    "developer": "多益網絡",
+    "studio": "多益網絡",
+    "publisher": "多益網絡",
+    "genre": "回合制, MMORPG, 角色扮演, 西遊題材",
+    "platform": [
+      "Mobile",
+      "PC"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "經典西遊IP改編，知名開發商多益網絡出品，回合制MMORPG在中國有穩定受眾。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款由多益網絡開發的西遊題材回合制MMORPG，基於經典IP打造，現已獲批移動端版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】經典西遊IP改編，知名開發商多益網絡出品，回合制MMORPG在中國有穩定受眾。",
+    "verified": "版號雷達 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "launched",
+        "date": "2022年3月11日"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 344,
+    "name": "長夜守衛者",
+    "nameEn": "",
+    "developer": "重慶星核網絡科技有限公司",
+    "studio": "重慶星核網絡科技有限公司",
+    "publisher": "重慶星核網絡科技有限公司",
+    "genre": "暗黑幻想, 吸血鬼題材, 俯視角ARPG, 刷寶, 角色養成, 生存探索, 家園建設",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "暗黑幻想與吸血鬼題材有一定吸引力，ARPG玩法結合刷寶和家園建設，具備潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款暗黑幻想吸血鬼題材的俯視角ARPG手遊，融合刷寶、角色養成、生存探索與家園建設。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】暗黑幻想與吸血鬼題材有一定吸引力，ARPG玩法結合刷寶和家園建設，具備潛力。",
+    "verified": "版號雷達 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "announced",
+        "date": "待定"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 345,
+    "name": "深空之劫",
+    "nameEn": "",
+    "developer": "杭州格零互娛科技有限公司",
+    "studio": "杭州格零互娛科技有限公司",
+    "publisher": "杭州格零互娛科技有限公司",
+    "genre": "策略生存, 自走棋, SLG, 即時戰略",
+    "platform": [
+      "Mobile",
+      "PC"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "冰雪末世生存題材結合自走棋和SLG玩法，具備一定的創新性和策略深度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026年10月",
+    "desc": "一款冰雪末世背景的策略生存手遊，融合自走棋戰鬥與SLG基地經營，現已獲批PC客戶端版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】冰雪末世生存題材結合自走棋和SLG玩法，具備一定的創新性和策略深度。",
+    "verified": "版號雷達 (2026-09-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "announced",
+        "date": "2026年10月"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-09",
+    "addedAt": "2026-09-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
   }
 ]
