@@ -1,69 +1,57 @@
 {
-  "lastAudit": "2026-09-10T04:58:14.430691+00:00",
-  "totalProducts": 342,
-  "updatesApplied": 76,
-  "issuesFound": 7,
+  "lastAudit": "2026-09-11T04:55:41.694531+00:00",
+  "totalProducts": 350,
+  "updatesApplied": 44,
+  "issuesFound": 5,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "大侠立志传：侠道相逢",
+      "name": "女神異聞錄：夜幕魅影",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "王者榮耀：星之破曉",
-      "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "LIMIT ZERO BREAKERS",
+      "name": "甄嬛傳",
       "status": "warning",
       "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "BanG Dream! Our Notes",
+      "name": "三國群英傳：格鬥版",
       "status": "warning",
       "issue": "狀態: announced→cbt",
       "autoFixed": true
     },
     {
-      "name": "Sea of Remnants",
+      "name": "DISSIDIA DUELLUM FINAL FANTASY",
       "status": "warning",
-      "issue": "狀態: cbt→pre-reg",
+      "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "Wongwa",
+      "name": "鬥陣特攻Rush",
       "status": "warning",
-      "issue": "狀態: cbt→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "永劫無間手遊",
-      "status": "warning",
-      "issue": "狀態: pre-reg→pre-reg",
+      "issue": "狀態: announced→soft-launch",
       "autoFixed": true
     }
   ],
   "checked": [
-    "原始传奇2",
-    "大侠立志传：侠道相逢",
-    "灵气与仙门",
-    "无限和鸣",
-    "王者榮耀：星之破曉",
-    "LIMIT ZERO BREAKERS",
-    "Project Sun",
-    "BanG Dream! Our Notes",
-    "Project 2/3 Utopia",
-    "Rewinding Cadence",
-    "Sea of Remnants",
-    "Project Spirits",
-    "Wongwa",
-    "九陰真經：武俠",
-    "永劫無間手遊"
+    "地下城與勇士：超殺",
+    "劍靈M",
+    "塔瑞斯世界",
+    "劍靈S",
+    "星之後裔：光之編年史",
+    "女神異聞錄：夜幕魅影",
+    "代號：血戰",
+    "仙劍奇俠傳四：重制",
+    "新射雕之華山論劍",
+    "甄嬛傳",
+    "彩虹島：愛麗絲之境",
+    "三國群英傳：格鬥版",
+    "三國群英傳：策定九州",
+    "DISSIDIA DUELLUM FINAL FANTASY",
+    "鬥陣特攻Rush"
   ],
   "nextBatch": [
     "無限大",
