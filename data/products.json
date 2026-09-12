@@ -18468,5 +18468,745 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
+  },
+  {
+    "id": 363,
+    "name": "坂本日常 Mission: Rogue Dawn",
+    "nameEn": "Sakamoto Days Mission: Rogue Dawn",
+    "developer": "Rudel inc.",
+    "studio": "Rudel inc.",
+    "publisher": "Rudel inc.",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "人氣漫畫IP改編，已在日本上線，具備一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "改編自人氣漫畫《坂本日常》的Roguelite動作養成手遊，已於日本上線。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】人氣漫畫IP改編，已在日本上線，具備一定市場潛力。",
+    "verified": "Agent 發現 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2026-09-11"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 364,
+    "name": "Nodusfall",
+    "nameEn": "Nodusfall",
+    "developer": "米哈遊 (miHoYo)",
+    "studio": "米哈遊 (miHoYo)",
+    "publisher": "米哈遊 (miHoYo)",
+    "genre": "動作RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "米哈遊新作，全新IP，預期將是高製作水準的跨平台大作。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "米哈遊公布的全新寫實奇幻合作動作遊戲，採用虛幻引擎5開發。",
+    "tags": [
+      "官方公告"
+    ],
+    "threatAnalysis": "【自動發現・官方公告】米哈遊新作，全新IP，預期將是高製作水準的跨平台大作。",
+    "verified": "Agent 發現 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告"
+  },
+  {
+    "id": 365,
+    "name": "天穂のサクナヒメ～ヒヌカ巡霊譚～",
+    "nameEn": "Sakuna: Of Rice and Ruin ~Hinoka Meguri Reitan~",
+    "developer": "えーでるわいす (Edelweiss)",
+    "studio": "えーでるわいす (Edelweiss)",
+    "publisher": "えーでるわいす (Edelweiss)",
+    "genre": "模擬RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "JP",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "知名獨立遊戲IP改編，獨特玩法，但市場規模仍待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-02",
+    "desc": "將人氣獨立遊戲《天穗之咲稻姬》改編為手機版，結合稻作模擬與探索戰鬥的RPG。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名獨立遊戲IP改編，獨特玩法，但市場規模仍待觀察。",
+    "verified": "Agent 發現 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2026-02"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 366,
+    "name": "古墓奇兵 (手機版)",
+    "nameEn": "Tomb Raider (Mobile)",
+    "developer": "待確認",
+    "studio": "待確認",
+    "publisher": "待確認",
+    "genre": "動作冒險",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "全球知名IP改編，經典主機遊戲移植，具備廣泛玩家基礎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-02",
+    "desc": "2013年重啟版《古墓奇兵》移植至手機平台，重現蘿拉卡芙特的起源故事。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】全球知名IP改編，經典主機遊戲移植，具備廣泛玩家基礎。",
+    "verified": "Agent 發現 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-02-12"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 367,
+    "name": "獵人×獵人 (手機遊戲新作)",
+    "nameEn": "HUNTER×HUNTER (New Mobile Game)",
+    "developer": "待確認",
+    "studio": "待確認",
+    "publisher": "待確認",
+    "genre": "動作",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "全球知名漫畫IP改編，預期將吸引大量粉絲。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-02",
+    "desc": "改編自人氣漫畫《獵人×獵人》的生存動作手遊，強調在大量敵人圍攻下求生。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】全球知名漫畫IP改編，預期將吸引大量粉絲。",
+    "verified": "Agent 發現 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-02-18"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 368,
+    "name": "銀宮",
+    "nameEn": "Silver Palace",
+    "developer": "樂元素 (Happy Elements)",
+    "studio": "樂元素 (Happy Elements)",
+    "publisher": "樂元素 (Happy Elements)",
+    "genre": "二次元",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "大廠樂元素新作，二次元品類，獲得國際獎項提名，品質受肯定。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "樂元素開發的二次元風格手遊，在Gamescom 2026獲得「最佳手機遊戲」提名。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】大廠樂元素新作，二次元品類，獲得國際獎項提名，品質受肯定。",
+    "verified": "Agent 發現 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 369,
+    "name": "安塔拉的迴響",
+    "nameEn": "Ballad of Antara",
+    "developer": "TipsWorks (疊紙遊戲子公司)",
+    "studio": "TipsWorks (疊紙遊戲子公司)",
+    "publisher": "TipsWorks (疊紙遊戲子公司)",
+    "genre": "動作RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "大廠疊紙遊戲新作，挑戰新類型，預期將是高製作水準的跨平台遊戲。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "疊紙遊戲子公司TipsWorks開發的開放世界魂系動作RPG，強調高製作水準。",
+    "tags": [
+      "官方公告"
+    ],
+    "threatAnalysis": "【自動發現・官方公告】大廠疊紙遊戲新作，挑戰新類型，預期將是高製作水準的跨平台遊戲。",
+    "verified": "Agent 發現 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告"
+  },
+  {
+    "id": 370,
+    "name": "Project: The Perceiver",
+    "nameEn": "Project: The Perceiver",
+    "developer": "17ZHE (疊紙遊戲子公司)",
+    "studio": "17ZHE (疊紙遊戲子公司)",
+    "publisher": "17ZHE (疊紙遊戲子公司)",
+    "genre": "動作",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "大廠疊紙遊戲新作，開放世界動作遊戲，具備一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "疊紙遊戲子公司17ZHE開發的開放世界動作遊戲，背景設定在古代中國。",
+    "tags": [
+      "官方公告"
+    ],
+    "threatAnalysis": "【自動發現・官方公告】大廠疊紙遊戲新作，開放世界動作遊戲，具備一定市場潛力。",
+    "verified": "Agent 發現 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告"
+  },
+  {
+    "id": 371,
+    "name": "魔卡少女櫻：回憶鑰匙",
+    "nameEn": "Cardcaptor Sakura: Memory Key",
+    "developer": "待確認",
+    "studio": "待確認",
+    "publisher": "待確認",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "全球知名懷舊IP改編，擁有大量粉絲基礎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "改編自經典動漫《魔卡少女櫻》的3D動作RPG手遊，重現原作劇情與人物。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】全球知名懷舊IP改編，擁有大量粉絲基礎。",
+    "verified": "Agent 發現 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "待確認"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 372,
+    "name": "混沌零點夢魘",
+    "nameEn": "Chaos Zero Nightmare",
+    "developer": "SUPER CREATIVE (Smilegate子公司)",
+    "studio": "SUPER CREATIVE (Smilegate子公司)",
+    "publisher": "SUPER CREATIVE (Smilegate子公司)",
+    "genre": "卡牌RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "騰訊發行，Roguelite卡牌RPG，具備一定市場關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-05",
+    "desc": "騰訊發行的宇宙暗黑奇幻Roguelite牌組構築RPG，已在中國大陸上線。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】騰訊發行，Roguelite卡牌RPG，具備一定市場關注度。",
+    "verified": "Agent 發現 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2026-05-28"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 373,
+    "name": "永恒之塔：经典",
+    "nameEn": "",
+    "developer": "NCSoft, 盛趣游戏 (上海数龙科技有限公司/上海盛展网络科技有限公司)",
+    "studio": "NCSoft, 盛趣游戏 (上海数龙科技有限公司/上海盛展网络科技有限公司)",
+    "publisher": "NCSoft, 盛趣游戏 (上海数龙科技有限公司/上海盛展网络科技有限公司)",
+    "genre": "MMORPG, IP改編/回憶向",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "經典MMORPG《永恆之塔》IP改編手遊，擁有龐大玩家基礎和情懷加成，由知名大廠NCSoft授權與盛趣遊戲聯合開發。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026年",
+    "desc": "一款由NCSoft授權、盛趣遊戲聯合開發的3D大型多人線上角色扮演手遊，復刻經典端遊《永恆之塔》的世界觀與玩法。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】經典MMORPG《永恆之塔》IP改編手遊，擁有龐大玩家基礎和情懷加成，由知名大廠NCSoft授權與盛趣遊戲聯合開發。",
+    "verified": "版號雷達 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "announced",
+        "date": "2026年"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 374,
+    "name": "我的勇者：末影城",
+    "nameEn": "",
+    "developer": "深圳魔力数娱",
+    "studio": "深圳魔力数娱",
+    "publisher": "深圳魔力数娱",
+    "genre": "動作RPG, 像素, IP改編/回憶向",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名像素ARPG《我的勇者》的續作，擁有一定的玩家基礎和IP認知度，玩法從彈幕射擊轉向策略塔防，但仍保留RPG核心元素。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "像素風格的打寶動作RPG，為《我的勇者》正統續作，強調BD構建和持續變強的核心玩法。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名像素ARPG《我的勇者》的續作，擁有一定的玩家基礎和IP認知度，玩法從彈幕射擊轉向策略塔防，但仍保留RPG核心元素。",
+    "verified": "版號雷達 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "closed beta",
+        "date": "2026年8月26日"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 375,
+    "name": "白日梦：无限世界",
+    "nameEn": "",
+    "developer": "上海白日梦科技有限公司",
+    "studio": "上海白日梦科技有限公司",
+    "publisher": "上海白日梦科技有限公司",
+    "genre": "開放世界RPG, 二次元/抽卡",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "創新AI驅動的無限流遊戲，瞄準龐大的泛二次元用戶群體，強調高自由度和沉浸式體驗，具備成為現象級產品的潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款AI驅動的無限流角色扮演遊戲，結合AR技術打造沉浸式現實副本體驗，強調高自由度敘事和玩家共創內容。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】創新AI驅動的無限流遊戲，瞄準龐大的泛二次元用戶群體，強調高自由度和沉浸式體驗，具備成為現象級產品的潛力。",
+    "verified": "版號雷達 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 376,
+    "name": "拜托了！仙人",
+    "nameEn": "",
+    "developer": "成都电子科大出版社有限责任公司, 成都合润轩网络科技有限公司",
+    "studio": "成都电子科大出版社有限责任公司, 成都合润轩网络科技有限公司",
+    "publisher": "成都电子科大出版社有限责任公司, 成都合润轩网络科技有限公司",
+    "genre": "RPG, 二次元/抽卡",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "國風修仙題材在中國市場有穩定受眾，休閒放置玩法易於上手，具備一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款水墨風格的休閒放置修仙手遊，玩家在靜謐天地中修煉功法、參悟武學，逐步提升境界。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】國風修仙題材在中國市場有穩定受眾，休閒放置玩法易於上手，具備一定市場潛力。",
+    "verified": "版號雷達 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 377,
+    "name": "暗影龙魂",
+    "nameEn": "",
+    "developer": "广州谷得网络科技有限公司, 上海蛮游网络科技有限公司",
+    "studio": "广州谷得网络科技有限公司, 上海蛮游网络科技有限公司",
+    "publisher": "广州谷得网络科技有限公司, 上海蛮游网络科技有限公司",
+    "genre": "MMORPG, 二次元/抽卡",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "傳奇類MMORPG在中國市場有廣泛受眾，結合龍族奇幻題材和打金交易機制，具備一定吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款以龍族與黑魔法為題材的奇幻MMORPG手遊，強調打金和自由交易玩法。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】傳奇類MMORPG在中國市場有廣泛受眾，結合龍族奇幻題材和打金交易機制，具備一定吸引力。",
+    "verified": "版號雷達 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 378,
+    "name": "苍古霸业",
+    "nameEn": "",
+    "developer": "天津新创元科技有限公司, 深圳幻萌科技有限公司",
+    "studio": "天津新创元科技有限公司, 深圳幻萌科技有限公司",
+    "publisher": "天津新创元科技有限公司, 深圳幻萌科技有限公司",
+    "genre": "策略RPG, 二次元/抽卡",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "由知名二次元遊戲《戰艦少女R》的開發商幻萌科技推出，雖然具體玩法待定，但其開發商背景使其具備高關注度和二次元屬性。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "由《戰艦少女R》開發商幻萌科技推出的移動遊戲，名稱暗示宏大背景下的策略或角色扮演玩法。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】由知名二次元遊戲《戰艦少女R》的開發商幻萌科技推出，雖然具體玩法待定，但其開發商背景使其具備高關注度和二次元屬性。",
+    "verified": "版號雷達 (2026-09-12)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-12",
+    "addedAt": "2026-09-12",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
   }
 ]

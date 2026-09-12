@@ -1,7 +1,150 @@
 {
-  "lastUpdated": "2026-09-11T04:59:27.632948+00:00",
-  "fetchCount": 121,
+  "lastUpdated": "2026-09-12T04:56:06.096513+00:00",
+  "fetchCount": 122,
   "items": [
+    {
+      "id": "brief-20260912-02252f73",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "苍古霸业（新發現・高威脅）",
+      "detail": "由知名二次元遊戲《戰艦少女R》的開發商幻萌科技推出，雖然具體玩法待定，但其開發商背景使其具備高關注度和二次元屬性。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
+    },
+    {
+      "id": "brief-20260912-d6f1d545",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "白日梦：无限世界（新發現・高威脅）",
+      "detail": "創新AI驅動的無限流遊戲，瞄準龐大的泛二次元用戶群體，強調高自由度和沉浸式體驗，具備成為現象級產品的潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
+    },
+    {
+      "id": "brief-20260912-7c4c73e6",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "永恒之塔：经典（新發現・高威脅）",
+      "detail": "經典MMORPG《永恆之塔》IP改編手遊，擁有龐大玩家基礎和情懷加成，由知名大廠NCSoft授權與盛趣遊戲聯合開發。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
+    },
+    {
+      "id": "brief-20260912-7b740098",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "魔卡少女櫻：回憶鑰匙（新發現・高威脅）",
+      "detail": "全球知名懷舊IP改編，擁有大量粉絲基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
+    },
+    {
+      "id": "brief-20260912-b4d87d3e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "安塔拉的迴響（新發現・高威脅）",
+      "detail": "大廠疊紙遊戲新作，挑戰新類型，預期將是高製作水準的跨平台遊戲。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
+    },
+    {
+      "id": "brief-20260912-7fc2d57f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "銀宮（新發現・高威脅）",
+      "detail": "大廠樂元素新作，二次元品類，獲得國際獎項提名，品質受肯定。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
+    },
+    {
+      "id": "brief-20260912-660f0056",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "獵人×獵人 (手機遊戲新作)（新發現・高威脅）",
+      "detail": "全球知名漫畫IP改編，預期將吸引大量粉絲。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
+    },
+    {
+      "id": "brief-20260912-5e5dce7a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "古墓奇兵 (手機版)（新發現・高威脅）",
+      "detail": "全球知名IP改編，經典主機遊戲移植，具備廣泛玩家基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
+    },
+    {
+      "id": "brief-20260912-4e49774e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Nodusfall（新發現・高威脅）",
+      "detail": "米哈遊新作，全新IP，預期將是高製作水準的跨平台大作。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
+    },
+    {
+      "id": "brief-20260912-983dc1fd",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "坂本日常 Mission: Rogue Dawn（新發現・高威脅）",
+      "detail": "人氣漫畫IP改編，已在日本上線，具備一定市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
+    },
+    {
+      "id": "brief-20260912-1c3157bb",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "電玩瘋：薩爾達、卡比",
+      "detail": "薩爾達時之笛重製、卡比新作、密特羅德、魔物獵人登Switch 2等。",
+      "action": "觀看電玩瘋節目",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-12T04:47:48.228365+00:00"
+    },
+    {
+      "id": "brief-20260912-0cc34442",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "漫威星際異攻隊登Switch 2",
+      "detail": "返場版11/5登陸Switch 2，支援滑鼠/體感操作。",
+      "action": "關注Switch 2資訊",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-12T04:47:48.228365+00:00"
+    },
+    {
+      "id": "brief-20260912-b023cb7d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《暗喻幻想》Switch 2特典",
+      "detail": "Switch 2版盒裝特典公開，11/12發售。",
+      "action": "關注Switch 2特典",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-12T04:47:48.228365+00:00"
+    },
     {
       "id": "brief-20260911-f798a9c1",
       "priority": "urgent",
@@ -78,149 +221,6 @@
       "platform": "mobile",
       "source": "新聞報導",
       "fetchedAt": "2026-09-11T04:59:27.632948+00:00"
-    },
-    {
-      "id": "brief-20260911-2fe3dce3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Seal Online IP手遊新作（新發現・高威脅）",
-      "detail": "經典IP改編，MMORPG類型，已獲得中國版號，由韓國Playwith開發，具備全球市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導/版號公示",
-      "fetchedAt": "2026-09-11T04:59:27.632948+00:00"
-    },
-    {
-      "id": "brief-20260911-6e74ccd4",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "女神異聞錄登Switch 2",
-      "detail": "P4R與P6確定登陸Switch 2，P4R預計2027/5/20發售。",
-      "action": "準備迎接新作",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-11T04:55:16.584323+00:00"
-    },
-    {
-      "id": "brief-20260911-ab7e62cc",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "漫威金鋼狼試玩報導",
-      "detail": "索尼第一方大作《漫威金鋼狼》下週發售，試玩體驗公開。",
-      "action": "準備迎接大作",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-11T04:55:16.584323+00:00"
-    },
-    {
-      "id": "brief-20260910-bace9bf6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "幻塔（新發現・高威脅）",
-      "detail": "大型開放世界MMORPG，二次元風格，在全球市場具有高人氣。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-10T05:06:42.347898+00:00"
-    },
-    {
-      "id": "brief-20260910-7320cca0",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "劍靈2（新發現・高威脅）",
-      "detail": "經典MMORPG大IP續作，NCSoft大廠發行，在亞洲市場具有高關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-10T05:06:42.347898+00:00"
-    },
-    {
-      "id": "brief-20260910-746b7187",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "摩爾莊園（新發現・高威脅）",
-      "detail": "國民級童年回憶IP，在中國市場具有極高影響力，屬於現象級產品。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-10T05:06:42.347898+00:00"
-    },
-    {
-      "id": "brief-20260910-8c59d5e5",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "塵白禁區（新發現・高威脅）",
-      "detail": "二次元射擊RPG，具有一定話題度，且已在全球市場上線。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-10T05:06:42.347898+00:00"
-    },
-    {
-      "id": "brief-20260910-fcea178c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "神之塔：新世界（新發現・高威脅）",
-      "detail": "知名IP改編，Netmarble大廠發行，二次元抽卡類型，具備高威脅性。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-10T05:06:42.347898+00:00"
-    },
-    {
-      "id": "brief-20260910-7567344e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "HIT：世界（新發現・高威脅）",
-      "detail": "Nexon大廠MMORPG，已在多個亞洲市場取得成功，具備高威脅性。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-10T05:06:42.347898+00:00"
-    },
-    {
-      "id": "brief-20260910-05dd6c64",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "浪漫沙加3 重製版（新發現・高威脅）",
-      "detail": "經典《沙加》系列IP，由Square Enix發行，具有忠實粉絲群。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-10T05:06:42.347898+00:00"
-    },
-    {
-      "id": "brief-20260910-9af6fa58",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "勇者鬥惡龍 英雄：特魯內科大冒險 – 經典HD（新發現・高威脅）",
-      "detail": "經典《勇者鬥惡龍》IP，由Square Enix發行，具有廣泛的玩家基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-10T05:06:42.347898+00:00"
-    },
-    {
-      "id": "brief-20260910-6f5776bf",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "小島秀夫新作轉Xbox",
-      "detail": "《Physint》發行權由Xbox接手",
-      "action": "關注小島工作室動向",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-10T04:57:55.065206+00:00"
-    },
-    {
-      "id": "brief-20260910-efdb5e86",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Apple發表iPhone Duo",
-      "detail": "首款可摺疊iPhone，歷來最薄",
-      "action": "關注新手機上市資訊",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-10T04:57:55.065206+00:00"
     }
   ]
 }
