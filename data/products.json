@@ -12979,9 +12979,9 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN/Global",
+    "region": "CN/TW/HK/MO/SG/MY",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "經典策略IP改編，具備忠實玩家群體。",
     "prereg": null,
@@ -12991,25 +12991,51 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】經典策略IP改編，具備忠實玩家群體。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：光榮特庫摩正版授權的三國策略戰棋手遊，已於2025年6月27日在中國上線，並於2026年3月19日在港澳台新馬地區上線。遊戲持續營運中，近期於2026年9月4日開啟新服，並有定期活動更新。\n\n▶ 建議行動：\n(1). 持續關注遊戲營收表現與玩家活躍度。\n(2). 分析新服開啟與活動更新對市場的影響。\n(3). 評估其在策略戰棋品類的長期競爭力。",
     "verified": "Agent 發現 (2026-08-31)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "testDateEnd": "2025-04-30",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/223706"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/newcaocaozhuan/"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "launched",
+        "date": "2025-06-27"
+      },
+      {
+        "region": "TW/HK/MO/SG/MY",
+        "status": "launched",
+        "date": "2026-03-19"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2026年9月4日開啟新服，並持續進行內容更新與活動。",
+    "eventNote": "遊戲已於2026年9月4日開啟新服，並持續進行內容更新與活動。"
   },
   {
     "id": 247,
@@ -13022,37 +13048,58 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "Global/CN",
     "model": "F2P",
     "stage": "announced",
     "threat": "high",
     "threatReason": "騰訊大廠發行，具備資源優勢和市場推廣能力。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "sentiment": 80,
+    "launchEst": "2027",
     "desc": "騰訊代理的異星題材小隊集結動作RPG手遊，可能包含抽卡元素。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】騰訊大廠發行，具備資源優勢和市場推廣能力。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：由《黎明殺機》開發商Behaviour Interactive開發，騰訊遊戲發行的第三人稱PVE合作射擊遊戲。於2026年8月26日科隆遊戲展正式首曝，預計2027年登陸PC、PS5、Xbox Series X|S平台。遊戲已於2026年6月29日取得中國版號，採用買斷制加長期賽季運營模式。\n\n▶ 建議行動：\n(1). 持續關注遊戲後續測試與具體上線日期。\n(2). 評估其在射擊遊戲市場的競爭力與潛在影響。\n(3). 關注其買斷制加賽季運營模式的市場接受度。",
     "verified": "Agent 發現 (2026-08-31)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/4039200/_/"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "announced",
+        "date": "2027"
+      },
+      {
+        "region": "CN",
+        "status": "announced",
+        "date": "2027"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲於2026年8月26日科隆遊戲展正式首曝，並預計於2027年登陸PC、PS5、Xbox Series X|S平台。"
   },
   {
     "id": 248,
@@ -13065,7 +13112,7 @@
     "platform": [
       "Mobile"
     ],
-    "region": "JP/Global",
+    "region": "CN/TW/HK/MO/Global/JP",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "medium",
@@ -13077,25 +13124,61 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名二次元IP改編，具備核心粉絲群體。",
+    "threatAnalysis": "【威脅類型】medium\n\n▶ 描述：以「東方Project」為原型的二次創作回合制RPG手遊，已於2021年9月30日正式上線，並持續穩定營運超過四年。遊戲定期進行內容更新與活動，近期於2026年9月14日進行維護並推出新內容。\n\n▶ 建議行動：\n(1). 持續關注其IP熱度與玩家社群活躍度。\n(2). 分析其新內容與活動對營收的影響。\n(3). 評估其在二次元RPG市場的長期競爭力。",
     "verified": "Agent 發現 (2026-08-31)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/190886"
+      },
+      {
+        "label": "QooApp",
+        "url": "https://apps.qoo-app.com/app/18318"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "launched",
+        "date": "2021-09-30"
+      },
+      {
+        "region": "Global",
+        "status": "launched",
+        "date": "2021-09-30"
+      },
+      {
+        "region": "JP",
+        "status": "launched",
+        "date": "2021-09-30"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "launched",
+        "date": "2021-09-30"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-09",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲於2021年9月30日正式上線，並持續穩定營運超過四年。近期於2026年9月14日進行維護並推出新內容。",
+    "eventNote": "遊戲於2021年9月30日正式上線，並持續穩定營運超過四年。近期於2026年9月14日進行維護並推出新內容。"
   },
   {
     "id": 249,
@@ -13114,13 +13197,13 @@
     "threat": "high",
     "threatReason": "熱門小說IP改編，具備廣泛的受眾基礎。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2026-Q4",
     "desc": "改編自熱門玄幻小說《斗羅大陸》的全新手遊，由三七互娛發行。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】熱門小說IP改編，具備廣泛的受眾基礎。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：目前缺乏關於《斗羅大陸：啟程》的最新公開資訊，遊戲狀態仍為「announced」，預計上線時間為2026年Q4。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方公告。\n(2). 關注是否有新的測試或預約活動釋出。\n(3). 評估其IP在市場上的潛在影響力。",
     "verified": "Agent 發現 (2026-08-31)",
     "category": "active",
     "testType": "待確認",
@@ -13134,9 +13217,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -13153,9 +13236,9 @@
       "Client",
       "PS5"
     ],
-    "region": "中國",
+    "region": "Global",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "critical",
     "threatReason": "全球知名大型IP改編，由知名大廠育碧開發，多平台發行。",
     "prereg": null,
@@ -13165,25 +13248,70 @@
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】全球知名大型IP改編，由知名大廠育碧開發，多平台發行。",
+    "threatAnalysis": "【威脅類型】critical\n\n▶ 描述：育碧開發的《波斯王子》系列新作，已於2024年1月18日全球發售PC與主機版本，並於2025年4月14日推出全球行動版，中國行動版則於2026年初上線。遊戲廣受好評，近期於2026年9月10日宣布Steam版將支持直啟。\n\n▶ 建議行動：\n(1). 持續關注其DLC內容更新與玩家評價。\n(2). 評估其在動作冒險平台遊戲市場的長期影響力。\n(3). 關注育碧PC平台策略調整對其市場表現的影響。",
     "verified": "版號雷達 (2026-08-31)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "sourceLinks": [
+      {
+        "label": "Ubisoft Store",
+        "url": "https://www.ubisoft.com/zh-cn/game/prince-of-persia/the-lost-crown"
+      },
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/1999270/Prince_of_Persia_The_Lost_Crown/"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/prince-of-persia-the-lost-crown/id6475726207"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "Global (PC/Consoles)",
+        "status": "launched",
+        "date": "2024-01-18"
+      },
+      {
+        "region": "macOS",
+        "status": "launched",
+        "date": "2024-12-03"
+      },
+      {
+        "region": "Mobile (Global)",
+        "status": "launched",
+        "date": "2025-04-14"
+      },
+      {
+        "region": "Mobile (CN iOS)",
+        "status": "launched",
+        "date": "2026-01-26"
+      },
+      {
+        "region": "Mobile (CN Android)",
+        "status": "launched",
+        "date": "2026-02-11"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲已於2024年1月18日全球發售PC與主機版本，並於2025年4月14日推出全球行動版，中國行動版則於2026年初上線。近期於2026年9月10日宣布Steam版將支持直啟。",
+    "eventNote": "遊戲已於2024年1月18日全球發售PC與主機版本，並於2025年4月14日推出全球行動版，中國行動版則於2026年初上線。近期於2026年9月10日宣布Steam版將支持直啟。"
   },
   {
     "id": 251,
@@ -13202,13 +13330,13 @@
     "threat": "high",
     "threatReason": "國民級MMORPG IP改編，由知名廠商心動公司發行。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "待定",
     "desc": "經典MMORPG「仙境傳說」IP的全新作品。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】國民級MMORPG IP改編，由知名廠商心動公司發行。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：目前缺乏關於《仙境傳說：重生》的最新公開資訊，遊戲狀態仍為「announced」，上線時間待定。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方公告。\n(2). 關注是否有新的測試或預約活動釋出。\n(3). 評估其IP在市場上的潛在影響力。",
     "verified": "版號雷達 (2026-08-31)",
     "category": "active",
     "testType": "待確認",
@@ -13222,9 +13350,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -13251,7 +13379,7 @@
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】經典RTS遊戲IP改編，由中國遊戲巨頭騰訊開發/發行。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：目前缺乏關於《紅警：榮耀》的最新公開資訊，遊戲狀態仍為「announced」，上線時間待定。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方公告。\n(2). 關注是否有新的測試或預約活動釋出。\n(3). 評估其IP在市場上的潛在影響力。",
     "verified": "版號雷達 (2026-08-31)",
     "category": "active",
     "testType": "待確認",
@@ -13265,9 +13393,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -13294,7 +13422,7 @@
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名武俠文學IP改編，由上市遊戲公司愷英網絡開發。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：目前缺乏關於《古龍群俠錄》的最新公開資訊，遊戲狀態仍為「announced」，上線時間待定。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方公告。\n(2). 關注是否有新的測試或預約活動釋出。\n(3). 評估其IP在市場上的潛在影響力。",
     "verified": "版號雷達 (2026-08-31)",
     "category": "active",
     "testType": "待確認",
@@ -13308,9 +13436,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -13331,13 +13459,13 @@
     "threat": "high",
     "threatReason": "知名動漫IP改編，具有廣泛的粉絲基礎。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "待定",
     "desc": "改編自人氣動漫「黑子的籃球」的街頭籃球對決遊戲。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名動漫IP改編，具有廣泛的粉絲基礎。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：目前缺乏關於《黑子的籃球：街頭對決》的最新公開資訊，遊戲狀態仍為「announced」，上線時間待定。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方公告。\n(2). 關注是否有新的測試或預約活動釋出。\n(3). 評估其IP在市場上的潛在影響力。",
     "verified": "版號雷達 (2026-08-31)",
     "category": "active",
     "testType": "待確認",
@@ -13351,9 +13479,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -13375,13 +13503,13 @@
     "threat": "high",
     "threatReason": "知名MMORPG IP續作，由知名遊戲公司多益網絡開發。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "待定",
     "desc": "多益網絡旗下經典MMORPG「夢想世界」系列的最新作品。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名MMORPG IP續作，由知名遊戲公司多益網絡開發。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：目前缺乏關於《夢想世界：弈劍逍遙》的最新公開資訊，遊戲狀態仍為「announced」，上線時間待定。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方公告。\n(2). 關注是否有新的測試或預約活動釋出。\n(3). 評估其IP在市場上的潛在影響力。",
     "verified": "版號雷達 (2026-08-31)",
     "category": "active",
     "testType": "待確認",
@@ -13395,9 +13523,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -13419,13 +13547,13 @@
     "threat": "high",
     "threatReason": "潛力動作RPG新作，同時登陸PC和PS5平台。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "待定",
     "desc": "一款在PC和PS5平台發行的動作角色扮演遊戲。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】潛力動作RPG新作，同時登陸PC和PS5平台。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：目前缺乏關於《失落之魂》的最新公開資訊，遊戲狀態仍為「announced」，上線時間待定。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方公告。\n(2). 關注是否有新的測試或預約活動釋出。\n(3). 評估其IP在市場上的潛在影響力。",
     "verified": "版號雷達 (2026-08-31)",
     "category": "active",
     "testType": "待確認",
@@ -13439,9 +13567,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -13462,13 +13590,13 @@
     "threat": "high",
     "threatReason": "具備二次元風格和潛在抽卡機制，開發商名稱也暗示其品類。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "待定",
     "desc": "幻萌避風港開發的二次元風格角色扮演手遊。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】具備二次元風格和潛在抽卡機制，開發商名稱也暗示其品類。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：目前缺乏關於《蒼藍避風港》的最新公開資訊，遊戲狀態仍為「announced」，上線時間待定。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方公告。\n(2). 關注是否有新的測試或預約活動釋出。\n(3). 評估其IP在市場上的潛在影響力。",
     "verified": "版號雷達 (2026-08-31)",
     "category": "active",
     "testType": "待確認",
@@ -13482,9 +13610,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -13505,13 +13633,13 @@
     "threat": "medium",
     "threatReason": "知名RPG開發商祖龍娛樂的新作，具備潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "待定",
     "desc": "祖龍娛樂開發的奇幻題材角色扮演手遊。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名RPG開發商祖龍娛樂的新作，具備潛力。",
+    "threatAnalysis": "【威脅類型】medium\n\n▶ 描述：目前缺乏關於《迷失童話》的最新公開資訊，遊戲狀態仍為「announced」，上線時間待定。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方公告。\n(2). 關注是否有新的測試或預約活動釋出。\n(3). 評估其IP在市場上的潛在影響力。",
     "verified": "版號雷達 (2026-08-31)",
     "category": "active",
     "testType": "待確認",
@@ -13525,9 +13653,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -13548,13 +13676,13 @@
     "threat": "high",
     "threatReason": "經典「三國志」IP改編，由上市遊戲公司愷英網絡開發。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "待定",
     "desc": "以「三國志」為背景的策略角色扮演手遊。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】經典「三國志」IP改編，由上市遊戲公司愷英網絡開發。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：目前缺乏關於《三國志霸王崛起》的最新公開資訊，遊戲狀態仍為「announced」，上線時間待定。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方公告。\n(2). 關注是否有新的測試或預約活動釋出。\n(3). 評估其IP在市場上的潛在影響力。",
     "verified": "版號雷達 (2026-08-31)",
     "category": "active",
     "testType": "待確認",
@@ -13568,9 +13696,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-31",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-08-31",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -13592,13 +13720,13 @@
     "threat": "medium",
     "threatReason": "新成立小型初創公司的雙端線上遊戲，版號已獲批，但市場知名度尚待觀察。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2026-Q4",
     "desc": "一款獲得中國版號的雙端線上遊戲，預計將同時推出PC和手機版本，由北京夢幻之巔科技有限公司開發營運。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】新成立小型初創公司的雙端線上遊戲，版號已獲批，但市場知名度尚待觀察。",
+    "threatAnalysis": "【威脅類型】medium\n\n▶ 描述：目前缺乏關於《永夜傳說》的最新公開資訊，遊戲狀態仍為「announced」，預計上線時間為2026年Q4。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方公告。\n(2). 關注是否有新的測試或預約活動釋出。\n(3). 評估其IP在市場上的潛在影響力。",
     "verified": "Agent 發現 (2026-09-01)",
     "category": "active",
     "testType": "待確認",
@@ -13612,9 +13740,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-01",
+    "updatedAt": "2026-09-13",
     "addedAt": "2026-09-01",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -19208,5 +19336,103 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 379,
+    "name": "代號：啟程",
+    "nameEn": "Code: Journey",
+    "developer": "騰訊 (Tencent)",
+    "studio": "騰訊 (Tencent)",
+    "publisher": "騰訊 (Tencent)",
+    "genre": "開放世界RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "騰訊大廠出品，開放世界RPG品類，預期投入大量資源宣發。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "騰訊旗下大型開放世界角色扮演手遊新作，預計將有廣闊的探索空間與豐富的劇情。",
+    "tags": [
+      "官方公告"
+    ],
+    "threatAnalysis": "【自動發現・官方公告】騰訊大廠出品，開放世界RPG品類，預期投入大量資源宣發。",
+    "verified": "Agent 發現 (2026-09-13)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "待確認"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-13",
+    "addedAt": "2026-09-13",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告"
+  },
+  {
+    "id": 380,
+    "name": "代號：破曉",
+    "nameEn": "Code: Dawn",
+    "developer": "騰訊 (Tencent)",
+    "studio": "騰訊 (Tencent)",
+    "publisher": "騰訊 (Tencent)",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "騰訊大廠出品，動作RPG品類，具備市場競爭力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "騰訊推出的動作角色扮演手遊，強調流暢戰鬥與技能連招。",
+    "tags": [
+      "官方公告"
+    ],
+    "threatAnalysis": "【自動發現・官方公告】騰訊大廠出品，動作RPG品類，具備市場競爭力。",
+    "verified": "Agent 發現 (2026-09-13)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "待確認"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-13",
+    "addedAt": "2026-09-13",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告"
   }
 ]

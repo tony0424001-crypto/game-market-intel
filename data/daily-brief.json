@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-09-12T04:56:06.096513+00:00",
-  "fetchCount": 122,
+  "lastUpdated": "2026-09-13T05:06:26.738806+00:00",
+  "fetchCount": 123,
   "items": [
+    {
+      "id": "brief-20260913-287a6bf8",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "代號：破曉（新發現・高威脅）",
+      "detail": "騰訊大廠出品，動作RPG品類，具備市場競爭力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-09-13T05:06:26.738806+00:00"
+    },
+    {
+      "id": "brief-20260913-32b46b2f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "代號：啟程（新發現・高威脅）",
+      "detail": "騰訊大廠出品，開放世界RPG品類，預期投入大量資源宣發。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-09-13T05:06:26.738806+00:00"
+    },
+    {
+      "id": "brief-20260913-ba78cce0",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "暴雪嘉年華新作總覽",
+      "detail": "《星海爭霸》射擊新作、《暗黑破壞神V》等重磅發表。",
+      "action": "關注暴雪新作動向",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-09-13T05:02:42.401416+00:00"
+    },
+    {
+      "id": "brief-20260913-275c7085",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《暗黑破壞神 V》公開",
+      "detail": "新職業「瘟疫騎士」曝光，裝備回歸D2風格。",
+      "action": "期待新作開發進度",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-09-13T05:02:42.401416+00:00"
+    },
+    {
+      "id": "brief-20260913-69df3796",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《星海爭霸》新作",
+      "detail": "劇情導向開放世界射擊，3A級開發初期。",
+      "action": "追蹤星海新篇章",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-13T05:02:42.401416+00:00"
+    },
+    {
+      "id": "brief-20260913-6b8f10f7",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《魔獸世界：永恆》",
+      "detail": "第三種體驗11月4日上市，動畫宣傳片揭曉。",
+      "action": "準備體驗新艾澤拉斯",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-13T05:02:42.401416+00:00"
+    },
     {
       "id": "brief-20260912-02252f73",
       "priority": "urgent",
@@ -151,72 +217,6 @@
       "icon": "🚨",
       "title": "勝利女神:新的希望（新發現・高威脅）",
       "detail": "二次元/抽卡類型，被列入熱門排行榜，可能與知名IP相關。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-11T04:59:27.632948+00:00"
-    },
-    {
-      "id": "brief-20260911-8ed39bfe",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "閃電十一人 烈火的革命（新發現・高威脅）",
-      "detail": "知名日系IP續作，由LEVEL-5開發，前作已確認有手機版，具備跨平台潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-11T04:59:27.632948+00:00"
-    },
-    {
-      "id": "brief-20260911-5e572ff1",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "地獄樂：地獄極樂之戰（新發現・高威脅）",
-      "detail": "知名日系動漫IP改編，由Good Smile Company發行，二次元玩家關注度高。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-11T04:59:27.632948+00:00"
-    },
-    {
-      "id": "brief-20260911-bf0fd21c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "JUMP 全明星亂鬥（新發現・高威脅）",
-      "detail": "知名日系漫畫IP改編，全明星陣容，具備廣泛粉絲基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-11T04:59:27.632948+00:00"
-    },
-    {
-      "id": "brief-20260911-e735781c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "飢困荒野（新發現・高威脅）",
-      "detail": "大廠盛趣遊戲自研，開放世界生存題材，市場期待度高。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-11T04:59:27.632948+00:00"
-    },
-    {
-      "id": "brief-20260911-11ab1440",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "伊莫（新發現・高威脅）",
-      "detail": "大廠FunPlus發行，開放世界捉寵題材，具備市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-11T04:59:27.632948+00:00"
-    },
-    {
-      "id": "brief-20260911-d2322e19",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "造夢西遊之黎尤浩劫篇（新發現・高威脅）",
-      "detail": "經典國產IP續作，由知名發行商4399推出，已正式上線。",
       "action": "加入追蹤並評估上線時程",
       "platform": "mobile",
       "source": "新聞報導",
