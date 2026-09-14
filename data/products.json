@@ -19434,5 +19434,48 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "官方公告"
+  },
+  {
+    "id": 381,
+    "name": "雨過天晴少女",
+    "nameEn": "Ame no Chi Hare Onna",
+    "developer": "Game Freak",
+    "studio": "Game Freak",
+    "publisher": "Game Freak",
+    "genre": "養成/模擬",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名開發商新作，但遊戲類型和玩法可能較為小眾，市場接受度待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "由《寶可夢》開發商Game Freak推出的全新手機遊戲，與日本氣象預報連動，主打魔法少女題材。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名開發商新作，但遊戲類型和玩法可能較為小眾，市場接受度待觀察。",
+    "verified": "Agent 發現 (2026-09-14)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-14",
+    "addedAt": "2026-09-14",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]

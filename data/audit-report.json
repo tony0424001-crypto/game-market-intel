@@ -1,51 +1,26 @@
 {
-  "lastAudit": "2026-09-13T05:03:05.614721+00:00",
-  "totalProducts": 375,
-  "updatesApplied": 46,
-  "issuesFound": 4,
+  "lastAudit": "2026-09-14T05:11:55.725076+00:00",
+  "totalProducts": 377,
+  "updatesApplied": 0,
+  "issuesFound": 0,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
-  "findings": [
-    {
-      "name": "新三國志曹操傳",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "異克斯小隊",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "東方歸言錄",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "波斯王子：失落的王冠",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    }
-  ],
+  "findings": [],
   "checked": [
-    "新三國志曹操傳",
-    "異克斯小隊",
-    "東方歸言錄",
-    "斗羅大陸：啟程",
-    "波斯王子：失落的王冠",
-    "仙境傳說：重生",
-    "紅警：榮耀",
-    "古龍群俠錄",
-    "黑子的籃球：街頭對決",
-    "夢想世界：弈劍逍遙",
-    "失落之魂",
-    "蒼藍避風港",
-    "迷失童話",
-    "三國志霸王崛起",
-    "永夜傳說"
+    "千里之路",
+    "七日防線",
+    "逆水寒：新世界",
+    "SOL: Enchant",
+    "幻獸帕魯Mobile",
+    "邊緣禁地Mobile",
+    "少女前線：藍蝶契約",
+    "Code Geass Knightmare Survivor",
+    "代號：神不言",
+    "RO 仙境傳說：口袋戰記",
+    "噬血戰記",
+    "湍流",
+    "夢想英雄",
+    "來自黑洞的旅人",
+    "靈魂潮汐"
   ],
   "nextBatch": [
     "無限大",

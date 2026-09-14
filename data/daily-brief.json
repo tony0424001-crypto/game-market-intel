@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-09-13T05:06:26.738806+00:00",
-  "fetchCount": 123,
+  "lastUpdated": "2026-09-14T05:11:35.167353+00:00",
+  "fetchCount": 124,
   "items": [
+    {
+      "id": "brief-20260914-88b1ec92",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "魔獸世界：永恆發表",
+      "detail": "全新WoW體驗，鎖定60級，不死族聖騎士",
+      "action": "了解新版本",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-14T05:11:35.167353+00:00"
+    },
+    {
+      "id": "brief-20260914-0e20fb20",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "暗黑破壞神30週年",
+      "detail": "「地獄餘燼賽季」9/16上線，歷代首領回歸",
+      "action": "準備迎接挑戰",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-09-14T05:11:35.167353+00:00"
+    },
+    {
+      "id": "brief-20260914-cb6ceaca",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "寶可夢開發商新作",
+      "detail": "GAME FREAK手機遊戲《雨過天晴少女》曝光",
+      "action": "關注直播詳情",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-14T05:11:35.167353+00:00"
+    },
+    {
+      "id": "brief-20260914-818ae67e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "BanG Dream!交織樂章",
+      "detail": "9/24全球上線，少女樂團新物語",
+      "action": "準備下載",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-14T05:11:35.167353+00:00"
+    },
     {
       "id": "brief-20260913-287a6bf8",
       "priority": "urgent",
@@ -157,70 +201,26 @@
       "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
     },
     {
-      "id": "brief-20260912-4e49774e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Nodusfall（新發現・高威脅）",
-      "detail": "米哈遊新作，全新IP，預期將是高製作水準的跨平台大作。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "官方公告",
-      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
-    },
-    {
-      "id": "brief-20260912-983dc1fd",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "坂本日常 Mission: Rogue Dawn（新發現・高威脅）",
-      "detail": "人氣漫畫IP改編，已在日本上線，具備一定市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
-    },
-    {
-      "id": "brief-20260912-1c3157bb",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "電玩瘋：薩爾達、卡比",
-      "detail": "薩爾達時之笛重製、卡比新作、密特羅德、魔物獵人登Switch 2等。",
-      "action": "觀看電玩瘋節目",
+      "id": "brief-20260914-62954c6e",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "要塞英雄x王國之心",
+      "detail": "索拉下週降臨《要塞英雄》聯動合作",
+      "action": "準備參與活動",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-12T04:47:48.228365+00:00"
+      "fetchedAt": "2026-09-14T05:11:35.167353+00:00"
     },
     {
-      "id": "brief-20260912-0cc34442",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "漫威星際異攻隊登Switch 2",
-      "detail": "返場版11/5登陸Switch 2，支援滑鼠/體感操作。",
-      "action": "關注Switch 2資訊",
+      "id": "brief-20260914-391fcbec",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "鬥陣特攻x電馭叛客",
+      "detail": "2027年合作登場，CDPR遊戲登Battle.net",
+      "action": "期待未來聯動",
       "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-12T04:47:48.228365+00:00"
-    },
-    {
-      "id": "brief-20260912-b023cb7d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《暗喻幻想》Switch 2特典",
-      "detail": "Switch 2版盒裝特典公開，11/12發售。",
-      "action": "關注Switch 2特典",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-12T04:47:48.228365+00:00"
-    },
-    {
-      "id": "brief-20260911-f798a9c1",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "勝利女神:新的希望（新發現・高威脅）",
-      "detail": "二次元/抽卡類型，被列入熱門排行榜，可能與知名IP相關。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-11T04:59:27.632948+00:00"
+      "source": "4Gamers",
+      "fetchedAt": "2026-09-14T05:11:35.167353+00:00"
     }
   ]
 }
