@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-09-14T05:11:35.167353+00:00",
-  "fetchCount": 124,
+  "lastUpdated": "2026-09-15T05:11:20.621396+00:00",
+  "fetchCount": 125,
   "items": [
+    {
+      "id": "brief-20260915-c8480324",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "万物契约（新發現・高威脅）",
+      "detail": "大廠疊紙旗下工作室新作，奇幻動作RPG類型，具備高製作水準潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-09-15T05:11:20.621396+00:00"
+    },
+    {
+      "id": "brief-20260915-d7ea1b8a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "詭影藏鋒（新發現・高威脅）",
+      "detail": "網易大廠新作，中式志怪題材獨特，動作RPG玩法具備市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-15T05:11:20.621396+00:00"
+    },
+    {
+      "id": "brief-20260915-140904ac",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Maple Re:Birth（新發現・高威脅）",
+      "detail": "經典IP《楓之谷》改編，由大廠Nexon開發，具備廣泛玩家基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-15T05:11:20.621396+00:00"
+    },
+    {
+      "id": "brief-20260915-e371d893",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "冥月悸動（新發現・高威脅）",
+      "detail": "知名製作人新作，預期為二次元/抽卡類型，具備市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-15T05:11:20.621396+00:00"
+    },
+    {
+      "id": "brief-20260915-57560424",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《暗黑破壞神5》揭露",
+      "detail": "BZ 26揭露新作，主打個人連結感最強故事，新職業瘟疫騎士。",
+      "action": "密切關注BZ消息",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-15T05:05:03.508853+00:00"
+    },
+    {
+      "id": "brief-20260915-048331d6",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "騰訊3A新作「Higame」",
+      "detail": "騰訊招募人才，打造人與怪談共存的3A開放世界RPG。",
+      "action": "密切關注開發進度",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-15T05:05:03.508853+00:00"
+    },
     {
       "id": "brief-20260914-88b1ec92",
       "priority": "urgent",
@@ -155,72 +221,6 @@
       "platform": "mobile",
       "source": "新聞報導",
       "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
-    },
-    {
-      "id": "brief-20260912-b4d87d3e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "安塔拉的迴響（新發現・高威脅）",
-      "detail": "大廠疊紙遊戲新作，挑戰新類型，預期將是高製作水準的跨平台遊戲。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "官方公告",
-      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
-    },
-    {
-      "id": "brief-20260912-7fc2d57f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "銀宮（新發現・高威脅）",
-      "detail": "大廠樂元素新作，二次元品類，獲得國際獎項提名，品質受肯定。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
-    },
-    {
-      "id": "brief-20260912-660f0056",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "獵人×獵人 (手機遊戲新作)（新發現・高威脅）",
-      "detail": "全球知名漫畫IP改編，預期將吸引大量粉絲。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
-    },
-    {
-      "id": "brief-20260912-5e5dce7a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "古墓奇兵 (手機版)（新發現・高威脅）",
-      "detail": "全球知名IP改編，經典主機遊戲移植，具備廣泛玩家基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
-    },
-    {
-      "id": "brief-20260914-62954c6e",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "要塞英雄x王國之心",
-      "detail": "索拉下週降臨《要塞英雄》聯動合作",
-      "action": "準備參與活動",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-14T05:11:35.167353+00:00"
-    },
-    {
-      "id": "brief-20260914-391fcbec",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "鬥陣特攻x電馭叛客",
-      "detail": "2027年合作登場，CDPR遊戲登Battle.net",
-      "action": "期待未來聯動",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-09-14T05:11:35.167353+00:00"
     }
   ]
 }

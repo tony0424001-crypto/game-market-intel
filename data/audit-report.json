@@ -1,10 +1,59 @@
 {
-  "lastAudit": "2026-09-14T05:11:55.725076+00:00",
-  "totalProducts": 377,
-  "updatesApplied": 0,
-  "issuesFound": 0,
+  "lastAudit": "2026-09-15T05:05:26.070269+00:00",
+  "totalProducts": 378,
+  "updatesApplied": 57,
+  "issuesFound": 8,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
-  "findings": [],
+  "findings": [
+    {
+      "name": "逆水寒：新世界",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "SOL: Enchant",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "幻獸帕魯Mobile",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "邊緣禁地Mobile",
+      "status": "warning",
+      "issue": "狀態: announced→soft-launch",
+      "autoFixed": true
+    },
+    {
+      "name": "Code Geass Knightmare Survivor",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "代號：神不言",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "RO 仙境傳說：口袋戰記",
+      "status": "warning",
+      "issue": "狀態: pre-reg→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "靈魂潮汐",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    }
+  ],
   "checked": [
     "千里之路",
     "七日防線",
