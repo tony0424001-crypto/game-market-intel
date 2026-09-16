@@ -1,75 +1,26 @@
 {
-  "lastAudit": "2026-09-15T05:05:26.070269+00:00",
-  "totalProducts": 378,
-  "updatesApplied": 57,
-  "issuesFound": 8,
+  "lastAudit": "2026-09-16T05:01:01.383324+00:00",
+  "totalProducts": 386,
+  "updatesApplied": 43,
+  "issuesFound": 0,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
-  "findings": [
-    {
-      "name": "逆水寒：新世界",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "SOL: Enchant",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "幻獸帕魯Mobile",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "邊緣禁地Mobile",
-      "status": "warning",
-      "issue": "狀態: announced→soft-launch",
-      "autoFixed": true
-    },
-    {
-      "name": "Code Geass Knightmare Survivor",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "代號：神不言",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "RO 仙境傳說：口袋戰記",
-      "status": "warning",
-      "issue": "狀態: pre-reg→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "靈魂潮汐",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    }
-  ],
+  "findings": [],
   "checked": [
-    "千里之路",
-    "七日防線",
-    "逆水寒：新世界",
-    "SOL: Enchant",
-    "幻獸帕魯Mobile",
-    "邊緣禁地Mobile",
-    "少女前線：藍蝶契約",
-    "Code Geass Knightmare Survivor",
-    "代號：神不言",
-    "RO 仙境傳說：口袋戰記",
-    "噬血戰記",
-    "湍流",
-    "夢想英雄",
-    "來自黑洞的旅人",
-    "靈魂潮汐"
+    "永暮幻想",
+    "踢爆那西游",
+    "斗轉武林",
+    "踏風行",
+    "大宇資訊日本知名動作IP授權手遊新作",
+    "幻獸帕魯世界",
+    "鳴潮：無限",
+    "原神：提瓦特編年史",
+    "崩壞：星穹鐵道 2",
+    "地下城與勇士：起源",
+    "仙境傳說：新世代",
+    "代號：ATLAS",
+    "少女前線2：追放",
+    "絕區零：深淵",
+    "龍之谷：經典"
   ],
   "nextBatch": [
     "無限大",

@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-09-15T05:11:20.621396+00:00",
-  "fetchCount": 125,
+  "lastUpdated": "2026-09-16T05:09:28.645417+00:00",
+  "fetchCount": 126,
   "items": [
+    {
+      "id": "brief-20260916-b68b075d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "專案：永恆（新發現・高威脅）",
+      "detail": "嗶哩嗶哩作為二次元平台，其發行的遊戲通常能吸引大量二次元玩家，潛力高。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-09-16T05:09:28.645417+00:00"
+    },
+    {
+      "id": "brief-20260916-90f2524f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "完美世界：新世界（新發現・高威脅）",
+      "detail": "經典端遊 IP 改編，大廠出品，具備一定玩家基礎和市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-09-16T05:09:28.645417+00:00"
+    },
+    {
+      "id": "brief-20260916-866cbbeb",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "專案V（新發現・高威脅）",
+      "detail": "全新偶像養成題材，具備 ACGN 屬性，且有預註冊活動，潛力高。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-09-16T05:09:28.645417+00:00"
+    },
+    {
+      "id": "brief-20260916-7b8c214e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "代號：諸神黃昏（新發現・高威脅）",
+      "detail": "網易大廠出品，開放世界 MMORPG 類型，具備全球市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-09-16T05:09:28.645417+00:00"
+    },
+    {
+      "id": "brief-20260916-60277ab8",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "代號：金庸（新發現・高威脅）",
+      "detail": "騰訊大廠出品，金庸武俠超級 IP，開放世界動作 RPG 類型，具備極高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-09-16T05:09:28.645417+00:00"
+    },
+    {
+      "id": "brief-20260916-31e27778",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "hololive Dreams（新發現・高威脅）",
+      "detail": "知名 VTuber IP，具備全球市場潛力，且已證明在日本市場表現強勁。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-16T05:09:28.645417+00:00"
+    },
+    {
+      "id": "brief-20260916-d9cdb0cd",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《星海》新作買斷制",
+      "detail": "BlizzCon 26宣布《星海爭霸》新作採單機買斷制，有明確故事結局。",
+      "action": "關注RTS大作",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-16T05:00:38.639098+00:00"
+    },
+    {
+      "id": "brief-20260916-b8a08086",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《魔鏡 2》終止營運",
+      "detail": "手遊《魔鏡 2：瘋狂的蛇姬》宣布10/15終止營運。",
+      "action": "玩家注意權益",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-16T05:00:38.639098+00:00"
+    },
     {
       "id": "brief-20260915-c8480324",
       "priority": "urgent",
@@ -133,94 +221,6 @@
       "platform": "mobile",
       "source": "官方公告",
       "fetchedAt": "2026-09-13T05:06:26.738806+00:00"
-    },
-    {
-      "id": "brief-20260913-ba78cce0",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "暴雪嘉年華新作總覽",
-      "detail": "《星海爭霸》射擊新作、《暗黑破壞神V》等重磅發表。",
-      "action": "關注暴雪新作動向",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-09-13T05:02:42.401416+00:00"
-    },
-    {
-      "id": "brief-20260913-275c7085",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《暗黑破壞神 V》公開",
-      "detail": "新職業「瘟疫騎士」曝光，裝備回歸D2風格。",
-      "action": "期待新作開發進度",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-09-13T05:02:42.401416+00:00"
-    },
-    {
-      "id": "brief-20260913-69df3796",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《星海爭霸》新作",
-      "detail": "劇情導向開放世界射擊，3A級開發初期。",
-      "action": "追蹤星海新篇章",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-13T05:02:42.401416+00:00"
-    },
-    {
-      "id": "brief-20260913-6b8f10f7",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《魔獸世界：永恆》",
-      "detail": "第三種體驗11月4日上市，動畫宣傳片揭曉。",
-      "action": "準備體驗新艾澤拉斯",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-13T05:02:42.401416+00:00"
-    },
-    {
-      "id": "brief-20260912-02252f73",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "苍古霸业（新發現・高威脅）",
-      "detail": "由知名二次元遊戲《戰艦少女R》的開發商幻萌科技推出，雖然具體玩法待定，但其開發商背景使其具備高關注度和二次元屬性。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
-    },
-    {
-      "id": "brief-20260912-d6f1d545",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "白日梦：无限世界（新發現・高威脅）",
-      "detail": "創新AI驅動的無限流遊戲，瞄準龐大的泛二次元用戶群體，強調高自由度和沉浸式體驗，具備成為現象級產品的潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
-    },
-    {
-      "id": "brief-20260912-7c4c73e6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "永恒之塔：经典（新發現・高威脅）",
-      "detail": "經典MMORPG《永恆之塔》IP改編手遊，擁有龐大玩家基礎和情懷加成，由知名大廠NCSoft授權與盛趣遊戲聯合開發。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
-    },
-    {
-      "id": "brief-20260912-7b740098",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "魔卡少女櫻：回憶鑰匙（新發現・高威脅）",
-      "detail": "全球知名懷舊IP改編，擁有大量粉絲基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-12T04:56:06.096513+00:00"
     }
   ]
 }
