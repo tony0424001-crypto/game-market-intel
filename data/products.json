@@ -20365,5 +20365,48 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "官方公告"
+  },
+  {
+    "id": 398,
+    "name": "我獨自升級：輪迴",
+    "nameEn": "Solo Leveling: Reincarnation",
+    "developer": "Netmarble",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名IP改編，預期有大量粉絲關注，且由大廠Netmarble開發。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "改編自熱門網路漫畫《我獨自升級》的動作角色扮演手遊新作，在TGS 2026曝光新動畫宣傳影片。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP改編，預期有大量粉絲關注，且由大廠Netmarble開發。",
+    "verified": "Agent 發現 (2026-09-17)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-17",
+    "addedAt": "2026-09-17",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]

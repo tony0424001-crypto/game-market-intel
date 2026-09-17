@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-09-16T05:09:28.645417+00:00",
-  "fetchCount": 126,
+  "lastUpdated": "2026-09-17T05:07:25.185418+00:00",
+  "fetchCount": 127,
   "items": [
+    {
+      "id": "brief-20260917-88cf5dcd",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "我獨自升級：輪迴（新發現・高威脅）",
+      "detail": "知名IP改編，預期有大量粉絲關注，且由大廠Netmarble開發。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-17T05:07:25.185418+00:00"
+    },
+    {
+      "id": "brief-20260917-ce599d77",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA 6台灣開放預購",
+      "detail": "超人氣新作《俠盜獵車手6》即日起在台開放預購。",
+      "action": "考慮預購遊戲",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-17T05:04:56.923963+00:00"
+    },
     {
       "id": "brief-20260916-b68b075d",
       "priority": "urgent",
@@ -157,70 +179,48 @@
       "fetchedAt": "2026-09-15T05:05:03.508853+00:00"
     },
     {
-      "id": "brief-20260914-88b1ec92",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "魔獸世界：永恆發表",
-      "detail": "全新WoW體驗，鎖定60級，不死族聖騎士",
-      "action": "了解新版本",
+      "id": "brief-20260917-474b9589",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "LEVEL5為AI爭議致歉",
+      "detail": "LEVEL5承諾未來對外創作不直接用AI，僅內部提升效率。",
+      "action": "關注業界AI應用趨勢",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-14T05:11:35.167353+00:00"
+      "fetchedAt": "2026-09-17T05:04:56.923963+00:00"
     },
     {
-      "id": "brief-20260914-0e20fb20",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "暗黑破壞神30週年",
-      "detail": "「地獄餘燼賽季」9/16上線，歷代首領回歸",
-      "action": "準備迎接挑戰",
+      "id": "brief-20260917-60918fcc",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "妮姬公告改善措施",
+      "detail": "官方為近期營運問題致歉，將明確違規處罰標準。",
+      "action": "關注官方後續處理",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-17T05:04:56.923963+00:00"
+    },
+    {
+      "id": "brief-20260917-48c9e2af",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "TGS 2026現場速報",
+      "detail": "東京電玩展2026開幕，巴哈特派小組前進現場報導。",
+      "action": "關注TGS最新消息",
       "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-09-14T05:11:35.167353+00:00"
-    },
-    {
-      "id": "brief-20260914-cb6ceaca",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "寶可夢開發商新作",
-      "detail": "GAME FREAK手機遊戲《雨過天晴少女》曝光",
-      "action": "關注直播詳情",
-      "platform": "mobile",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-14T05:11:35.167353+00:00"
+      "fetchedAt": "2026-09-17T05:04:56.923963+00:00"
     },
     {
-      "id": "brief-20260914-818ae67e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "BanG Dream!交織樂章",
-      "detail": "9/24全球上線，少女樂團新物語",
-      "action": "準備下載",
-      "platform": "mobile",
+      "id": "brief-20260917-12e1ab48",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "BlizzCon 2026回歸",
+      "detail": "暴雪嘉年華2026盛大回歸，超過3.5萬玩家齊聚。",
+      "action": "關注暴雪嘉年華消息",
+      "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-14T05:11:35.167353+00:00"
-    },
-    {
-      "id": "brief-20260913-287a6bf8",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "代號：破曉（新發現・高威脅）",
-      "detail": "騰訊大廠出品，動作RPG品類，具備市場競爭力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "官方公告",
-      "fetchedAt": "2026-09-13T05:06:26.738806+00:00"
-    },
-    {
-      "id": "brief-20260913-32b46b2f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "代號：啟程（新發現・高威脅）",
-      "detail": "騰訊大廠出品，開放世界RPG品類，預期投入大量資源宣發。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "官方公告",
-      "fetchedAt": "2026-09-13T05:06:26.738806+00:00"
+      "fetchedAt": "2026-09-17T05:04:56.923963+00:00"
     }
   ]
 }
