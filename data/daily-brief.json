@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-09-17T05:07:25.185418+00:00",
-  "fetchCount": 127,
+  "lastUpdated": "2026-09-18T05:09:19.550530+00:00",
+  "fetchCount": 128,
   "items": [
+    {
+      "id": "brief-20260918-08b33067",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "劍與遠征：英雄集結（新發現・高威脅）",
+      "detail": "知名大廠莉莉絲網絡的頭部IP新作，具備強大市場競爭力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-18T05:09:19.550530+00:00"
+    },
+    {
+      "id": "brief-20260918-d10ee889",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "奇蹟：起源（新發現・高威脅）",
+      "detail": "經典MMORPG IP新作，擁有大量忠實玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-18T05:09:19.550530+00:00"
+    },
+    {
+      "id": "brief-20260918-fa458325",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "鎮魂街：天生為王（新發現・高威脅）",
+      "detail": "熱門國產動漫IP改編，具備高人氣。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-18T05:09:19.550530+00:00"
+    },
+    {
+      "id": "brief-20260918-2fb0abad",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "風色幻想：命運傳說（新發現・高威脅）",
+      "detail": "經典懷舊IP改編，吸引老玩家回歸。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-18T05:09:19.550530+00:00"
+    },
+    {
+      "id": "brief-20260918-7f8abe62",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "斗破蒼穹：異火重燃（新發現・高威脅）",
+      "detail": "知名大型IP改編，擁有龐大粉絲基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-18T05:09:19.550530+00:00"
+    },
+    {
+      "id": "brief-20260918-5e0ae9d3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "劍俠世界：起源（新發現・高威脅）",
+      "detail": "經典武俠IP改編，由大廠西山居開發，在中國及港澳台市場已上線並取得不錯成績，具備較高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示/官方公告",
+      "fetchedAt": "2026-09-18T05:09:19.550530+00:00"
+    },
+    {
+      "id": "brief-20260918-73cc9fa4",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《FFVII 啟示》TGS試玩",
+      "detail": "重製三部曲完結篇TGS試玩畫面",
+      "action": "立即查看",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-18T04:55:52.852731+00:00"
+    },
+    {
+      "id": "brief-20260918-2731d4b6",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《臥龍2》製作人聯訪",
+      "detail": "暢談全新「化解」動作設計理念",
+      "action": "關注大作續集",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-18T04:55:52.852731+00:00"
+    },
+    {
+      "id": "brief-20260918-639aef07",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《控制：共振》上市影片",
+      "detail": "續作9/24問世，搭配經典歌曲",
+      "action": "關注大作續集",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-18T04:55:52.852731+00:00"
+    },
+    {
+      "id": "brief-20260918-88442d8a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《夜城狂想》願望清單破百萬",
+      "detail": "賽博龐克生活模擬9月底問世",
+      "action": "關注高期待新作",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-18T04:55:52.852731+00:00"
+    },
     {
       "id": "brief-20260917-88cf5dcd",
       "priority": "urgent",
@@ -111,116 +221,6 @@
       "platform": "mobile",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-09-16T05:00:38.639098+00:00"
-    },
-    {
-      "id": "brief-20260915-c8480324",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "万物契约（新發現・高威脅）",
-      "detail": "大廠疊紙旗下工作室新作，奇幻動作RPG類型，具備高製作水準潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "官方公告",
-      "fetchedAt": "2026-09-15T05:11:20.621396+00:00"
-    },
-    {
-      "id": "brief-20260915-d7ea1b8a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "詭影藏鋒（新發現・高威脅）",
-      "detail": "網易大廠新作，中式志怪題材獨特，動作RPG玩法具備市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-15T05:11:20.621396+00:00"
-    },
-    {
-      "id": "brief-20260915-140904ac",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Maple Re:Birth（新發現・高威脅）",
-      "detail": "經典IP《楓之谷》改編，由大廠Nexon開發，具備廣泛玩家基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-15T05:11:20.621396+00:00"
-    },
-    {
-      "id": "brief-20260915-e371d893",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "冥月悸動（新發現・高威脅）",
-      "detail": "知名製作人新作，預期為二次元/抽卡類型，具備市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-15T05:11:20.621396+00:00"
-    },
-    {
-      "id": "brief-20260915-57560424",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《暗黑破壞神5》揭露",
-      "detail": "BZ 26揭露新作，主打個人連結感最強故事，新職業瘟疫騎士。",
-      "action": "密切關注BZ消息",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-15T05:05:03.508853+00:00"
-    },
-    {
-      "id": "brief-20260915-048331d6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "騰訊3A新作「Higame」",
-      "detail": "騰訊招募人才，打造人與怪談共存的3A開放世界RPG。",
-      "action": "密切關注開發進度",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-15T05:05:03.508853+00:00"
-    },
-    {
-      "id": "brief-20260917-474b9589",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "LEVEL5為AI爭議致歉",
-      "detail": "LEVEL5承諾未來對外創作不直接用AI，僅內部提升效率。",
-      "action": "關注業界AI應用趨勢",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-17T05:04:56.923963+00:00"
-    },
-    {
-      "id": "brief-20260917-60918fcc",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "妮姬公告改善措施",
-      "detail": "官方為近期營運問題致歉，將明確違規處罰標準。",
-      "action": "關注官方後續處理",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-17T05:04:56.923963+00:00"
-    },
-    {
-      "id": "brief-20260917-48c9e2af",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "TGS 2026現場速報",
-      "detail": "東京電玩展2026開幕，巴哈特派小組前進現場報導。",
-      "action": "關注TGS最新消息",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-17T05:04:56.923963+00:00"
-    },
-    {
-      "id": "brief-20260917-12e1ab48",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "BlizzCon 2026回歸",
-      "detail": "暴雪嘉年華2026盛大回歸，超過3.5萬玩家齊聚。",
-      "action": "關注暴雪嘉年華消息",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-17T05:04:56.923963+00:00"
     }
   ]
 }

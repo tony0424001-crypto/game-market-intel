@@ -20408,5 +20408,403 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
+  },
+  {
+    "id": 399,
+    "name": "劍俠世界：起源",
+    "nameEn": "JX World: Origin",
+    "developer": "西山居 (Kingsoft Seasun)",
+    "studio": "西山居 (Kingsoft Seasun)",
+    "publisher": "西山居 (Kingsoft Seasun)",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/TW/HK/MO",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "經典武俠IP改編，由大廠西山居開發，在中國及港澳台市場已上線並取得不錯成績，具備較高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2023-Q3",
+    "desc": "西山居經典武俠IP《劍俠世界》系列的手機MMORPG新作，主打復古懷舊玩法。",
+    "tags": [
+      "版號公示/官方公告"
+    ],
+    "threatAnalysis": "【自動發現・版號公示/官方公告】經典武俠IP改編，由大廠西山居開發，在中國及港澳台市場已上線並取得不錯成績，具備較高市場潛力。",
+    "verified": "Agent 發現 (2026-09-18)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2023-09-27"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2024-01-18"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示/官方公告"
+  },
+  {
+    "id": 400,
+    "name": "斗破蒼穹：異火重燃",
+    "nameEn": "",
+    "developer": "深圳市嵐悅網絡科技有限公司",
+    "studio": "深圳市嵐悅網絡科技有限公司",
+    "publisher": "深圳市嵐悅網絡科技有限公司",
+    "genre": "動作RPG / 抽卡",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名大型IP改編，擁有龐大粉絲基礎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "改編自知名玄幻小說《斗破蒼穹》的全新行動遊戲，預計為動作角色扮演或抽卡類遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名大型IP改編，擁有龐大粉絲基礎。",
+    "verified": "版號雷達 (2026-09-18)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 401,
+    "name": "風色幻想：命運傳說",
+    "nameEn": "",
+    "developer": "廣州市天梯網絡科技有限公司",
+    "studio": "廣州市天梯網絡科技有限公司",
+    "publisher": "廣州市天梯網絡科技有限公司",
+    "genre": "策略RPG / 抽卡",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "經典懷舊IP改編，吸引老玩家回歸。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "經典台灣RPG系列《風色幻想》的最新行動遊戲作品，預計為策略角色扮演或抽卡類遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】經典懷舊IP改編，吸引老玩家回歸。",
+    "verified": "版號雷達 (2026-09-18)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 402,
+    "name": "鎮魂街：天生為王",
+    "nameEn": "",
+    "developer": "廣州市趣丸網絡科技有限公司",
+    "studio": "廣州市趣丸網絡科技有限公司",
+    "publisher": "廣州市趣丸網絡科技有限公司",
+    "genre": "動作RPG / 抽卡",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "熱門國產動漫IP改編，具備高人氣。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "改編自中國人氣動漫IP《鎮魂街》的行動遊戲，預計為動作角色扮演或抽卡類遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】熱門國產動漫IP改編，具備高人氣。",
+    "verified": "版號雷達 (2026-09-18)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 403,
+    "name": "奇蹟：起源",
+    "nameEn": "",
+    "developer": "廣州市天梯網絡科技有限公司",
+    "studio": "廣州市天梯網絡科技有限公司",
+    "publisher": "廣州市天梯網絡科技有限公司",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "經典MMORPG IP新作，擁有大量忠實玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "經典MMORPG《奇蹟MU》系列的全新行動遊戲，以「起源」為名，可能為重啟或前傳性質。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】經典MMORPG IP新作，擁有大量忠實玩家。",
+    "verified": "版號雷達 (2026-09-18)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 404,
+    "name": "劍與遠征：英雄集結",
+    "nameEn": "",
+    "developer": "上海莉莉絲網絡科技有限公司",
+    "studio": "上海莉莉絲網絡科技有限公司",
+    "publisher": "上海莉莉絲網絡科技有限公司",
+    "genre": "抽卡RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名大廠莉莉絲網絡的頭部IP新作，具備強大市場競爭力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "知名大廠莉莉絲網絡旗下《劍與遠征》IP的最新作品，預計為抽卡角色扮演遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名大廠莉莉絲網絡的頭部IP新作，具備強大市場競爭力。",
+    "verified": "版號雷達 (2026-09-18)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 405,
+    "name": "黎明之海：深淵",
+    "nameEn": "",
+    "developer": "廣州市趣丸網絡科技有限公司",
+    "studio": "廣州市趣丸網絡科技有限公司",
+    "publisher": "廣州市趣丸網絡科技有限公司",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "現有MMORPG IP的新版本，可能吸引原有玩家及新玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "《黎明之海》系列的最新版本或擴展內容，預計為大型多人線上角色扮演遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】現有MMORPG IP的新版本，可能吸引原有玩家及新玩家。",
+    "verified": "版號雷達 (2026-09-18)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 406,
+    "name": "代號：星辰",
+    "nameEn": "",
+    "developer": "廣州天梯網絡科技有限公司",
+    "studio": "廣州天梯網絡科技有限公司",
+    "publisher": "廣州天梯網絡科技有限公司",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "「代號」系列通常代表廠商重點項目，且題材具潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款以「星辰」為主題的全新行動角色扮演遊戲，開發商曾參與多款IP遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】「代號」系列通常代表廠商重點項目，且題材具潛力。",
+    "verified": "版號雷達 (2026-09-18)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 407,
+    "name": "長生：天機無限",
+    "nameEn": "",
+    "developer": "沈陽舞漾信息技術有限公司",
+    "studio": "沈陽舞漾信息技術有限公司",
+    "publisher": "沈陽舞漾信息技術有限公司",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "可能為現有系列新作，具備一定市場基礎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款以「長生」為主題的行動角色扮演遊戲，可能與已追蹤的《長生：天機降世》相關。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】可能為現有系列新作，具備一定市場基礎。",
+    "verified": "版號雷達 (2026-09-18)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-18",
+    "addedAt": "2026-09-18",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
   }
 ]
