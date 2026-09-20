@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-09-19T04:52:06.062783+00:00",
-  "fetchCount": 129,
+  "lastUpdated": "2026-09-20T05:05:26.632611+00:00",
+  "fetchCount": 130,
   "items": [
+    {
+      "id": "brief-20260920-3fc1d8d2",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "龍族教義2擴充包",
+      "detail": "大型擴充內容10/9推出，TGS開放試玩",
+      "action": "準備體驗新內容",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-20T05:05:26.632611+00:00"
+    },
+    {
+      "id": "brief-20260920-afdaad6a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "沉默之丘新作試玩",
+      "detail": "最新作9/24發售，TGS先行試玩",
+      "action": "準備體驗恐怖新作",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-20T05:05:26.632611+00:00"
+    },
+    {
+      "id": "brief-20260920-ad18c261",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Fortnite王國之心合作",
+      "detail": "推出王國之鏈與索拉造型等內容",
+      "action": "體驗合作內容",
+      "platform": "console/mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-20T05:05:26.632611+00:00"
+    },
     {
       "id": "brief-20260919-cc2cdff5",
       "priority": "urgent",
@@ -157,70 +190,37 @@
       "fetchedAt": "2026-09-18T05:09:19.550530+00:00"
     },
     {
-      "id": "brief-20260918-73cc9fa4",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《FFVII 啟示》TGS試玩",
-      "detail": "重製三部曲完結篇TGS試玩畫面",
-      "action": "立即查看",
+      "id": "brief-20260920-b6f8e3c1",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "魔物獵人荒野Switch 2",
+      "detail": "Switch 2版12/4推出，流暢狩獵",
+      "action": "關注Switch 2表現",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-18T04:55:52.852731+00:00"
+      "fetchedAt": "2026-09-20T05:05:26.632611+00:00"
     },
     {
-      "id": "brief-20260918-2731d4b6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《臥龍2》製作人聯訪",
-      "detail": "暢談全新「化解」動作設計理念",
-      "action": "關注大作續集",
+      "id": "brief-20260920-00c00ce1",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "洛克人新作專訪",
+      "detail": "40週年新作，雙主角與自訂晶片",
+      "action": "關注洛克人新作",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-18T04:55:52.852731+00:00"
+      "fetchedAt": "2026-09-20T05:05:26.632611+00:00"
     },
     {
-      "id": "brief-20260918-639aef07",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《控制：共振》上市影片",
-      "detail": "續作9/24問世，搭配經典歌曲",
-      "action": "關注大作續集",
+      "id": "brief-20260920-5fec3ae5",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "女神異聞錄4重製",
+      "detail": "2027年推出，製作團隊談新要素",
+      "action": "關注重製版細節",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-18T04:55:52.852731+00:00"
-    },
-    {
-      "id": "brief-20260918-88442d8a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《夜城狂想》願望清單破百萬",
-      "detail": "賽博龐克生活模擬9月底問世",
-      "action": "關注高期待新作",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-18T04:55:52.852731+00:00"
-    },
-    {
-      "id": "brief-20260917-88cf5dcd",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "我獨自升級：輪迴（新發現・高威脅）",
-      "detail": "知名IP改編，預期有大量粉絲關注，且由大廠Netmarble開發。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-17T05:07:25.185418+00:00"
-    },
-    {
-      "id": "brief-20260917-ce599d77",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA 6台灣開放預購",
-      "detail": "超人氣新作《俠盜獵車手6》即日起在台開放預購。",
-      "action": "考慮預購遊戲",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-17T05:04:56.923963+00:00"
+      "fetchedAt": "2026-09-20T05:05:26.632611+00:00"
     }
   ]
 }

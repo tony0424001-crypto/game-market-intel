@@ -1,81 +1,39 @@
 {
-  "lastAudit": "2026-09-19T04:48:35.786641+00:00",
-  "totalProducts": 404,
-  "updatesApplied": 73,
-  "issuesFound": 9,
+  "lastAudit": "2026-09-20T05:05:51.865027+00:00",
+  "totalProducts": 413,
+  "updatesApplied": 47,
+  "issuesFound": 2,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "魔法門之英雄無敵III重製版",
+      "name": "晶核",
       "status": "warning",
-      "issue": "狀態: announced→announced",
+      "issue": "狀態: cbt→announced",
       "autoFixed": true
     },
     {
-      "name": "指尖突圍",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "我獨自升級：崛起",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "詭秘之主",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "戀與深空",
-      "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "灼眼的夏娜 烈焰之刃",
-      "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "我想成為影之強者！Phantom Echoes",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "劍與遠征：啟程",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "來自星塵",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
+      "name": "不良人8",
+      "status": "error",
+      "issue": "移除: 此產品為動畫系列，非遊戲。",
+      "autoFixed": false
     }
   ],
   "checked": [
-    "魔法門之英雄無敵III重製版",
-    "天龍八部：經典永恆",
-    "指尖突圍",
-    "凡人修仙傳：大道",
-    "我獨自升級：崛起",
-    "希望之啟航",
-    "詭秘之主",
-    "戀與深空",
-    "誰ガ為のアルケミスト ポートマスターズ",
-    "灼眼的夏娜 烈焰之刃",
-    "我想成為影之強者！Phantom Echoes",
-    "塔防三國志：群英傳",
-    "射鵰英雄傳：群俠傳",
-    "劍與遠征：啟程",
-    "來自星塵"
+    "DNF Duel Mobile",
+    "白荊迴廊",
+    "冒險島：楓之傳說",
+    "晶核",
+    "鬼影都市",
+    "Rev. NOiR",
+    "緋紅狂想曲",
+    "鋼彈 叛逆軌道",
+    "王者榮耀：破曉",
+    "不良人8",
+    "哆奇哆棋",
+    "主公快上马",
+    "合合骑士团",
+    "驭龙之契",
+    "勇者工坊"
   ],
   "nextBatch": [
     "無限大",

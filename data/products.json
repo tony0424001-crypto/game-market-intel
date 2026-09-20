@@ -16078,7 +16078,7 @@
     "platform": [
       "Mobile"
     ],
-    "region": "KR/Global",
+    "region": "Global",
     "model": "F2P",
     "stage": "announced",
     "threat": "high",
@@ -16090,7 +16090,7 @@
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】Nexon大廠出品，DNF知名IP改編格鬥手遊，具備龐大粉絲基礎和競技潛力。",
+    "threatAnalysis": "【高威脅】Nexon旗下知名格鬥IP《DNF Duel》的行動版，預計於2027年Q3上線。此類IP改編手遊通常具備高關注度與潛在市場規模。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與測試消息。\n(2). 關注Nexon在其他手遊產品上的市場策略與表現。\n(3). 評估DNF IP在行動市場的用戶基礎與付費潛力。",
     "verified": "Agent 發現 (2026-09-05)",
     "category": "active",
     "testType": "待確認",
@@ -16110,9 +16110,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-05",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-05",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -16128,21 +16128,21 @@
       "Mobile",
       "PC"
     ],
-    "region": "CN/Global",
+    "region": "CN",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "high",
     "threatReason": "Bilibili發行，二次元風格，策略RPG玩法，已於全球市場上線，具備一定市場競爭力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "2023-07",
     "desc": "Bilibili發行的二次元即時策略RPG，結合了塔防與角色養成元素，已更名為《塵白禁區》。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】Bilibili發行，二次元風格，策略RPG玩法，已於全球市場上線，具備一定市場競爭力。",
+    "threatAnalysis": "【高威脅】Bilibili發行、Studio Mirai開發的二次元遊戲，已於2023年7月上線並進入長期營運階段。目前未發現明顯衰退訊號，但需持續觀察其營收與玩家熱度。\n\n▶ 建議行動：\n(1). 定期監測遊戲在中國市場的營收排名與玩家社群討論度。\n(2). 關注遊戲版本更新內容與營運活動，評估其對玩家留存的影響。\n(3). 分析Bilibili在二次元遊戲領域的整體佈局與競爭態勢。",
     "verified": "Agent 發現 (2026-09-05)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
@@ -16160,9 +16160,9 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-05",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-05",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -16177,21 +16177,21 @@
     "platform": [
       "Mobile"
     ],
-    "region": "KR/Global",
+    "region": "Global",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "critical",
     "threatReason": "Nexon大廠出品，國民級回憶IP《冒險島》全新MMORPG手遊，已在中國市場上線，預期將引發大規模懷舊熱潮。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "2023-08",
     "desc": "Nexon官方正版授權，知名端遊《冒險島》IP的全新行動版MMORPG，高度還原端遊內容。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】Nexon大廠出品，國民級回憶IP《冒險島》全新MMORPG手遊，已在中國市場上線，預期將引發大規模懷舊熱潮。",
+    "threatAnalysis": "【關鍵威脅】Nexon旗下《冒險島》IP的行動版，已於2023年8月上線並進入長期營運階段。作為知名IP改編，其市場表現與玩家基礎穩固，目前未發現明顯衰退訊號。\n\n▶ 建議行動：\n(1). 持續關注遊戲在全球各主要市場的營收表現與玩家活躍度。\n(2). 分析Nexon對此IP的長期營運策略與內容更新頻率。\n(3). 評估其對同類MMORPG手遊市場的持續影響力。",
     "verified": "Agent 發現 (2026-09-05)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
@@ -16209,9 +16209,9 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-05",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-05",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -16227,43 +16227,67 @@
       "Mobile",
       "PC"
     ],
-    "region": "CN/Global",
+    "region": "Global",
     "model": "F2P",
-    "stage": "cbt",
+    "stage": "announced",
     "threat": "high",
     "threatReason": "字節跳動大廠出品，二次元開放世界動作RPG，畫面精美，戰鬥流暢，具備成為爆款的潛力。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "sentiment": 80,
+    "launchEst": "2027-01-15",
     "desc": "字節跳動旗下Nuverse開發的二次元開放世界動作RPG，主打高自由度探索與爽快戰鬥。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】字節跳動大廠出品，二次元開放世界動作RPG，畫面精美，戰鬥流暢，具備成為爆款的潛力。",
+    "threatAnalysis": "【高威脅】原名《Project Mugen》，現已更名為《Ananta》，並確認由Naked Rain開發、網易遊戲發行。全球發售日期已定，且已在部分地區上線，顯示其開發進度穩定且市場佈局廣泛。作為開放世界RPG，具備成為現象級產品的潛力。\n\n▶ 建議行動：\n(1). 密切關注全球發售前的宣傳活動與玩家預約情況。\n(2). 分析其在已上線地區的市場表現與用戶反饋，預判全球市場潛力。\n(3). 評估其在開放世界RPG賽道的競爭力，特別是與其他大廠產品的差異化。",
     "verified": "Agent 發現 (2026-09-05)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-01-20",
+    "sourceLinks": [
+      {
+        "label": "IGN Ananta",
+        "url": "https://www.ign.com/games/project-mugen"
+      },
+      {
+        "label": "Wikipedia Ananta",
+        "url": "https://en.wikipedia.org/wiki/Ananta_(video_game)"
+      }
+    ],
     "launchRegions": [
       {
         "region": "CN",
-        "status": "封測中",
-        "date": "2026-11-01"
+        "status": "launched",
+        "date": "2023-07-14"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "launched",
+        "date": "2025-05-28"
+      },
+      {
+        "region": "Global",
+        "status": "announced",
+        "date": "2027-01-15"
       }
     ],
     "history": [
       {
         "date": "2026-09",
         "s": "cbt"
+      },
+      {
+        "date": "2026-09",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-05",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-05",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "遊戲已於2024年末正式更名為《Ananta》，並於2026年8月25日在Gamescom 2026 Opening Night Live上宣布全球發售日期為2027年1月15日。遊戲已於2023年7月14日在中國大陸上線，並於2025年5月28日在台港澳地區上線。"
   },
   {
     "id": 310,
@@ -16277,25 +16301,30 @@
       "PC",
       "Mobile"
     ],
-    "region": "Global",
+    "region": "PC Steam",
     "model": "F2P",
     "stage": "announced",
     "threat": "medium",
     "threatReason": "開放世界合作遊戲，具備一定市場潛力，但開發商與具體玩法細節待觀察。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2027-Q1",
     "desc": "一款合作開放世界新作，玩家將化身「鬼影」勇闖東京異變廢墟。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】開放世界合作遊戲，具備一定市場潛力，但開發商與具體玩法細節待觀察。",
+    "threatAnalysis": "【中等規模】由Acid Pixel Studios開發的合作開放世界生存狩獵遊戲，以末日東京為背景，概念新穎。然而，開發商知名度不高且上市時程未定，仍需觀察。\n\n▶ 建議行動：\n(1). 持續追蹤開發商的官方消息，特別是關於測試與上市日期的更新。\n(2). 關注遊戲實機演示與玩家社群的初期反饋，評估其玩法吸引力。\n(3). 比較其與其他同類型生存遊戲的競爭優勢。",
     "verified": "Agent 發現 (2026-09-06)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "巴哈姆特GNN新聞",
+        "url": "https://gnn.gamer.com.tw/detail.php?sn=311129"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -16303,11 +16332,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-06",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-06",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲研發團隊已確認為Acid Pixel Studios。遊戲預計在PC Steam平台推出，但上市時程目前尚未公布。"
   },
   {
     "id": 311,
@@ -16327,19 +16357,28 @@
     "threat": "high",
     "threatReason": "由大廠 KONAMI 推出，雖然平台未完全確定，但作為 RPG 新作，具備較高關注度。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "2027",
     "desc": "KONAMI 公布的全新 RPG 作品，預計於 2027 年推出，已公開故事與戰鬥預告。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】由大廠 KONAMI 推出，雖然平台未完全確定，但作為 RPG 新作，具備較高關注度。",
+    "threatAnalysis": "【高威脅】Konami與ILCA合作開發的全新RPG，已確認於2027年多平台發售。Konami作為老牌大廠，其新作發布通常會引起市場高度關注。\n\n▶ 建議行動：\n(1). 密切關注Konami後續公布的具體發售日期與遊戲詳情。\n(2). 評估其在JRPG市場的潛在競爭力，特別是與其他知名日廠作品的比較。\n(3). 關注遊戲宣傳策略與玩家社群的討論熱度。",
     "verified": "Agent 發現 (2026-09-06)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "KONAMI官網",
+        "url": "https://www.konami.com/games/rev_noir/asia/zh-tw/"
+      },
+      {
+        "label": "Steam頁面",
+        "url": "https://store.steampowered.com/app/2765360/Rev_NOiR/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -16347,11 +16386,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-06",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-06",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "Konami於2026年9月的State of Play直播中正式發表此款RPG新作，確認將於2027年登陸PS5、Xbox Series X|S和PC (Steam)平台。"
   },
   {
     "id": 312,
@@ -16377,13 +16417,18 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】由大廠 KONAMI 推出，動作冒險類型具備市場潛力，且背景設定獨特。",
+    "threatAnalysis": "【高威脅】Konami發表的原創動作遊戲，獨特的1920年代爵士樂紐約背景結合魔法元素，具備吸引特定玩家群體的潛力。多平台發售也擴大了其市場覆蓋。\n\n▶ 建議行動：\n(1). 密切關注Konami後續公布的具體發售日期與遊戲詳情。\n(2). 評估其美術風格與玩法創新度在市場上的接受度。\n(3). 關注遊戲宣傳策略與玩家社群的討論熱度。",
     "verified": "Agent 發現 (2026-09-06)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "KONAMI官網",
+        "url": "https://www.konami.com/games/rhapsody_in_scarlet/zh-cn/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -16391,11 +16436,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-06",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-06",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "Konami於2026年9月的State of Play直播中正式發表此款動作遊戲新作，設定在1920年代的紐約，將登陸PS5、Xbox Series X|S和Steam平台，上市時程未定。"
   },
   {
     "id": 313,
@@ -16414,13 +16460,13 @@
     "threat": "critical",
     "threatReason": "鋼彈是全球知名的大型 IP，其手遊新作預期將吸引大量粉絲，具備現象級潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2027-03",
     "desc": "一款全新的鋼彈動作遊戲，主打高機動性戰鬥，對抗「未知威脅」。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】鋼彈是全球知名的大型 IP，其手遊新作預期將吸引大量粉絲，具備現象級潛力。",
+    "threatAnalysis": "【關鍵威脅】鋼彈IP本身具有極高的市場號召力，但目前關於《鋼彈 叛逆軌道》的具體資訊極少，開發商與詳細發售計畫仍未公開。\n\n▶ 建議行動：\n(1). 持續監測所有與鋼彈IP相關的新遊戲發布消息，特別是行動平台。\n(2). 一旦有新資訊釋出，立即評估其玩法、美術風格與目標市場。\n(3). 警惕任何可能對現有市場格局產生重大影響的鋼彈新作。",
     "verified": "Agent 發現 (2026-09-06)",
     "category": "active",
     "testType": "待確認",
@@ -16434,9 +16480,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-06",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-06",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -16451,19 +16497,19 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN/Global",
+    "region": "Global",
     "model": "F2P",
     "stage": "pre-reg",
     "threat": "critical",
     "threatReason": "騰訊旗下《王者榮耀》的衍生新作，擁有龐大的用戶基礎和極高的市場關注度，預期將是現象級產品。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-09",
+    "sentiment": 85,
+    "launchEst": "2026-Q4",
     "desc": "騰訊「王者新作」之一，預約人數已突破 7000 萬，預計 9 月 10 日正式定檔。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】騰訊旗下《王者榮耀》的衍生新作，擁有龐大的用戶基礎和極高的市場關注度，預期將是現象級產品。",
+    "threatAnalysis": "【關鍵威脅】騰訊旗下《王者榮耀》IP的衍生作，具備極高的市場潛力與用戶基礎。雖然原定9月上線有所延遲，但預計仍將在2026年Q4推出，其影響力不容小覷。\n\n▶ 建議行動：\n(1). 密切關注遊戲的最終上線日期與首發地區。\n(2). 分析其預註冊數據與宣傳聲量，預判上線後的市場爆發力。\n(3). 準備應對其上線後可能對市場造成的衝擊，特別是在MOBA與動作遊戲領域。",
     "verified": "Agent 發現 (2026-09-06)",
     "category": "active",
     "testType": "待確認",
@@ -16472,9 +16518,9 @@
     "sourceLinks": [],
     "launchRegions": [
       {
-        "region": "CN",
-        "status": "預註冊",
-        "date": "2026-09-10"
+        "region": "JP",
+        "status": "pre-reg",
+        "date": "2026-12-31 (placeholder)"
       }
     ],
     "history": [
@@ -16483,11 +16529,12 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-09-06",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-06",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲目前仍處於預註冊階段。原定2026年9月上線，但截至2026年9月20日尚未有正式上線消息。日本App Store顯示預計上線日期為2026年12月31日（佔位符），表明可能延期至2026年Q4或更晚。"
   },
   {
     "id": 315,
@@ -16507,13 +16554,13 @@
     "threat": "high",
     "threatReason": "知名国漫IP改编，拥有庞大粉丝基础，且为移动和客户端双端游戏。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "待定",
+    "sentiment": 0,
+    "launchEst": "2027",
     "desc": "由知名国漫《画江湖之不良人》改编的武侠角色扮演游戏，支持移动和客户端双端游玩。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名国漫IP改编，拥有庞大粉丝基础，且为移动和客户端双端游戏。",
+    "threatAnalysis": "【不適用】此產品經查證為《畫江湖之不良人》動畫系列的第八季，而非遊戲。因此，其作為遊戲的威脅等級與相關評估均不適用，建議從遊戲追蹤列表中移除。\n\n▶ 建議行動：\n(1). 將《不良人8》從遊戲追蹤列表中移除。\n(2). 若有需要，可將其納入動畫或IP內容追蹤範疇。",
     "verified": "版號雷達 (2026-09-06)",
     "category": "active",
     "testType": "待確認",
@@ -16527,11 +16574,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-06",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-06",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "《不良人8》已確認為動畫系列第八季，而非遊戲。最新概念PV已於2026年6月22日發布，預計於2027年在騰訊視頻獨家上線，共12集。"
   },
   {
     "id": 316,
@@ -16550,19 +16598,24 @@
     "threat": "high",
     "threatReason": "知名二次元/抽卡游戏开发商勇仕网络的新作，有望吸引二次元玩家。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "待定",
+    "sentiment": 65,
+    "launchEst": "2026-Q4",
     "desc": "由知名二次元/抽卡游戏开发商勇仕网络开发，可能融合二次元风格和抽卡元素的策略棋牌游戏。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名二次元/抽卡游戏开发商勇仕网络的新作，有望吸引二次元玩家。",
+    "threatAnalysis": "【高威脅】勇仕網絡（《碧藍航線》開發商）的新作自走棋遊戲，其開發商的實力與《深空之眼》的資源轉移，顯示其對此產品的重視。自走棋賽道競爭激烈，但勇仕的經驗可能帶來差異化。\n\n▶ 建議行動：\n(1). 密切關注遊戲的測試進度與最終上線日期，特別是2026年Q4的動向。\n(2). 分析其玩法特色與美術風格，評估其在自走棋市場的競爭力。\n(3). 關注勇仕網絡的整體戰略調整，以及對新產品的資源投入。",
     "verified": "版號雷達 (2026-09-06)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/240562"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -16570,11 +16623,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-06",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-06",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "勇仕網絡開發的街頭潮酷速戰自走棋遊戲。有消息稱預計於2026年Q4上線，但也有提及2027年底公測。開發商勇仕網絡近期將《深空之眼》轉為陪伴服模式，可能將資源轉移至此新作。"
   },
   {
     "id": 317,
@@ -16593,13 +16647,13 @@
     "threat": "medium",
     "threatReason": "知名大厂三七互娱的新作，可能为热门的三国题材。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "待定",
     "desc": "由知名大厂三七互娱开发或发行，可能为热门的三国题材策略或角色扮演游戏。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名大厂三七互娱的新作，可能为热门的三国题材。",
+    "threatAnalysis": "【中等規模】三七互娛旗下新作，目前資訊較少，仍處於觀望階段。三七互娛作為知名發行商，其產品通常具備一定的市場基礎。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方消息。\n(2). 關注三七互娛在其他同類型產品上的市場表現。\n(3). 評估其玩法與題材是否具備市場潛力。",
     "verified": "版號雷達 (2026-09-06)",
     "category": "active",
     "testType": "待確認",
@@ -16613,9 +16667,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-06",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-06",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -16636,13 +16690,13 @@
     "threat": "medium",
     "threatReason": "知名开发商电魂网络的新作，可能为RPG或策略类游戏。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "待定",
     "desc": "由知名开发商电魂网络开发，可能是一款奇幻背景的角色扮演或策略游戏。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名开发商电魂网络的新作，可能为RPG或策略类游戏。",
+    "threatAnalysis": "【中等規模】電魂網絡旗下新作，目前資訊較少，仍處於觀望階段。電魂網絡在休閒與策略遊戲領域有一定經驗。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方消息。\n(2). 關注電魂網絡在其他同類型產品上的市場表現。\n(3). 評估其玩法與題材是否具備市場潛力。",
     "verified": "版號雷達 (2026-09-06)",
     "category": "active",
     "testType": "待確認",
@@ -16656,9 +16710,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-06",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-06",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -16723,13 +16777,13 @@
     "threat": "medium",
     "threatReason": "知名开发商雷霆互动的新作，可能为RPG或模拟经营类游戏。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "待定",
     "desc": "由知名开发商雷霆互动开发，可能是一款融合了角色扮演和模拟经营元素的游戏。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名开发商雷霆互动的新作，可能为RPG或模拟经营类游戏。",
+    "threatAnalysis": "【中等規模】廈門雷霆互動網絡有限公司旗下新作，目前資訊較少，仍處於觀望階段。雷霆互動在休閒遊戲領域有一定經驗。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的開發進度與官方消息。\n(2). 關注雷霆互動在其他同類型產品上的市場表現。\n(3). 評估其玩法與題材是否具備市場潛力。",
     "verified": "版號雷達 (2026-09-06)",
     "category": "active",
     "testType": "待確認",
@@ -16743,9 +16797,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-06",
+    "updatedAt": "2026-09-20",
     "addedAt": "2026-09-06",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-20",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
