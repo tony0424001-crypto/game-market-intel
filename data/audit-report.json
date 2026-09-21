@@ -1,39 +1,45 @@
 {
-  "lastAudit": "2026-09-20T05:05:51.865027+00:00",
+  "lastAudit": "2026-09-21T05:12:45.863241+00:00",
   "totalProducts": 413,
-  "updatesApplied": 47,
-  "issuesFound": 2,
+  "updatesApplied": 24,
+  "issuesFound": 3,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "晶核",
+      "name": "七騎士Re:BIRTH",
       "status": "warning",
-      "issue": "狀態: cbt→announced",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "不良人8",
-      "status": "error",
-      "issue": "移除: 此產品為動畫系列，非遊戲。",
-      "autoFixed": false
+      "name": "閃耀吧！嚕咪",
+      "status": "warning",
+      "issue": "狀態: cbt→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "星眠",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
     }
   ],
   "checked": [
-    "DNF Duel Mobile",
-    "白荊迴廊",
-    "冒險島：楓之傳說",
-    "晶核",
-    "鬼影都市",
-    "Rev. NOiR",
-    "緋紅狂想曲",
-    "鋼彈 叛逆軌道",
-    "王者榮耀：破曉",
-    "不良人8",
-    "哆奇哆棋",
-    "主公快上马",
-    "合合骑士团",
     "驭龙之契",
-    "勇者工坊"
+    "七騎士Re:BIRTH",
+    "藍色真珠",
+    "閃耀吧！嚕咪",
+    "星眠",
+    "高塔旅人",
+    "33號避難所",
+    "百獸家園",
+    "長生：天機降世",
+    "裝備仔：OVERGEARED",
+    "熱血物語：喪屍橫行",
+    "地下城與勇士：DX",
+    "刺客教條：代號Jade",
+    "塔之傳說",
+    "劍網3：無界"
   ],
   "nextBatch": [
     "無限大",

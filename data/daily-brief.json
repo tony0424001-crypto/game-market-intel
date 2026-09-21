@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-09-20T05:05:26.632611+00:00",
-  "fetchCount": 130,
+  "lastUpdated": "2026-09-21T05:18:40.459521+00:00",
+  "fetchCount": 131,
   "items": [
+    {
+      "id": "brief-20260921-caca515e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "集合！浆果镇（新發現・高威脅）",
+      "detail": "知名大厂字节跳动出品，生活模拟玩法有潜力成为爆款。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
+    },
+    {
+      "id": "brief-20260921-cf781722",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "庆余年：南庆大亨（新發現・高威脅）",
+      "detail": "国民级热门IP改编，拥有庞大的粉丝基础。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
+    },
+    {
+      "id": "brief-20260921-db1d1e47",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "粒粒的小人国（新發現・高威脅）",
+      "detail": "腾讯大厂自研新IP，生活模拟玩法受众广，美术风格可爱，有PC和移动双端潜力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
+    },
+    {
+      "id": "brief-20260921-a4ce9030",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "镇魂街王者归来（新發現・高威脅）",
+      "detail": "知名国漫IP改编，3D动作RPG，美术风格独特且面向二次元玩家，开发商专注于此IP。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
+    },
+    {
+      "id": "brief-20260921-990e9b00",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "依露希爾：星曉（新發現・高威脅）",
+      "detail": "二次元抽卡RPG，美術風格與演出強調獨特性，可能成為話題作。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
+    },
+    {
+      "id": "brief-20260921-e9cb4789",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "搖曳露營△ 全合一!! 悠閒時光（新發現・高威脅）",
+      "detail": "人氣動漫IP改編，原為Gacha遊戲，重新推出並擴展平台，對粉絲群有吸引力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
+    },
+    {
+      "id": "brief-20260921-faa6207a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "惡魔城：貝爾蒙特的詛咒（新發現・高威脅）",
+      "detail": "經典惡魔城IP的正統續作，由Konami發行，且為多平台發布，預計將引起全球玩家高度關注。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
+    },
+    {
+      "id": "brief-20260921-794d8f3d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "TGS 2026今日取消",
+      "detail": "受颱風影響，東京電玩展2026今日(9/21)全日活動取消。",
+      "action": "關注後續安排",
+      "platform": "N/A",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-21T05:12:22.172374+00:00"
+    },
+    {
+      "id": "brief-20260921-c0436175",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "小島秀夫談Physint",
+      "detail": "小島秀夫透露SIE放棄《Physint》內幕，Xbox接手發行。",
+      "action": "關注遊戲動向",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-21T05:12:22.172374+00:00"
+    },
+    {
+      "id": "brief-20260921-d52530ff",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "刀劍亂舞PUZZLE發行日",
+      "detail": "益智RPG《刀劍亂舞PUZZLE》9/24上線，實裝42把刀劍男士。",
+      "action": "準備下載遊玩",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-21T05:12:22.172374+00:00"
+    },
     {
       "id": "brief-20260920-3fc1d8d2",
       "priority": "urgent",
@@ -111,116 +221,6 @@
       "platform": "console",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-09-19T04:48:17.985153+00:00"
-    },
-    {
-      "id": "brief-20260919-d38b8f3d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "要塞英雄王國之心",
-      "detail": "兩大遊戲合作，推出索拉造型等內容。",
-      "action": "體驗合作內容",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-19T04:48:17.985153+00:00"
-    },
-    {
-      "id": "brief-20260918-08b33067",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "劍與遠征：英雄集結（新發現・高威脅）",
-      "detail": "知名大廠莉莉絲網絡的頭部IP新作，具備強大市場競爭力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-18T05:09:19.550530+00:00"
-    },
-    {
-      "id": "brief-20260918-d10ee889",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "奇蹟：起源（新發現・高威脅）",
-      "detail": "經典MMORPG IP新作，擁有大量忠實玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-18T05:09:19.550530+00:00"
-    },
-    {
-      "id": "brief-20260918-fa458325",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "鎮魂街：天生為王（新發現・高威脅）",
-      "detail": "熱門國產動漫IP改編，具備高人氣。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-18T05:09:19.550530+00:00"
-    },
-    {
-      "id": "brief-20260918-2fb0abad",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "風色幻想：命運傳說（新發現・高威脅）",
-      "detail": "經典懷舊IP改編，吸引老玩家回歸。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-18T05:09:19.550530+00:00"
-    },
-    {
-      "id": "brief-20260918-7f8abe62",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "斗破蒼穹：異火重燃（新發現・高威脅）",
-      "detail": "知名大型IP改編，擁有龐大粉絲基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-18T05:09:19.550530+00:00"
-    },
-    {
-      "id": "brief-20260918-5e0ae9d3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "劍俠世界：起源（新發現・高威脅）",
-      "detail": "經典武俠IP改編，由大廠西山居開發，在中國及港澳台市場已上線並取得不錯成績，具備較高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示/官方公告",
-      "fetchedAt": "2026-09-18T05:09:19.550530+00:00"
-    },
-    {
-      "id": "brief-20260920-b6f8e3c1",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "魔物獵人荒野Switch 2",
-      "detail": "Switch 2版12/4推出，流暢狩獵",
-      "action": "關注Switch 2表現",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-20T05:05:26.632611+00:00"
-    },
-    {
-      "id": "brief-20260920-00c00ce1",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "洛克人新作專訪",
-      "detail": "40週年新作，雙主角與自訂晶片",
-      "action": "關注洛克人新作",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-20T05:05:26.632611+00:00"
-    },
-    {
-      "id": "brief-20260920-5fec3ae5",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "女神異聞錄4重製",
-      "detail": "2027年推出，製作團隊談新要素",
-      "action": "關注重製版細節",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-20T05:05:26.632611+00:00"
     }
   ]
 }
