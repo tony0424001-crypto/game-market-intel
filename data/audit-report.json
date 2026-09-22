@@ -1,35 +1,25 @@
 {
-  "lastAudit": "2026-09-21T05:12:45.863241+00:00",
-  "totalProducts": 413,
-  "updatesApplied": 24,
-  "issuesFound": 3,
+  "lastAudit": "2026-09-22T05:13:44.297705+00:00",
+  "totalProducts": 427,
+  "updatesApplied": 21,
+  "issuesFound": 2,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "七騎士Re:BIRTH",
+      "name": "高塔旅人",
       "status": "warning",
       "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "閃耀吧！嚕咪",
+      "name": "長生：天機降世",
       "status": "warning",
-      "issue": "狀態: cbt→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "星眠",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
     "驭龙之契",
-    "七騎士Re:BIRTH",
-    "藍色真珠",
-    "閃耀吧！嚕咪",
-    "星眠",
     "高塔旅人",
     "33號避難所",
     "百獸家園",
@@ -39,7 +29,11 @@
     "地下城與勇士：DX",
     "刺客教條：代號Jade",
     "塔之傳說",
-    "劍網3：無界"
+    "劍網3：無界",
+    "Final Fantasy VII Ever Crisis",
+    "勇者鬥惡龍 冠軍",
+    "阿斯達年代記：三方爭霸",
+    "仙劍奇俠傳：新的開始"
   ],
   "nextBatch": [
     "無限大",
