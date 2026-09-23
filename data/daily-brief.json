@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-09-22T05:17:38.076860+00:00",
-  "fetchCount": 132,
+  "lastUpdated": "2026-09-23T04:56:09.995095+00:00",
+  "fetchCount": 133,
   "items": [
+    {
+      "id": "brief-20260923-3039bff8",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "原神7.1版上線",
+      "detail": "7.1版本「往冥府的安魂歌」上線，迎戰死之執政。",
+      "action": "立即更新體驗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-23T04:56:09.995095+00:00"
+    },
+    {
+      "id": "brief-20260923-1680cf56",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Xbox工作室重整",
+      "detail": "Activision接手《最後一戰》新作開發。",
+      "action": "關注產業動態",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-23T04:56:09.995095+00:00"
+    },
+    {
+      "id": "brief-20260923-6eb7ae77",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "伊莫手機版登場",
+      "detail": "捉寵RPG《伊莫》手機版上線，Steam破16萬人。",
+      "action": "下載體驗遊戲",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-23T04:56:09.995095+00:00"
+    },
+    {
+      "id": "brief-20260923-def003f3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "活俠傳音樂會",
+      "detail": "門票秒殺緊急加場，11/13再開賣。",
+      "action": "準備搶購門票",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-23T04:56:09.995095+00:00"
+    },
     {
       "id": "brief-20260922-c7cd281e",
       "priority": "urgent",
@@ -157,70 +201,26 @@
       "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
     },
     {
-      "id": "brief-20260921-cf781722",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "庆余年：南庆大亨（新發現・高威脅）",
-      "detail": "国民级热门IP改编，拥有庞大的粉丝基础。",
-      "action": "加入追蹤並評估上線時程",
+      "id": "brief-20260923-396feabb",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "碧藍航線新活動",
+      "detail": "限時活動「幽影迷城」開啟，新艦船登場。",
+      "action": "準備參與活動",
       "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-23T04:56:09.995095+00:00"
     },
     {
-      "id": "brief-20260921-db1d1e47",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "粒粒的小人国（新發現・高威脅）",
-      "detail": "腾讯大厂自研新IP，生活模拟玩法受众广，美术风格可爱，有PC和移动双端潜力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
-    },
-    {
-      "id": "brief-20260921-a4ce9030",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "镇魂街王者归来（新發現・高威脅）",
-      "detail": "知名国漫IP改编，3D动作RPG，美术风格独特且面向二次元玩家，开发商专注于此IP。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
-    },
-    {
-      "id": "brief-20260921-990e9b00",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "依露希爾：星曉（新發現・高威脅）",
-      "detail": "二次元抽卡RPG，美術風格與演出強調獨特性，可能成為話題作。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
-    },
-    {
-      "id": "brief-20260921-e9cb4789",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "搖曳露營△ 全合一!! 悠閒時光（新發現・高威脅）",
-      "detail": "人氣動漫IP改編，原為Gacha遊戲，重新推出並擴展平台，對粉絲群有吸引力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
-    },
-    {
-      "id": "brief-20260921-faa6207a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "惡魔城：貝爾蒙特的詛咒（新發現・高威脅）",
-      "detail": "經典惡魔城IP的正統續作，由Konami發行，且為多平台發布，預計將引起全球玩家高度關注。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
+      "id": "brief-20260923-253b9bc5",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "TGS26電鋸甜心2",
+      "detail": "田畑端團隊專訪，活用FFXV經驗開發新作。",
+      "action": "關注開發進度",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-23T04:56:09.995095+00:00"
     }
   ]
 }

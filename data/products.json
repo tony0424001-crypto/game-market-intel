@@ -17331,7 +17331,7 @@
     "tags": [
       "新聞報導/網路搜尋"
     ],
-    "threatAnalysis": "【自動發現・新聞報導/網路搜尋】知名韓國網路小說IP改編，由Kakao Games發行，具備一定市場潛力。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與市場消息。\n(2). 關注是否有測試或上線的相關公告。\n(3). 評估其IP影響力與開發商背景，判斷潛在市場表現。",
     "verified": "Agent 發現 (2026-09-09)",
     "category": "active",
     "testType": "待確認",
@@ -17351,9 +17351,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
     "sourceType": "新聞報導/網路搜尋"
   },
@@ -17380,7 +17380,7 @@
     "tags": [
       "新聞報導/網路搜尋"
     ],
-    "threatAnalysis": "【自動發現・新聞報導/網路搜尋】經典IP改編，但為Apple Arcade獨佔，市場範圍受限。",
+    "threatAnalysis": "【威脅類型】medium\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與市場消息。\n(2). 關注是否有測試或上線的相關公告。\n(3). 評估其IP影響力與開發商背景，判斷潛在市場表現。",
     "verified": "Agent 發現 (2026-09-09)",
     "category": "active",
     "testType": "待確認",
@@ -17400,9 +17400,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
     "sourceType": "新聞報導/網路搜尋"
   },
@@ -17429,7 +17429,7 @@
     "tags": [
       "官方公告/網路搜尋"
     ],
-    "threatAnalysis": "【自動發現・官方公告/網路搜尋】知名IP《地下城與勇士》新作，由Nexon大廠開發，MMORPG類型具備高潛力。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與市場消息。\n(2). 關注是否有測試或上線的相關公告。\n(3). 評估其IP影響力與開發商背景，判斷潛在市場表現。",
     "verified": "Agent 發現 (2026-09-09)",
     "category": "active",
     "testType": "待確認",
@@ -17449,9 +17449,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
     "sourceType": "官方公告/網路搜尋"
   },
@@ -17478,7 +17478,7 @@
     "tags": [
       "官方公告/網路搜尋"
     ],
-    "threatAnalysis": "【自動發現・官方公告/網路搜尋】頂級全球IP《刺客教條》改編，由騰訊旗下Level Infinite開發，開放世界RPG，預期將是現象級大作。",
+    "threatAnalysis": "【威脅類型】critical\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與市場消息。\n(2). 關注是否有測試或上線的相關公告。\n(3). 評估其IP影響力與開發商背景，判斷潛在市場表現。",
     "verified": "Agent 發現 (2026-09-09)",
     "category": "active",
     "testType": "待確認",
@@ -17503,9 +17503,9 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
     "sourceType": "官方公告/網路搜尋"
   },
@@ -17532,7 +17532,7 @@
     "tags": [
       "官方公告/網路搜尋"
     ],
-    "threatAnalysis": "【自動發現・官方公告/網路搜尋】韓國大廠NCSoft新作，MMORPG類型，具備高潛力。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與市場消息。\n(2). 關注是否有測試或上線的相關公告。\n(3). 評估其IP影響力與開發商背景，判斷潛在市場表現。",
     "verified": "Agent 發現 (2026-09-09)",
     "category": "active",
     "testType": "待確認",
@@ -17552,9 +17552,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
     "sourceType": "官方公告/網路搜尋"
   },
@@ -17570,29 +17570,38 @@
       "PC",
       "Mobile"
     ],
-    "region": "CN/Global",
+    "region": "CN",
     "model": "F2P",
-    "stage": "pre-reg",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "知名國產武俠MMORPG IP改編，PC與手機雙端互通，在中國市場有巨大影響力。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2024-Q3",
+    "sentiment": 85,
+    "launchEst": "2024-06-13",
     "desc": "經典武俠MMORPG《劍俠情緣網路版叁》的PC與手機雙端互通版本。",
     "tags": [
       "官方公告/網路搜尋"
     ],
-    "threatAnalysis": "【自動發現・官方公告/網路搜尋】知名國產武俠MMORPG IP改編，PC與手機雙端互通，在中國市場有巨大影響力。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 建議行動：\n(1). 持續關注遊戲營收與玩家活躍數據，特別是跨平台數據互通帶來的影響。\n(2). 分析其內容更新頻率與玩家社群反饋，評估長期營運潛力。\n(3). 密切觀察其在MMORPG市場的競爭態勢。",
     "verified": "Agent 發現 (2026-09-09)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2024-01-03 (首測開始)",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/237893"
+      },
+      {
+        "label": "官網",
+        "url": "https://jx3.xoyo.com/"
+      }
+    ],
     "launchRegions": [
       {
         "region": "CN",
-        "status": "預註冊",
+        "status": "live-ops",
         "date": "2024-06-13"
       }
     ],
@@ -17600,13 +17609,19 @@
       {
         "date": "2026-09",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-09",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
-    "sourceType": "官方公告/網路搜尋"
+    "sourceType": "官方公告/網路搜尋",
+    "currentEvent": "遊戲已於2024年6月13日全平台公測上線，並於6月6日開啟預下載。 遊戲支援PC端與移動端數據互通，提供跨平台遊玩體驗。",
+    "eventNote": "遊戲已於2024年6月13日全平台公測上線，並於6月6日開啟預下載。 遊戲支援PC端與移動端數據互通，提供跨平台遊玩體驗。"
   },
   {
     "id": 335,
@@ -17619,29 +17634,34 @@
     "platform": [
       "Mobile"
     ],
-    "region": "Global/JP",
+    "region": "Global",
     "model": "F2P",
     "stage": "live-ops",
-    "threat": "critical",
-    "threatReason": "頂級全球IP《Final Fantasy VII》改編，整合系列故事，具備極高話題度和玩家基礎。",
+    "threat": "medium",
+    "threatReason": "儘管IP影響力大且初期營收表現亮眼，但近期在主要市場（如美國App Store）的下載量和營收數據顯示明顯下滑趨勢，玩家評價也提及遊戲存在重複性高和過度課金的設計。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2023-09",
     "desc": "整合《Final Fantasy VII》系列所有故事章節的章節式RPG手遊。",
     "tags": [
       "官方公告/網路搜尋"
     ],
-    "threatAnalysis": "【自動發現・官方公告/網路搜尋】頂級全球IP《Final Fantasy VII》改編，整合系列故事，具備極高話題度和玩家基礎。",
+    "threatAnalysis": "【威脅類型】medium\n\n▶ 建議行動：\n(1). 密切監控全球各主要市場的營收與玩家活躍數據，特別是日本市場的表現。\n(2). 分析玩家流失原因，評估是否需要調整遊戲內容、活動或商業模式以挽回玩家。\n(3). 關注是否有新的內容更新或跨界合作，以刺激玩家回流與提升話題度。",
     "verified": "Agent 發現 (2026-09-09)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "App Store US",
+        "url": "https://sensortower.com/ios/us/square-enix/app/final-fantasy-vii-ever-crisis/1607921938"
+      }
+    ],
     "launchRegions": [
       {
         "region": "Global",
-        "status": "已上線",
+        "status": "live-ops",
         "date": "2023-09-07"
       }
     ],
@@ -17651,11 +17671,13 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
-    "sourceType": "官方公告/網路搜尋"
+    "sourceType": "官方公告/網路搜尋",
+    "currentEvent": "遊戲已於2023年9月7日全球上線。 截至2024年11月，遊戲在行動裝置上的總玩家消費已超過1億美元。",
+    "eventNote": "遊戲已於2023年9月7日全球上線。 截至2024年11月，遊戲在行動裝置上的總玩家消費已超過1億美元。"
   },
   {
     "id": 336,
@@ -17680,9 +17702,9 @@
     "tags": [
       "官方公告/網路搜尋"
     ],
-    "threatAnalysis": "【自動發現・官方公告/網路搜尋】知名日本國民級RPG IP改編，雖然是已上線的日本市場產品，但其IP影響力巨大。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 建議行動：\n(1). 持續追蹤遊戲營收與玩家活躍數據。\n(2). 關注是否有明顯的衰退訊號，如營收或玩家熱度持續下滑。\n(3). 評估其內容更新與社群互動，判斷長期營運狀況。",
     "verified": "Agent 發現 (2026-09-09)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
@@ -17700,9 +17722,9 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
     "sourceType": "官方公告/網路搜尋"
   },
@@ -17730,9 +17752,9 @@
     "tags": [
       "官方公告/網路搜尋"
     ],
-    "threatAnalysis": "【自動發現・官方公告/網路搜尋】知名韓劇IP改編，由Netmarble大廠開發，跨平台MMORPG，在韓國及港澳台市場已上線。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 建議行動：\n(1). 持續追蹤遊戲營收與玩家活躍數據。\n(2). 關注是否有明顯的衰退訊號，如營收或玩家熱度持續下滑。\n(3). 評估其內容更新與社群互動，判斷長期營運狀況。",
     "verified": "Agent 發現 (2026-09-09)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
@@ -17755,9 +17777,9 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
     "sourceType": "官方公告/網路搜尋"
   },
@@ -17772,43 +17794,63 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "CN/TW/HK/MO",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "知名國產IP《仙劍奇俠傳》改編，由騰訊發行，在中國市場有巨大潛力。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2025-Q2",
+    "sentiment": 75,
+    "launchEst": "2024-07-26",
     "desc": "經典國產仙俠RPG《仙劍奇俠傳》系列新作手遊，由騰訊發行。",
     "tags": [
       "版號公示/網路搜尋"
     ],
-    "threatAnalysis": "【自動發現・版號公示/網路搜尋】知名國產IP《仙劍奇俠傳》改編，由騰訊發行，在中國市場有巨大潛力。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 建議行動：\n(1). 持續關注遊戲在各地上線地區的營收與玩家活躍數據。\n(2). 分析玩家對遊戲內容（劇情、玩法、美術）的評價，特別是關於「情懷」與「新意」的平衡。\n(3). 評估其長期的內容更新計畫與社群經營策略，以維持玩家熱度。",
     "verified": "Agent 發現 (2026-09-09)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/tw/app/%E4%BB%99%E5%8A%8D%E5%A5%87%E4%BF%A0%E5%82%B3-%E6%96%B0%E7%9A%84%E9%96%8B%E5%A7%8B/id6478988631"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.cmge.xxqxz.google"
+      }
+    ],
     "launchRegions": [
       {
+        "region": "TW/HK/MO",
+        "status": "live-ops",
+        "date": "2024-07-26"
+      },
+      {
         "region": "CN",
-        "status": "未上線",
-        "date": "待確認"
+        "status": "live-ops",
+        "date": "2024-01-26"
       }
     ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
-    "sourceType": "版號公示/網路搜尋"
+    "sourceType": "版號公示/網路搜尋",
+    "currentEvent": "遊戲已於2024年7月26日多平台正式上線，並於7月25日開啟預下載。 遊戲在台灣、香港地區的iOS和Android雙平台下載榜榮登第一。",
+    "eventNote": "遊戲已於2024年7月26日多平台正式上線，並於7月25日開啟預下載。 遊戲在台灣、香港地區的iOS和Android雙平台下載榜榮登第一。"
   },
   {
     "id": 339,
@@ -17833,7 +17875,7 @@
     "tags": [
       "版號公示/網路搜尋"
     ],
-    "threatAnalysis": "【自動發現・版號公示/網路搜尋】知名二次元IP《白夜極光》新作，具備成熟的玩家社群和美術風格。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與市場消息。\n(2). 關注是否有測試或上線的相關公告。\n(3). 評估其IP影響力與開發商背景，判斷潛在市場表現。",
     "verified": "Agent 發現 (2026-09-09)",
     "category": "active",
     "testType": "待確認",
@@ -17853,9 +17895,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
     "sourceType": "版號公示/網路搜尋"
   },
@@ -17883,7 +17925,7 @@
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名IP《英雄聯盟》改編，騰訊大廠開發，已在移動端取得巨大成功，PC客戶端版號獲批將進一步擴大其影響力。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與市場消息。\n(2). 關注是否有測試或上線的相關公告。\n(3). 評估其IP影響力與開發商背景，判斷潛在市場表現。",
     "verified": "版號雷達 (2026-09-09)",
     "category": "active",
     "testType": "待確認",
@@ -17903,9 +17945,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -17935,7 +17977,7 @@
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】獨特水墨風格的動作Roguelite遊戲，在PC平台已有一定知名度，多平台版號獲批有望擴大玩家群體。",
+    "threatAnalysis": "【威脅類型】medium\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與市場消息。\n(2). 關注是否有測試或上線的相關公告。\n(3). 評估其IP影響力與開發商背景，判斷潛在市場表現。",
     "verified": "版號雷達 (2026-09-09)",
     "category": "active",
     "testType": "待確認",
@@ -17955,9 +17997,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -17973,48 +18015,63 @@
       "Mobile",
       "PC"
     ],
-    "region": "CN/TW/HK/MO/Global",
+    "region": "TW/HK/MO/SG/MY/KR/Asia",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "知名開發商雷霆遊戲出品，3D修仙MMO題材受眾廣泛，已在海外進行測試，潛力較高。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "待定",
+    "sentiment": 80,
+    "launchEst": "2025-11-27",
     "desc": "一款由雷霆開發的3D御劍飛行修仙MMO手遊，融合修仙、放置與國風元素，支持多人聯機空戰。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名開發商雷霆遊戲出品，3D修仙MMO題材受眾廣泛，已在海外進行測試，潛力較高。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 建議行動：\n(1). 持續關注遊戲在亞洲地區的營收與玩家活躍數據，特別是跨服戰場的表現。\n(2). 分析玩家對其「輕鬆修仙」與「自由交易」機制的反饋，評估其長期吸引力。\n(3). 密切觀察其內容更新與活動，判斷是否能持續維持玩家參與度。",
     "verified": "版號雷達 (2026-09-09)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [
+    "testDateEnd": "2025-08-02 (刪檔付費測試結束)",
+    "sourceLinks": [
       {
-        "region": "CN",
-        "status": "announced",
-        "date": "待定"
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.wjcsasia.android"
       },
       {
+        "label": "官方粉絲團",
+        "url": "https://www.facebook.com/SwordImmortal.TW/"
+      }
+    ],
+    "launchRegions": [
+      {
         "region": "TW/HK/MO/SG/MY/KR",
-        "status": "CBT",
-        "date": "2025年7月4日"
+        "status": "live-ops",
+        "date": "2025-11-27"
+      },
+      {
+        "region": "Asia",
+        "status": "live-ops",
+        "date": "2026-06-18"
       }
     ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-09",
+    "updatedAt": "2026-09-23",
     "addedAt": "2026-09-09",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-23",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲已於2025年11月27日正式上線，並於2025年10月17日開啟事前預約。 遊戲在2025年7月4日至8月2日進行了刪檔付費測試。 2026年6月18日開啟半週年慶典，伺服器升級為「亞洲服」，實現15地玩家同服混戰。",
+    "eventNote": "⚡ 遊戲已於2025年11月27日正式上線，並於2025年10月17日開啟事前預約。 遊戲在2025年7月4日至8月2日進行了刪檔付費測試。 2026年6月18日開啟半週年慶典，伺服器升級為「亞洲服」，實現15地玩家同服混戰。"
   },
   {
     "id": 343,
