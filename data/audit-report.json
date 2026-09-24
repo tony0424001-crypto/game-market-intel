@@ -1,45 +1,45 @@
 {
-  "lastAudit": "2026-09-23T04:56:50.926471+00:00",
+  "lastAudit": "2026-09-24T05:07:13.881510+00:00",
   "totalProducts": 439,
-  "updatesApplied": 45,
+  "updatesApplied": 55,
   "issuesFound": 3,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "劍網3：無界",
+      "name": "勇者鬥惡龍 英雄：特魯內科大冒險 – 經典HD",
       "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "仙劍奇俠傳：新的開始",
+      "name": "Seal Online IP手遊新作",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "問劍長生",
+      "name": "伊莫",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: cbt→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
     "驭龙之契",
-    "裝備仔：OVERGEARED",
-    "熱血物語：喪屍橫行",
-    "地下城與勇士：DX",
-    "刺客教條：代號Jade",
-    "塔之傳說",
-    "劍網3：無界",
-    "Final Fantasy VII Ever Crisis",
-    "勇者鬥惡龍 冠軍",
-    "阿斯達年代記：三方爭霸",
-    "仙劍奇俠傳：新的開始",
-    "白夜極光：星辰",
-    "金鏟鏟之戰",
-    "墨境",
-    "問劍長生"
+    "釋厄英雄",
+    "長夜守衛者",
+    "深空之劫",
+    "勇者鬥惡龍 英雄：特魯內科大冒險 – 經典HD",
+    "浪漫沙加3 重製版",
+    "HIT：世界",
+    "神之塔：新世界",
+    "塵白禁區",
+    "摩爾莊園",
+    "劍靈2",
+    "幻塔",
+    "Seal Online IP手遊新作",
+    "造夢西遊之黎尤浩劫篇",
+    "伊莫"
   ],
   "nextBatch": [
     "無限大",

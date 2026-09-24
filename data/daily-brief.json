@@ -1,7 +1,150 @@
 {
-  "lastUpdated": "2026-09-23T04:56:09.995095+00:00",
-  "fetchCount": 133,
+  "lastUpdated": "2026-09-24T05:13:40.685774+00:00",
+  "fetchCount": 134,
   "items": [
+    {
+      "id": "brief-20260924-72ad738d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "蓝月纪元（新發現・高威脅）",
+      "detail": "属于中国市场流行的“传奇”类MMORPG，由恺英网络相关公司运营，该品类有稳定的玩家群体和高营收潜力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
+    },
+    {
+      "id": "brief-20260924-23f42984",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "斗罗大陆：指尖试炼（新發現・高威脅）",
+      "detail": "知名IP《斗罗大陆》改编，结合了流行的放置和卡牌玩法，由知名大厂37互娱相关公司运营。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
+    },
+    {
+      "id": "brief-20260924-3bc8c218",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "剑侠情缘・零（新發現・高威脅）",
+      "detail": "知名IP《剑侠情缘》系列新作，西山居开发，MMORPG品类，具有强大的玩家基础和情怀加成。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
+    },
+    {
+      "id": "brief-20260924-9b9a1ab3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "狩（新發現・高威脅）",
+      "detail": "知名大廠騰訊自研原創動作旗艦，潛力巨大。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
+    },
+    {
+      "id": "brief-20260924-974607ce",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Dynamite Blue（新發現・高威脅）",
+      "detail": "由知名遊戲《Exos Heroes》核心成員打造，具備二次元美術風格和回合制收集RPG玩法，潛力較高。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
+    },
+    {
+      "id": "brief-20260924-6eaeea4a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "靈魂潮汐：蝕月（新發現・高威脅）",
+      "detail": "知名二次元遊戲《靈魂潮汐》的正統3D續作，由原班人馬打造，在中國市場有一定玩家基礎和期待度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
+    },
+    {
+      "id": "brief-20260924-1cd01f57",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "我獨自升級：KARMA（新發現・高威脅）",
+      "detail": "知名全球IP《我獨自升級》改編，由大廠Netmarble開發發行，具備高人氣與市場潛力，且強調無角色武器抽卡，可能吸引大",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
+    },
+    {
+      "id": "brief-20260924-aa7868c4",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Make Drama: MAD（新發現・高威脅）",
+      "detail": "二次元角色收集RPG，具備Live2D戰鬥和情感系統，全球發行且有韓國大廠Wemade Connect參與。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
+    },
+    {
+      "id": "brief-20260924-82e3673c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "ONE PIECE 海洋盛宴（新發現・高威脅）",
+      "detail": "知名全球大IP《ONE PIECE》改編，由知名模擬遊戲開發商Kairosoft製作，具備跨平台發行潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
+    },
+    {
+      "id": "brief-20260924-3035ae30",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "熱血三國 M（新發現・高威脅）",
+      "detail": "經典網頁遊戲IP改編，具備深厚的玩家基礎與回憶向情懷，有望吸引大量策略遊戲愛好者。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
+    },
+    {
+      "id": "brief-20260924-0bac0ac9",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "癲狂三國：少年無雙",
+      "detail": "三國卡牌新作今日上線，聯動《風雲》，邰智源林雪代言。",
+      "action": "立即下載體驗",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-24T05:06:19.801270+00:00"
+    },
+    {
+      "id": "brief-20260924-804fb323",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "獨立遊戲《反射魔女》",
+      "detail": "畫線反彈魔法球Roguelike打磚塊遊戲，Steam/手機跨平台。",
+      "action": "立即下載體驗",
+      "platform": "mobile/console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-24T05:06:19.801270+00:00"
+    },
+    {
+      "id": "brief-20260924-b1d5f208",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "黎明門前的吹笛人",
+      "detail": "可愛風克蘇魯經營模擬新作，Steam平台今日發售。",
+      "action": "立即下載體驗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-24T05:06:19.801270+00:00"
+    },
     {
       "id": "brief-20260923-3039bff8",
       "priority": "urgent",
@@ -78,149 +221,6 @@
       "platform": "mobile",
       "source": "新聞報導/官方公告",
       "fetchedAt": "2026-09-22T05:17:38.076860+00:00"
-    },
-    {
-      "id": "brief-20260922-5c6d41b0",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "寶可夢V2（新發現・高威脅）",
-      "detail": "類寶可夢IP，寵物收集玩法，提供高福利吸引玩家，已在全球上線。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導/模型知識推論",
-      "fetchedAt": "2026-09-22T05:17:38.076860+00:00"
-    },
-    {
-      "id": "brief-20260922-ab0a8d1a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "N.O.A.H.（新發現・高威脅）",
-      "detail": "潛力二次元/抽卡遊戲，視覺風格吸引人，符合重點關注類型。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論/新聞報導",
-      "fetchedAt": "2026-09-22T05:17:38.076860+00:00"
-    },
-    {
-      "id": "brief-20260922-97e40c5c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "鏈鋸人Devil Crush（新發現・高威脅）",
-      "detail": "熱門二次元IP改編，IP號召力強大。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-22T05:17:38.076860+00:00"
-    },
-    {
-      "id": "brief-20260922-34fe0731",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "星之救援者（新發現・高威脅）",
-      "detail": "知名開發商STUDIOBSIDE新作，強調劇情與動畫演出，已在日韓及全球上線。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導/官方公告",
-      "fetchedAt": "2026-09-22T05:17:38.076860+00:00"
-    },
-    {
-      "id": "brief-20260922-25be4534",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "魔法少女小圓Magia Exedra（新發現・高威脅）",
-      "detail": "知名二次元IP改編，有大廠參與開發與代理，已在日本上線並在台港澳開啟預註冊。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導/官方公告",
-      "fetchedAt": "2026-09-22T05:17:38.076860+00:00"
-    },
-    {
-      "id": "brief-20260922-4b9071c8",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "香格里拉·開拓異境：七大最強種（新發現・高威脅）",
-      "detail": "大廠Netmarble開發，改編自全球熱門IP，3D動作RPG，預期會大規模搶佔市場注意力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導/官方公告",
-      "fetchedAt": "2026-09-22T05:17:38.076860+00:00"
-    },
-    {
-      "id": "brief-20260922-d3b81525",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "TGS 26：《Ninjala 2》",
-      "detail": "Switch 2新作，PvP轉開放世界PvE。",
-      "action": "關注Switch 2新作",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-22T05:11:34.007564+00:00"
-    },
-    {
-      "id": "brief-20260922-577d9791",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "TGS 26：《真三國無雙2R》",
-      "detail": "UE5重製經典，製作人聯訪。",
-      "action": "了解重製細節",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-22T05:11:34.007564+00:00"
-    },
-    {
-      "id": "brief-20260922-c35822ed",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "TGS 26：《雷頓教授》",
-      "detail": "系列新作，中文試玩影片出爐。",
-      "action": "觀看TGS試玩",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-22T05:11:34.007564+00:00"
-    },
-    {
-      "id": "brief-20260922-56c0db92",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "TGS 26：《霓虹深淵 2》",
-      "detail": "Roguelike動作遊戲，10/8發售。",
-      "action": "關注發售資訊",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-22T05:11:34.007564+00:00"
-    },
-    {
-      "id": "brief-20260921-caca515e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "集合！浆果镇（新發現・高威脅）",
-      "detail": "知名大厂字节跳动出品，生活模拟玩法有潜力成为爆款。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-21T05:18:40.459521+00:00"
-    },
-    {
-      "id": "brief-20260923-396feabb",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "碧藍航線新活動",
-      "detail": "限時活動「幽影迷城」開啟，新艦船登場。",
-      "action": "準備參與活動",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-23T04:56:09.995095+00:00"
-    },
-    {
-      "id": "brief-20260923-253b9bc5",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "TGS26電鋸甜心2",
-      "detail": "田畑端團隊專訪，活用FFXV經驗開發新作。",
-      "action": "關注開發進度",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-23T04:56:09.995095+00:00"
     }
   ]
 }
