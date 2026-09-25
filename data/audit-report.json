@@ -1,45 +1,33 @@
 {
-  "lastAudit": "2026-09-24T05:07:13.881510+00:00",
-  "totalProducts": 439,
-  "updatesApplied": 55,
-  "issuesFound": 3,
+  "lastAudit": "2026-09-25T05:08:58.983481+00:00",
+  "totalProducts": 455,
+  "updatesApplied": 7,
+  "issuesFound": 1,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "勇者鬥惡龍 英雄：特魯內科大冒險 – 經典HD",
+      "name": "飢困荒野",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "Seal Online IP手遊新作",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "伊莫",
-      "status": "warning",
-      "issue": "狀態: cbt→live-ops",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     }
   ],
   "checked": [
-    "驭龙之契",
-    "釋厄英雄",
-    "長夜守衛者",
-    "深空之劫",
-    "勇者鬥惡龍 英雄：特魯內科大冒險 – 經典HD",
-    "浪漫沙加3 重製版",
-    "HIT：世界",
-    "神之塔：新世界",
-    "塵白禁區",
-    "摩爾莊園",
-    "劍靈2",
-    "幻塔",
-    "Seal Online IP手遊新作",
-    "造夢西遊之黎尤浩劫篇",
-    "伊莫"
+    "飢困荒野",
+    "JUMP 全明星亂鬥",
+    "地獄樂：地獄極樂之戰",
+    "閃電十一人 烈火的革命",
+    "勝利女神:新的希望",
+    "湮滅之潮",
+    "坂本日常 Mission: Rogue Dawn",
+    "Nodusfall",
+    "天穂のサクナヒメ～ヒヌカ巡霊譚～",
+    "古墓奇兵 (手機版)",
+    "獵人×獵人 (手機遊戲新作)",
+    "銀宮",
+    "安塔拉的迴響",
+    "Project: The Perceiver",
+    "魔卡少女櫻：回憶鑰匙"
   ],
   "nextBatch": [
     "無限大",

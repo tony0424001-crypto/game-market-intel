@@ -18904,35 +18904,54 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "high",
     "threatReason": "大廠盛趣遊戲自研，開放世界生存題材，市場期待度高。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q3",
+    "sentiment": 80,
+    "launchEst": "2026年內",
     "desc": "盛趣遊戲開發的開放世界生存手遊，測試表現「非常爆炸」，預計暑期上線。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】大廠盛趣遊戲自研，開放世界生存題材，市場期待度高。",
+    "threatAnalysis": "【高威脅】《飢困荒野》作為Klei正版授權的《飢荒：聯機版》手遊，由盛趣遊戲開發並由騰訊運營，具備強大的IP與發行背景。目前遊戲正處於「饥智团」創作者體驗測試階段，並已開放全平台預約，預計於2026年內正式上線。遊戲開發團隊積極聽取玩家反饋，已移除武器寵物抽卡機制，顯示出對遊戲品質與玩家體驗的重視，市場期待度高。\n\n▶ 建議行動：\n(1). 持續關注遊戲測試進度與玩家社群反饋，特別是關於遊戲核心玩法與商業化模式的調整。\n(2). 密切追蹤遊戲正式上線日期與首發地區，評估其初期市場表現與營收數據。\n(3). 分析其對同類沙盒生存手遊市場的潛在影響，並評估其長期營運策略。",
     "verified": "Agent 發現 (2026-09-11)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "testDateEnd": "2026-05-14 (ongoing, ends before launch)",
+    "sourceLinks": [
+      {
+        "label": "TapTap 官方預約",
+        "url": "https://www.taptap.cn/app/230113"
+      },
+      {
+        "label": "Bilibili 遊戲中心",
+        "url": "https://game.bilibili.com/jkpy/"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "pre-registration"
+      }
+    ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-09-11",
+    "updatedAt": "2026-09-25",
     "addedAt": "2026-09-11",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-25",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "「饥智团」創作者體驗測試於2026年5月14日開啟，預計於正式上線前結束。遊戲預計於2026年內正式上線。"
   },
   {
     "id": 358,
@@ -23721,5 +23740,483 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 459,
+    "name": "硬核動作新作 (暫定)",
+    "nameEn": "Shiyue Hardcore Action New Work (placeholder)",
+    "developer": "詩悅 (Shiyue)",
+    "studio": "詩悅 (Shiyue)",
+    "publisher": "詩悅 (Shiyue)",
+    "genre": "動作",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名製作人籌備新作，開發商詩悅在中國市場有成功經驗，潛力高。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "詩悅遊戲華韜卸任《望月》執行製作人後，將籌備一款硬核動作新作。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名製作人籌備新作，開發商詩悅在中國市場有成功經驗，潛力高。",
+    "verified": "Agent 發現 (2026-09-25)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 460,
+    "name": "米哈遊都市開放世界新作 (暫定)",
+    "nameEn": "miHoYo Urban Open World Project (placeholder)",
+    "developer": "米哈遊 (miHoYo)",
+    "studio": "米哈遊 (miHoYo)",
+    "publisher": "米哈遊 (miHoYo)",
+    "genre": "開放世界",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "米哈遊旗艦級新IP，開放世界RPG，預期將有極高的市場關注度與競爭力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027+",
+    "desc": "米哈遊一款對標GTA的都市開放世界RPG，強調高視覺表現與角色細節。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】米哈遊旗艦級新IP，開放世界RPG，預期將有極高的市場關注度與競爭力。",
+    "verified": "Agent 發現 (2026-09-25)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 461,
+    "name": "米哈遊開放世界捉寵新作 (暫定)",
+    "nameEn": "miHoYo Open World Pet Catching Project (placeholder)",
+    "developer": "米哈遊 (miHoYo)",
+    "studio": "米哈遊 (miHoYo)",
+    "publisher": "米哈遊 (miHoYo)",
+    "genre": "捉寵/自走棋",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "米哈遊新嘗試的熱門捉寵題材，結合自走棋玩法，潛力高。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027+",
+    "desc": "米哈遊一款對標洛克王國、寶可夢的開放世界捉寵遊戲，戰鬥方式類似金鏟鏟之戰的自走棋。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】米哈遊新嘗試的熱門捉寵題材，結合自走棋玩法，潛力高。",
+    "verified": "Agent 發現 (2026-09-25)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 462,
+    "name": "米哈遊超大型Boss戰新作 (暫定)",
+    "nameEn": "miHoYo Large-scale Boss Battle Project (placeholder)",
+    "developer": "米哈遊 (miHoYo)",
+    "studio": "米哈遊 (miHoYo)",
+    "publisher": "米哈遊 (miHoYo)",
+    "genre": "動作",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "米哈遊在動作遊戲領域的新嘗試，高視覺品質與Boss戰核心玩法具吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027+",
+    "desc": "米哈遊一款顯示畫風類似魔物獵人的超大型Boss戰動作冒險遊戲，追求超高品質視覺表現。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】米哈遊在動作遊戲領域的新嘗試，高視覺品質與Boss戰核心玩法具吸引力。",
+    "verified": "Agent 發現 (2026-09-25)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 463,
+    "name": "米哈遊生活MMO新作 (暫定)",
+    "nameEn": "miHoYo Life MMO Project (placeholder)",
+    "developer": "米哈遊 (miHoYo)",
+    "studio": "米哈遊 (miHoYo)",
+    "publisher": "米哈遊 (miHoYo)",
+    "genre": "MMORPG/生活",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "米哈遊拓展MMO品類，結合生活模擬與社交元素，市場潛力大。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027+",
+    "desc": "米哈遊一款對標模擬人生、逆水寒的生活MMO，側重社交與高自由度。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】米哈遊拓展MMO品類，結合生活模擬與社交元素，市場潛力大。",
+    "verified": "Agent 發現 (2026-09-25)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 464,
+    "name": "米哈遊軍事射擊新作 (暫定)",
+    "nameEn": "miHoYo Military Shooter Project (placeholder)",
+    "developer": "米哈遊 (miHoYo)",
+    "studio": "米哈遊 (miHoYo)",
+    "publisher": "米哈遊 (miHoYo)",
+    "genre": "射擊",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "米哈遊首次嘗試硬核軍事射擊題材，虛幻引擎製作，具備競爭力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027+",
+    "desc": "米哈遊一款虛幻引擎製作的硬核寫實軍事題材射擊遊戲，類似三角洲行動和CSGO的結合。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】米哈遊首次嘗試硬核軍事射擊題材，虛幻引擎製作，具備競爭力。",
+    "verified": "Agent 發現 (2026-09-25)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 465,
+    "name": "米哈遊3D MOBA新作 (暫定)",
+    "nameEn": "miHoYo 3D MOBA Project (placeholder)",
+    "developer": "米哈遊 (miHoYo)",
+    "studio": "米哈遊 (miHoYo)",
+    "publisher": "米哈遊 (miHoYo)",
+    "genre": "MOBA",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "米哈遊進軍MOBA市場，強調公平競技與高畫質，可能吸引大量玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027+",
+    "desc": "米哈遊一款虛幻引擎製作的歐美畫風公平競技3D MOBA遊戲，畫質高於英雄聯盟。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】米哈遊進軍MOBA市場，強調公平競技與高畫質，可能吸引大量玩家。",
+    "verified": "Agent 發現 (2026-09-25)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 466,
+    "name": "逆光潛入",
+    "nameEn": "Papergames Reverse Light Infiltration (placeholder)",
+    "developer": "疊紙 (Papergames)",
+    "studio": "疊紙 (Papergames)",
+    "publisher": "疊紙 (Papergames)",
+    "genre": "動作",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "疊紙遊戲新作，該公司在女性向二次元市場有強大影響力，此作可能為其拓展品類。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "疊紙遊戲旗下新作，可能是一款動作或潛入類遊戲。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】疊紙遊戲新作，該公司在女性向二次元市場有強大影響力，此作可能為其拓展品類。",
+    "verified": "Agent 發現 (2026-09-25)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 467,
+    "name": "有殺氣童話2",
+    "nameEn": "NetEase Fairytale Fights 2 (placeholder)",
+    "developer": "網易 (NetEase)",
+    "studio": "網易 (NetEase)",
+    "publisher": "網易 (NetEase)",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "網易知名IP續作，重構童話世界觀，具備一定玩家基礎和市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "網易重構經典童話的幻想世界RPG續作，強調情感共鳴與成長。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易知名IP續作，重構童話世界觀，具備一定玩家基礎和市場潛力。",
+    "verified": "Agent 發現 (2026-09-25)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 468,
+    "name": "世界之外",
+    "nameEn": "NetEase Beyond the World (placeholder)",
+    "developer": "網易 (NetEase)",
+    "studio": "網易 (NetEase)",
+    "publisher": "網易 (NetEase)",
+    "genre": "冒險RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "網易原創IP，多線程敘事與高自由度玩法，有望吸引注重劇情的玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "網易多線程平行宇宙架構的冒險RPG，高自由度與強角色驅動敘事。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易原創IP，多線程敘事與高自由度玩法，有望吸引注重劇情的玩家。",
+    "verified": "Agent 發現 (2026-09-25)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 469,
+    "name": "命運：群星",
+    "nameEn": "NetEase Destiny: Star Cluster (placeholder)",
+    "developer": "網易 (NetEase)",
+    "studio": "網易 (NetEase)",
+    "publisher": "網易 (NetEase)",
+    "genre": "RPG/Roguelike",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "網易結合經典IP與Roguelike、基地建設等多元玩法，具備創新潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "網易基於經典IP世界觀延伸的Roguelike與多人協同基地建設RPG。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易結合經典IP與Roguelike、基地建設等多元玩法，具備創新潛力。",
+    "verified": "Agent 發現 (2026-09-25)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-25",
+    "addedAt": "2026-09-25",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]
