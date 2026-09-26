@@ -1,19 +1,11 @@
 {
-  "lastAudit": "2026-09-25T05:08:58.983481+00:00",
-  "totalProducts": 455,
-  "updatesApplied": 7,
-  "issuesFound": 1,
+  "lastAudit": "2026-09-26T05:12:43.425166+00:00",
+  "totalProducts": 466,
+  "updatesApplied": 0,
+  "issuesFound": 0,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
-  "findings": [
-    {
-      "name": "飢困荒野",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    }
-  ],
+  "findings": [],
   "checked": [
-    "飢困荒野",
     "JUMP 全明星亂鬥",
     "地獄樂：地獄極樂之戰",
     "閃電十一人 烈火的革命",
@@ -27,7 +19,8 @@
     "銀宮",
     "安塔拉的迴響",
     "Project: The Perceiver",
-    "魔卡少女櫻：回憶鑰匙"
+    "魔卡少女櫻：回憶鑰匙",
+    "混沌零點夢魘"
   ],
   "nextBatch": [
     "無限大",

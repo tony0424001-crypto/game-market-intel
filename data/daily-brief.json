@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-09-25T05:12:14.755019+00:00",
-  "fetchCount": 135,
+  "lastUpdated": "2026-09-26T05:18:19.702510+00:00",
+  "fetchCount": 136,
   "items": [
+    {
+      "id": "brief-20260926-80af2a72",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "闇影詩章：凌越世界（新發現・高威脅）",
+      "detail": "Cygames開發的知名IP卡牌對戰手遊新作，具備二次元抽卡元素，市場影響力大。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-26T05:18:19.702510+00:00"
+    },
+    {
+      "id": "brief-20260926-d1ff92e7",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "餅乾人聯盟（新發現・高威脅）",
+      "detail": "知名IP「姜餅人」下的全新動作冒險手遊，已在中國開啟測試，市場關注度高。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-26T05:18:19.702510+00:00"
+    },
+    {
+      "id": "brief-20260926-f929a47c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA 6典藏版發表",
+      "detail": "11/19發售，推「菸槍鱷馬卡」主題典藏版",
+      "action": "考慮預購典藏版",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-26T05:12:18.892893+00:00"
+    },
+    {
+      "id": "brief-20260926-95fae947",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "武裝幻想終止開發",
+      "detail": "《狂野歷險》精神續作開發已終止",
+      "action": "關注開發商動向",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-26T05:12:18.892893+00:00"
+    },
+    {
+      "id": "brief-20260926-3e10733f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "惡魔城40週年",
+      "detail": "初代行動版限時免費下載中",
+      "action": "立即下載遊戲",
+      "platform": "mobile",
+      "source": "4Gamers",
+      "fetchedAt": "2026-09-26T05:12:18.892893+00:00"
+    },
     {
       "id": "brief-20260925-19a0e5f7",
       "priority": "urgent",
@@ -157,70 +212,15 @@
       "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
     },
     {
-      "id": "brief-20260924-9b9a1ab3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "狩（新發現・高威脅）",
-      "detail": "知名大廠騰訊自研原創動作旗艦，潛力巨大。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
-    },
-    {
-      "id": "brief-20260924-974607ce",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Dynamite Blue（新發現・高威脅）",
-      "detail": "由知名遊戲《Exos Heroes》核心成員打造，具備二次元美術風格和回合制收集RPG玩法，潛力較高。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
-    },
-    {
-      "id": "brief-20260924-6eaeea4a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "靈魂潮汐：蝕月（新發現・高威脅）",
-      "detail": "知名二次元遊戲《靈魂潮汐》的正統3D續作，由原班人馬打造，在中國市場有一定玩家基礎和期待度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
-    },
-    {
-      "id": "brief-20260924-1cd01f57",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "我獨自升級：KARMA（新發現・高威脅）",
-      "detail": "知名全球IP《我獨自升級》改編，由大廠Netmarble開發發行，具備高人氣與市場潛力，且強調無角色武器抽卡，可能吸引大",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "官方公告",
-      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
-    },
-    {
-      "id": "brief-20260924-aa7868c4",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Make Drama: MAD（新發現・高威脅）",
-      "detail": "二次元角色收集RPG，具備Live2D戰鬥和情感系統，全球發行且有韓國大廠Wemade Connect參與。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
-    },
-    {
-      "id": "brief-20260924-82e3673c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "ONE PIECE 海洋盛宴（新發現・高威脅）",
-      "detail": "知名全球大IP《ONE PIECE》改編，由知名模擬遊戲開發商Kairosoft製作，具備跨平台發行潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
+      "id": "brief-20260926-1f59075c",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "空戰奇兵8試玩",
+      "detail": "10/2發售，視聽體驗佳，主線最長",
+      "action": "考慮預購遊戲",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-26T05:12:18.892893+00:00"
     }
   ]
 }

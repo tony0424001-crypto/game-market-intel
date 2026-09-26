@@ -24218,5 +24218,103 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
+  },
+  {
+    "id": 470,
+    "name": "餅乾人聯盟",
+    "nameEn": "CookieRun: Alliance",
+    "developer": "Devsisters (推估)",
+    "studio": "Devsisters (推估)",
+    "publisher": "Devsisters (推估)",
+    "genre": "動作冒險",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "threatReason": "知名IP「姜餅人」下的全新動作冒險手遊，已在中國開啟測試，市場關注度高。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3",
+    "desc": "姜餅人IP下的全新3D動作組隊冒險手遊，2026年3月開啟國服啟程測試。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP「姜餅人」下的全新動作冒險手遊，已在中國開啟測試，市場關注度高。",
+    "verified": "Agent 發現 (2026-09-26)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "封測中",
+        "date": "2026-03"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-09-26",
+    "addedAt": "2026-09-26",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 471,
+    "name": "闇影詩章：凌越世界",
+    "nameEn": "Shadowverse: Worlds Beyond",
+    "developer": "Cygames",
+    "studio": "Cygames",
+    "publisher": "Cygames",
+    "genre": "卡牌對戰",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "Cygames開發的知名IP卡牌對戰手遊新作，具備二次元抽卡元素，市場影響力大。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-09",
+    "desc": "Cygames推出的全新數位卡牌對戰遊戲，加入「超進化」與「樂園功能」等新要素。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】Cygames開發的知名IP卡牌對戰手遊新作，具備二次元抽卡元素，市場影響力大。",
+    "verified": "Agent 發現 (2026-09-26)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-09-08"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-09-26",
+    "addedAt": "2026-09-26",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]
