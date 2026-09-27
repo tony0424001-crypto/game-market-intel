@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-09-26T05:18:19.702510+00:00",
-  "fetchCount": 136,
+  "lastUpdated": "2026-09-27T05:33:53.538385+00:00",
+  "fetchCount": 137,
   "items": [
+    {
+      "id": "brief-20260927-8d1185ed",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "傳世霸主（新發現・高威脅）",
+      "detail": "傳承「傳奇」IP的MMORPG，在中國市場擁有極高的知名度和玩家基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-27T05:33:53.538385+00:00"
+    },
+    {
+      "id": "brief-20260927-47ed1fcf",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "不朽戰神（新發現・高威脅）",
+      "detail": "仙俠題材MMORPG在中國市場有龐大玩家基礎，且強調大型PVP玩法。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-27T05:33:53.538385+00:00"
+    },
+    {
+      "id": "brief-20260927-39db7b90",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "霸刀逐日（新發現・高威脅）",
+      "detail": "武俠題材MMORPG在中國市場有廣大受眾，且「霸刀」為知名武俠IP。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-27T05:33:53.538385+00:00"
+    },
+    {
+      "id": "brief-20260927-16f61919",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "斗羅大陸：誅邪傳說（新發現・高威脅）",
+      "detail": "知名東方奇幻IP「斗羅大陸」改編，結合開放世界MMORPG玩法，由知名大廠開發，潛力巨大。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-09-27T05:33:53.538385+00:00"
+    },
+    {
+      "id": "brief-20260927-f929a47c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA 6典藏版發表",
+      "detail": "《俠盜獵車手6》11/19發售，推出「菸槍鱷馬卡」典藏版。",
+      "action": "考慮收藏",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-27T05:28:54.362378+00:00"
+    },
+    {
+      "id": "brief-20260927-5fa7c5d4",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "武裝幻想中止開發",
+      "detail": "《狂野歷險》精神續作《武裝幻想》傳出中止開發。",
+      "action": "關注後續消息",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-27T05:28:54.362378+00:00"
+    },
+    {
+      "id": "brief-20260927-e3bd9fc0",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "忍：反攻的斬擊發售",
+      "detail": "《忍：反攻的斬擊》Switch 2版今日正式發售。",
+      "action": "立即購買",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-27T05:28:54.362378+00:00"
+    },
     {
       "id": "brief-20260926-80af2a72",
       "priority": "urgent",
@@ -144,83 +221,6 @@
       "platform": "mobile",
       "source": "模型知識推論",
       "fetchedAt": "2026-09-25T05:12:14.755019+00:00"
-    },
-    {
-      "id": "brief-20260925-087f964f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "米哈遊開放世界捉寵新作 (暫定)（新發現・高威脅）",
-      "detail": "米哈遊新嘗試的熱門捉寵題材，結合自走棋玩法，潛力高。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-25T05:12:14.755019+00:00"
-    },
-    {
-      "id": "brief-20260925-15fb5546",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "米哈遊都市開放世界新作 (暫定)（新發現・高威脅）",
-      "detail": "米哈遊旗艦級新IP，開放世界RPG，預期將有極高的市場關注度與競爭力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-25T05:12:14.755019+00:00"
-    },
-    {
-      "id": "brief-20260925-14aa2dc9",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "硬核動作新作 (暫定)（新發現・高威脅）",
-      "detail": "知名製作人籌備新作，開發商詩悅在中國市場有成功經驗，潛力高。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-25T05:12:14.755019+00:00"
-    },
-    {
-      "id": "brief-20260924-72ad738d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "蓝月纪元（新發現・高威脅）",
-      "detail": "属于中国市场流行的“传奇”类MMORPG，由恺英网络相关公司运营，该品类有稳定的玩家群体和高营收潜力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
-    },
-    {
-      "id": "brief-20260924-23f42984",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "斗罗大陆：指尖试炼（新發現・高威脅）",
-      "detail": "知名IP《斗罗大陆》改编，结合了流行的放置和卡牌玩法，由知名大厂37互娱相关公司运营。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
-    },
-    {
-      "id": "brief-20260924-3bc8c218",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "剑侠情缘・零（新發現・高威脅）",
-      "detail": "知名IP《剑侠情缘》系列新作，西山居开发，MMORPG品类，具有强大的玩家基础和情怀加成。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-24T05:13:40.685774+00:00"
-    },
-    {
-      "id": "brief-20260926-1f59075c",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "空戰奇兵8試玩",
-      "detail": "10/2發售，視聽體驗佳，主線最長",
-      "action": "考慮預購遊戲",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-26T05:12:18.892893+00:00"
     }
   ]
 }

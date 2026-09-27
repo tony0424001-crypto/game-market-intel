@@ -1,10 +1,77 @@
 {
-  "lastAudit": "2026-09-26T05:12:43.425166+00:00",
-  "totalProducts": 466,
-  "updatesApplied": 0,
-  "issuesFound": 0,
+  "lastAudit": "2026-09-27T05:29:11.550762+00:00",
+  "totalProducts": 468,
+  "updatesApplied": 76,
+  "issuesFound": 11,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
-  "findings": [],
+  "findings": [
+    {
+      "name": "JUMP 全明星亂鬥",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "勝利女神:新的希望",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "湮滅之潮",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "坂本日常 Mission: Rogue Dawn",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "Nodusfall",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "天穂のサクナヒメ～ヒヌカ巡霊譚～",
+      "status": "warning",
+      "issue": "狀態: live-ops→shutdown",
+      "autoFixed": true
+    },
+    {
+      "name": "天穂のサクナヒメ～ヒヌカ巡霊譚～",
+      "status": "error",
+      "issue": "移除: 遊戲已於2026年7月27日終止服務。",
+      "autoFixed": false
+    },
+    {
+      "name": "古墓奇兵 (手機版)",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "獵人×獵人 (手機遊戲新作)",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "Project: The Perceiver",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "魔卡少女櫻：回憶鑰匙",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    }
+  ],
   "checked": [
     "JUMP 全明星亂鬥",
     "地獄樂：地獄極樂之戰",
