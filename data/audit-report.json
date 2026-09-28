@@ -1,93 +1,75 @@
 {
-  "lastAudit": "2026-09-27T05:29:11.550762+00:00",
-  "totalProducts": 468,
-  "updatesApplied": 76,
-  "issuesFound": 11,
+  "lastAudit": "2026-09-28T05:38:16.987159+00:00",
+  "totalProducts": 474,
+  "updatesApplied": 63,
+  "issuesFound": 8,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "JUMP 全明星亂鬥",
+      "name": "永恒之塔：经典",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
+      "issue": "狀態: announced→cbt",
       "autoFixed": true
     },
     {
-      "name": "勝利女神:新的希望",
+      "name": "我的勇者：末影城",
+      "status": "error",
+      "issue": "移除: 項目終止",
+      "autoFixed": false
+    },
+    {
+      "name": "白日梦：无限世界",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
+      "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "湮滅之潮",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "坂本日常 Mission: Rogue Dawn",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "Nodusfall",
+      "name": "雨過天晴少女",
       "status": "warning",
       "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "天穂のサクナヒメ～ヒヌカ巡霊譚～",
+      "name": "Maple Re:Birth",
       "status": "warning",
-      "issue": "狀態: live-ops→shutdown",
+      "issue": "狀態: live-ops→announced",
       "autoFixed": true
     },
     {
-      "name": "天穂のサクナヒメ～ヒヌカ巡霊譚～",
-      "status": "error",
-      "issue": "移除: 遊戲已於2026年7月27日終止服務。",
-      "autoFixed": false
-    },
-    {
-      "name": "古墓奇兵 (手機版)",
+      "name": "星繪友晴天",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
+      "issue": "狀態: cbt→soft-launch",
       "autoFixed": true
     },
     {
-      "name": "獵人×獵人 (手機遊戲新作)",
+      "name": "詭影藏鋒",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
+      "issue": "狀態: announced→cbt",
       "autoFixed": true
     },
     {
-      "name": "Project: The Perceiver",
+      "name": "小冰冰斗蛐蛐",
       "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "魔卡少女櫻：回憶鑰匙",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
+      "issue": "狀態: announced→soft-launch",
       "autoFixed": true
     }
   ],
   "checked": [
-    "JUMP 全明星亂鬥",
-    "地獄樂：地獄極樂之戰",
-    "閃電十一人 烈火的革命",
-    "勝利女神:新的希望",
-    "湮滅之潮",
-    "坂本日常 Mission: Rogue Dawn",
-    "Nodusfall",
-    "天穂のサクナヒメ～ヒヌカ巡霊譚～",
-    "古墓奇兵 (手機版)",
-    "獵人×獵人 (手機遊戲新作)",
-    "銀宮",
-    "安塔拉的迴響",
-    "Project: The Perceiver",
-    "魔卡少女櫻：回憶鑰匙",
-    "混沌零點夢魘"
+    "永恒之塔：经典",
+    "我的勇者：末影城",
+    "白日梦：无限世界",
+    "拜托了！仙人",
+    "暗影龙魂",
+    "苍古霸业",
+    "代號：啟程",
+    "代號：破曉",
+    "雨過天晴少女",
+    "冥月悸動",
+    "Maple Re:Birth",
+    "三國志異聞錄",
+    "星繪友晴天",
+    "詭影藏鋒",
+    "小冰冰斗蛐蛐"
   ],
   "nextBatch": [
     "無限大",

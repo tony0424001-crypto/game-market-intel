@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-09-27T05:33:53.538385+00:00",
-  "fetchCount": 137,
+  "lastUpdated": "2026-09-28T05:41:46.182959+00:00",
+  "fetchCount": 138,
   "items": [
+    {
+      "id": "brief-20260928-7d6a713e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "大俠2（新發現・高威脅）",
+      "detail": "經典傳奇IP框架MMORPG，在中國市場有廣泛受眾，具備回憶向潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-28T05:41:46.182959+00:00"
+    },
+    {
+      "id": "brief-20260928-59820d0a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "小浣熊神兵列傳（新發現・高威脅）",
+      "detail": "經典IP《小浣熊卡牌》改編，結合《水滸傳》題材，具備回憶向與抽卡元素。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-28T05:41:46.182959+00:00"
+    },
+    {
+      "id": "brief-20260928-1c69848a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "宗師之上（新發現・高威脅）",
+      "detail": "中國玄幻題材動作RPG，結合割草與放置養成，有一定市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-28T05:41:46.182959+00:00"
+    },
+    {
+      "id": "brief-20260928-697e994a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "未眠野（新發現・高威脅）",
+      "detail": "開放世界二次元RPG，由新興工作室開發但已引起廣泛關注，被比作《薩爾達傳說》，預期將大規模搶佔市場注意力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-09-28T05:41:46.182959+00:00"
+    },
+    {
+      "id": "brief-20260928-f929a47c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA 6典藏版發表",
+      "detail": "11/19發售，推出超粉紅典藏版",
+      "action": "預購收藏",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-28T05:37:56.920867+00:00"
+    },
+    {
+      "id": "brief-20260928-5fa7c5d4",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "武裝幻想中止開發",
+      "detail": "精神續作《武裝幻想》傳出中止開發",
+      "action": "關注後續",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-28T05:37:56.920867+00:00"
+    },
+    {
+      "id": "brief-20260928-e3bd9fc0",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "忍：反攻的斬擊發售",
+      "detail": "Switch 2版今日正式發售",
+      "action": "立即購買",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-28T05:37:56.920867+00:00"
+    },
+    {
+      "id": "brief-20260928-d7263979",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "空戰奇兵8試玩報導",
+      "detail": "10/2發售，系列最長主線故事",
+      "action": "準備入手",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-28T05:37:56.920867+00:00"
+    },
     {
       "id": "brief-20260927-8d1185ed",
       "priority": "urgent",
@@ -133,94 +221,6 @@
       "platform": "mobile",
       "source": "4Gamers",
       "fetchedAt": "2026-09-26T05:12:18.892893+00:00"
-    },
-    {
-      "id": "brief-20260925-19a0e5f7",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "命運：群星（新發現・高威脅）",
-      "detail": "網易結合經典IP與Roguelike、基地建設等多元玩法，具備創新潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-25T05:12:14.755019+00:00"
-    },
-    {
-      "id": "brief-20260925-f16fb304",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "世界之外（新發現・高威脅）",
-      "detail": "網易原創IP，多線程敘事與高自由度玩法，有望吸引注重劇情的玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-25T05:12:14.755019+00:00"
-    },
-    {
-      "id": "brief-20260925-d5585b02",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "有殺氣童話2（新發現・高威脅）",
-      "detail": "網易知名IP續作，重構童話世界觀，具備一定玩家基礎和市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-25T05:12:14.755019+00:00"
-    },
-    {
-      "id": "brief-20260925-8813bb1f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "逆光潛入（新發現・高威脅）",
-      "detail": "疊紙遊戲新作，該公司在女性向二次元市場有強大影響力，此作可能為其拓展品類。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-25T05:12:14.755019+00:00"
-    },
-    {
-      "id": "brief-20260925-5a4bcf1f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "米哈遊3D MOBA新作 (暫定)（新發現・高威脅）",
-      "detail": "米哈遊進軍MOBA市場，強調公平競技與高畫質，可能吸引大量玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-25T05:12:14.755019+00:00"
-    },
-    {
-      "id": "brief-20260925-786505e8",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "米哈遊軍事射擊新作 (暫定)（新發現・高威脅）",
-      "detail": "米哈遊首次嘗試硬核軍事射擊題材，虛幻引擎製作，具備競爭力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-25T05:12:14.755019+00:00"
-    },
-    {
-      "id": "brief-20260925-f283523d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "米哈遊生活MMO新作 (暫定)（新發現・高威脅）",
-      "detail": "米哈遊拓展MMO品類，結合生活模擬與社交元素，市場潛力大。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-25T05:12:14.755019+00:00"
-    },
-    {
-      "id": "brief-20260925-6e9ef8ca",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "米哈遊超大型Boss戰新作 (暫定)（新發現・高威脅）",
-      "detail": "米哈遊在動作遊戲領域的新嘗試，高視覺品質與Boss戰核心玩法具吸引力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-25T05:12:14.755019+00:00"
     }
   ]
 }
