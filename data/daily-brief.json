@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-09-28T05:41:46.182959+00:00",
-  "fetchCount": 138,
+  "lastUpdated": "2026-09-29T05:59:15.887506+00:00",
+  "fetchCount": 139,
   "items": [
+    {
+      "id": "brief-20260929-a10e59a3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "斗羅大陸：覺醒世界（新發現・高威脅）",
+      "detail": "知名IP改編，MMORPG品類，在中國市場有高人氣基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-09-29T05:59:15.887506+00:00"
+    },
+    {
+      "id": "brief-20260929-1428ff1e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "巫師3重製版上市",
+      "detail": "畫質遊戲性全面提升，多平台推出",
+      "action": "立即更新遊玩",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-29T05:55:06.742299+00:00"
+    },
+    {
+      "id": "brief-20260929-51209e42",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "控制續作數位版上市",
+      "detail": "《控制：共振》數位版發售，實體版10/15",
+      "action": "立即購買體驗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-29T05:55:06.742299+00:00"
+    },
+    {
+      "id": "brief-20260929-e71a5c71",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "王國保衛戰6上市",
+      "detail": "塔防系列新作，Steam及手機雙平台",
+      "action": "立即下載遊玩",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-29T05:55:06.742299+00:00"
+    },
+    {
+      "id": "brief-20260929-f929a47c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA 6典藏版發表",
+      "detail": "推出「菸槍鱷馬卡」主題典藏版，11/19發售",
+      "action": "預購典藏版本",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-09-29T05:55:06.742299+00:00"
+    },
+    {
+      "id": "brief-20260929-74418831",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "光與夜之戀換配音",
+      "detail": "繁中配音暫停，引發玩家強烈反彈",
+      "action": "關注官方回應",
+      "platform": "mobile",
+      "source": "4Gamers",
+      "fetchedAt": "2026-09-29T05:55:06.742299+00:00"
+    },
     {
       "id": "brief-20260928-7d6a713e",
       "priority": "urgent",
@@ -155,72 +221,6 @@
       "platform": "console",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-09-27T05:28:54.362378+00:00"
-    },
-    {
-      "id": "brief-20260927-e3bd9fc0",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "忍：反攻的斬擊發售",
-      "detail": "《忍：反攻的斬擊》Switch 2版今日正式發售。",
-      "action": "立即購買",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-27T05:28:54.362378+00:00"
-    },
-    {
-      "id": "brief-20260926-80af2a72",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "闇影詩章：凌越世界（新發現・高威脅）",
-      "detail": "Cygames開發的知名IP卡牌對戰手遊新作，具備二次元抽卡元素，市場影響力大。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-26T05:18:19.702510+00:00"
-    },
-    {
-      "id": "brief-20260926-d1ff92e7",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "餅乾人聯盟（新發現・高威脅）",
-      "detail": "知名IP「姜餅人」下的全新動作冒險手遊，已在中國開啟測試，市場關注度高。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-26T05:18:19.702510+00:00"
-    },
-    {
-      "id": "brief-20260926-f929a47c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA 6典藏版發表",
-      "detail": "11/19發售，推「菸槍鱷馬卡」主題典藏版",
-      "action": "考慮預購典藏版",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-26T05:12:18.892893+00:00"
-    },
-    {
-      "id": "brief-20260926-95fae947",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "武裝幻想終止開發",
-      "detail": "《狂野歷險》精神續作開發已終止",
-      "action": "關注開發商動向",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-26T05:12:18.892893+00:00"
-    },
-    {
-      "id": "brief-20260926-3e10733f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "惡魔城40週年",
-      "detail": "初代行動版限時免費下載中",
-      "action": "立即下載遊戲",
-      "platform": "mobile",
-      "source": "4Gamers",
-      "fetchedAt": "2026-09-26T05:12:18.892893+00:00"
     }
   ]
 }
