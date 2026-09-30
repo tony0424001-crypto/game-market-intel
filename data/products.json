@@ -21312,7 +21312,7 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "TW/HK/MO",
     "model": "F2P",
     "stage": "announced",
     "threat": "high",
@@ -21324,13 +21324,22 @@
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】經典MMORPG IP新作，擁有大量忠實玩家。",
+    "threatAnalysis": "【高威脅】《奇蹟：起源》作為經典IP「奇蹟MU」的最新手遊版本，持續進行測試並累積玩家期待。儘管尚未正式上線，但其IP影響力及開發商廣州市天梯網絡科技有限公司的投入，使其仍具備高潛在威脅。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲官方社群（如Facebook）及TapTap等平台，密切關注正式上線日期及營運地區。\n(2). 分析測試階段玩家反饋及遊戲內容，評估其核心玩法與商業化潛力。\n(3). 準備應對策略，以防遊戲上線後對市場造成衝擊。",
     "verified": "版號雷達 (2026-09-18)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-04-11 (Public Beta Started)",
+    "sourceLinks": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/themuorigin/"
+      },
+      {
+        "label": "官網",
+        "url": "https://themuorigin.com/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -21338,11 +21347,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-18",
+    "updatedAt": "2026-09-30",
     "addedAt": "2026-09-18",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-30",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲於2026年4月11日開啟公開測試，目前測試狀態待確認是否結束。此前曾於2025年12月進行兩階段刪檔公測。"
   },
   {
     "id": 404,
@@ -21355,37 +21365,54 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "Global",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "知名大廠莉莉絲網絡的頭部IP新作，具備強大市場競爭力。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "待定",
+    "sentiment": 75,
+    "launchEst": "2024-03-27 (EU/NA), 2024-08-08 (Asia)",
     "desc": "知名大廠莉莉絲網絡旗下《劍與遠征》IP的最新作品，預計為抽卡角色扮演遊戲。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名大廠莉莉絲網絡的頭部IP新作，具備強大市場競爭力。",
+    "threatAnalysis": "【高威脅】「劍與遠征：英雄集結」被判斷為已上線的「劍與遠征：啟程」。該遊戲作為莉莉絲網絡的重點產品，繼承了「劍與遠征」的強大IP，在全球市場表現強勁，儘管部分地區營收有下滑跡象，但其市場地位和用戶基礎仍構成高威脅。\n\n▶ 建議行動：\n(1). 持續監測其全球營收表現及玩家活躍度，特別關注新賽季及版本更新對數據的影響。\n(2). 分析其內容更新策略及商業化活動，學習其長線營運模式。\n(3). 評估其對目標市場的用戶分流效應，調整自身產品推廣策略。",
     "verified": "版號雷達 (2026-09-18)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
     "sourceLinks": [],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "EU/NA",
+        "status": "live",
+        "date": "2024-03-27"
+      },
+      {
+        "region": "Asia",
+        "status": "live",
+        "date": "2024-08-08"
+      }
+    ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-18",
+    "updatedAt": "2026-09-30",
     "addedAt": "2026-09-18",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-30",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "經查，「劍與遠征：英雄集結」極可能為莉莉絲網絡旗下已上線遊戲「劍與遠征：啟程」的早期名稱或地區性名稱。該遊戲已於2024年3月27日在歐美地區上線，並於2024年8月8日在亞洲地區上線。",
+    "eventNote": "經查，「劍與遠征：英雄集結」極可能為莉莉絲網絡旗下已上線遊戲「劍與遠征：啟程」的早期名稱或地區性名稱。該遊戲已於2024年3月27日在歐美地區上線，並於2024年8月8日在亞洲地區上線。"
   },
   {
     "id": 405,
@@ -21404,13 +21431,13 @@
     "threat": "medium",
     "threatReason": "現有MMORPG IP的新版本，可能吸引原有玩家及新玩家。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "待定",
     "desc": "《黎明之海》系列的最新版本或擴展內容，預計為大型多人線上角色扮演遊戲。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】現有MMORPG IP的新版本，可能吸引原有玩家及新玩家。",
+    "threatAnalysis": "【中等威脅】目前未找到「黎明之海：深淵」的具體測試或上線資訊，狀態仍為「announced」。開發商廣州市趣丸網絡科技有限公司的背景需進一步評估。\n\n▶ 建議行動：\n(1). 持續追蹤相關新聞及遊戲論壇，尋找遊戲開發進度及潛在測試資訊。\n(2). 關注開發商廣州市趣丸網絡科技有限公司的其他產品動態，評估其研發實力。\n(3). 若有新資訊出現，需重新評估其威脅等級。",
     "verified": "版號雷達 (2026-09-18)",
     "category": "active",
     "testType": "待確認",
@@ -21424,9 +21451,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-18",
+    "updatedAt": "2026-09-30",
     "addedAt": "2026-09-18",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-30",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -21447,13 +21474,13 @@
     "threat": "medium",
     "threatReason": "「代號」系列通常代表廠商重點項目，且題材具潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "待定",
     "desc": "一款以「星辰」為主題的全新行動角色扮演遊戲，開發商曾參與多款IP遊戲。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】「代號」系列通常代表廠商重點項目，且題材具潛力。",
+    "threatAnalysis": "【中等威脅】目前未找到「代號：星辰」的具體測試或上線資訊，狀態仍為「announced」。開發商廣州天梯網絡科技有限公司的背景需進一步評估。\n\n▶ 建議行動：\n(1). 持續追蹤相關新聞及遊戲論壇，尋找遊戲開發進度及潛在測試資訊。\n(2). 關注開發商廣州天梯網絡科技有限公司的其他產品動態，評估其研發實力。\n(3). 若有新資訊出現，需重新評估其威脅等級。",
     "verified": "版號雷達 (2026-09-18)",
     "category": "active",
     "testType": "待確認",
@@ -21467,9 +21494,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-18",
+    "updatedAt": "2026-09-30",
     "addedAt": "2026-09-18",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-30",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -21486,35 +21513,45 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "threatReason": "可能為現有系列新作，具備一定市場基礎。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "待定",
     "desc": "一款以「長生」為主題的行動角色扮演遊戲，可能與已追蹤的《長生：天機降世》相關。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】可能為現有系列新作，具備一定市場基礎。",
+    "threatAnalysis": "【中等威脅】「長生：天機無限」已於近期獲得中國版號，這是一個重要的進展，預示著遊戲上線時間將近。儘管目前威脅等級仍為中等，但版號的取得將加速其市場推廣。\n\n▶ 建議行動：\n(1). 密切關注遊戲的預註冊活動及正式上線公告。\n(2). 收集遊戲的玩法介紹、美術風格等資訊，評估其在中國市場的潛力。\n(3). 準備應對策略，以防遊戲上線後對中國市場造成影響。",
     "verified": "版號雷達 (2026-09-18)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "TapTap 論壇",
+        "url": "https://www.taptap.cn/app/237562/topic"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-09",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-09-18",
+    "updatedAt": "2026-09-30",
     "addedAt": "2026-09-18",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-09-30",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲於2026年8月31日獲得中國國產網絡遊戲版號。"
   },
   {
     "id": 408,
@@ -25226,5 +25263,226 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
+  },
+  {
+    "id": 487,
+    "name": "奇蹟：新紀元",
+    "nameEn": "",
+    "developer": "上海愷英網絡科技有限公司",
+    "studio": "上海愷英網絡科技有限公司",
+    "publisher": "上海愷英網絡科技有限公司",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "經典IP改編，知名廠商愷英網絡開發。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "基於經典MMORPG《奇跡MU》IP改編的新作。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】經典IP改編，知名廠商愷英網絡開發。",
+    "verified": "版號雷達 (2026-09-30)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 488,
+    "name": "斗破蒼穹：覺醒",
+    "nameEn": "",
+    "developer": "三七互娛",
+    "studio": "三七互娛",
+    "publisher": "三七互娛",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "熱門IP改編，知名廠商三七互娛開發。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "基於熱門玄幻小說/動漫IP《斗破蒼穹》改編的新作。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】熱門IP改編，知名廠商三七互娛開發。",
+    "verified": "版號雷達 (2026-09-30)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 489,
+    "name": "星願之冠",
+    "nameEn": "",
+    "developer": "電魂網絡",
+    "studio": "電魂網絡",
+    "publisher": "電魂網絡",
+    "genre": "3D 動作放置型RPG, 二次元/抽卡",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "二次元風格放置RPG，已在全球上線。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "童話繪本風格的3D動作放置型RPG，主角為狼少女帕依。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】二次元風格放置RPG，已在全球上線。",
+    "verified": "版號雷達 (2026-09-30)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "launched",
+        "date": "2024/11"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 490,
+    "name": "托托比亞",
+    "nameEn": "",
+    "developer": "朝夕光年 (字節跳動)",
+    "studio": "朝夕光年 (字節跳動)",
+    "publisher": "朝夕光年 (字節跳動)",
+    "genre": "多人派對遊戲",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名大廠（字節跳動）新作，進入熱門派對遊戲賽道。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "字節跳動旗下朝夕光年開發的多人派對遊戲，原代號Atom。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名大廠（字節跳動）新作，進入熱門派對遊戲賽道。",
+    "verified": "版號雷達 (2026-09-30)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 491,
+    "name": "出發！與美少女一起冒險",
+    "nameEn": "",
+    "developer": "廣州銀漢科技有限公司",
+    "studio": "廣州銀漢科技有限公司",
+    "publisher": "廣州銀漢科技有限公司",
+    "genre": "二次元/抽卡, RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "明顯屬於二次元品類，開發商廣州銀漢科技有一定知名度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款以美少女為主題的冒險遊戲，推測為二次元抽卡RPG。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】明顯屬於二次元品類，開發商廣州銀漢科技有一定知名度。",
+    "verified": "版號雷達 (2026-09-30)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-09",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-09-30",
+    "addedAt": "2026-09-30",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
   }
 ]
