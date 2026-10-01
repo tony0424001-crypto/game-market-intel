@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-09-30T05:49:32.910288+00:00",
-  "fetchCount": 140,
+  "lastUpdated": "2026-10-01T06:17:16.524366+00:00",
+  "fetchCount": 141,
   "items": [
+    {
+      "id": "brief-20261001-ddfa739c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "足球經理 27（新發現・高威脅）",
+      "detail": "知名IP，全球發行，擁有廣大玩家基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-01T06:17:16.524366+00:00"
+    },
+    {
+      "id": "brief-20261001-82e5f74a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《光與夜之戀》配音",
+      "detail": "繁中版新內容暫停提供繁中配音",
+      "action": "關注官方公告",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-01T06:13:21.326520+00:00"
+    },
+    {
+      "id": "brief-20261001-aa10a378",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Grasshopper恢復獨立",
+      "detail": "須田剛一團隊脫離網易遊戲",
+      "action": "關注未來作品",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-01T06:13:21.326520+00:00"
+    },
     {
       "id": "brief-20260930-fca25544",
       "priority": "urgent",
@@ -157,70 +190,37 @@
       "fetchedAt": "2026-09-28T05:41:46.182959+00:00"
     },
     {
-      "id": "brief-20260928-1c69848a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "宗師之上（新發現・高威脅）",
-      "detail": "中國玄幻題材動作RPG，結合割草與放置養成，有一定市場潛力。",
-      "action": "加入追蹤並評估上線時程",
+      "id": "brief-20261001-24723e49",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《赤血沙漠》DLC延期",
+      "detail": "首款DLC「未知旅途」延後至10/30",
+      "action": "留意新發售日",
       "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-28T05:41:46.182959+00:00"
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-01T06:13:21.326520+00:00"
     },
     {
-      "id": "brief-20260928-697e994a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "未眠野（新發現・高威脅）",
-      "detail": "開放世界二次元RPG，由新興工作室開發但已引起廣泛關注，被比作《薩爾達傳說》，預期將大規模搶佔市場注意力。",
-      "action": "加入追蹤並評估上線時程",
+      "id": "brief-20261001-031aabcd",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《咒術迴戰》試玩",
+      "detail": "八人大逃殺模式實機試玩影片",
+      "action": "觀看試玩影片",
       "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-28T05:41:46.182959+00:00"
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-01T06:13:21.326520+00:00"
     },
     {
-      "id": "brief-20260928-f929a47c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA 6典藏版發表",
-      "detail": "11/19發售，推出超粉紅典藏版",
-      "action": "預購收藏",
+      "id": "brief-20261001-5371d66a",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《P4R》特典公開",
+      "detail": "重製版《女神異聞錄4》台灣特典",
+      "action": "預購遊戲",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-28T05:37:56.920867+00:00"
-    },
-    {
-      "id": "brief-20260928-5fa7c5d4",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "武裝幻想中止開發",
-      "detail": "精神續作《武裝幻想》傳出中止開發",
-      "action": "關注後續",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-28T05:37:56.920867+00:00"
-    },
-    {
-      "id": "brief-20260928-e3bd9fc0",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "忍：反攻的斬擊發售",
-      "detail": "Switch 2版今日正式發售",
-      "action": "立即購買",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-28T05:37:56.920867+00:00"
-    },
-    {
-      "id": "brief-20260928-d7263979",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "空戰奇兵8試玩報導",
-      "detail": "10/2發售，系列最長主線故事",
-      "action": "準備入手",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-28T05:37:56.920867+00:00"
+      "fetchedAt": "2026-10-01T06:13:21.326520+00:00"
     }
   ]
 }

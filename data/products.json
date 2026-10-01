@@ -21566,41 +21566,55 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "pre-reg",
+    "stage": "live-ops",
     "threat": "medium",
     "threatReason": "二次元抽卡品類，但開發商與具體規模待觀察。",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "launchEst": "2026-03-20",
     "desc": "一款以《山海經》神話為背景，融合二次元風格與異獸收集抽卡玩法的角色扮演手遊。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】二次元抽卡品類，但開發商與具體規模待觀察。",
+    "threatAnalysis": "【中等規模】《異獸靈境》作為一款國風山海經神話放置卡牌手遊，已於2026年3月20日正式上線中國市場。遊戲由廣州樂牛軟件科技有限公司開發，在TapTap等平台顯示出較高熱度，並提供大量開服福利，顯示其在放置卡牌賽道具備一定競爭力。目前市場表現穩定，未見明顯衰退跡象。\n\n▶ 建議行動：\n(1). 持續關注其在中國市場的營收排名與玩家活躍度數據。\n(2). 分析其長線營運策略及版本更新內容，評估其對玩家留存的影響。\n(3). 監測同類型山海經題材放置卡牌遊戲的市場動態，評估潛在競爭。",
     "verified": "Agent 發現 (2026-09-19)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2025-12-30",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/237699"
+      },
+      {
+        "label": "官網",
+        "url": "https://yslj.leniu.com/"
+      }
+    ],
     "launchRegions": [
       {
         "region": "CN",
-        "status": "預註冊",
-        "date": "2026-Q4"
+        "status": "launched",
+        "date": "2026-03-20"
       }
     ],
     "history": [
       {
         "date": "2026-09",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-19",
+    "updatedAt": "2026-10-01",
     "addedAt": "2026-09-19",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-01",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2026年3月20日全平台正式上線中國市場，早於原定2026年Q4的預計上線時間。遊戲在2025年12月24日至12月30日進行了刪檔測試。"
   },
   {
     "id": 409,
@@ -25484,5 +25498,99 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 492,
+    "name": "足球經理 27",
+    "nameEn": "Football Manager 27",
+    "developer": "Sports Interactive",
+    "studio": "Sports Interactive",
+    "publisher": "Sports Interactive",
+    "genre": "運動模擬",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名IP，全球發行，擁有廣大玩家基礎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-11",
+    "desc": "知名足球經理系列新作，將於多平台推出，包含 iOS 與 Android 版本。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP，全球發行，擁有廣大玩家基礎。",
+    "verified": "Agent 發現 (2026-10-01)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "2026-11-10"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-01",
+    "addedAt": "2026-10-01",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 493,
+    "name": "奇妙爪爪",
+    "nameEn": "WonderPaws",
+    "developer": "WonderPaws Team",
+    "studio": "WonderPaws Team",
+    "publisher": "WonderPaws Team",
+    "genre": "生活模擬",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "跨平台發行，但非主流大作類型，潛力待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "一款溫馨的動物城市生活模擬遊戲，將在 Steam 和手機平台推出。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】跨平台發行，但非主流大作類型，潛力待觀察。",
+    "verified": "Agent 發現 (2026-10-01)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-01",
+    "addedAt": "2026-10-01",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]
