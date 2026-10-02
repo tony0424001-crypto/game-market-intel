@@ -25592,5 +25592,500 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
+  },
+  {
+    "id": 494,
+    "name": "小蝦米闖江湖",
+    "nameEn": "Little Shrimp's Jianghu Adventure",
+    "developer": "成都游骑兵科技有限公司",
+    "studio": "成都游骑兵科技有限公司",
+    "publisher": "成都游骑兵科技有限公司",
+    "genre": "武俠RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/TW/HK/MO",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "武俠RPG在華人市場有一定受眾，但開發商非一線大廠，影響力中等。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-10",
+    "desc": "一款高自由度Q版武俠風格的角色扮演手遊，玩家可在開放世界中修練功法、招募俠客。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】武俠RPG在華人市場有一定受眾，但開發商非一線大廠，影響力中等。",
+    "verified": "Agent 發現 (2026-10-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2023-09-30"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2026-10-02"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 495,
+    "name": "火線精英：突圍",
+    "nameEn": "Fireline Elite: Breakout",
+    "developer": "四三九九",
+    "studio": "四三九九",
+    "publisher": "四三九九",
+    "genre": "射擊",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名IP改編，但4399並非頂級大廠，且射擊品類競爭激烈。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "由4399開發，基於知名射擊IP《火線精英》改編的移動射擊遊戲，已於2026年9月獲得中國版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名IP改編，但4399並非頂級大廠，且射擊品類競爭激烈。",
+    "verified": "Agent 發現 (2026-10-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號獲批",
+        "date": "2026-09-30"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 496,
+    "name": "生存手冊",
+    "nameEn": "Survival Handbook",
+    "developer": "波克科技",
+    "studio": "波克科技",
+    "publisher": "波克科技",
+    "genre": "生存",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "開發商非主要RPG/二次元大廠，遊戲資訊較少，威脅性較低。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "波克科技開發的生存題材手遊，已於2026年9月獲得中國版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】開發商非主要RPG/二次元大廠，遊戲資訊較少，威脅性較低。",
+    "verified": "Agent 發現 (2026-10-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號獲批",
+        "date": "2026-09-30"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 497,
+    "name": "龍之谷：覺醒",
+    "nameEn": "Dragon Nest: Awakening",
+    "developer": "愷英網絡",
+    "studio": "愷英網絡",
+    "publisher": "愷英網絡",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "《龍之谷》是知名大型IP，擁有廣泛玩家基礎，愷英網絡為重要發行商。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "由愷英網絡開發，改編自經典動作RPG《龍之谷》IP的全新手遊，已於2026年9月獲得中國版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】《龍之谷》是知名大型IP，擁有廣泛玩家基礎，愷英網絡為重要發行商。",
+    "verified": "Agent 發現 (2026-10-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號獲批",
+        "date": "2026-09-30"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 498,
+    "name": "熱血江湖：重啟",
+    "nameEn": "Hot Blood Jianghu: Restart",
+    "developer": "待確認",
+    "studio": "待確認",
+    "publisher": "待確認",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "《熱血江湖》是經典大型MMORPG IP，在華人市場有深厚玩家基礎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "經典武俠MMORPG《熱血江湖》IP重啟手遊，已於2026年9月獲得中國進口版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】《熱血江湖》是經典大型MMORPG IP，在華人市場有深厚玩家基礎。",
+    "verified": "Agent 發現 (2026-10-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號獲批",
+        "date": "2026-09-30"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 499,
+    "name": "我叫MT：榮耀之戰",
+    "nameEn": "I Am MT: Battle of Glory",
+    "developer": "電魂網絡",
+    "studio": "電魂網絡",
+    "publisher": "電魂網絡",
+    "genre": "角色扮演",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "《我叫MT》是知名國產IP，但影響力可能不如頂級IP，電魂網絡為重要發行商。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "由電魂網絡開發，改編自知名IP《我叫MT》的全新角色扮演手遊，已於2026年9月獲得中國版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】《我叫MT》是知名國產IP，但影響力可能不如頂級IP，電魂網絡為重要發行商。",
+    "verified": "Agent 發現 (2026-10-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號獲批",
+        "date": "2026-09-30"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 500,
+    "name": "風暴突圍隊",
+    "nameEn": "Storm Breakout Team",
+    "developer": "盛天網絡",
+    "studio": "盛天網絡",
+    "publisher": "盛天網絡",
+    "genre": "射擊",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "開發商非主要RPG/二次元大廠，遊戲資訊較少，威脅性較低。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "盛天網絡開發的射擊類手遊，已於2026年9月獲得中國版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】開發商非主要RPG/二次元大廠，遊戲資訊較少，威脅性較低。",
+    "verified": "Agent 發現 (2026-10-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號獲批",
+        "date": "2026-09-30"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 501,
+    "name": "永恆之境",
+    "nameEn": "Neverness to Everness",
+    "developer": "Hottagames",
+    "studio": "Hottagames",
+    "publisher": "Hottagames",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "全球發行的MMORPG，但開發商知名度中等，仍待市場表現驗證。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "一款全球發行的開放世界MMORPG手遊，由Hottagames開發。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】全球發行的MMORPG，但開發商知名度中等，仍待市場表現驗證。",
+    "verified": "Agent 發現 (2026-10-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-Q4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 502,
+    "name": "RF ONLINE NEXT",
+    "nameEn": "RF ONLINE NEXT",
+    "developer": "Netmarble",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "Netmarble為韓國大廠，且《RF Online》是知名IP，具備高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "由Netmarble開發的科幻MMORPG手遊，繼承經典IP《RF Online》。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】Netmarble為韓國大廠，且《RF Online》是知名IP，具備高市場潛力。",
+    "verified": "Agent 發現 (2026-10-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-Q4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 503,
+    "name": "龍之劍",
+    "nameEn": "Dragon Sword",
+    "developer": "Webzen",
+    "studio": "Webzen",
+    "publisher": "Webzen",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "Webzen是韓國知名MMORPG開發商，遊戲品質和市場表現值得關注。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "由Webzen開發的MMORPG手遊，已於韓國市場上線。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】Webzen是韓國知名MMORPG開發商，遊戲品質和市場表現值得關注。",
+    "verified": "Agent 發現 (2026-10-02)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "已上線",
+        "date": "2026-Q4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-10-02",
+    "addedAt": "2026-10-02",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]

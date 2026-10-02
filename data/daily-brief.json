@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-10-01T06:17:16.524366+00:00",
-  "fetchCount": 141,
+  "lastUpdated": "2026-10-02T06:00:13.284276+00:00",
+  "fetchCount": 142,
   "items": [
+    {
+      "id": "brief-20261002-513cf29f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "龍之劍（新發現・高威脅）",
+      "detail": "Webzen是韓國知名MMORPG開發商，遊戲品質和市場表現值得關注。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-02T06:00:13.284276+00:00"
+    },
+    {
+      "id": "brief-20261002-b2e31483",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "RF ONLINE NEXT（新發現・高威脅）",
+      "detail": "Netmarble為韓國大廠，且《RF Online》是知名IP，具備高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-02T06:00:13.284276+00:00"
+    },
+    {
+      "id": "brief-20261002-a278e232",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "熱血江湖：重啟（新發現・高威脅）",
+      "detail": "《熱血江湖》是經典大型MMORPG IP，在華人市場有深厚玩家基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-02T06:00:13.284276+00:00"
+    },
+    {
+      "id": "brief-20261002-c652b610",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "龍之谷：覺醒（新發現・高威脅）",
+      "detail": "《龍之谷》是知名大型IP，擁有廣泛玩家基礎，愷英網絡為重要發行商。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-02T06:00:13.284276+00:00"
+    },
+    {
+      "id": "brief-20261002-95ace456",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Steam秋季特賣開跑",
+      "detail": "多款遊戲享折扣，最低1折起",
+      "action": "立即前往Steam選購",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-02T05:55:48.659131+00:00"
+    },
+    {
+      "id": "brief-20261002-3af651cc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《真三國無雙2》重製版",
+      "detail": "經典重製版今日多平台正式發售",
+      "action": "立即購買體驗遊戲",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-02T05:55:48.659131+00:00"
+    },
+    {
+      "id": "brief-20261002-d2f9713d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《聖塔神記》Switch 2版",
+      "detail": "動作RPG繁中版今日上市並優惠",
+      "action": "立即購買體驗遊戲",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-02T05:55:48.659131+00:00"
+    },
+    {
+      "id": "brief-20261002-347c77e3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《Pokemon Pokopia》發售",
+      "detail": "盒裝版與擴充票將於10/29發售",
+      "action": "準備預購或購買",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-02T05:55:48.659131+00:00"
+    },
+    {
+      "id": "brief-20261002-26df7de1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《戰慄深隧》次世代更新",
+      "detail": "慶祝銷量破5千萬，免費更新",
+      "action": "準備體驗次世代畫面",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-02T05:55:48.659131+00:00"
+    },
+    {
+      "id": "brief-20261002-40783e56",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《阿索拉》全球CBT啟動",
+      "detail": "NC新伝奇魔法RPG展開全球CBT",
+      "action": "立即報名體驗遊戲",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-02T05:55:48.659131+00:00"
+    },
     {
       "id": "brief-20261001-ddfa739c",
       "priority": "urgent",
@@ -111,116 +221,6 @@
       "platform": "mobile",
       "source": "模型知識推論",
       "fetchedAt": "2026-09-29T05:59:15.887506+00:00"
-    },
-    {
-      "id": "brief-20260929-1428ff1e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "巫師3重製版上市",
-      "detail": "畫質遊戲性全面提升，多平台推出",
-      "action": "立即更新遊玩",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-29T05:55:06.742299+00:00"
-    },
-    {
-      "id": "brief-20260929-51209e42",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "控制續作數位版上市",
-      "detail": "《控制：共振》數位版發售，實體版10/15",
-      "action": "立即購買體驗",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-29T05:55:06.742299+00:00"
-    },
-    {
-      "id": "brief-20260929-e71a5c71",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "王國保衛戰6上市",
-      "detail": "塔防系列新作，Steam及手機雙平台",
-      "action": "立即下載遊玩",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-29T05:55:06.742299+00:00"
-    },
-    {
-      "id": "brief-20260929-f929a47c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA 6典藏版發表",
-      "detail": "推出「菸槍鱷馬卡」主題典藏版，11/19發售",
-      "action": "預購典藏版本",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-29T05:55:06.742299+00:00"
-    },
-    {
-      "id": "brief-20260929-74418831",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "光與夜之戀換配音",
-      "detail": "繁中配音暫停，引發玩家強烈反彈",
-      "action": "關注官方回應",
-      "platform": "mobile",
-      "source": "4Gamers",
-      "fetchedAt": "2026-09-29T05:55:06.742299+00:00"
-    },
-    {
-      "id": "brief-20260928-7d6a713e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "大俠2（新發現・高威脅）",
-      "detail": "經典傳奇IP框架MMORPG，在中國市場有廣泛受眾，具備回憶向潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-28T05:41:46.182959+00:00"
-    },
-    {
-      "id": "brief-20260928-59820d0a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "小浣熊神兵列傳（新發現・高威脅）",
-      "detail": "經典IP《小浣熊卡牌》改編，結合《水滸傳》題材，具備回憶向與抽卡元素。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-09-28T05:41:46.182959+00:00"
-    },
-    {
-      "id": "brief-20261001-24723e49",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《赤血沙漠》DLC延期",
-      "detail": "首款DLC「未知旅途」延後至10/30",
-      "action": "留意新發售日",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-01T06:13:21.326520+00:00"
-    },
-    {
-      "id": "brief-20261001-031aabcd",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《咒術迴戰》試玩",
-      "detail": "八人大逃殺模式實機試玩影片",
-      "action": "觀看試玩影片",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-01T06:13:21.326520+00:00"
-    },
-    {
-      "id": "brief-20261001-5371d66a",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《P4R》特典公開",
-      "detail": "重製版《女神異聞錄4》台灣特典",
-      "action": "預購遊戲",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-01T06:13:21.326520+00:00"
     }
   ]
 }
