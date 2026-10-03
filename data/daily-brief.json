@@ -1,7 +1,161 @@
 {
-  "lastUpdated": "2026-10-02T06:00:13.284276+00:00",
-  "fetchCount": 142,
+  "lastUpdated": "2026-10-03T05:33:47.011875+00:00",
+  "fetchCount": 143,
   "items": [
+    {
+      "id": "brief-20261003-94c26c1f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "三國殺：天命棋局（新發現・高威脅）",
+      "detail": "《三國殺》是中國國民級IP，新卡牌遊戲有望吸引大量玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
+    },
+    {
+      "id": "brief-20261003-1a0ae259",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "星墜計畫（新發現・高威脅）",
+      "detail": "騰訊大廠自研新IP，開放世界RPG品類，預期投入大量資源推廣。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
+    },
+    {
+      "id": "brief-20261003-e29c30dc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "光之迴響計畫（新發現・高威脅）",
+      "detail": "Square Enix出品，二次元RPG品類，具備全球市場號召力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
+    },
+    {
+      "id": "brief-20261003-4c164a8a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "永恆契約（新發現・高威脅）",
+      "detail": "知名二次元遊戲開發商新作，有望成為《原神》、《崩壞》類競品。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
+    },
+    {
+      "id": "brief-20261003-24213fa2",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "星光迴響計畫（新發現・高威脅）",
+      "detail": "網易大廠自研新IP，開放世界RPG品類，潛力巨大。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
+    },
+    {
+      "id": "brief-20261003-208e2b1c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "三角洲行動：鷹眼（新發現・高威脅）",
+      "detail": "騰訊大廠出品，經典IP重啟，多平台發行，具備全球市場競爭力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
+    },
+    {
+      "id": "brief-20261003-efaa9b73",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "掠奪者2（新發現・高威脅）",
+      "detail": "Netmarble旗艦級MMORPG續作，雙平台發行，預期將在韓國及全球市場引起關注。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
+    },
+    {
+      "id": "brief-20261003-d4127129",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "天翼之鍊：第二章（新發現・高威脅）",
+      "detail": "Nexon出品，經典IP改編MMORPG，在韓國及全球市場有一定影響力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
+    },
+    {
+      "id": "brief-20261003-a3d1a52a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "控制：共振（新發現・高威脅）",
+      "detail": "知名西方大IP改編手遊，具備高話題度與潛在市場吸引力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
+    },
+    {
+      "id": "brief-20261003-c3f00e81",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "空戰奇兵 8 今日發售",
+      "detail": "系列正統續作，史上最大規模線上多人模式。",
+      "action": "立即體驗空戰快感",
+      "platform": "console/PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-03T05:30:34.894405+00:00"
+    },
+    {
+      "id": "brief-20261003-934f37a5",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "SEGA Steam 秋季特賣",
+      "detail": "《人中之龍 極 3》等作半價促銷。",
+      "action": "把握優惠立即搶購",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-03T05:30:34.894405+00:00"
+    },
+    {
+      "id": "brief-20261003-ceccbf13",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "萬代南夢宮 Steam 特賣",
+      "detail": "《噬血代碼》1折、《黑暗靈魂》5折。",
+      "action": "趁機入手經典大作",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-03T05:30:34.894405+00:00"
+    },
+    {
+      "id": "brief-20261003-cebc1d0f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "惡魔城新作試玩上架",
+      "detail": "《惡魔城：貝爾蒙特的詛咒》體驗版。",
+      "action": "揮舞聖鞭對抗黑暗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-03T05:30:34.894405+00:00"
+    },
+    {
+      "id": "brief-20261003-82baa986",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "艾爾塔：反抗眾神試玩",
+      "detail": "新動作遊戲試玩版開放，明年2月上市。",
+      "action": "立即下載搶先體驗",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-03T05:30:34.894405+00:00"
+    },
     {
       "id": "brief-20261002-513cf29f",
       "priority": "urgent",
@@ -67,160 +221,6 @@
       "platform": "console",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-10-02T05:55:48.659131+00:00"
-    },
-    {
-      "id": "brief-20261002-d2f9713d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《聖塔神記》Switch 2版",
-      "detail": "動作RPG繁中版今日上市並優惠",
-      "action": "立即購買體驗遊戲",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-02T05:55:48.659131+00:00"
-    },
-    {
-      "id": "brief-20261002-347c77e3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《Pokemon Pokopia》發售",
-      "detail": "盒裝版與擴充票將於10/29發售",
-      "action": "準備預購或購買",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-02T05:55:48.659131+00:00"
-    },
-    {
-      "id": "brief-20261002-26df7de1",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《戰慄深隧》次世代更新",
-      "detail": "慶祝銷量破5千萬，免費更新",
-      "action": "準備體驗次世代畫面",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-02T05:55:48.659131+00:00"
-    },
-    {
-      "id": "brief-20261002-40783e56",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《阿索拉》全球CBT啟動",
-      "detail": "NC新伝奇魔法RPG展開全球CBT",
-      "action": "立即報名體驗遊戲",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-02T05:55:48.659131+00:00"
-    },
-    {
-      "id": "brief-20261001-ddfa739c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "足球經理 27（新發現・高威脅）",
-      "detail": "知名IP，全球發行，擁有廣大玩家基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-01T06:17:16.524366+00:00"
-    },
-    {
-      "id": "brief-20261001-82e5f74a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《光與夜之戀》配音",
-      "detail": "繁中版新內容暫停提供繁中配音",
-      "action": "關注官方公告",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-01T06:13:21.326520+00:00"
-    },
-    {
-      "id": "brief-20261001-aa10a378",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Grasshopper恢復獨立",
-      "detail": "須田剛一團隊脫離網易遊戲",
-      "action": "關注未來作品",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-01T06:13:21.326520+00:00"
-    },
-    {
-      "id": "brief-20260930-fca25544",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "托托比亞（新發現・高威脅）",
-      "detail": "知名大廠（字節跳動）新作，進入熱門派對遊戲賽道。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-30T05:49:32.910288+00:00"
-    },
-    {
-      "id": "brief-20260930-6596ec9a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "斗破蒼穹：覺醒（新發現・高威脅）",
-      "detail": "熱門IP改編，知名廠商三七互娛開發。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-30T05:49:32.910288+00:00"
-    },
-    {
-      "id": "brief-20260930-b1fd5c4a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "奇蹟：新紀元（新發現・高威脅）",
-      "detail": "經典IP改編，知名廠商愷英網絡開發。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-09-30T05:49:32.910288+00:00"
-    },
-    {
-      "id": "brief-20260930-6427996d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "異環1.4版上線",
-      "detail": "新角色「黑羽」及Porsche聯動第二彈登場",
-      "action": "立即更新體驗",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-30T05:46:02.300272+00:00"
-    },
-    {
-      "id": "brief-20260930-07e4bea9",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "瑪奇Mobile聯名",
-      "detail": "攜手《新楓之谷》展開期間限定活動",
-      "action": "參與聯動活動",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-30T05:46:02.300272+00:00"
-    },
-    {
-      "id": "brief-20260930-bd476bbe",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "暗黑永生不朽聯動",
-      "detail": "x《閃靈悍將》合作活動開跑，迎戰地獄魔王",
-      "action": "參與跨界聯動",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-09-30T05:46:02.300272+00:00"
-    },
-    {
-      "id": "brief-20260929-a10e59a3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "斗羅大陸：覺醒世界（新發現・高威脅）",
-      "detail": "知名IP改編，MMORPG品類，在中國市場有高人氣基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-09-29T05:59:15.887506+00:00"
     }
   ]
 }
