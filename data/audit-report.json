@@ -1,63 +1,26 @@
 {
-  "lastAudit": "2026-10-03T05:30:51.917033+00:00",
-  "totalProducts": 500,
-  "updatesApplied": 56,
-  "issuesFound": 6,
+  "lastAudit": "2026-10-04T06:06:24.693136+00:00",
+  "totalProducts": 514,
+  "updatesApplied": 0,
+  "issuesFound": 0,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
-  "findings": [
-    {
-      "name": "幻想少女工會",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "灰境行者",
-      "status": "warning",
-      "issue": "狀態: announced→cbt",
-      "autoFixed": true
-    },
-    {
-      "name": "電鋸甜心新作",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "惡魔城：貝爾蒙特的詛咒",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "镇魂街王者归来",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "粒粒的小人国",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    }
-  ],
+  "findings": [],
   "checked": [
-    "加查沙漏",
-    "幻想少女工會",
-    "彩虹國度",
-    "指掌仙宗",
-    "古荒大陸",
-    "武林乾坤",
-    "灰境行者",
-    "電鋸甜心新作",
-    "惡魔城：貝爾蒙特的詛咒",
-    "搖曳露營△ 全合一!! 悠閒時光",
-    "幻靈戰歌",
-    "召喚師紛爭",
-    "依露希爾：星曉",
-    "镇魂街王者归来",
-    "粒粒的小人国"
+    "庆余年：南庆大亨",
+    "集合！浆果镇",
+    "传世群英传",
+    "苍玄山海录",
+    "月圆之夜：大师对弈",
+    "三国群英志",
+    "王国大作战：前线",
+    "香格里拉·開拓異境：七大最強種",
+    "魔法少女小圓Magia Exedra",
+    "勇者逗逗龍",
+    "星之救援者",
+    "鏈鋸人Devil Crush",
+    "N.O.A.H.",
+    "永恒之塔傳奇",
+    "聖杯再臨"
   ],
   "nextBatch": [
     "無限大",

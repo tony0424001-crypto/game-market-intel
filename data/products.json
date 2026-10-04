@@ -26863,5 +26863,478 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 518,
+    "name": "RuneScape 4 (暫譯)",
+    "nameEn": "RS4",
+    "developer": "Jagex",
+    "studio": "Jagex",
+    "publisher": "Jagex",
+    "genre": "MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名MMORPG系列新作，預期將吸引大量全球玩家，且RuneScape已有成功的手遊營運經驗。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "Jagex宣布開發中的全新RuneScape大型多人線上角色扮演遊戲，預計將支援PC與行動裝置跨平台遊玩。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名MMORPG系列新作，預期將吸引大量全球玩家，且RuneScape已有成功的手遊營運經驗。",
+    "verified": "Agent 發現 (2026-10-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-04",
+    "addedAt": "2026-10-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 519,
+    "name": "三國：天下歸心",
+    "nameEn": "Three Kingdoms: Return to the World (tentative)",
+    "developer": "愷英網絡",
+    "studio": "愷英網絡",
+    "publisher": "愷英網絡",
+    "genre": "策略",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "三國題材策略遊戲市場競爭激烈，但由愷英網絡開發，仍有一定潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q1",
+    "desc": "愷英網絡推出的三國題材策略手遊，預計於2026年第一季度亮相。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】三國題材策略遊戲市場競爭激烈，但由愷英網絡開發，仍有一定潛力。",
+    "verified": "Agent 發現 (2026-10-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "2026-Q1"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-04",
+    "addedAt": "2026-10-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 520,
+    "name": "地下城與勇士：卡贊",
+    "nameEn": "Dungeon & Fighter: Kazan (tentative)",
+    "developer": "騰訊",
+    "studio": "騰訊",
+    "publisher": "騰訊",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "頂級IP《地下城與勇士》新作，由騰訊發行，預期將有極高市場關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "騰訊旗下《地下城與勇士》IP的動作RPG新作，目前正在等待中國版號。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】頂級IP《地下城與勇士》新作，由騰訊發行，預期將有極高市場關注度。",
+    "verified": "Agent 發現 (2026-10-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "待確認"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-04",
+    "addedAt": "2026-10-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 521,
+    "name": "七界夢譚",
+    "nameEn": "Seven Realms Dream Tale (tentative)",
+    "developer": "待確認",
+    "studio": "待確認",
+    "publisher": "待確認",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "TW/HK/MO",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "資訊較少，但被列為年度期待手遊，仍有一定關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "一款被列為2026年最值得期待的手機遊戲之一。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】資訊較少，但被列為年度期待手遊，仍有一定關注度。",
+    "verified": "Agent 發現 (2026-10-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-04",
+    "addedAt": "2026-10-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 522,
+    "name": "帕萌戰鬥日記",
+    "nameEn": "Palmon: Survival",
+    "developer": "莉莉絲遊戲 (發行商：Farlight Games)",
+    "studio": "莉莉絲遊戲 (發行商：Farlight Games)",
+    "publisher": "莉莉絲遊戲 (發行商：Farlight Games)",
+    "genre": "捉寵SLG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "莉莉絲大廠發行，結合熱門「帕魯」概念與休閒玩法，已在海外取得不錯成績。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2025-01",
+    "desc": "莉莉絲發行的捉寵策略手遊，結合了《Coin Master》的玩法循環，被稱為「手遊版帕魯」，已在海外部分地區上線。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】莉莉絲大廠發行，結合熱門「帕魯」概念與休閒玩法，已在海外取得不錯成績。",
+    "verified": "Agent 發現 (2026-10-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2025-01"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-10-04",
+    "addedAt": "2026-10-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 523,
+    "name": "棕色塵埃2",
+    "nameEn": "Brown Dust 2",
+    "developer": "GAMFS N",
+    "studio": "GAMFS N",
+    "publisher": "GAMFS N",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名RPG手遊續作，由韓國開發商GAMFS N開發，預期在亞洲市場有較高關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "由NEOWIZ營運、GAMFS N開發的冒險心跳RPG手機遊戲，宣布參與2026高雄國際動漫節。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名RPG手遊續作，由韓國開發商GAMFS N開發，預期在亞洲市場有較高關注度。",
+    "verified": "Agent 發現 (2026-10-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "TW/HK/MO",
+        "status": "未上線",
+        "date": "2026-10-09"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-04",
+    "addedAt": "2026-10-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 524,
+    "name": "師父 (手機版)",
+    "nameEn": "Sifu Mobile",
+    "developer": "Sloclap (原版開發商)",
+    "studio": "Sloclap (原版開發商)",
+    "publisher": "Sloclap (原版開發商)",
+    "genre": "動作",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "知名PC/主機動作遊戲IP改編手遊，動作玩法受好評，有望吸引大量玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-10",
+    "desc": "知名功夫動作遊戲《師父》的手機移植版本，預計於10月12日登陸行動裝置。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名PC/主機動作遊戲IP改編手遊，動作玩法受好評，有望吸引大量玩家。",
+    "verified": "Agent 發現 (2026-10-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-10-12"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-10-04",
+    "addedAt": "2026-10-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 525,
+    "name": "劍俠世界4：無限",
+    "nameEn": "JX World 4: Infinity (tentative)",
+    "developer": "西山居",
+    "studio": "西山居",
+    "publisher": "西山居",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "知名國產MMORPG系列新作，強調無縫大世界和多樣玩法，由西山居開發，預期將有極高市場關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "西山居開發的《劍俠世界》系列新作，主打1億平方米無縫大世界MMORPG，預計於2026年內上線。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名國產MMORPG系列新作，強調無縫大世界和多樣玩法，由西山居開發，預期將有極高市場關注度。",
+    "verified": "Agent 發現 (2026-10-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "2026"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-04",
+    "addedAt": "2026-10-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 526,
+    "name": "星際大戰：銀河賽車手",
+    "nameEn": "Star Wars: Galactic Racers (tentative)",
+    "developer": "Fuse Games",
+    "studio": "Fuse Games",
+    "publisher": "Fuse Games",
+    "genre": "競速",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名全球大IP《星際大戰》改編手遊，具備廣泛的玩家基礎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-10",
+    "desc": "獲得《星際大戰》IP授權的競速手遊，背景設定在銀河帝國殞落之後的地下競速賽事，預計於2026年10月推出。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名全球大IP《星際大戰》改編手遊，具備廣泛的玩家基礎。",
+    "verified": "Agent 發現 (2026-10-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "2026-10"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-04",
+    "addedAt": "2026-10-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 527,
+    "name": "控制- 終極合輯 (手機版)",
+    "nameEn": "Control Ultimate Edition Mobile",
+    "developer": "Remedy Entertainment (原版開發商)",
+    "studio": "Remedy Entertainment (原版開發商)",
+    "publisher": "Remedy Entertainment (原版開發商)",
+    "genre": "動作",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "知名3A級PC/主機遊戲IP移植手遊，高品質動作遊戲，預期將吸引大量玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "知名PC/主機遊戲《Control Ultimate Edition》的手機移植版本，被列為2026年最值得期待的手機遊戲之一。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名3A級PC/主機遊戲IP移植手遊，高品質動作遊戲，預期將吸引大量玩家。",
+    "verified": "Agent 發現 (2026-10-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-04",
+    "addedAt": "2026-10-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]

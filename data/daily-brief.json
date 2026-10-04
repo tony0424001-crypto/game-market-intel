@@ -1,7 +1,128 @@
 {
-  "lastUpdated": "2026-10-03T05:33:47.011875+00:00",
-  "fetchCount": 143,
+  "lastUpdated": "2026-10-04T06:10:03.559450+00:00",
+  "fetchCount": 144,
   "items": [
+    {
+      "id": "brief-20261004-46e2e370",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "控制- 終極合輯 (手機版)（新發現・高威脅）",
+      "detail": "知名3A級PC/主機遊戲IP移植手遊，高品質動作遊戲，預期將吸引大量玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
+    },
+    {
+      "id": "brief-20261004-356fb0b2",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "星際大戰：銀河賽車手（新發現・高威脅）",
+      "detail": "知名全球大IP《星際大戰》改編手遊，具備廣泛的玩家基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
+    },
+    {
+      "id": "brief-20261004-1f339305",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "劍俠世界4：無限（新發現・高威脅）",
+      "detail": "知名國產MMORPG系列新作，強調無縫大世界和多樣玩法，由西山居開發，預期將有極高市場關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
+    },
+    {
+      "id": "brief-20261004-f8589efe",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "師父 (手機版)（新發現・高威脅）",
+      "detail": "知名PC/主機動作遊戲IP改編手遊，動作玩法受好評，有望吸引大量玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
+    },
+    {
+      "id": "brief-20261004-7de592db",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "棕色塵埃2（新發現・高威脅）",
+      "detail": "知名RPG手遊續作，由韓國開發商GAMFS N開發，預期在亞洲市場有較高關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
+    },
+    {
+      "id": "brief-20261004-daaad907",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "帕萌戰鬥日記（新發現・高威脅）",
+      "detail": "莉莉絲大廠發行，結合熱門「帕魯」概念與休閒玩法，已在海外取得不錯成績。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
+    },
+    {
+      "id": "brief-20261004-75a56134",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "地下城與勇士：卡贊（新發現・高威脅）",
+      "detail": "頂級IP《地下城與勇士》新作，由騰訊發行，預期將有極高市場關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
+    },
+    {
+      "id": "brief-20261004-47918eda",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "RuneScape 4 (暫譯)（新發現・高威脅）",
+      "detail": "知名MMORPG系列新作，預期將吸引大量全球玩家，且RuneScape已有成功的手遊營運經驗。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
+    },
+    {
+      "id": "brief-20261004-61c43cce",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "空戰奇兵8今日發售",
+      "detail": "系列正統續作《空戰奇兵8》今日全球正式發售。",
+      "action": "前往購買體驗",
+      "platform": "console/PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-04T06:05:37.747229+00:00"
+    },
+    {
+      "id": "brief-20261004-fbee1585",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "萬代Steam秋季特賣",
+      "detail": "《噬血代碼》1折、《黑暗靈魂》系列5折。",
+      "action": "前往Steam選購",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-04T06:05:37.747229+00:00"
+    },
+    {
+      "id": "brief-20261004-df46f8e5",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "SEGA Steam秋季特賣",
+      "detail": "《人中之龍 極 3》等多款PC遊戲半價促銷。",
+      "action": "前往Steam選購",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-04T06:05:37.747229+00:00"
+    },
     {
       "id": "brief-20261003-94c26c1f",
       "priority": "urgent",
@@ -100,127 +221,6 @@
       "platform": "mobile",
       "source": "新聞報導",
       "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
-    },
-    {
-      "id": "brief-20261003-c3f00e81",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "空戰奇兵 8 今日發售",
-      "detail": "系列正統續作，史上最大規模線上多人模式。",
-      "action": "立即體驗空戰快感",
-      "platform": "console/PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-03T05:30:34.894405+00:00"
-    },
-    {
-      "id": "brief-20261003-934f37a5",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "SEGA Steam 秋季特賣",
-      "detail": "《人中之龍 極 3》等作半價促銷。",
-      "action": "把握優惠立即搶購",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-03T05:30:34.894405+00:00"
-    },
-    {
-      "id": "brief-20261003-ceccbf13",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "萬代南夢宮 Steam 特賣",
-      "detail": "《噬血代碼》1折、《黑暗靈魂》5折。",
-      "action": "趁機入手經典大作",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-03T05:30:34.894405+00:00"
-    },
-    {
-      "id": "brief-20261003-cebc1d0f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "惡魔城新作試玩上架",
-      "detail": "《惡魔城：貝爾蒙特的詛咒》體驗版。",
-      "action": "揮舞聖鞭對抗黑暗",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-03T05:30:34.894405+00:00"
-    },
-    {
-      "id": "brief-20261003-82baa986",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "艾爾塔：反抗眾神試玩",
-      "detail": "新動作遊戲試玩版開放，明年2月上市。",
-      "action": "立即下載搶先體驗",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-03T05:30:34.894405+00:00"
-    },
-    {
-      "id": "brief-20261002-513cf29f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "龍之劍（新發現・高威脅）",
-      "detail": "Webzen是韓國知名MMORPG開發商，遊戲品質和市場表現值得關注。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-02T06:00:13.284276+00:00"
-    },
-    {
-      "id": "brief-20261002-b2e31483",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "RF ONLINE NEXT（新發現・高威脅）",
-      "detail": "Netmarble為韓國大廠，且《RF Online》是知名IP，具備高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-02T06:00:13.284276+00:00"
-    },
-    {
-      "id": "brief-20261002-a278e232",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "熱血江湖：重啟（新發現・高威脅）",
-      "detail": "《熱血江湖》是經典大型MMORPG IP，在華人市場有深厚玩家基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-02T06:00:13.284276+00:00"
-    },
-    {
-      "id": "brief-20261002-c652b610",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "龍之谷：覺醒（新發現・高威脅）",
-      "detail": "《龍之谷》是知名大型IP，擁有廣泛玩家基礎，愷英網絡為重要發行商。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-02T06:00:13.284276+00:00"
-    },
-    {
-      "id": "brief-20261002-95ace456",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Steam秋季特賣開跑",
-      "detail": "多款遊戲享折扣，最低1折起",
-      "action": "立即前往Steam選購",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-02T05:55:48.659131+00:00"
-    },
-    {
-      "id": "brief-20261002-3af651cc",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《真三國無雙2》重製版",
-      "detail": "經典重製版今日多平台正式發售",
-      "action": "立即購買體驗遊戲",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-02T05:55:48.659131+00:00"
     }
   ]
 }
