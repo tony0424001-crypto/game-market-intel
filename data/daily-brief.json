@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-10-05T05:58:32.084496+00:00",
-  "fetchCount": 145,
+  "lastUpdated": "2026-10-06T06:36:34.904426+00:00",
+  "fetchCount": 146,
   "items": [
+    {
+      "id": "brief-20261006-b7b11863",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "鳴潮海底撈聯動",
+      "detail": "開放世界動作遊戲與海底撈推出限時聯動。",
+      "action": "參與聯動活動",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-06T06:36:34.904426+00:00"
+    },
+    {
+      "id": "brief-20261006-85c2ff14",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "新世界狂歡聯動",
+      "detail": "手遊《新世界狂歡》與《DRAMAtical Murder》聯動。",
+      "action": "參與聯動活動",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-06T06:36:34.904426+00:00"
+    },
     {
       "id": "brief-20261004-46e2e370",
       "priority": "urgent",
@@ -157,70 +179,48 @@
       "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
     },
     {
-      "id": "brief-20261003-4c164a8a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "永恆契約（新發現・高威脅）",
-      "detail": "知名二次元遊戲開發商新作，有望成為《原神》、《崩壞》類競品。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
+      "id": "brief-20261006-5d6f5e27",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "女神異聞錄4R新片",
+      "detail": "ATLUS新作RPG《P4R》公開「陰影篇」宣傳片。",
+      "action": "觀看宣傳影片",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-06T06:36:34.904426+00:00"
     },
     {
-      "id": "brief-20261003-24213fa2",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "星光迴響計畫（新發現・高威脅）",
-      "detail": "網易大廠自研新IP，開放世界RPG品類，潛力巨大。",
-      "action": "加入追蹤並評估上線時程",
+      "id": "brief-20261006-4c5fecce",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "吸血鬼爬行者手遊",
+      "detail": "牌組構築Roguelite遊戲10月12日登陸雙平台。",
+      "action": "準備下載體驗",
       "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-06T06:36:34.904426+00:00"
     },
     {
-      "id": "brief-20261003-208e2b1c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "三角洲行動：鷹眼（新發現・高威脅）",
-      "detail": "騰訊大廠出品，經典IP重啟，多平台發行，具備全球市場競爭力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
+      "id": "brief-20261006-8a78f76f",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "模擬日本拉麵延期",
+      "detail": "Steam搶先體驗版改至10月9日16:00。",
+      "action": "留意發售時間",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-06T06:36:34.904426+00:00"
     },
     {
-      "id": "brief-20261003-efaa9b73",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "掠奪者2（新發現・高威脅）",
-      "detail": "Netmarble旗艦級MMORPG續作，雙平台發行，預期將在韓國及全球市場引起關注。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
-    },
-    {
-      "id": "brief-20261003-d4127129",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "天翼之鍊：第二章（新發現・高威脅）",
-      "detail": "Nexon出品，經典IP改編MMORPG，在韓國及全球市場有一定影響力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
-    },
-    {
-      "id": "brief-20261003-a3d1a52a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "控制：共振（新發現・高威脅）",
-      "detail": "知名西方大IP改編手遊，具備高話題度與潛在市場吸引力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
+      "id": "brief-20261006-17131384",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "野心勃勃的任務繁中版",
+      "detail": "SAGA PLANETS美少女視覺小說Steam推出。",
+      "action": "關注Steam頁面",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-06T06:36:34.904426+00:00"
     }
   ]
 }
