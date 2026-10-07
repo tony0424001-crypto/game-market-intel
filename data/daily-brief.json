@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-10-06T06:36:34.904426+00:00",
-  "fetchCount": 146,
+  "lastUpdated": "2026-10-07T06:13:45.107330+00:00",
+  "fetchCount": 147,
   "items": [
+    {
+      "id": "brief-20261007-802e81ad",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "英雄聯盟重播移除",
+      "detail": "26.20版移除重播分享功能，引發創作者擔憂。",
+      "action": "關注官方回應",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-07T06:13:45.107330+00:00"
+    },
     {
       "id": "brief-20261006-b7b11863",
       "priority": "urgent",
@@ -157,70 +168,59 @@
       "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
     },
     {
-      "id": "brief-20261003-1a0ae259",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "星墜計畫（新發現・高威脅）",
-      "detail": "騰訊大廠自研新IP，開放世界RPG品類，預期投入大量資源推廣。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
-    },
-    {
-      "id": "brief-20261003-e29c30dc",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "光之迴響計畫（新發現・高威脅）",
-      "detail": "Square Enix出品，二次元RPG品類，具備全球市場號召力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
-    },
-    {
-      "id": "brief-20261006-5d6f5e27",
+      "id": "brief-20261007-18c5a30a",
       "priority": "watch",
       "icon": "👁",
-      "title": "女神異聞錄4R新片",
-      "detail": "ATLUS新作RPG《P4R》公開「陰影篇」宣傳片。",
-      "action": "觀看宣傳影片",
+      "title": "明日方舟終末地更新",
+      "detail": "10/15推出「丹青渡」新版，Steam版同步上線。",
+      "action": "準備體驗新內容",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-07T06:13:45.107330+00:00"
+    },
+    {
+      "id": "brief-20261007-c9c98010",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "YouTube遊戲角落上線",
+      "detail": "台灣推出免下載遊戲功能，逾千款遊戲可玩。",
+      "action": "立即體驗新功能",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-07T06:13:45.107330+00:00"
+    },
+    {
+      "id": "brief-20261007-b5185a53",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "戰地風雲6賽季5",
+      "detail": "賽季5預告片釋出，新地圖10/13登場。",
+      "action": "準備迎接新戰場",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-06T06:36:34.904426+00:00"
+      "fetchedAt": "2026-10-07T06:13:45.107330+00:00"
     },
     {
-      "id": "brief-20261006-4c5fecce",
+      "id": "brief-20261007-e7eae30b",
       "priority": "watch",
       "icon": "👁",
-      "title": "吸血鬼爬行者手遊",
-      "detail": "牌組構築Roguelite遊戲10月12日登陸雙平台。",
-      "action": "準備下載體驗",
-      "platform": "mobile",
+      "title": "鬥陣特攻新賽季",
+      "detail": "利爪霸業第5賽季「格里姆血律」今日開戰。",
+      "action": "體驗新英雄血律",
+      "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-06T06:36:34.904426+00:00"
+      "fetchedAt": "2026-10-07T06:13:45.107330+00:00"
     },
     {
-      "id": "brief-20261006-8a78f76f",
+      "id": "brief-20261007-6f015479",
       "priority": "watch",
       "icon": "👁",
-      "title": "模擬日本拉麵延期",
-      "detail": "Steam搶先體驗版改至10月9日16:00。",
-      "action": "留意發售時間",
-      "platform": "PC",
+      "title": "俠盜獵車手6開發談",
+      "detail": "製作團隊分享打造虛擬世界的理念。",
+      "action": "期待遊戲上市",
+      "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-06T06:36:34.904426+00:00"
-    },
-    {
-      "id": "brief-20261006-17131384",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "野心勃勃的任務繁中版",
-      "detail": "SAGA PLANETS美少女視覺小說Steam推出。",
-      "action": "關注Steam頁面",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-06T06:36:34.904426+00:00"
+      "fetchedAt": "2026-10-07T06:13:45.107330+00:00"
     }
   ]
 }
