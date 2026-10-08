@@ -1,7 +1,139 @@
 {
-  "lastUpdated": "2026-10-07T06:13:45.107330+00:00",
-  "fetchCount": 147,
+  "lastUpdated": "2026-10-08T06:29:11.296183+00:00",
+  "fetchCount": 148,
   "items": [
+    {
+      "id": "brief-20261008-253a227c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "權力的遊戲：龍火（新發現・高威脅）",
+      "detail": "知名全球IP《權力的遊戲》改編，結合4X策略和MMOSLG玩法，預計將吸引大量IP粉絲和策略遊戲玩家.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+    },
+    {
+      "id": "brief-20261008-ef9ae32b",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "遮天世界（新發現・高威脅）",
+      "detail": "知名網路小說IP改編，由騰訊發行，在中國市場具備強大號召力，MMORPG類型符合市場需求.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+    },
+    {
+      "id": "brief-20261008-08d6ce0f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "冰汽時代：最後的家園（新發現・高威脅）",
+      "detail": "知名PC單機IP手遊化，由大廠網易開發，具備IP號召力和獨特的生存策略玩法，市場潛力大.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導/官方公告",
+      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+    },
+    {
+      "id": "brief-20261008-dd2cefd9",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Elsword Slash（新發現・高威脅）",
+      "detail": "知名端遊IP《艾爾之光》手遊化，由大廠Nexon開發，具備IP號召力和動作RPG玩法，預計將吸引大量粉絲.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+    },
+    {
+      "id": "brief-20261008-58b454ed",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "巨龍與紛爭（新發現・高威脅）",
+      "detail": "莉莉絲旗下樂狗開發，繼《萬國覺醒》後的MMOSLG新作，具備成熟的策略玩法和全球發行能力，市場影響力大.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導/版號公示/官方公告",
+      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+    },
+    {
+      "id": "brief-20261008-933d8cfb",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "危機曙光（新發現・高威脅）",
+      "detail": "具備大型開放世界地圖和多達5000名玩家同服的MMO生存玩法，且支援PC與手機跨平台，市場潛力大.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導/官方公告",
+      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+    },
+    {
+      "id": "brief-20261008-bc8c4f03",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Miresi:看不見的未來（新發現・高威脅）",
+      "detail": "由《勝利女神：妮姬》前核心團隊開發，美術風格與故事內容備受期待，且已開放全球預約，預計將有較高市場關注度.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導/官方公告",
+      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+    },
+    {
+      "id": "brief-20261008-b04960cc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "魔刻獵手（新發現・高威脅）",
+      "detail": "由全球知名手遊大廠Supercell開發，騰訊發行，具備極高的市場潛力與影響力，預計將是現象級大作.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+    },
+    {
+      "id": "brief-20261008-509bd7cc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "詭秘之主：愚者（新發現・高威脅）",
+      "detail": "知名白金網文IP改編，由祖龍娛樂開發並使用UE5引擎，具備MMORPG和神秘學設定，預計將吸引大量原著粉絲和MMO玩家.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導/版號公示/官方公告",
+      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+    },
+    {
+      "id": "brief-20261008-970ca6d5",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《GTA 6》典藏盒",
+      "detail": "台灣大哥大獨家引進《GTA 6》典藏盒，11/19上市。",
+      "action": "預購典藏盒",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-08T06:22:32.493106+00:00"
+    },
+    {
+      "id": "brief-20261008-312b8b1a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《英雄聯盟》重播",
+      "detail": "Riot擬限重播分享引抗議，官方緊急延期。",
+      "action": "關注後續發展",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-08T06:22:32.493106+00:00"
+    },
+    {
+      "id": "brief-20261008-25e9ad15",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《FF7EC》終止營運",
+      "detail": "手機RPG《FF7 Ever Crisis》今日終止營運。",
+      "action": "回顧遊戲歷程",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-08T06:22:32.493106+00:00"
+    },
     {
       "id": "brief-20261007-802e81ad",
       "priority": "urgent",
@@ -89,138 +221,6 @@
       "platform": "mobile",
       "source": "新聞報導",
       "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
-    },
-    {
-      "id": "brief-20261004-daaad907",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "帕萌戰鬥日記（新發現・高威脅）",
-      "detail": "莉莉絲大廠發行，結合熱門「帕魯」概念與休閒玩法，已在海外取得不錯成績。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
-    },
-    {
-      "id": "brief-20261004-75a56134",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "地下城與勇士：卡贊（新發現・高威脅）",
-      "detail": "頂級IP《地下城與勇士》新作，由騰訊發行，預期將有極高市場關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
-    },
-    {
-      "id": "brief-20261004-47918eda",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "RuneScape 4 (暫譯)（新發現・高威脅）",
-      "detail": "知名MMORPG系列新作，預期將吸引大量全球玩家，且RuneScape已有成功的手遊營運經驗。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
-    },
-    {
-      "id": "brief-20261004-61c43cce",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "空戰奇兵8今日發售",
-      "detail": "系列正統續作《空戰奇兵8》今日全球正式發售。",
-      "action": "前往購買體驗",
-      "platform": "console/PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-04T06:05:37.747229+00:00"
-    },
-    {
-      "id": "brief-20261004-fbee1585",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "萬代Steam秋季特賣",
-      "detail": "《噬血代碼》1折、《黑暗靈魂》系列5折。",
-      "action": "前往Steam選購",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-04T06:05:37.747229+00:00"
-    },
-    {
-      "id": "brief-20261004-df46f8e5",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "SEGA Steam秋季特賣",
-      "detail": "《人中之龍 極 3》等多款PC遊戲半價促銷。",
-      "action": "前往Steam選購",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-04T06:05:37.747229+00:00"
-    },
-    {
-      "id": "brief-20261003-94c26c1f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "三國殺：天命棋局（新發現・高威脅）",
-      "detail": "《三國殺》是中國國民級IP，新卡牌遊戲有望吸引大量玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-03T05:33:47.011875+00:00"
-    },
-    {
-      "id": "brief-20261007-18c5a30a",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "明日方舟終末地更新",
-      "detail": "10/15推出「丹青渡」新版，Steam版同步上線。",
-      "action": "準備體驗新內容",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-07T06:13:45.107330+00:00"
-    },
-    {
-      "id": "brief-20261007-c9c98010",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "YouTube遊戲角落上線",
-      "detail": "台灣推出免下載遊戲功能，逾千款遊戲可玩。",
-      "action": "立即體驗新功能",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-07T06:13:45.107330+00:00"
-    },
-    {
-      "id": "brief-20261007-b5185a53",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "戰地風雲6賽季5",
-      "detail": "賽季5預告片釋出，新地圖10/13登場。",
-      "action": "準備迎接新戰場",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-07T06:13:45.107330+00:00"
-    },
-    {
-      "id": "brief-20261007-e7eae30b",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "鬥陣特攻新賽季",
-      "detail": "利爪霸業第5賽季「格里姆血律」今日開戰。",
-      "action": "體驗新英雄血律",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-07T06:13:45.107330+00:00"
-    },
-    {
-      "id": "brief-20261007-6f015479",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "俠盜獵車手6開發談",
-      "detail": "製作團隊分享打造虛擬世界的理念。",
-      "action": "期待遊戲上市",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-07T06:13:45.107330+00:00"
     }
   ]
 }

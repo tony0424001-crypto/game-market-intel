@@ -27336,5 +27336,606 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
+  },
+  {
+    "id": 528,
+    "name": "詭秘之主：愚者",
+    "nameEn": "Lord of the Mysteries: The Fool",
+    "developer": "祖龍娛樂",
+    "studio": "祖龍娛樂",
+    "publisher": "祖龍娛樂",
+    "genre": "MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "critical",
+    "threatReason": "知名白金網文IP改編，由祖龍娛樂開發並使用UE5引擎，具備MMORPG和神秘學設定，預計將吸引大量原著粉絲和MMO玩家.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "改編自熱門小說《詭秘之主》的UE5引擎打造的歐式神秘學MMORPG，強調22條成神途徑與理智/瘋狂機制，已開放預約.",
+    "tags": [
+      "新聞報導/版號公示/官方公告"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/版號公示/官方公告】知名白金網文IP改編，由祖龍娛樂開發並使用UE5引擎，具備MMORPG和神秘學設定，預計將吸引大量原著粉絲和MMO玩家.",
+    "verified": "Agent 發現 (2026-10-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號過審",
+        "date": "2026-09"
+      },
+      {
+        "region": "Global",
+        "status": "預註冊",
+        "date": "2026-06"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/版號公示/官方公告"
+  },
+  {
+    "id": 529,
+    "name": "魔刻獵手",
+    "nameEn": "Hunter's Mark",
+    "developer": "Supercell",
+    "studio": "Supercell",
+    "publisher": "Supercell",
+    "genre": "動作射擊",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global/CN",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "critical",
+    "threatReason": "由全球知名手遊大廠Supercell開發，騰訊發行，具備極高的市場潛力與影響力，預計將是現象級大作.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "由全球知名手遊大廠Supercell開發、騰訊發行的遊戲，已進行多次測試並進入上線籌備期.",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】由全球知名手遊大廠Supercell開發，騰訊發行，具備極高的市場潛力與影響力，預計將是現象級大作.",
+    "verified": "Agent 發現 (2026-10-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "測試中/籌備上線",
+        "date": "2026-Q4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 530,
+    "name": "Miresi:看不見的未來",
+    "nameEn": "Miresi: Invisible Future",
+    "developer": "CONTROL9",
+    "studio": "CONTROL9",
+    "publisher": "CONTROL9",
+    "genre": "二次元RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "由《勝利女神：妮姬》前核心團隊開發，美術風格與故事內容備受期待，且已開放全球預約，預計將有較高市場關注度.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "由前《勝利女神：妮姬》核心團隊開發的時空旅行二次元RPG，已開放全球預約，故事描寫主角與少女們跨越時空拯救瀕臨滅亡的時代.",
+    "tags": [
+      "新聞報導/官方公告"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/官方公告】由《勝利女神：妮姬》前核心團隊開發，美術風格與故事內容備受期待，且已開放全球預約，預計將有較高市場關注度.",
+    "verified": "Agent 發現 (2026-10-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "預註冊",
+        "date": "2026-06"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/官方公告"
+  },
+  {
+    "id": 531,
+    "name": "危機曙光",
+    "nameEn": "CrisisX",
+    "developer": "Hero Games",
+    "studio": "Hero Games",
+    "publisher": "Hero Games",
+    "genre": "開放世界生存",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "具備大型開放世界地圖和多達5000名玩家同服的MMO生存玩法，且支援PC與手機跨平台，市場潛力大.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q2",
+    "desc": "一款設定在後末日世界的開放世界生存射擊遊戲，玩家需收集資源、建造家園並對抗殭屍與其他玩家，支援PC與手機跨平台遊玩.",
+    "tags": [
+      "新聞報導/官方公告"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/官方公告】具備大型開放世界地圖和多達5000名玩家同服的MMO生存玩法，且支援PC與手機跨平台，市場潛力大.",
+    "verified": "Agent 發現 (2026-10-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-06"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/官方公告"
+  },
+  {
+    "id": 532,
+    "name": "巨龍與紛爭",
+    "nameEn": "Call of Dragons",
+    "developer": "樂狗",
+    "studio": "樂狗",
+    "publisher": "樂狗",
+    "genre": "MMOSLG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global/CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "莉莉絲旗下樂狗開發，繼《萬國覺醒》後的MMOSLG新作，具備成熟的策略玩法和全球發行能力，市場影響力大.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2022-Q3",
+    "desc": "由《萬國覺醒》開發商莉莉絲發行的奇幻MMOSLG，玩家可馴服巨龍、建造城市並進行大規模策略對戰，已在全球上線並於中國獲得版號.",
+    "tags": [
+      "新聞報導/版號公示/官方公告"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/版號公示/官方公告】莉莉絲旗下樂狗開發，繼《萬國覺醒》後的MMOSLG新作，具備成熟的策略玩法和全球發行能力，市場影響力大.",
+    "verified": "Agent 發現 (2026-10-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2022-08"
+      },
+      {
+        "region": "CN",
+        "status": "版號過審",
+        "date": "2026-09"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/版號公示/官方公告"
+  },
+  {
+    "id": 533,
+    "name": "Elsword Slash",
+    "nameEn": "Elsword Slash",
+    "developer": "Nexon",
+    "studio": "Nexon",
+    "publisher": "Nexon",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名端遊IP《艾爾之光》手遊化，由大廠Nexon開發，具備IP號召力和動作RPG玩法，預計將吸引大量粉絲.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "由Nexon推出的《艾爾之光》IP改編動作RPG手遊，預計於2026年秋季在韓國市場推出.",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名端遊IP《艾爾之光》手遊化，由大廠Nexon開發，具備IP號召力和動作RPG玩法，預計將吸引大量粉絲.",
+    "verified": "Agent 發現 (2026-10-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "未上線",
+        "date": "2026-Q4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 534,
+    "name": "冰汽時代：最後的家園",
+    "nameEn": "Frostpunk Mobile",
+    "developer": "網易",
+    "studio": "網易",
+    "publisher": "網易",
+    "genre": "生存策略",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名PC單機IP手遊化，由大廠網易開發，具備IP號召力和獨特的生存策略玩法，市場潛力大.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "改編自知名單機IP《冰汽時代》的生存策略手遊，玩家需管理供暖、人口、資源與社會制度，預計2026年內上線.",
+    "tags": [
+      "新聞報導/官方公告"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/官方公告】知名PC單機IP手遊化，由大廠網易開發，具備IP號召力和獨特的生存策略玩法，市場潛力大.",
+    "verified": "Agent 發現 (2026-10-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "2026-Q4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/官方公告"
+  },
+  {
+    "id": 535,
+    "name": "遮天世界",
+    "nameEn": "Shrouding the Heavens World",
+    "developer": "凱撒文化",
+    "studio": "凱撒文化",
+    "publisher": "凱撒文化",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "threatReason": "知名網路小說IP改編，由騰訊發行，在中國市場具備強大號召力，MMORPG類型符合市場需求.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "改編自知名網路小說《遮天》的MMORPG手遊，由騰訊發行，已進行多次測試並進入上線籌備期.",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名網路小說IP改編，由騰訊發行，在中國市場具備強大號召力，MMORPG類型符合市場需求.",
+    "verified": "Agent 發現 (2026-10-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "測試中/籌備上線",
+        "date": "2026-Q4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 536,
+    "name": "權力的遊戲：龍火",
+    "nameEn": "Game of Thrones: Dragonfire",
+    "developer": "Warner Bros. International Enterprises",
+    "studio": "Warner Bros. International Enterprises",
+    "publisher": "Warner Bros. International Enterprises",
+    "genre": "4X策略",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "知名全球IP《權力的遊戲》改編，結合4X策略和MMOSLG玩法，預計將吸引大量IP粉絲和策略遊戲玩家.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3",
+    "desc": "官方授權《權力的遊戲》4X策略手遊，玩家可指揮巨龍、締結聯盟、征服七大王國，已在全球Google Play上線.",
+    "tags": [
+      "官方公告"
+    ],
+    "threatAnalysis": "【自動發現・官方公告】知名全球IP《權力的遊戲》改編，結合4X策略和MMOSLG玩法，預計將吸引大量IP粉絲和策略遊戲玩家.",
+    "verified": "Agent 發現 (2026-10-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-09"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告"
+  },
+  {
+    "id": 537,
+    "name": "妖妖棋",
+    "nameEn": "Yaoyao Chess",
+    "developer": "網易",
+    "studio": "網易",
+    "publisher": "網易",
+    "genre": "自走棋",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "medium",
+    "threatReason": "由大廠網易開發，結合中國傳統文化與自走棋玩法，在特定市場有吸引力.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "網易基於中國傳統志怪文化研發的自走棋手遊，棋子設計取材自《山海經》及民間傳說，已開放預約.",
+    "tags": [
+      "新聞報導/官方公告"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/官方公告】由大廠網易開發，結合中國傳統文化與自走棋玩法，在特定市場有吸引力.",
+    "verified": "Agent 發現 (2026-10-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "預註冊",
+        "date": "2026-Q3"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/官方公告"
+  },
+  {
+    "id": 538,
+    "name": "凌雲對決",
+    "nameEn": "Lingyun Duel",
+    "developer": "三國遊戲平台",
+    "studio": "三國遊戲平台",
+    "publisher": "三國遊戲平台",
+    "genre": "策略卡牌",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "結合三國與武俠題材的策略卡牌RPG，在中國市場有一定受眾，但開發商規模不明，威脅等級中等.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3",
+    "desc": "一款融合三國歷史、國風武俠與策略卡牌玩法的手遊，玩家可招募名將俠客組建陣容，進行回合制策略戰鬥.",
+    "tags": [
+      "新聞報導/模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/模型知識推論】結合三國與武俠題材的策略卡牌RPG，在中國市場有一定受眾，但開發商規模不明，威脅等級中等.",
+    "verified": "Agent 發現 (2026-10-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2026-07"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/模型知識推論"
+  },
+  {
+    "id": 539,
+    "name": "Tango 5: The Last Dance",
+    "nameEn": "Tango 5: The Last Dance",
+    "developer": "Nexon",
+    "studio": "Nexon",
+    "publisher": "Nexon",
+    "genre": "動作射擊",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "大廠Nexon開發的動作射擊遊戲，具備一定的市場潛力.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "由Nexon開發的動作射擊手遊，預計於2026年秋季在韓國市場推出.",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】大廠Nexon開發的動作射擊遊戲，具備一定的市場潛力.",
+    "verified": "Agent 發現 (2026-10-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "未上線",
+        "date": "2026-Q4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-08",
+    "addedAt": "2026-10-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]
