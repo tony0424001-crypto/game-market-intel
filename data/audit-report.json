@@ -1,10 +1,35 @@
 {
-  "lastAudit": "2026-10-08T06:23:55.901868+00:00",
-  "totalProducts": 524,
-  "updatesApplied": 0,
-  "issuesFound": 0,
+  "lastAudit": "2026-10-09T06:26:28.477461+00:00",
+  "totalProducts": 536,
+  "updatesApplied": 55,
+  "issuesFound": 4,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
-  "findings": [],
+  "findings": [
+    {
+      "name": "三国群英志",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "王国大作战：前线",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "魔法少女小圓Magia Exedra",
+      "status": "warning",
+      "issue": "狀態: pre-reg→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "永恒之塔傳奇",
+      "status": "warning",
+      "issue": "狀態: cbt→announced",
+      "autoFixed": true
+    }
+  ],
   "checked": [
     "庆余年：南庆大亨",
     "集合！浆果镇",

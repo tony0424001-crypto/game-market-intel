@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-10-08T06:29:11.296183+00:00",
-  "fetchCount": 148,
+  "lastUpdated": "2026-10-09T06:32:31.428160+00:00",
+  "fetchCount": 149,
   "items": [
+    {
+      "id": "brief-20261009-9dc4a155",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "梦境清理团（新發現・高威脅）",
+      "detail": "騰訊作為中國最大的遊戲公司之一，其任何新作都將對市場產生重大影響，即使是休閒類遊戲也可能成為爆款。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-09T06:32:31.428160+00:00"
+    },
+    {
+      "id": "brief-20261009-211fe61d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "尋秦記（新發現・高威脅）",
+      "detail": "經典華人IP改編，在台港澳市場具備高知名度和懷舊情懷。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-09T06:32:31.428160+00:00"
+    },
+    {
+      "id": "brief-20261009-73a304f1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "RO 仙境傳說世界（新發現・高威脅）",
+      "detail": "經典MMORPG IP新作，具備廣大玩家基礎和市場號召力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-09T06:32:31.428160+00:00"
+    },
+    {
+      "id": "brief-20261009-e4f9c48d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "魔力寶貝：重返法蘭（新發現・高威脅）",
+      "detail": "經典MMORPG IP重啟，擁有大量懷舊玩家基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-09T06:32:31.428160+00:00"
+    },
+    {
+      "id": "brief-20261009-e6d96600",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "QQ經典農場（新發現・高威脅）",
+      "detail": "國民級懷舊IP，由騰訊推出，預期將引起大規模市場關注。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-09T06:32:31.428160+00:00"
+    },
+    {
+      "id": "brief-20261009-4d7785be",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "LOL世界賽主題曲",
+      "detail": "2026世界大賽主題曲MV曝光，致敬Faker。",
+      "action": "觀看MV",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-09T06:26:05.473143+00:00"
+    },
     {
       "id": "brief-20261008-253a227c",
       "priority": "urgent",
@@ -155,72 +221,6 @@
       "platform": "mobile",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-10-06T06:36:34.904426+00:00"
-    },
-    {
-      "id": "brief-20261006-85c2ff14",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "新世界狂歡聯動",
-      "detail": "手遊《新世界狂歡》與《DRAMAtical Murder》聯動。",
-      "action": "參與聯動活動",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-06T06:36:34.904426+00:00"
-    },
-    {
-      "id": "brief-20261004-46e2e370",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "控制- 終極合輯 (手機版)（新發現・高威脅）",
-      "detail": "知名3A級PC/主機遊戲IP移植手遊，高品質動作遊戲，預期將吸引大量玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
-    },
-    {
-      "id": "brief-20261004-356fb0b2",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "星際大戰：銀河賽車手（新發現・高威脅）",
-      "detail": "知名全球大IP《星際大戰》改編手遊，具備廣泛的玩家基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
-    },
-    {
-      "id": "brief-20261004-1f339305",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "劍俠世界4：無限（新發現・高威脅）",
-      "detail": "知名國產MMORPG系列新作，強調無縫大世界和多樣玩法，由西山居開發，預期將有極高市場關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
-    },
-    {
-      "id": "brief-20261004-f8589efe",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "師父 (手機版)（新發現・高威脅）",
-      "detail": "知名PC/主機動作遊戲IP改編手遊，動作玩法受好評，有望吸引大量玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
-    },
-    {
-      "id": "brief-20261004-7de592db",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "棕色塵埃2（新發現・高威脅）",
-      "detail": "知名RPG手遊續作，由韓國開發商GAMFS N開發，預期在亞洲市場有較高關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-04T06:10:03.559450+00:00"
     }
   ]
 }
