@@ -22649,22 +22649,31 @@
     "region": "CN",
     "model": "F2P",
     "stage": "announced",
-    "threat": "medium",
-    "threatReason": "知名独立游戏IP改编，卡牌玩法有固定受众。",
+    "threat": "high",
+    "threatReason": "作為知名IP《月圆之夜》的衍生作，且由原開發商巨人網絡推出，並涉足競技卡牌領域，預計將吸引大量核心玩家與IP粉絲，市場潛力巨大。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "待定",
     "desc": "知名独立游戏《月圆之夜》IP的衍生作品，预计为一款卡牌对弈类游戏。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名独立游戏IP改编，卡牌玩法有固定受众。",
+    "threatAnalysis": "【威脅類型】高威脅：知名IP衍生作，由原開發商巨人網絡開發，並已獲得版號，預計將在中國市場推出。遊戲類型為競技卡牌，有望吸引《月圆之夜》的龐大玩家基礎。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲的測試進度與具體上線日期。\n(2). 密切關注遊戲的預約數據與市場宣傳活動。\n(3). 分析其競技玩法與《月圆之夜》現有競技模式的差異，評估對手遊市場的影響。",
     "verified": "版號雷達 (2026-09-21)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "豌豆莢",
+        "url": "https://www.wandoujia.com/games/894050"
+      },
+      {
+        "label": "九游",
+        "url": "https://www.9game.cn/yyzydsdy/"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
@@ -22672,11 +22681,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-21",
+    "updatedAt": "2026-10-10",
     "addedAt": "2026-09-21",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-10",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲已於2026年1月26日獲得中國版號，目前處於預約階段，後續測試與上線時間待定。"
   },
   {
     "id": 429,
@@ -28548,5 +28558,435 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 551,
+    "name": "WWM: Heaven's Threshold",
+    "nameEn": "WWM: Heaven's Threshold",
+    "developer": "網易 (NetEase)",
+    "studio": "網易 (NetEase)",
+    "publisher": "網易 (NetEase)",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "網易旗下大型MMORPG新作，具備高製作水準與市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "網易推出的MMORPG手遊，被列為2026年最受期待的MMORPG之一。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易旗下大型MMORPG新作，具備高製作水準與市場潛力。",
+    "verified": "Agent 發現 (2026-10-10)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-10",
+    "addedAt": "2026-10-10",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 552,
+    "name": "境界-死神激鬥",
+    "nameEn": "Bleach: Fierce Fight",
+    "developer": "未知 (Unknown)",
+    "studio": "未知 (Unknown)",
+    "publisher": "未知 (Unknown)",
+    "genre": "動作",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "經典動漫IP改編，擁有廣大粉絲基礎，市場關注度高。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "正版授權改編自經典IP《死神》，高度還原原作戰役與人物設定，戰鬥系統注重節奏與技能銜接。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典動漫IP改編，擁有廣大粉絲基礎，市場關注度高。",
+    "verified": "Agent 發現 (2026-10-10)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-10",
+    "addedAt": "2026-10-10",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 553,
+    "name": "NTE：Neverness to Everness",
+    "nameEn": "NTE: Neverness to Everness",
+    "developer": "Hotta Games",
+    "studio": "Hotta Games",
+    "publisher": "Hotta Games",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "一款被列為2026年最值得期待的MMORPG新作，由Hotta Games開發。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
+    "verified": "Agent 發現 (2026-10-10)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-10",
+    "addedAt": "2026-10-10",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 554,
+    "name": "Legend of YMIR",
+    "nameEn": "Legend of YMIR",
+    "developer": "未知 (Unknown)",
+    "studio": "未知 (Unknown)",
+    "publisher": "未知 (Unknown)",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "一款被列為2026年最值得期待的MMORPG新作，擁有大規模奇幻世界。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
+    "verified": "Agent 發現 (2026-10-10)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-10",
+    "addedAt": "2026-10-10",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 555,
+    "name": "Crystal of Atlan",
+    "nameEn": "Crystal of Atlan",
+    "developer": "未知 (Unknown)",
+    "studio": "未知 (Unknown)",
+    "publisher": "未知 (Unknown)",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "一款被列為2026年最值得期待的MMORPG新作，擁有精美畫面與豐富內容。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
+    "verified": "Agent 發現 (2026-10-10)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-10",
+    "addedAt": "2026-10-10",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 556,
+    "name": "ARES: THE IRON VANGUARD",
+    "nameEn": "ARES: THE IRON VANGUARD",
+    "developer": "未知 (Unknown)",
+    "studio": "未知 (Unknown)",
+    "publisher": "未知 (Unknown)",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "一款被列為2026年最值得期待的MMORPG新作，主打未來科幻風格。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
+    "verified": "Agent 發現 (2026-10-10)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-10",
+    "addedAt": "2026-10-10",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 557,
+    "name": "星塔旅人",
+    "nameEn": "Star Tower Traveler",
+    "developer": "未知 (Unknown)",
+    "studio": "未知 (Unknown)",
+    "publisher": "未知 (Unknown)",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "具備獨特俯視角探索玩法與角色養成深度，但開發商與IP知名度待確認。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "採用俯視角探索機制，構建宏大幻想世界，玩家可招募旅人英雄組隊應對魔王威脅。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】具備獨特俯視角探索玩法與角色養成深度，但開發商與IP知名度待確認。",
+    "verified": "Agent 發現 (2026-10-10)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-10",
+    "addedAt": "2026-10-10",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 558,
+    "name": "Lumi Master",
+    "nameEn": "Lumi Master",
+    "developer": "BILIBILI HK LIMITED",
+    "studio": "BILIBILI HK LIMITED",
+    "publisher": "BILIBILI HK LIMITED",
+    "genre": "養成RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "Bilibili發行，具備一定用戶基礎，且無抽卡機制可能吸引特定玩家群。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3/Q4",
+    "desc": "一款不依賴抽卡收集怪物的育成RPG，主打輕鬆遊玩體驗。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】Bilibili發行，具備一定用戶基礎，且無抽卡機制可能吸引特定玩家群。",
+    "verified": "Agent 發現 (2026-10-10)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-10",
+    "addedAt": "2026-10-10",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 559,
+    "name": "弱虫ペダル レゾナンス・ペダイズム",
+    "nameEn": "Yowamushi Pedal: Resonance Pedalism",
+    "developer": "enish",
+    "studio": "enish",
+    "publisher": "enish",
+    "genre": "體育RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名動漫IP改編，擁有粉絲基礎，但遊戲類型與玩法細節待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-07",
+    "desc": "改編自知名自行車動畫IP《弱虫ペダル》的全新手機遊戲，詳細遊戲系統待公布。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名動漫IP改編，擁有粉絲基礎，但遊戲類型與玩法細節待觀察。",
+    "verified": "Agent 發現 (2026-10-10)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-10",
+    "addedAt": "2026-10-10",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 560,
+    "name": "Project:NET",
+    "nameEn": "Project:NET",
+    "developer": "騰訊 (Tencent)",
+    "studio": "騰訊 (Tencent)",
+    "publisher": "騰訊 (Tencent)",
+    "genre": "射擊",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "threatReason": "騰訊旗下二次元射擊新作，具備大廠資源與市場競爭力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "騰訊旗下二次元PVP射擊遊戲，已在海外進行多次測試，與《卡拉彼丘》競爭。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】騰訊旗下二次元射擊新作，具備大廠資源與市場競爭力。",
+    "verified": "Agent 發現 (2026-10-10)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-10-10",
+    "addedAt": "2026-10-10",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]

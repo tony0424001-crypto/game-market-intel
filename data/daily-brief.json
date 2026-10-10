@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-10-09T06:32:31.428160+00:00",
-  "fetchCount": 149,
+  "lastUpdated": "2026-10-10T06:07:40.288375+00:00",
+  "fetchCount": 150,
   "items": [
+    {
+      "id": "brief-20261010-004a55e0",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Project:NET（新發現・高威脅）",
+      "detail": "騰訊旗下二次元射擊新作，具備大廠資源與市場競爭力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-10T06:07:40.288375+00:00"
+    },
+    {
+      "id": "brief-20261010-f62cc54d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "ARES: THE IRON VANGUARD（新發現・高威脅）",
+      "detail": "被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-10T06:07:40.288375+00:00"
+    },
+    {
+      "id": "brief-20261010-08b97b9a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Crystal of Atlan（新發現・高威脅）",
+      "detail": "被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-10T06:07:40.288375+00:00"
+    },
+    {
+      "id": "brief-20261010-aa712bd6",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Legend of YMIR（新發現・高威脅）",
+      "detail": "被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-10T06:07:40.288375+00:00"
+    },
+    {
+      "id": "brief-20261010-39775f50",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "NTE：Neverness to Everness（新發現・高威脅）",
+      "detail": "被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-10T06:07:40.288375+00:00"
+    },
+    {
+      "id": "brief-20261010-73c1cd02",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "境界-死神激鬥（新發現・高威脅）",
+      "detail": "經典動漫IP改編，擁有廣大粉絲基礎，市場關注度高。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-10T06:07:40.288375+00:00"
+    },
+    {
+      "id": "brief-20261010-e67d56fc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "WWM: Heaven's Threshold（新發現・高威脅）",
+      "detail": "網易旗下大型MMORPG新作，具備高製作水準與市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-10T06:07:40.288375+00:00"
+    },
     {
       "id": "brief-20261009-9dc4a155",
       "priority": "urgent",
@@ -144,83 +221,6 @@
       "platform": "mobile",
       "source": "新聞報導/官方公告",
       "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
-    },
-    {
-      "id": "brief-20261008-b04960cc",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "魔刻獵手（新發現・高威脅）",
-      "detail": "由全球知名手遊大廠Supercell開發，騰訊發行，具備極高的市場潛力與影響力，預計將是現象級大作.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
-    },
-    {
-      "id": "brief-20261008-509bd7cc",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "詭秘之主：愚者（新發現・高威脅）",
-      "detail": "知名白金網文IP改編，由祖龍娛樂開發並使用UE5引擎，具備MMORPG和神秘學設定，預計將吸引大量原著粉絲和MMO玩家.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導/版號公示/官方公告",
-      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
-    },
-    {
-      "id": "brief-20261008-970ca6d5",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《GTA 6》典藏盒",
-      "detail": "台灣大哥大獨家引進《GTA 6》典藏盒，11/19上市。",
-      "action": "預購典藏盒",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-08T06:22:32.493106+00:00"
-    },
-    {
-      "id": "brief-20261008-312b8b1a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《英雄聯盟》重播",
-      "detail": "Riot擬限重播分享引抗議，官方緊急延期。",
-      "action": "關注後續發展",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-08T06:22:32.493106+00:00"
-    },
-    {
-      "id": "brief-20261008-25e9ad15",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《FF7EC》終止營運",
-      "detail": "手機RPG《FF7 Ever Crisis》今日終止營運。",
-      "action": "回顧遊戲歷程",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-08T06:22:32.493106+00:00"
-    },
-    {
-      "id": "brief-20261007-802e81ad",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "英雄聯盟重播移除",
-      "detail": "26.20版移除重播分享功能，引發創作者擔憂。",
-      "action": "關注官方回應",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-07T06:13:45.107330+00:00"
-    },
-    {
-      "id": "brief-20261006-b7b11863",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "鳴潮海底撈聯動",
-      "detail": "開放世界動作遊戲與海底撈推出限時聯動。",
-      "action": "參與聯動活動",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-06T06:36:34.904426+00:00"
     }
   ]
 }
