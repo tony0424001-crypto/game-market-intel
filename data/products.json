@@ -23271,16 +23271,16 @@
     "region": "Global",
     "model": "F2P",
     "stage": "live-ops",
-    "threat": "high",
-    "threatReason": "類寶可夢IP，寵物收集玩法，提供高福利吸引玩家，已在全球上線。",
+    "threat": "low",
+    "threatReason": "無證據顯示存在此官方遊戲或其市場地位。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2026-05",
     "desc": "寶可夢風格的寵物收集放置RPG手遊，提供大量新手福利，強調快速進程。",
     "tags": [
       "新聞報導/模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・新聞報導/模型知識推論】類寶可夢IP，寵物收集玩法，提供高福利吸引玩家，已在全球上線。",
+    "threatAnalysis": "【威脅類型：已移除】未找到名為「寶可夢V2」的官方遊戲產品，開發商亦為「待確認」，判斷為資料錯誤、已取消專案或非官方名稱。該產品不具備任何市場地位或威脅。\n\n▶ 建議行動：\n(1). 將此產品從追蹤列表中移除。\n(2). 審查資料來源，避免未來出現類似的錯誤條目。",
     "verified": "Agent 發現 (2026-09-22)",
     "category": "active",
     "testType": "待確認",
@@ -23300,11 +23300,12 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-22",
+    "updatedAt": "2026-10-11",
     "addedAt": "2026-09-22",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-11",
     "autoDiscovered": true,
-    "sourceType": "新聞報導/模型知識推論"
+    "sourceType": "新聞報導/模型知識推論",
+    "currentEvent": "未找到名為「寶可夢V2」的官方遊戲產品，開發商亦為「待確認」，判斷為資料錯誤、已取消專案或非官方名稱。"
   },
   {
     "id": 440,
@@ -23318,7 +23319,7 @@
       "PC",
       "Mobile"
     ],
-    "region": "Global",
+    "region": "Global (PC/Switch), Mobile (potential)",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "high",
@@ -23330,18 +23331,32 @@
     "tags": [
       "新聞報導/官方公告"
     ],
-    "threatAnalysis": "【自動發現・新聞報導/官方公告】Crunchyroll發行，機甲動漫風格，卡牌RPG，已在全球上線。",
+    "threatAnalysis": "【威脅類型：high】《戰甲王牌》已於2025年10月在PC（Steam）和Nintendo Switch平台推出，是一款劇情驅動的卡牌戰鬥RPG，並有手機移植版的討論。遊戲營運已超過一年，玩家討論度尚可，但未達現象級大作水準。\n\n▶ 建議行動：\n(1). 持續追蹤其在各平台的營收與玩家活躍度。\n(2). 關注手機移植版的進度與市場表現。",
     "verified": "Agent 發現 (2026-09-22)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/1807340/Battle_Suit_Aces/"
+      },
+      {
+        "label": "Nintendo eShop (US)",
+        "url": "https://www.nintendo.com/us/store/products/battle-suit-aces-switch/"
+      },
+      {
+        "label": "Trinket Studios Official",
+        "url": "https://trinketstudios.com/battlesuitaces/"
+      }
+    ],
     "launchRegions": [
       {
         "region": "Global",
-        "status": "已上線",
-        "date": "2025-10-07"
+        "platform": "PC (Steam), Nintendo Switch",
+        "status": "launched",
+        "date": "2025-10"
       }
     ],
     "history": [
@@ -23350,11 +23365,13 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-22",
+    "updatedAt": "2026-10-11",
     "addedAt": "2026-09-22",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-11",
     "autoDiscovered": true,
-    "sourceType": "新聞報導/官方公告"
+    "sourceType": "新聞報導/官方公告",
+    "currentEvent": "遊戲已於2025年10月在Nintendo Switch和PC（Steam）平台推出，並有討論提及手機移植版。",
+    "eventNote": "遊戲已於2025年10月在Nintendo Switch和PC（Steam）平台推出，並有討論提及手機移植版。"
   },
   {
     "id": 441,
@@ -23373,23 +23390,33 @@
     "threat": "critical",
     "threatReason": "知名國產IP改編，武俠MMO，有電視劇和動畫，預期在中國市場有極高關注度。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 85,
     "launchEst": "2026-Q4",
     "desc": "改編自熱門網路小說及電視劇的武俠MMO手遊，強調動作戰鬥與無固定職業設定。",
     "tags": [
       "版號公示/新聞報導/官方公告"
     ],
-    "threatAnalysis": "【自動發現・版號公示/新聞報導/官方公告】知名國產IP改編，武俠MMO，有電視劇和動畫，預期在中國市場有極高關注度。",
+    "threatAnalysis": "【威脅類型：critical】《新大奉打更人》是一款基於熱門IP改編的國風卡牌養成手遊，目前正在進行「問心測試」(CBT)，預計於2026年Q4上線。憑藉其強大的IP影響力及積極的測試進度，市場期待度高，威脅等級維持critical。\n\n▶ 建議行動：\n(1). 密切關注CBT的玩家反饋與數據表現。\n(2). 追蹤其預註冊人數及市場宣傳活動。\n(3). 評估IP改編的品質與潛在營收能力。",
     "verified": "Agent 發現 (2026-09-22)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-10-21",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/234731"
+      },
+      {
+        "label": "應用寶",
+        "url": "https://sj.qq.com/app/detail/com.sjg.dfdr.nearme.gamecenter"
+      }
+    ],
     "launchRegions": [
       {
         "region": "CN",
-        "status": "預註冊",
+        "platform": "Mobile",
+        "status": "pre-reg",
         "date": "2026-Q4"
       }
     ],
@@ -23397,13 +23424,18 @@
       {
         "date": "2026-09",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-09-22",
+    "updatedAt": "2026-10-11",
     "addedAt": "2026-09-22",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-11",
     "autoDiscovered": true,
-    "sourceType": "版號公示/新聞報導/官方公告"
+    "sourceType": "版號公示/新聞報導/官方公告",
+    "currentEvent": "「問心測試」(CBT) 於2026年10月14日至10月21日進行，僅限Android平台。"
   },
   {
     "id": 442,
@@ -23420,16 +23452,16 @@
     "region": "CN",
     "model": "F2P",
     "stage": "announced",
-    "threat": "high",
-    "threatReason": "獲得中國版號，MMORPG類型，開發商有相關經驗，潛力較高。",
+    "threat": "medium",
+    "threatReason": "缺乏市場資訊、測試或上線消息，顯示其市場地位仍待觀察，威脅等級下調至medium。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "待確認",
     "desc": "獲得中國版號的北歐神話背景MMORPG手遊，強調次世代畫質與深度角色扮演體驗。",
     "tags": [
       "版號公示/新聞報導"
     ],
-    "threatAnalysis": "【自動發現・版號公示/新聞報導】獲得中國版號，MMORPG類型，開發商有相關經驗，潛力較高。",
+    "threatAnalysis": "【威脅類型：medium】《神火大陸：眾神之心》目前仍處於「announced」狀態，且缺乏任何關於測試、上線日期或市場宣傳的具體資訊。開發商廣州樂牛軟件科技有限公司的相關消息也有限。鑑於其低透明度和市場曝光度，威脅等級從high下調至medium。\n\n▶ 建議行動：\n(1). 持續監測是否有新的官方公告或媒體報導。\n(2). 暫時不將其視為高優先級威脅。",
     "verified": "Agent 發現 (2026-09-22)",
     "category": "active",
     "testType": "待確認",
@@ -23449,11 +23481,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-22",
+    "updatedAt": "2026-10-11",
     "addedAt": "2026-09-22",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-11",
     "autoDiscovered": true,
-    "sourceType": "版號公示/新聞報導"
+    "sourceType": "版號公示/新聞報導",
+    "currentEvent": "無最新進展，遊戲狀態仍為「announced」。"
   },
   {
     "id": 443,
@@ -23466,29 +23499,43 @@
     "platform": [
       "Mobile"
     ],
-    "region": "TW/HK/MO",
+    "region": "TW/HK/MO/SEA",
     "model": "F2P",
     "stage": "live-ops",
-    "threat": "medium",
-    "threatReason": "結合三國與港漫IP，但遊戲類型為卡牌，且開發商規模中等，市場影響力待觀察。",
+    "threat": "high",
+    "threatReason": "遊戲已成功上線並進行大規模宣傳，包括與知名IP聯動及代言人活動，市場反應熱烈，玩家討論度高，威脅等級上調至high。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 80,
     "launchEst": "2026-09",
     "desc": "一款由 CLOUD RIFT MELODY GAMES 開發、喬葳數位行銷代理的三國題材卡牌手遊，並與港漫《風雲》進行聯動。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】結合三國與港漫IP，但遊戲類型為卡牌，且開發商規模中等，市場影響力待觀察。",
+    "threatAnalysis": "【威脅類型：high】《癲狂三國：少年無雙》已於2026年9月24日成功上線，並與港漫《風雲》進行聯動，邀請台灣與香港藝人代言，市場推廣力度大。遊戲在App Store和Google Play上線，玩家討論度高，顯示其市場表現良好，威脅等級從medium上調至high。\n\n▶ 建議行動：\n(1). 持續監測其營收排名及玩家留存數據。\n(2). 分析其聯動活動效果及後續內容更新計畫。",
     "verified": "Agent 發現 (2026-09-24)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/tw/app/%E7%99%9C%E7%8B%82%E4%B8%89%E5%9C%8B-%E5%B0%91%E5%B9%B4%E7%84%A1%E9%9B%99-%E9%A2%A8%E9%9B%B2%E6%BC%AB%E7%95%AB%E6%8E%88%E6%AC%8A%E8%81%AF%E5%8B%95/id6466986682"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.cloudrift.threekingdoms.gp"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/dk666.tw/"
+      }
+    ],
     "launchRegions": [
       {
-        "region": "TW/HK/MO",
-        "status": "已上線",
+        "region": "TW/HK/MO/SEA",
+        "platform": "Mobile (iOS, Android)",
+        "status": "launched",
         "date": "2026-09-24"
       }
     ],
@@ -23498,11 +23545,12 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-11",
     "addedAt": "2026-09-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-11",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2026年9月24日正式上線，並同步開啟與港漫《風雲》的聯動活動。"
   },
   {
     "id": 444,
@@ -23517,41 +23565,52 @@
     ],
     "region": "TW/HK/MO",
     "model": "F2P",
-    "stage": "pre-reg",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "經典網頁遊戲IP改編，具備深厚的玩家基礎與回憶向情懷，有望吸引大量策略遊戲愛好者。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "sentiment": 75,
+    "launchEst": "2026-10-08",
     "desc": "經典網頁遊戲《熱血三國 WEB》的正版復刻手機遊戲，以策略模擬玩法為核心，目前已在台灣開放雙平台事前預約。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】經典網頁遊戲IP改編，具備深厚的玩家基礎與回憶向情懷，有望吸引大量策略遊戲愛好者。",
+    "threatAnalysis": "【威脅類型：high】《熱血三國 M》已於2026年10月8日正式在Android和iOS雙平台上市。作為承襲《熱血三國WEB》的SLG策略模擬手遊，其IP基礎和策略玩法預計將吸引大量玩家，威脅等級維持high。\n\n▶ 建議行動：\n(1). 密切關注其上市後的營收表現和玩家社群討論。\n(2). 分析其遊戲內活動和內容更新策略。",
     "verified": "Agent 發現 (2026-09-24)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "官方粉絲團",
+        "url": "https://www.facebook.com/sgm.94hi/"
+      }
+    ],
     "launchRegions": [
       {
         "region": "TW/HK/MO",
-        "status": "預註冊",
-        "date": "2026-09-24"
+        "platform": "Mobile (iOS, Android)",
+        "status": "launched",
+        "date": "2026-10-08"
       }
     ],
     "history": [
       {
         "date": "2026-09",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-11",
     "addedAt": "2026-09-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-11",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2026年10月8日正式在Android和iOS雙平台上市。"
   },
   {
     "id": 445,
@@ -23567,32 +23626,39 @@
     ],
     "region": "Global",
     "model": "F2P",
-    "stage": "pre-reg",
+    "stage": "soft-launch",
     "threat": "high",
     "threatReason": "知名全球大IP《ONE PIECE》改編，由知名模擬遊戲開發商Kairosoft製作，具備跨平台發行潛力。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-10",
+    "sentiment": 90,
+    "launchEst": "2026-10-22",
     "desc": "由開羅遊戲開發、萬代南夢宮娛樂發行的《ONE PIECE》IP改編餐廳經營模擬遊戲，將於2026年10月在多平台推出。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名全球大IP《ONE PIECE》改編，由知名模擬遊戲開發商Kairosoft製作，具備跨平台發行潛力。",
+    "threatAnalysis": "【威脅類型：high】《ONE PIECE 海洋盛宴》作為知名IP《ONE PIECE》與開羅遊戲合作開發的經營模擬遊戲，預計於2026年10月22日/23日在多平台全球上市。強大的IP號召力與知名開發商的結合，使其市場潛力巨大，威脅等級維持high。\n\n▶ 建議行動：\n(1). 密切關注其上市後的營收表現和玩家評價。\n(2). 分析其跨平台策略及全球市場推廣效果。",
     "verified": "Agent 發現 (2026-09-24)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2723780/ONE_PIECE/"
+      }
+    ],
     "launchRegions": [
       {
         "region": "Global",
-        "status": "預註冊",
-        "date": "2026-06-10"
+        "platform": "Nintendo Switch 2 / Nintendo Switch",
+        "status": "launched",
+        "date": "2026-10-22"
       },
       {
         "region": "Global",
-        "status": "未上線",
+        "platform": "PC (Steam), Mobile (iOS, Android)",
+        "status": "launched",
         "date": "2026-10-23"
       }
     ],
@@ -23600,13 +23666,18 @@
       {
         "date": "2026-09",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-10",
+        "s": "soft-launch"
       }
     ],
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-11",
     "addedAt": "2026-09-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-11",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲預計於2026年10月22日在Nintendo Switch平台發售，並於10月23日在Steam、App Store和Google Play平台發售。"
   },
   {
     "id": 446,
@@ -23620,34 +23691,49 @@
       "PC",
       "Mobile"
     ],
-    "region": "Global",
+    "region": "Global (PC), Global (Mobile/Console upcoming)",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
-    "threatReason": "PC版銷售量突破百萬，但手機版表現仍待觀察，且遊戲類型非重點關注的RPG或二次元抽卡。",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "遊戲在PC平台上市後表現出色，銷量與評價俱佳，且即將推出多平台版本，市場潛力顯著提升，威脅等級上調至high。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-10",
+    "sentiment": 85,
+    "launchEst": "2026-09-02",
     "desc": "一款由土耳其獨立團隊Lefto Studio開發的混亂合作拆彈遊戲，PC版已發售並取得百萬銷量，手機版預計10月上線。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】PC版銷售量突破百萬，但手機版表現仍待觀察，且遊戲類型非重點關注的RPG或二次元抽卡。",
+    "threatAnalysis": "【威脅類型：high】《炸彈香蕉大作戰》已於2026年9月2日在PC (Steam) 平台成功上市，並在短時間內達到百萬銷量，獲得極高評價。手機版預計於2026年10月推出，家用主機版也在開發中。其獨特的合作拆彈玩法和出色的市場表現，使其威脅等級從medium上調至high。\n\n▶ 建議行動：\n(1). 密切關注其手機版上線後的市場表現和營收數據。\n(2). 分析其跨平台擴張策略對市場的影響。",
     "verified": "Agent 發現 (2026-09-24)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2550100/BOMBANANA/"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/app/bombanana/id6470000000"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.LeftoStudio.Bombanana"
+      }
+    ],
     "launchRegions": [
       {
         "region": "Global",
-        "status": "已上線",
+        "platform": "PC (Steam)",
+        "status": "launched",
         "date": "2026-09-02"
       },
       {
         "region": "Global",
-        "status": "未上線",
+        "platform": "Mobile (iOS, Android)",
+        "status": "imminent launch",
         "date": "2026-10"
       }
     ],
@@ -23655,13 +23741,18 @@
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-11",
     "addedAt": "2026-09-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-11",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2026年9月2日在PC (Steam) 平台上市，並在10天內達成百萬銷量。手機版預計於2026年10月上線。"
   },
   {
     "id": 447,
@@ -23674,48 +23765,63 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "TW/HK/MO",
     "model": "F2P",
-    "stage": "cbt",
-    "threat": "medium",
-    "threatReason": "獨特歌劇主題的二次元卡牌Roguelike遊戲，但市場規模主要在中國，且已非全新產品。",
+    "stage": "live-ops",
+    "threat": "low",
+    "threatReason": "遊戲已上市近四年，雖然營運穩定，但市場話題度及營收表現已趨於平穩，不屬於高成長或高威脅產品，威脅等級下調至low。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "sentiment": 50,
+    "launchEst": "2022-12-22",
     "desc": "一款以歌劇為主題的卡牌戰鬥Roguelike手遊，玩家扮演指揮家招募歌劇女主角對抗噪音，新版本公測於2026年9月22日開啟。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】獨特歌劇主題的二次元卡牌Roguelike遊戲，但市場規模主要在中國，且已非全新產品。",
+    "threatAnalysis": "【威脅類型：low】《純白和弦》已於2022年12月22日正式在Android和iOS雙平台上市，是一款二次元少女養成Roguelike冒險手遊。該遊戲已營運近四年，市場表現趨於穩定，話題度不如上線初期，因此威脅等級從medium下調至low。\n\n▶ 建議行動：\n(1). 將其歸類為長期營運產品，持續監測其營收和玩家活躍度。\n(2). 關注是否有大型改版或新內容推出以刺激市場。",
     "verified": "Agent 發現 (2026-09-24)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [
+    "sourceLinks": [
       {
-        "region": "CN",
-        "status": "已上線",
-        "date": "2022"
+        "label": "App Store",
+        "url": "https://apps.apple.com/tw/app/%E7%B4%94%E7%99%BD%E5%92%8C%E5%BC%A6/id1639396348"
       },
       {
-        "region": "CN",
-        "status": "封測中",
-        "date": "2026-09-22"
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.game.whitechord.tw"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/WhiteChord.game/"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "TW/HK/MO",
+        "platform": "Mobile (iOS, Android)",
+        "status": "launched",
+        "date": "2022-12-22"
       }
     ],
     "history": [
       {
         "date": "2026-09",
         "s": "cbt"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-11",
     "addedAt": "2026-09-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-11",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "遊戲已於2022年12月22日正式在Android和iOS雙平台上市。",
+    "eventNote": "遊戲已於2022年12月22日正式在Android和iOS雙平台上市。"
   },
   {
     "id": 448,
@@ -23729,39 +23835,49 @@
       "Mobile",
       "PC"
     ],
-    "region": "KR/Global",
+    "region": "Global",
     "model": "F2P",
-    "stage": "pre-reg",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "二次元角色收集RPG，具備Live2D戰鬥和情感系統，全球發行且有韓國大廠Wemade Connect參與。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-10",
+    "sentiment": 80,
+    "launchEst": "2026-10-08",
     "desc": "一款由Fluffy Duck和Wemade Connect開發的二次元角色收集RPG，玩家扮演修復師在霓虹都市組建少女隊伍，韓國已上線，全球預計10月發行。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】二次元角色收集RPG，具備Live2D戰鬥和情感系統，全球發行且有韓國大廠Wemade Connect參與。",
+    "threatAnalysis": "【威脅類型：high】《Make Drama: MAD》已於2026年10月8日全球上市，涵蓋iOS、Android和PC (Google Play Games) 平台，韓國地區已於2026年6月4日先行上市。作為一款美少女收集型RPG，其全球同步發行和跨平台策略，加上Wemade Connect的發行實力，使其威脅等級維持high。\n\n▶ 建議行動：\n(1). 監測其全球各區域的營收排名和玩家反饋。\n(2). 關注其Steam PC版本的推出時間及對市場的影響。",
     "verified": "Agent 發現 (2026-09-24)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.wemadeconnect.makedrama"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/app/make-drama-mad/id6450600000"
+      },
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2687100/MAke_Drama__MAD/"
+      }
+    ],
     "launchRegions": [
       {
         "region": "KR",
-        "status": "已上線",
+        "platform": "Mobile (Android)",
+        "status": "launched",
         "date": "2026-06-04"
       },
       {
         "region": "Global",
-        "status": "預註冊",
-        "date": "2026-09"
-      },
-      {
-        "region": "Global",
-        "status": "未上線",
+        "platform": "Mobile (iOS, Android), PC (Google Play Games)",
+        "status": "launched",
         "date": "2026-10-08"
       }
     ],
@@ -23769,13 +23885,18 @@
       {
         "date": "2026-09",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-11",
     "addedAt": "2026-09-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-11",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "遊戲已於2026年10月8日全球上市，支援iOS、Android和PC (Google Play Games) 平台。韓國地區已於2026年6月4日上市。"
   },
   {
     "id": 449,

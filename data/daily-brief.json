@@ -1,7 +1,18 @@
 {
-  "lastUpdated": "2026-10-10T06:07:40.288375+00:00",
-  "fetchCount": 150,
+  "lastUpdated": "2026-10-11T06:03:42.873591+00:00",
+  "fetchCount": 151,
   "items": [
+    {
+      "id": "brief-20261011-33a3cabb",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "寶可夢30週年慶典",
+      "detail": "台北信義區大型活動登場，集結遊行、表演。",
+      "action": "立即前往參與",
+      "platform": "",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-11T06:03:42.873591+00:00"
+    },
     {
       "id": "brief-20261010-004a55e0",
       "priority": "urgent",
@@ -157,70 +168,59 @@
       "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
     },
     {
-      "id": "brief-20261008-ef9ae32b",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "遮天世界（新發現・高威脅）",
-      "detail": "知名網路小說IP改編，由騰訊發行，在中國市場具備強大號召力，MMORPG類型符合市場需求.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+      "id": "brief-20261011-4b437549",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "火影忍者新作漫畫",
+      "detail": "新作漫畫「SHADOW RISING」與《忍空》合作動畫公開。",
+      "action": "關注後續情報",
+      "platform": "",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-11T06:03:42.873591+00:00"
     },
     {
-      "id": "brief-20261008-08d6ce0f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "冰汽時代：最後的家園（新發現・高威脅）",
-      "detail": "知名PC單機IP手遊化，由大廠網易開發，具備IP號召力和獨特的生存策略玩法，市場潛力大.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導/官方公告",
-      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+      "id": "brief-20261011-0a33f0f7",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "魔獸世界Beta訪談",
+      "detail": "G團禁令僅限歐美，將推天裔精靈SD模型。",
+      "action": "了解測試詳情",
+      "platform": "",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-11T06:03:42.873591+00:00"
     },
     {
-      "id": "brief-20261008-dd2cefd9",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Elsword Slash（新發現・高威脅）",
-      "detail": "知名端遊IP《艾爾之光》手遊化，由大廠Nexon開發，具備IP號召力和動作RPG玩法，預計將吸引大量粉絲.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+      "id": "brief-20261011-40835caa",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "索尼克賽車新DLC",
+      "detail": "賽季2更新藍圖，P5、FFVII重製版套組登場。",
+      "action": "準備迎接更新",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-11T06:03:42.873591+00:00"
     },
     {
-      "id": "brief-20261008-58b454ed",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "巨龍與紛爭（新發現・高威脅）",
-      "detail": "莉莉絲旗下樂狗開發，繼《萬國覺醒》後的MMOSLG新作，具備成熟的策略玩法和全球發行能力，市場影響力大.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導/版號公示/官方公告",
-      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+      "id": "brief-20261011-4d0259ea",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "LoL世界賽主題曲",
+      "detail": "2026世界賽主題曲MV曝光，致敬Faker生涯。",
+      "action": "觀看MV回顧",
+      "platform": "",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-11T06:03:42.873591+00:00"
     },
     {
-      "id": "brief-20261008-933d8cfb",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "危機曙光（新發現・高威脅）",
-      "detail": "具備大型開放世界地圖和多達5000名玩家同服的MMO生存玩法，且支援PC與手機跨平台，市場潛力大.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導/官方公告",
-      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
-    },
-    {
-      "id": "brief-20261008-bc8c4f03",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Miresi:看不見的未來（新發現・高威脅）",
-      "detail": "由《勝利女神：妮姬》前核心團隊開發，美術風格與故事內容備受期待，且已開放全球預約，預計將有較高市場關注度.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導/官方公告",
-      "fetchedAt": "2026-10-08T06:29:11.296183+00:00"
+      "id": "brief-20261011-0d8cf4fc",
+      "priority": "info",
+      "icon": "ℹ️",
+      "title": "軌跡系列破千萬銷",
+      "detail": "累計銷售突破1000萬套，Falcom業績創新高。",
+      "action": "慶祝系列里程碑",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-11T06:03:42.873591+00:00"
     }
   ]
 }
