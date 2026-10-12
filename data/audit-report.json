@@ -1,69 +1,39 @@
 {
-  "lastAudit": "2026-10-11T06:03:59.969945+00:00",
+  "lastAudit": "2026-10-12T06:17:15.856551+00:00",
   "totalProducts": 557,
-  "updatesApplied": 59,
-  "issuesFound": 7,
+  "updatesApplied": 28,
+  "issuesFound": 2,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "寶可夢V2",
-      "status": "error",
-      "issue": "移除: 未找到任何官方遊戲資訊，判斷為資料錯誤或已取消的專案。",
-      "autoFixed": false
-    },
-    {
-      "name": "新大奉打更人",
+      "name": "我獨自升級：KARMA",
       "status": "warning",
       "issue": "狀態: pre-reg→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "熱血三國 M",
-      "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "ONE PIECE 海洋盛宴",
-      "status": "warning",
-      "issue": "狀態: pre-reg→soft-launch",
-      "autoFixed": true
-    },
-    {
-      "name": "炸彈香蕉大作戰",
+      "name": "Dynamite Blue",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "純白和弦",
-      "status": "warning",
-      "issue": "狀態: cbt→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "Make Drama: MAD",
-      "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "寶可夢V2",
-    "戰甲王牌",
-    "新大奉打更人",
-    "神火大陸：眾神之心",
-    "癲狂三國：少年無雙",
-    "熱血三國 M",
-    "ONE PIECE 海洋盛宴",
-    "炸彈香蕉大作戰",
-    "純白和弦",
-    "Make Drama: MAD",
     "我獨自升級：KARMA",
     "靈魂潮汐：蝕月",
     "時之鈴",
     "Dynamite Blue",
-    "Terrarium"
+    "Terrarium",
+    "狩",
+    "剑侠情缘・零",
+    "斗罗大陆：指尖试炼",
+    "少年歌行：风花雪月",
+    "蓝月纪元",
+    "硬核動作新作 (暫定)",
+    "米哈遊都市開放世界新作 (暫定)",
+    "米哈遊開放世界捉寵新作 (暫定)",
+    "米哈遊超大型Boss戰新作 (暫定)",
+    "米哈遊生活MMO新作 (暫定)"
   ],
   "nextBatch": [
     "無限大",
