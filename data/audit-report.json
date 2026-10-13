@@ -1,29 +1,54 @@
 {
-  "lastAudit": "2026-10-12T06:17:15.856551+00:00",
-  "totalProducts": 557,
-  "updatesApplied": 28,
-  "issuesFound": 2,
+  "lastAudit": "2026-10-13T06:56:26.340969+00:00",
+  "totalProducts": 562,
+  "updatesApplied": 55,
+  "issuesFound": 7,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "我獨自升級：KARMA",
+      "name": "剑侠情缘・零",
       "status": "warning",
-      "issue": "狀態: pre-reg→pre-reg",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "Dynamite Blue",
+      "name": "少年歌行：风花雪月",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "米哈遊都市開放世界新作 (暫定)",
+      "status": "warning",
+      "issue": "狀態: announced→cbt",
+      "autoFixed": true
+    },
+    {
+      "name": "米哈遊生活MMO新作 (暫定)",
+      "status": "warning",
+      "issue": "狀態: announced→cbt",
+      "autoFixed": true
+    },
+    {
+      "name": "有殺氣童話2",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "有殺氣童話2",
+      "status": "error",
+      "issue": "移除: 遊戲已在中國大陸、台港澳及日本等多個地區宣布終止營運，顯示其市場表現不佳且已無明顯威脅。",
+      "autoFixed": false
+    },
+    {
+      "name": "世界之外",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "我獨自升級：KARMA",
-    "靈魂潮汐：蝕月",
-    "時之鈴",
-    "Dynamite Blue",
-    "Terrarium",
     "狩",
     "剑侠情缘・零",
     "斗罗大陆：指尖试炼",
@@ -33,7 +58,12 @@
     "米哈遊都市開放世界新作 (暫定)",
     "米哈遊開放世界捉寵新作 (暫定)",
     "米哈遊超大型Boss戰新作 (暫定)",
-    "米哈遊生活MMO新作 (暫定)"
+    "米哈遊生活MMO新作 (暫定)",
+    "米哈遊軍事射擊新作 (暫定)",
+    "米哈遊3D MOBA新作 (暫定)",
+    "逆光潛入",
+    "有殺氣童話2",
+    "世界之外"
   ],
   "nextBatch": [
     "無限大",

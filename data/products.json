@@ -24207,13 +24207,13 @@
     "threat": "critical",
     "threatReason": "知名大廠騰訊自研原創動作旗艦，潛力巨大。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "待定",
     "desc": "腾讯魔方工作室群开发的一款原创3D动作手游，被视为其在动作游戏赛道上的多元化布局。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名大廠騰訊自研原創動作旗艦，潛力巨大。",
+    "threatAnalysis": "【威脅類型】critical\n\n▶ 描述：騰訊的未定名新作，目前資訊極少，但作為騰訊的潛力項目，仍保持高度關注。\n\n▶ 建議行動：\n(1). 持續追蹤騰訊官方發布的任何消息。\n(2). 關注行業內關於騰訊新作的爆料或招聘信息。\n(3). 定期檢查是否有測試或上線計劃的更新。",
     "verified": "版號雷達 (2026-09-24)",
     "category": "active",
     "testType": "待確認",
@@ -24227,9 +24227,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -24247,17 +24247,17 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "high",
     "threatReason": "知名IP《剑侠情缘》系列新作，西山居开发，MMORPG品类，具有强大的玩家基础和情怀加成。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "2025年5月29日",
     "desc": "西山居《剑侠情缘》经典系列3D MMORPG手游，传承端游经典玩法，主打降肝减负和自由交易。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名IP《剑侠情缘》系列新作，西山居开发，MMORPG品类，具有强大的玩家基础和情怀加成。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：西山居經典IP續作，已確定2025年5月29日全平台公測，並支持三端互通，市場期待度高。\n\n▶ 建議行動：\n(1). 持續關注遊戲公測後的市場表現和玩家反饋。\n(2). 分析其「輕度MMO」和AI託管系統對玩家的吸引力。\n(3). 評估其在MMO市場的競爭力及對同類產品的影響。",
     "verified": "版號雷達 (2026-09-24)",
     "category": "active",
     "testType": "待確認",
@@ -24267,21 +24267,26 @@
     "launchRegions": [
       {
         "region": "CN",
-        "status": "公测",
-        "date": "2025-05-29"
+        "status": "pre-reg",
+        "date": "2025年5月29日"
       }
     ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲宣布將於2025年5月29日10:00開啟全平台公測，支持PC、Android、iOS三端互通。"
   },
   {
     "id": 456,
@@ -24300,13 +24305,13 @@
     "threat": "high",
     "threatReason": "知名IP《斗罗大陆》改编，结合了流行的放置和卡牌玩法，由知名大厂37互娱相关公司运营。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "待定",
     "desc": "《斗罗大陆》正版授权的Q版放置休闲卡牌RPG手游，主打轻松挂机与策略卡牌搭配。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名IP《斗罗大陆》改编，结合了流行的放置和卡牌玩法，由知名大厂37互娱相关公司运营。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：基於知名IP《斗羅大陸》的手遊，目前仍處於公布狀態，具體資訊待確認。IP本身具有較高市場潛力。\n\n▶ 建議行動：\n(1). 密切追蹤遊戲的開發進度及官方消息。\n(2). 關注是否有測試或上線日期的公布。\n(3). 評估IP改編的品質及市場預期。",
     "verified": "版號雷達 (2026-09-24)",
     "category": "active",
     "testType": "待確認",
@@ -24320,9 +24325,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -24339,9 +24344,9 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
-    "threatReason": "知名国漫IP改编，结合卡牌和放置玩法，具有一定的粉丝基础。",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "遊戲已正式上線並持續營運，且有新服開啟，顯示其市場活躍度較高，威脅等級從medium提升至high。",
     "prereg": null,
     "sentiment": 70,
     "launchEst": "2024年11月14日",
@@ -24349,31 +24354,42 @@
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名国漫IP改编，结合卡牌和放置玩法，具有一定的粉丝基础。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：遊戲已於2024年11月14日正式上線，並持續有新服開啟，顯示其營運狀況良好，市場活躍度較高。作為IP改編的卡牌放置類國風手遊，具有一定玩家基礎。\n\n▶ 建議行動：\n(1). 持續監測遊戲的營收排名和玩家活躍數據。\n(2). 分析其新服開啟頻率及玩家留存情況。\n(3). 關注遊戲內容更新及運營活動，評估其長期發展潛力。",
     "verified": "版號雷達 (2026-09-24)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "17173",
+        "url": "https://news.17173.com/content/11132024/100000000.shtml"
+      }
+    ],
     "launchRegions": [
       {
         "region": "CN",
-        "status": "上市",
-        "date": "2024-11-14"
+        "status": "live-ops",
+        "date": "2024年11月14日"
       }
     ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲已於2024年11月14日正式公測上線，並在2026年持續開設新服。",
+    "eventNote": "遊戲已於2024年11月14日正式公測上線，並在2026年持續開設新服。"
   },
   {
     "id": 458,
@@ -24392,13 +24408,13 @@
     "threat": "high",
     "threatReason": "属于中国市场流行的“传奇”类MMORPG，由恺英网络相关公司运营，该品类有稳定的玩家群体和高营收潜力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "待定",
     "desc": "一款单职业传奇类MMORPG手游，主打简单上手、爽快PVP和千人同屏战斗体验。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】属于中国市场流行的“传奇”类MMORPG，由恺英网络相关公司运营，该品类有稳定的玩家群体和高营收潜力。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：目前仍處於公布狀態，具體資訊待確認。由於名稱與市場上多款「藍月」系列遊戲相似，需進一步確認其獨特性及開發商的實際影響力。\n\n▶ 建議行動：\n(1). 密切追蹤遊戲的開發進度及官方消息。\n(2). 關注是否有測試或上線日期的公布。\n(3). 嘗試區分其與其他「藍月」系列遊戲的差異。",
     "verified": "版號雷達 (2026-09-24)",
     "category": "active",
     "testType": "待確認",
@@ -24412,9 +24428,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-24",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -24435,13 +24451,13 @@
     "threat": "high",
     "threatReason": "知名製作人籌備新作，開發商詩悅在中國市場有成功經驗，潛力高。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "待確認",
     "desc": "詩悅遊戲華韜卸任《望月》執行製作人後，將籌備一款硬核動作新作。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名製作人籌備新作，開發商詩悅在中國市場有成功經驗，潛力高。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：詩悅的未定名硬核動作新作，目前資訊極少，但作為潛力項目，仍保持關注。\n\n▶ 建議行動：\n(1). 持續追蹤詩悅官方發布的任何消息。\n(2). 關注行業內關於詩悅新作的爆料或招聘信息。\n(3). 定期檢查是否有測試或上線計劃的更新。",
     "verified": "Agent 發現 (2026-09-25)",
     "category": "active",
     "testType": "待確認",
@@ -24455,9 +24471,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-25",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-25",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -24475,35 +24491,56 @@
     ],
     "region": "Global",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "cbt",
     "threat": "critical",
     "threatReason": "米哈遊旗艦級新IP，開放世界RPG，預期將有極高的市場關注度與競爭力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 90,
     "launchEst": "2027+",
     "desc": "米哈遊一款對標GTA的都市開放世界RPG，強調高視覺表現與角色細節。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】米哈遊旗艦級新IP，開放世界RPG，預期將有極高的市場關注度與競爭力。",
+    "threatAnalysis": "【威脅類型】critical\n\n▶ 描述：米哈遊的UE5都市開放世界新作《Varsapura》（雨之城），已於2026年7月開啟PC端首輪保密測試，並在2025年11月公布了實機演示。該作由蔡浩宇親自帶隊，強調敘事深度和寫實風格，市場期待極高。\n\n▶ 建議行動：\n(1). 密切關注後續測試進度及玩家反饋。\n(2). 分析遊戲的技術表現、玩法創新及敘事深度。\n(3). 評估其對開放世界遊戲市場的潛在影響及競爭格局。",
     "verified": "Agent 發現 (2026-09-25)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2026年7月首次保密測試招募",
     "sourceLinks": [],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "PC",
+        "status": "cbt",
+        "date": "2026年7月"
+      },
+      {
+        "region": "Console",
+        "status": "announced",
+        "date": null
+      },
+      {
+        "region": "Mobile",
+        "status": "evaluating",
+        "date": null
+      }
+    ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "cbt"
       }
     ],
-    "updatedAt": "2026-09-25",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-25",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "米哈遊旗下次世代都市開放世界新作《Varsapura》（雨之城）已於2026年7月開啟首輪保密測試招募，僅支持Windows系統。 遊戲於2025年11月21日釋出長達31分鐘的實機遊玩影片。"
   },
   {
     "id": 461,
@@ -24528,7 +24565,7 @@
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】米哈遊新嘗試的熱門捉寵題材，結合自走棋玩法，潛力高。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：米哈遊的開放世界捉寵新作，目前資訊較少，可能與其生活模擬遊戲《星布谷地》有部分重疊，但具體定位仍待確認。\n\n▶ 建議行動：\n(1). 持續追蹤米哈遊官方發布的任何消息。\n(2). 關注是否有關於「捉寵」玩法的具體細節公布。\n(3). 區分其與《星布谷地》的差異及目標受眾。",
     "verified": "Agent 發現 (2026-09-25)",
     "category": "active",
     "testType": "待確認",
@@ -24542,9 +24579,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-25",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-25",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -24572,7 +24609,7 @@
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】米哈遊在動作遊戲領域的新嘗試，高視覺品質與Boss戰核心玩法具吸引力。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：米哈遊正在預研的超大型Boss戰新作，強調寫實奇幻風格和多維交互邏輯。作為米哈遊的潛力項目，具有較高關注度。\n\n▶ 建議行動：\n(1). 持續追蹤米哈遊官方發布的任何消息。\n(2). 關注行業內關於此類新作的爆料或招聘信息。\n(3). 評估其在動作遊戲市場的潛在影響。",
     "verified": "Agent 發現 (2026-09-25)",
     "category": "active",
     "testType": "待確認",
@@ -24586,11 +24623,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-25",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-25",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "米哈遊正在預研一款寫實奇幻風格產品，強調重塑超大型Boss戰的多維交互邏輯。"
   },
   {
     "id": 463,
@@ -24606,35 +24644,56 @@
     ],
     "region": "Global",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "cbt",
     "threat": "high",
     "threatReason": "米哈遊拓展MMO品類，結合生活模擬與社交元素，市場潛力大。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027+",
+    "sentiment": 80,
+    "launchEst": "2026年冬季",
     "desc": "米哈遊一款對標模擬人生、逆水寒的生活MMO，側重社交與高自由度。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】米哈遊拓展MMO品類，結合生活模擬與社交元素，市場潛力大。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：米哈遊的生活模擬遊戲《星布谷地》（Petit Planet）已確認將於2026年冬季發售，並正在準備最終Beta測試。遊戲已進行多次測試，市場關注度高。\n\n▶ 建議行動：\n(1). 密切關注最終Beta測試的具體時間及內容。\n(2). 分析遊戲的社交玩法及AI應用對玩家的吸引力。\n(3). 評估其在生活模擬遊戲市場的競爭力及潛在影響。",
     "verified": "Agent 發現 (2026-09-25)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2025年9月「宜居測試」招募，2026年4月「星旅測試」，最終Beta測試準備開跑。",
     "sourceLinks": [],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "PC",
+        "status": "announced",
+        "date": "2026年冬季"
+      },
+      {
+        "region": "iOS",
+        "status": "announced",
+        "date": "2026年冬季"
+      },
+      {
+        "region": "Android",
+        "status": "announced",
+        "date": "2026年冬季"
+      }
+    ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "cbt"
       }
     ],
-    "updatedAt": "2026-09-25",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-25",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "米哈遊星球生活模擬遊戲《星布谷地》（Petit Planet）宣布將於2026年冬季正式推出，最終Beta測試即將展開，目前已開放事前預約。 遊戲曾於2025年9月開啟「宜居測試」招募，並於2026年4月開啟「星旅測試」。"
   },
   {
     "id": 464,
@@ -24654,13 +24713,13 @@
     "threat": "high",
     "threatReason": "米哈遊首次嘗試硬核軍事射擊題材，虛幻引擎製作，具備競爭力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "2027+",
     "desc": "米哈遊一款虛幻引擎製作的硬核寫實軍事題材射擊遊戲，類似三角洲行動和CSGO的結合。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】米哈遊首次嘗試硬核軍事射擊題材，虛幻引擎製作，具備競爭力。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：米哈遊的UE5軍事射擊新作，已明確為軍事戰爭題材，顯示米哈遊在拓展品類上的野心。雖然仍在預研階段，但其技術規格和題材選擇具有潛在威脅。\n\n▶ 建議行動：\n(1). 持續追蹤米哈遊官方發布的任何消息。\n(2). 關注行業內關於此類新作的爆料或招聘信息。\n(3). 評估其在射擊遊戲市場的潛在影響及差異化競爭策略。",
     "verified": "Agent 發現 (2026-09-25)",
     "category": "active",
     "testType": "待確認",
@@ -24674,11 +24733,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-25",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-25",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "米哈遊的「寫實硬核射擊」預研項目已明確為軍事戰爭題材，並確認將基於虛幻引擎5（UE5）進行開發。"
   },
   {
     "id": 465,
@@ -24698,13 +24758,13 @@
     "threat": "high",
     "threatReason": "米哈遊進軍MOBA市場，強調公平競技與高畫質，可能吸引大量玩家。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "2027+",
     "desc": "米哈遊一款虛幻引擎製作的歐美畫風公平競技3D MOBA遊戲，畫質高於英雄聯盟。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】米哈遊進軍MOBA市場，強調公平競技與高畫質，可能吸引大量玩家。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：米哈遊正在開發的3D MOBA新作，目前資訊較少，但作為米哈遊拓展品類的嘗試，仍具備一定潛力。\n\n▶ 建議行動：\n(1). 持續追蹤米哈遊官方發布的任何消息。\n(2). 關注行業內關於此類新作的爆料或招聘信息。\n(3). 評估其在MOBA遊戲市場的潛在影響及競爭策略。",
     "verified": "Agent 發現 (2026-09-25)",
     "category": "active",
     "testType": "待確認",
@@ -24718,11 +24778,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-25",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-25",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "米哈遊正在布局多個UE5項目，其中包括一款MOBA新品。"
   },
   {
     "id": 466,
@@ -24741,13 +24802,13 @@
     "threat": "high",
     "threatReason": "疊紙遊戲新作，該公司在女性向二次元市場有強大影響力，此作可能為其拓展品類。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "待確認",
     "desc": "疊紙遊戲旗下新作，可能是一款動作或潛入類遊戲。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】疊紙遊戲新作，該公司在女性向二次元市場有強大影響力，此作可能為其拓展品類。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：疊紙的未定名新作，目前資訊極少，但作為疊紙的潛力項目，仍保持關注。\n\n▶ 建議行動：\n(1). 持續追蹤疊紙官方發布的任何消息。\n(2). 關注行業內關於疊紙新作的爆料或招聘信息。\n(3). 定期檢查是否有測試或上線計劃的更新。",
     "verified": "Agent 發現 (2026-09-25)",
     "category": "active",
     "testType": "待確認",
@@ -24761,9 +24822,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-25",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-25",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -24778,37 +24839,73 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN/Global",
+    "region": "CN/TW/HK/MO/JP/KR/Global",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "high",
-    "threatReason": "網易知名IP續作，重構童話世界觀，具備一定玩家基礎和市場潛力。",
+    "stage": "live-ops",
+    "threat": "low",
+    "threatReason": "遊戲已在多個主要營運地區宣布終止營運，市場威脅已大幅降低。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026",
+    "sentiment": 10,
+    "launchEst": "2021年7月29日 (CN), 2022年1月13日 (TW/HK/MO)",
     "desc": "網易重構經典童話的幻想世界RPG續作，強調情感共鳴與成長。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】網易知名IP續作，重構童話世界觀，具備一定玩家基礎和市場潛力。",
+    "threatAnalysis": "【威脅類型】low\n\n▶ 描述：網易《有殺氣童話2》已在中國大陸、台港澳及日本等多個地區宣布終止營運，顯示其市場表現不佳，已無明顯威脅。\n\n▶ 建議行動：\n(1). 將此產品從活躍追蹤列表中移除。\n(2). 歸檔其終止營運的相關資訊，作為未來市場分析的參考。\n(3). 關注網易是否有類似題材的新作發布。",
     "verified": "Agent 發現 (2026-09-25)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/170624"
+      },
+      {
+        "label": "網易遊戲官網",
+        "url": "https://game.163.com/ysqth2/"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "shutting-down",
+        "date": "2021年7月29日"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "shutting-down",
+        "date": "2022年1月13日"
+      },
+      {
+        "region": "JP",
+        "status": "shutting-down",
+        "date": "2023年8月31日"
+      },
+      {
+        "region": "KR/Global",
+        "status": "shutting-down",
+        "date": null
+      }
+    ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-25",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-25",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "網易《有殺氣童話2》中國大陸官方版本已宣布將於2025年2月24日終止營運。 台港澳版本已於2024年12月27日終止營運。 日版將於2025年1月20日終止營運。",
+    "eventNote": "網易《有殺氣童話2》中國大陸官方版本已宣布將於2025年2月24日終止營運。 台港澳版本已於2024年12月27日終止營運。 日版將於2025年1月20日終止營運。"
   },
   {
     "id": 468,
@@ -24821,37 +24918,59 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN/Global",
+    "region": "CN/TW/HK/MO",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "網易原創IP，多線程敘事與高自由度玩法，有望吸引注重劇情的玩家。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026",
+    "sentiment": 85,
+    "launchEst": "2024年1月26日 (CN), 2026年7月8日 (TW/HK/MO)",
     "desc": "網易多線程平行宇宙架構的冒險RPG，高自由度與強角色驅動敘事。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】網易原創IP，多線程敘事與高自由度玩法，有望吸引注重劇情的玩家。",
+    "threatAnalysis": "【威脅類型】high\n\n▶ 描述：網易無限流言情手遊《世界之外》已於2024年1月在中國大陸公測，並於2026年7月在台港澳上線，目前營運活躍，持續推出新活動和更新。作為女性向手遊市場的重要產品，具有較高威脅。\n\n▶ 建議行動：\n(1). 持續監測遊戲的營收排名和玩家活躍數據。\n(2). 分析其內容更新、活動策劃及社群反饋。\n(3). 評估其在女性向手遊市場的競爭力及對同類產品的影響。",
     "verified": "Agent 發現 (2026-09-25)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "testDateEnd": "2024年1月18日-1月25日「無限愛」不限量不刪檔測試結束。",
+    "sourceLinks": [
+      {
+        "label": "官網",
+        "url": "https://world.163.com/"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "live-ops",
+        "date": "2024年1月26日"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "live-ops",
+        "date": "2026年7月8日"
+      }
+    ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-25",
+    "updatedAt": "2026-10-13",
     "addedAt": "2026-09-25",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-13",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "網易無限流言情手遊《世界之外》已於2024年1月26日全平台公測。 遊戲於2026年7月8日在台港澳地區正式上線。 遊戲在2026年8月至9月期間持續推出新活動和更新。",
+    "eventNote": "網易無限流言情手遊《世界之外》已於2024年1月26日全平台公測。 遊戲於2026年7月8日在台港澳地區正式上線。 遊戲在2026年8月至9月期間持續推出新活動和更新。"
   },
   {
     "id": 469,
