@@ -1,7 +1,161 @@
 {
-  "lastUpdated": "2026-10-14T05:07:14.254810+00:00",
-  "fetchCount": 154,
+  "lastUpdated": "2026-10-15T05:02:37.544597+00:00",
+  "fetchCount": 155,
   "items": [
+    {
+      "id": "brief-20261015-872dc589",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "不良人幻想（新發現・高威脅）",
+      "detail": "知名国漫IP改编，策略卡牌RPG玩法，已在台港澳上市，具备一定市场影响力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
+    },
+    {
+      "id": "brief-20261015-b037676d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "诡秘之主：愚者（新發現・高威脅）",
+      "detail": "顶级网络小说IP改编，由祖龙娱乐开发，美术风格和世界观还原度高，具备二次元审美。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
+    },
+    {
+      "id": "brief-20261015-687e91fa",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "PROJECT N (閃亂神樂系列新作)（新發現・高威脅）",
+      "detail": "知名二次元IP《閃亂神樂》新作，具備固定粉絲群體，預期會吸引大量二次元玩家.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
+    },
+    {
+      "id": "brief-20261015-5e5a599f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "火影忍者手遊 (全球版)（新發現・高威脅）",
+      "detail": "國際級動漫IP《火影忍者》在全球擁有巨大影響力，全球版手遊的推出將大規模搶佔市場注意力.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
+    },
+    {
+      "id": "brief-20261015-993df218",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "魔力寶貝手遊新作（新發現・高威脅）",
+      "detail": "經典日系MMORPG《魔力寶貝》IP改編，在台灣、香港、澳門地區擁有深厚玩家基礎，具備高回憶向價值.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
+    },
+    {
+      "id": "brief-20261015-72160cdf",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "榮耀出征點卡版（新發現・高威脅）",
+      "detail": "經典MMORPG《奇蹟MU》IP改編，點卡制模式可能吸引特定懷舊玩家群體.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
+    },
+    {
+      "id": "brief-20261015-eaced791",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "沙巴克傳奇（新發現・高威脅）",
+      "detail": "國民級IP《傳奇》系列新作，在中國市場擁有極高人氣與懷舊情懷，預期能吸引大量玩家.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
+    },
+    {
+      "id": "brief-20261015-3eb8beee",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "龍之谷啟程（新發現・高威脅）",
+      "detail": "知名動作RPG《龍之谷》IP改編，擁有大量忠實玩家，戰鬥系統具備吸引力.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
+    },
+    {
+      "id": "brief-20261015-e3489df7",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "神泣紛爭（新發現・高威脅）",
+      "detail": "經典MMORPG《神泣》IP改編，針對懷舊玩家群體，具備一定市場號召力.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
+    },
+    {
+      "id": "brief-20261015-35ecf128",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "鋼彈激戰指令（新發現・高威脅）",
+      "detail": "知名IP《鋼彈》改編手遊，具備龐大粉絲基礎，儘管是放置類遊戲仍有潛力吸引大量玩家.",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
+    },
+    {
+      "id": "brief-20261015-e16a1ad7",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "魔獸世界新版上線",
+      "detail": "《至暗之夜》「烏拉特克的詛咒」更新，新首領副本、戶外事件、巨型迷宮。",
+      "action": "立即體驗新內容",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-15T04:57:32.911266+00:00"
+    },
+    {
+      "id": "brief-20261015-43c6174e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《失落的方舟》新職",
+      "detail": "MMORPG《失落的方舟》新職業「次元術士」10/22登場，事前預約開跑。",
+      "action": "預約體驗新職",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-15T04:57:32.911266+00:00"
+    },
+    {
+      "id": "brief-20261015-dedd3015",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《薩爾達時之笛》重製",
+      "detail": "《薩爾達傳說 時之笛》重製版11/5推出，公開最新介紹影片。",
+      "action": "觀看介紹影片",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-15T04:57:32.911266+00:00"
+    },
+    {
+      "id": "brief-20261015-979c3b11",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《極速快感》停運",
+      "detail": "手機遊戲《極速快感：集結》宣布將於2026年12月28日停止營運。",
+      "action": "留意停運資訊",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-15T04:57:32.911266+00:00"
+    },
     {
       "id": "brief-20261014-f23e8cc1",
       "priority": "urgent",
@@ -67,160 +221,6 @@
       "platform": "console",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-10-13T06:55:38.680627+00:00"
-    },
-    {
-      "id": "brief-20261013-8582b1fc",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《漫威宇宙》新內容",
-      "detail": "2D動作遊戲11/10推新追加內容，加入隱形女、末日博士。",
-      "action": "體驗新內容",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-13T06:55:38.680627+00:00"
-    },
-    {
-      "id": "brief-20261012-408a97b8",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "卧龙吟2（新發現・高威脅）",
-      "detail": "經典三國策略IP《臥龍吟》續作，擁有大量忠實玩家基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-12T06:20:17.036219+00:00"
-    },
-    {
-      "id": "brief-20261012-3884aa5b",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "梦境守望者（新發現・高威脅）",
-      "detail": "知名大廠愷英網絡出品，奇幻開放世界RPG，為重點關注品類。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-12T06:20:17.036219+00:00"
-    },
-    {
-      "id": "brief-20261012-1f37885b",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "荒漠沙舟（新發現・高威脅）",
-      "detail": "知名大廠三七互娛開發，廢土題材MMORPG，具備市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-12T06:20:17.036219+00:00"
-    },
-    {
-      "id": "brief-20261012-5beaface",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "阿尔法契约（新發現・高威脅）",
-      "detail": "二次元美術風格與策略卡牌RPG玩法，符合市場熱點。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-12T06:20:17.036219+00:00"
-    },
-    {
-      "id": "brief-20261012-e8820247",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "虹彩六號M將停運",
-      "detail": "免費戰術射擊手遊，2027年1月15日結束營運。",
-      "action": "留意停運時間",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-12T06:15:51.373440+00:00"
-    },
-    {
-      "id": "brief-20261011-33a3cabb",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "寶可夢30週年慶典",
-      "detail": "台北信義區大型活動登場，集結遊行、表演。",
-      "action": "立即前往參與",
-      "platform": "",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-11T06:03:42.873591+00:00"
-    },
-    {
-      "id": "brief-20261010-004a55e0",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Project:NET（新發現・高威脅）",
-      "detail": "騰訊旗下二次元射擊新作，具備大廠資源與市場競爭力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-10T06:07:40.288375+00:00"
-    },
-    {
-      "id": "brief-20261010-f62cc54d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "ARES: THE IRON VANGUARD（新發現・高威脅）",
-      "detail": "被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-10T06:07:40.288375+00:00"
-    },
-    {
-      "id": "brief-20261010-08b97b9a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Crystal of Atlan（新發現・高威脅）",
-      "detail": "被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-10T06:07:40.288375+00:00"
-    },
-    {
-      "id": "brief-20261010-aa712bd6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Legend of YMIR（新發現・高威脅）",
-      "detail": "被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-10T06:07:40.288375+00:00"
-    },
-    {
-      "id": "brief-20261010-39775f50",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "NTE：Neverness to Everness（新發現・高威脅）",
-      "detail": "被多個遊戲媒體列為2026年期待MMORPG，具備一定市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-10T06:07:40.288375+00:00"
-    },
-    {
-      "id": "brief-20261014-67e01f09",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "Xbox成立新部門XP",
-      "detail": "拓展遊戲品牌至影視、周邊、實體娛樂等領域。",
-      "action": "關注產業動態",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-14T05:07:14.254810+00:00"
-    },
-    {
-      "id": "brief-20261014-826b7335",
-      "priority": "info",
-      "icon": "ℹ️",
-      "title": "Indie Game Award 2027",
-      "detail": "台北電玩展獨立遊戲獎入圍，本土團隊表現亮眼。",
-      "action": "關注入圍作品",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-14T05:07:14.254810+00:00"
     }
   ]
 }

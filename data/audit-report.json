@@ -1,10 +1,29 @@
 {
-  "lastAudit": "2026-10-14T05:07:39.722956+00:00",
+  "lastAudit": "2026-10-15T04:57:53.807425+00:00",
   "totalProducts": 562,
-  "updatesApplied": 0,
-  "issuesFound": 0,
+  "updatesApplied": 23,
+  "issuesFound": 3,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
-  "findings": [],
+  "findings": [
+    {
+      "name": "命運：群星",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "餅乾人聯盟",
+      "status": "warning",
+      "issue": "狀態: cbt→cbt",
+      "autoFixed": true
+    },
+    {
+      "name": "闇影詩章：凌越世界",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    }
+  ],
   "checked": [
     "命運：群星",
     "餅乾人聯盟",
