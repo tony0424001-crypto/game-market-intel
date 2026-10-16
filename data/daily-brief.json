@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-10-15T05:02:37.544597+00:00",
-  "fetchCount": 155,
+  "lastUpdated": "2026-10-16T04:45:45.615208+00:00",
+  "fetchCount": 156,
   "items": [
+    {
+      "id": "brief-20261016-fedf7e7c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA 6上市宣傳片",
+      "detail": "《俠盜獵車手6》公開上市宣傳影片，收錄Justice新曲。",
+      "action": "立即觀看影片",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-16T04:45:45.615208+00:00"
+    },
+    {
+      "id": "brief-20261016-75e72781",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Ubisoft裁員關閉工作室",
+      "detail": "Ubisoft裁員約220人，關閉RedLynx工作室，縮減規模。",
+      "action": "關注公司動向",
+      "platform": "N/A",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-16T04:45:45.615208+00:00"
+    },
+    {
+      "id": "brief-20261016-817c0eec",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "幕府將軍2完整版下架",
+      "detail": "《全軍破敵：幕府將軍2完整版》因負評緊急下架，原版重返Steam。",
+      "action": "關注後續處理",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-16T04:45:45.615208+00:00"
+    },
+    {
+      "id": "brief-20261016-5f320802",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "惡魔城新作今日推出",
+      "detail": "傳奇《惡魔城：貝爾蒙特的詛咒》本傳最新作今日正式上市。",
+      "action": "立即購買體驗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-16T04:45:45.615208+00:00"
+    },
     {
       "id": "brief-20261015-872dc589",
       "priority": "urgent",
@@ -157,70 +201,26 @@
       "fetchedAt": "2026-10-15T04:57:32.911266+00:00"
     },
     {
-      "id": "brief-20261014-f23e8cc1",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "蠟筆小新：GO！推出",
-      "detail": "放置盲盒手遊開服，有機會開出PS5、iPhone 18等實體好禮。",
-      "action": "立即下載體驗",
+      "id": "brief-20261016-55583f07",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "絕區零3.3版10/21上線",
+      "detail": "公開菲歐妮角色展示影片，新版本《重返天空的旅程》將於10/21上線。",
+      "action": "關注新角色與版本",
       "platform": "mobile",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-14T05:07:14.254810+00:00"
+      "fetchedAt": "2026-10-16T04:45:45.615208+00:00"
     },
     {
-      "id": "brief-20261014-566fa3bb",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《暗喻幻想》Switch 2",
-      "detail": "Switch 2版序章體驗版發布，可繼承存檔至正式版。",
-      "action": "下載體驗版試玩",
+      "id": "brief-20261016-a958369c",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "魔物獵人荒野Switch2試玩",
+      "detail": "《魔物獵人荒野》Switch 2序章體驗版10/20釋出，存檔可繼承。",
+      "action": "準備下載體驗版",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-14T05:07:14.254810+00:00"
-    },
-    {
-      "id": "brief-20261014-6ddb58bb",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《惡魔城》本傳新作",
-      "detail": "40週年本傳力作試玩報導，硬派地圖與解謎。",
-      "action": "準備入手遊戲",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-14T05:07:14.254810+00:00"
-    },
-    {
-      "id": "brief-20261014-a60172c8",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Steam更新Big Picture",
-      "detail": "用戶端更新，改善Steam Deck操作與介面功能。",
-      "action": "更新Steam用戶端",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-10-14T05:07:14.254810+00:00"
-    },
-    {
-      "id": "brief-20261013-fcd7ca3b",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《舞力全開》新版上市",
-      "detail": "橫跨各音樂年代新作已登陸PS5/XSX/Switch，Switch 2版11/10推出。",
-      "action": "立即體驗遊戲",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-13T06:55:38.680627+00:00"
-    },
-    {
-      "id": "brief-20261013-04849a70",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《沉星之序》已上市",
-      "detail": "奇幻解謎新作已在PC、NS2、PS5上市，解開上千道謎題。",
-      "action": "立即購買遊玩",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-13T06:55:38.680627+00:00"
+      "fetchedAt": "2026-10-16T04:45:45.615208+00:00"
     }
   ]
 }

@@ -30152,5 +30152,103 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 579,
+    "name": "三國：百將牌",
+    "nameEn": "Three Kingdoms: Hundred Generals Card",
+    "developer": "bilibili games",
+    "studio": "bilibili games",
+    "publisher": "bilibili games",
+    "genre": "策略卡牌",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "medium",
+    "threatReason": "由bilibili遊戲開發，結合三國IP與非對稱競技卡牌玩法，具備一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q2",
+    "desc": "bilibili遊戲推出的全新非對稱競技卡牌手遊，主打規則簡潔易上手、單局對戰快速，同時兼顧卡牌玩法的高策略性。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】由bilibili遊戲開發，結合三國IP與非對稱競技卡牌玩法，具備一定市場潛力。",
+    "verified": "Agent 發現 (2026-10-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "預註冊",
+        "date": "2026-Q1"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-10-16",
+    "addedAt": "2026-10-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 580,
+    "name": "山海奇旅",
+    "nameEn": "Shan Hai Qi Lv",
+    "developer": "網易 (NetEase)",
+    "studio": "網易 (NetEase)",
+    "publisher": "網易 (NetEase)",
+    "genre": "派對養成",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "網易出品，結合派對與種田的獨特玩法，有望吸引休閒玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q3",
+    "desc": "網易主打派對與種田玩法的休閒手遊，預計在2026年網易遊戲520發表會上公開最新消息。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易出品，結合派對與種田的獨特玩法，有望吸引休閒玩家。",
+    "verified": "Agent 發現 (2026-10-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "2026-Q3"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-16",
+    "addedAt": "2026-10-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]
