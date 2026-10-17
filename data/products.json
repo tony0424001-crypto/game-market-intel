@@ -25195,13 +25195,13 @@
     "threat": "critical",
     "threatReason": "知名東方奇幻IP「斗羅大陸」改編，結合開放世界MMORPG玩法，由知名大廠開發，潛力巨大。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "待定",
     "desc": "一款由《斗羅大陸》正版授權的開放世界MMORPG手遊，以東方奇幻IP為背景，強調高自由度探索。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名東方奇幻IP「斗羅大陸」改編，結合開放世界MMORPG玩法，由知名大廠開發，潛力巨大。",
+    "threatAnalysis": "【威脅類型】目前無新情報，市場關注度低。\n\n▶ 建議行動：\n(1). 持續觀察是否有新消息釋出。\n(2). 若長期無更新，考慮調整威脅等級或移除追蹤。",
     "verified": "版號雷達 (2026-09-27)",
     "category": "active",
     "testType": "待確認",
@@ -25215,11 +25215,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-27",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-27",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "No new information found."
   },
   {
     "id": 473,
@@ -25238,13 +25239,13 @@
     "threat": "high",
     "threatReason": "武俠題材MMORPG在中國市場有廣大受眾，且「霸刀」為知名武俠IP。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "待定",
     "desc": "一款武俠題材的動作角色扮演手機遊戲，名稱與多款武俠RPG遊戲相關。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】武俠題材MMORPG在中國市場有廣大受眾，且「霸刀」為知名武俠IP。",
+    "threatAnalysis": "【威脅類型】目前無新情報，市場關注度低。\n\n▶ 建議行動：\n(1). 持續觀察是否有新消息釋出。\n(2). 若長期無更新，考慮調整威脅等級或移除追蹤。",
     "verified": "版號雷達 (2026-09-27)",
     "category": "active",
     "testType": "待確認",
@@ -25258,11 +25259,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-27",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-27",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "No new information found."
   },
   {
     "id": 474,
@@ -25282,13 +25284,13 @@
     "threat": "high",
     "threatReason": "仙俠題材MMORPG在中國市場有龐大玩家基礎，且強調大型PVP玩法。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "待定",
     "desc": "一款畫風唯美的仙俠題材MMORPG手遊，強調PVE與PVP玩法，支持萬人同屏實時競技。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】仙俠題材MMORPG在中國市場有龐大玩家基礎，且強調大型PVP玩法。",
+    "threatAnalysis": "【威脅類型】目前無新情報，市場關注度低。\n\n▶ 建議行動：\n(1). 持續觀察是否有新消息釋出。\n(2). 若長期無更新，考慮調整威脅等級或移除追蹤。",
     "verified": "版號雷達 (2026-09-27)",
     "category": "active",
     "testType": "待確認",
@@ -25302,11 +25304,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-27",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-27",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "No new information found."
   },
   {
     "id": 475,
@@ -25325,13 +25328,13 @@
     "threat": "medium",
     "threatReason": "傳奇類MMORPG在中國市場有固定受眾，遊戲強調高爆率和多樣玩法。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "待定",
     "desc": "一款魔幻傳奇題材的角色扮演手遊，提供高爆率和多樣地圖探索。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】傳奇類MMORPG在中國市場有固定受眾，遊戲強調高爆率和多樣玩法。",
+    "threatAnalysis": "【威脅類型】目前無新情報，市場關注度低。\n\n▶ 建議行動：\n(1). 持續觀察是否有新消息釋出。\n(2). 若長期無更新，考慮調整威脅等級或移除追蹤。",
     "verified": "版號雷達 (2026-09-27)",
     "category": "active",
     "testType": "待確認",
@@ -25345,11 +25348,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-27",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-27",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "No new information found."
   },
   {
     "id": 476,
@@ -25368,13 +25372,13 @@
     "threat": "high",
     "threatReason": "傳承「傳奇」IP的MMORPG，在中國市場擁有極高的知名度和玩家基礎。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "待定",
     "desc": "一款復古傳奇風格的三職業MMORPG手遊，傳承經典玩法，可能與「傳奇世界」IP相關。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】傳承「傳奇」IP的MMORPG，在中國市場擁有極高的知名度和玩家基礎。",
+    "threatAnalysis": "【威脅類型】目前無新情報，市場關注度低。\n\n▶ 建議行動：\n(1). 持續觀察是否有新消息釋出。\n(2). 若長期無更新，考慮調整威脅等級或移除追蹤。",
     "verified": "版號雷達 (2026-09-27)",
     "category": "active",
     "testType": "待確認",
@@ -25388,11 +25392,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-27",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-27",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "No new information found."
   },
   {
     "id": 477,
@@ -25411,13 +25416,13 @@
     "threat": "medium",
     "threatReason": "傳奇類RPG在中國市場有一定受眾，遊戲資訊相對較少，開發商規模中等。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "待定",
     "desc": "一款以「狂刀」為主題的移動角色扮演遊戲，可能為傳奇類RPG。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】傳奇類RPG在中國市場有一定受眾，遊戲資訊相對較少，開發商規模中等。",
+    "threatAnalysis": "【威脅類型】目前無新情報，市場關注度低。\n\n▶ 建議行動：\n(1). 持續觀察是否有新消息釋出。\n(2). 若長期無更新，考慮調整威脅等級或移除追蹤。",
     "verified": "版號雷達 (2026-09-27)",
     "category": "active",
     "testType": "待確認",
@@ -25431,11 +25436,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-27",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-27",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "No new information found."
   },
   {
     "id": 478,
@@ -25449,43 +25455,60 @@
       "PC",
       "Mobile"
     ],
-    "region": "CN/Global",
+    "region": "CN",
     "model": "F2P",
     "stage": "pre-reg",
     "threat": "critical",
     "threatReason": "開放世界二次元RPG，由新興工作室開發但已引起廣泛關注，被比作《薩爾達傳說》，預期將大規模搶佔市場注意力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 90,
     "launchEst": "待確認",
     "desc": "一款以物理與化學雙引擎為核心驅動的萬物互動開放世界RPG，玩家將探索夢境般的混沌世界。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】開放世界二次元RPG，由新興工作室開發但已引起廣泛關注，被比作《薩爾達傳說》，預期將大規模搶佔市場注意力。",
+    "threatAnalysis": "【威脅類型】現象級大作潛力，市場關注度極高。\n\n▶ 建議行動：\n(1). 持續密切追蹤遊戲開發進度、後續測試與上市時間。\n(2). 關注玩家社群討論與媒體評價，評估其市場影響力。\n(3). 深入分析其「物理×化學雙引擎」與「萬物交互」玩法的實際表現。",
     "verified": "Agent 發現 (2026-09-28)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-09-27",
+    "sourceLinks": [
+      {
+        "label": "官網",
+        "url": "https://wmy.yueranhudong.com/"
+      },
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/894924"
+      },
+      {
+        "label": "Bilibili",
+        "url": "https://www.biligame.com/detail/?id=120518"
+      }
+    ],
     "launchRegions": [
       {
         "region": "CN",
-        "status": "預註冊",
-        "date": "2026-09"
+        "status": "pre-reg"
       }
     ],
     "history": [
       {
         "date": "2026-09",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-09-28",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "Closed beta test (PC) held from Sep 24-27, 2026. Pre-registration is open."
   },
   {
     "id": 479,
@@ -25498,37 +25521,48 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "CN/TW/HK/MO",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "high",
-    "threatReason": "中國玄幻題材動作RPG，結合割草與放置養成，有一定市場潛力。",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "已上線並穩定營運，但作為放置RPG，市場影響力屬中等規模，非現象級大作。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026",
+    "sentiment": 75,
+    "launchEst": "2026-05-20",
     "desc": "一款主打中國玄幻世界觀的快節奏割草動作手遊，採用離線掛機機制。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】中國玄幻題材動作RPG，結合割草與放置養成，有一定市場潛力。",
+    "threatAnalysis": "【威脅類型】中等規模的放置修仙RPG，已穩定營運。\n\n▶ 建議行動：\n(1). 監測其營收表現與玩家活躍度，評估長期穩定性。\n(2). 關注是否有大型版本更新或跨界合作，以判斷其潛在威脅變化。",
     "verified": "Agent 發現 (2026-09-28)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
     "sourceLinks": [],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "CN/TW/HK/MO",
+        "status": "live-ops"
+      }
+    ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-28",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "Officially launched on May 20, 2026.",
+    "eventNote": "Officially launched on May 20, 2026."
   },
   {
     "id": 480,
@@ -25543,35 +25577,46 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "high",
-    "threatReason": "經典IP《小浣熊卡牌》改編，結合《水滸傳》題材，具備回憶向與抽卡元素。",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "已上線並營運超過一年，作為IP卡牌遊戲，市場表現屬中等規模，非現象級大作。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026",
+    "sentiment": 65,
+    "launchEst": "2024-09-04",
     "desc": "基於小浣熊卡牌IP開發，題材取自《水滸傳》，以卡牌收集與放置養成為核心玩法。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】經典IP《小浣熊卡牌》改編，結合《水滸傳》題材，具備回憶向與抽卡元素。",
+    "threatAnalysis": "【威脅類型】中等規模的IP卡牌遊戲，已營運超過一年。\n\n▶ 建議行動：\n(1). 監測其營收與玩家熱度，判斷是否有衰退跡象。\n(2). 關注IP聯動或新內容更新，評估其維持市場競爭力的能力。",
     "verified": "Agent 發現 (2026-09-28)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
     "sourceLinks": [],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "live-ops"
+      }
+    ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-28",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "Officially launched on September 4, 2024.",
+    "eventNote": "Officially launched on September 4, 2024."
   },
   {
     "id": 481,
@@ -25586,35 +25631,55 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "threatReason": "中國上古神話題材動作RPG，結合Roguelike元素，有一定吸引力。",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026",
+    "launchEst": "2026-06-15",
     "desc": "融合Roguelike機制與中國上古神話設定的動作向割草遊戲。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】中國上古神話題材動作RPG，結合Roguelike元素，有一定吸引力。",
+    "threatAnalysis": "【威脅類型】中等規模的Roguelike動作割草遊戲，已上線營運。\n\n▶ 建議行動：\n(1). 監測其玩家留存率與內容更新頻率。\n(2). 評估其在動作割草類遊戲市場中的競爭力。",
     "verified": "Agent 發現 (2026-09-28)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "testDateEnd": "2026-04-17",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/894924"
+      },
+      {
+        "label": "九游",
+        "url": "https://www.9game.cn/jiuzhouhuanji1/"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "live-ops"
+      }
+    ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-28",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "Test started on April 17, 2026, and officially launched on June 15, 2026.",
+    "eventNote": "Test started on April 17, 2026, and officially launched on June 15, 2026."
   },
   {
     "id": 482,
@@ -25633,13 +25698,13 @@
     "threat": "high",
     "threatReason": "經典傳奇IP框架MMORPG，在中國市場有廣泛受眾，具備回憶向潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "2026",
     "desc": "延續經典傳奇IP框架的免費MMORPG，保留戰士、法師、道士三職業體系。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】經典傳奇IP框架MMORPG，在中國市場有廣泛受眾，具備回憶向潛力。",
+    "threatAnalysis": "【威脅類型】目前無新情報，市場關注度低。\n\n▶ 建議行動：\n(1). 持續觀察是否有新消息釋出。\n(2). 若長期無更新，考慮調整威脅等級或移除追蹤。",
     "verified": "Agent 發現 (2026-09-28)",
     "category": "active",
     "testType": "待確認",
@@ -25653,11 +25718,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-28",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "No new information found."
   },
   {
     "id": 483,
@@ -25672,35 +25738,55 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
-    "threatReason": "復古傳奇風格MMORPG，強調高燃戰鬥體驗，在特定玩家群體中有吸引力。",
+    "stage": "live-ops",
+    "threat": "low",
+    "threatReason": "已上線營運，但作為傳奇類遊戲，市場競爭激烈，話題度與影響力較低，威脅等級調整為低。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026",
     "desc": "以復古傳奇為藍本打造的高燃戰鬥體驗產品，畫面表現力升級。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】復古傳奇風格MMORPG，強調高燃戰鬥體驗，在特定玩家群體中有吸引力。",
+    "threatAnalysis": "【威脅類型】小型/長尾傳奇類遊戲，市場威脅較低。\n\n▶ 建議行動：\n(1). 監測其營收與玩家活躍度，確認是否持續維持低威脅狀態。\n(2). 無需投入過多資源追蹤。",
     "verified": "Agent 發現 (2026-09-28)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "sourceLinks": [
+      {
+        "label": "應用寶",
+        "url": "https://sj.qq.com/appdetail/com.luyue.lylz.aligames"
+      },
+      {
+        "label": "Microsoft Store",
+        "url": "https://www.microsoft.com/zh-cn/p/%E7%83%88%E7%84%B0%E9%A2%86%E4%B8%BB/9p1084803q2n"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "live-ops"
+      }
+    ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-28",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "Game is live and received an update on September 21, 2026.",
+    "eventNote": "Game is live and received an update on September 21, 2026."
   },
   {
     "id": 484,
@@ -25715,35 +25801,55 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "threatReason": "修真題材RPG，在中國市場有穩定受眾，玩法深度有潛力。",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026",
+    "launchEst": "2026-06-12",
     "desc": "以修真世界為背景的角色扮演類手遊，採用多線程成長結構，涵蓋煉丹、煉器等要素。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】修真題材RPG，在中國市場有穩定受眾，玩法深度有潛力。",
+    "threatAnalysis": "【威脅類型】中等規模的國風修仙MMORPG，已上線營運。\n\n▶ 建議行動：\n(1). 監測其營收表現與玩家活躍度，評估市場地位。\n(2). 關注其版本更新與活動，判斷其長期營運策略。",
     "verified": "Agent 發現 (2026-09-28)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "testDateEnd": "2026-04-09",
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/234720"
+      },
+      {
+        "label": "應用寶",
+        "url": "https://sj.qq.com/appdetail/com.leniu.zhxx.aligames"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "live-ops"
+      }
+    ],
     "history": [
       {
         "date": "2026-09",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-09-28",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "Deleted billing test held from April 3-9, 2026. Officially launched on June 12, 2026.",
+    "eventNote": "Deleted billing test held from April 3-9, 2026. Officially launched on June 12, 2026."
   },
   {
     "id": 485,
@@ -25762,13 +25868,13 @@
     "threat": "medium",
     "threatReason": "仙俠題材RPG，強調探索與敘事，美術風格獨特，有潛力吸引特定玩家。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "2026",
     "desc": "一款強調探索與敘事融合的仙俠題材作品，地圖採用水墨渲染技術。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】仙俠題材RPG，強調探索與敘事，美術風格獨特，有潛力吸引特定玩家。",
+    "threatAnalysis": "【威脅類型】目前無新情報，市場關注度低。\n\n▶ 建議行動：\n(1). 持續觀察是否有新消息釋出。\n(2). 若長期無更新，考慮調整威脅等級或移除追蹤。",
     "verified": "Agent 發現 (2026-09-28)",
     "category": "active",
     "testType": "待確認",
@@ -25782,11 +25888,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-28",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-28",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "No new information found."
   },
   {
     "id": 486,
@@ -25805,13 +25912,13 @@
     "threat": "high",
     "threatReason": "知名IP改編，MMORPG品類，在中國市場有高人氣基礎。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2026-Q4",
     "desc": "知名IP《斗羅大陸》改編的MMORPG手遊新作，預計於2026年推出。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】知名IP改編，MMORPG品類，在中國市場有高人氣基礎。",
+    "threatAnalysis": "【威脅類型】具備大IP潛力，但目前缺乏具體上市或測試消息。\n\n▶ 建議行動：\n(1). 密切關注其是否在2026年Q4如期上線，或是否有延期公告。\n(2). 追蹤與「斗羅大陸」IP相關的最新遊戲動態，以防錯過重要情報。",
     "verified": "Agent 發現 (2026-09-29)",
     "category": "active",
     "testType": "待確認",
@@ -25825,11 +25932,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-09-29",
+    "updatedAt": "2026-10-17",
     "addedAt": "2026-09-29",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-17",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "No new information found specifically for '覺醒世界' to confirm Q4 2026 launch or any recent activity. Most '斗羅大陸' results are for other games in the series."
   },
   {
     "id": 487,
@@ -30247,6 +30355,55 @@
     ],
     "updatedAt": "2026-10-16",
     "addedAt": "2026-10-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 581,
+    "name": "最強劍尊：吃最軟的飯，做最硬的劍",
+    "nameEn": "The Strongest Sword Master: Eating the Softest Rice, Wielding the Hardest Sword",
+    "developer": "待確認",
+    "studio": "待確認",
+    "publisher": "待確認",
+    "genre": "仙俠MMO",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "TW/HK/MO",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "台灣市場常見的MMORPG類型，搭配吸睛標題與預約獎勵，預期有一定市場熱度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "仙俠逆襲MMO，玩家扮演廢柴劍尊，透過結契劍靈提升戰力，體驗多劍靈養成與世界領主挑戰。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】台灣市場常見的MMORPG類型，搭配吸睛標題與預約獎勵，預期有一定市場熱度。",
+    "verified": "Agent 發現 (2026-10-17)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "TW/HK/MO",
+        "status": "預註冊",
+        "date": "2026-10"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-10-17",
+    "addedAt": "2026-10-17",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
