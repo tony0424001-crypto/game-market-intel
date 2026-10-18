@@ -1,7 +1,172 @@
 {
-  "lastUpdated": "2026-10-17T04:47:04.866745+00:00",
-  "fetchCount": 157,
+  "lastUpdated": "2026-10-18T04:57:41.522742+00:00",
+  "fetchCount": 158,
   "items": [
+    {
+      "id": "brief-20261018-c233a678",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "夢幻新誅仙：輕享（新發現・高威脅）",
+      "detail": "知名大廠完美世界出品，經典仙俠IP改編，具備穩定受眾和市場號召力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-18T04:57:41.522742+00:00"
+    },
+    {
+      "id": "brief-20261018-f8fb3abe",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "冒險島：楓之新篇（新發現・高威脅）",
+      "detail": "國民級懷念IP改編，擁有極高人氣和玩家基礎，預計將吸引大量老玩家回歸。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-18T04:57:41.522742+00:00"
+    },
+    {
+      "id": "brief-20261018-e14faa83",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "轉生之獸（新發現・高威脅）",
+      "detail": "由《寶可夢》系列開發商Game Freak推出的全新怪物收集手遊，具備極高IP潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-18T04:57:41.522742+00:00"
+    },
+    {
+      "id": "brief-20261018-dbd9acf1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "仙境傳說3（新發現・高威脅）",
+      "detail": "經典MMORPG《仙境傳說》的續作，具有龐大的粉絲基礎和回憶向情懷。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-18T04:57:41.522742+00:00"
+    },
+    {
+      "id": "brief-20261018-ad878122",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "極速快感：聯合（新發現・高威脅）",
+      "detail": "頂級IP《極速快感》的手遊新作，由EA與騰訊合作，已在中國市場發行，預期將有巨大影響力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-18T04:57:41.522742+00:00"
+    },
+    {
+      "id": "brief-20261018-7f201e01",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "虹彩六號：戰術（新發現・高威脅）",
+      "detail": "知名IP《虹彩六號》的策略手遊新作，由大廠Ubisoft開發。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-18T04:57:41.522742+00:00"
+    },
+    {
+      "id": "brief-20261018-8c601d52",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "瘋狂計程車：世界巡迴（新發現・高威脅）",
+      "detail": "經典IP《瘋狂計程車》的重啟作品，具有廣泛的玩家基礎和回憶向情懷。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-18T04:57:41.522742+00:00"
+    },
+    {
+      "id": "brief-20261018-2d1b805f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "浩劫前夕（新發現・高威脅）",
+      "detail": "網易開發的開放世界生存遊戲，在全球大型展會上多次亮相，具備大廠資源和高話題度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-18T04:57:41.522742+00:00"
+    },
+    {
+      "id": "brief-20261018-35aca734",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "綠夢：時空之聲（新發現・高威脅）",
+      "detail": "具備二次元風格的3D動作抽卡遊戲，中國市場預註冊中，有望全球發行。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-18T04:57:41.522742+00:00"
+    },
+    {
+      "id": "brief-20261018-ff875a0b",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "勇者前線：起源（新發現・高威脅）",
+      "detail": "經典IP《勇者前線》的重啟作品，具有一定回憶向和粉絲基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-18T04:57:41.522742+00:00"
+    },
+    {
+      "id": "brief-20261018-a9482996",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "地下城與勇士：阿拉德（新發現・高威脅）",
+      "detail": "知名大型IP《地下城與勇士》的開放世界動作RPG手遊新作，由大廠Nexon開發。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-10-18T04:57:41.522742+00:00"
+    },
+    {
+      "id": "brief-20261018-0a4406d2",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "英雄聯盟世界賽",
+      "detail": "LCP MVK雙殺巴西，明爭晉級門票",
+      "action": "關注賽事結果",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-18T04:52:41.984815+00:00"
+    },
+    {
+      "id": "brief-20261018-4666f5f3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "鏈獸角鬥上市",
+      "detail": "多人協力Roguelike，今日登陸多平台",
+      "action": "考慮購買遊玩",
+      "platform": "console/PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-18T04:52:41.984815+00:00"
+    },
+    {
+      "id": "brief-20261018-9299e137",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "夢迴症Steam上市",
+      "detail": "生存恐怖FPS，今日Steam發售",
+      "action": "考慮購買遊玩",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-18T04:52:41.984815+00:00"
+    },
+    {
+      "id": "brief-20261018-5ad5b345",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "愛麗絲與彼岸發售",
+      "detail": "跑團卡牌遊戲，今日Steam發售",
+      "action": "考慮購買遊玩",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-18T04:52:41.984815+00:00"
+    },
     {
       "id": "brief-20261017-7bebd7cc",
       "priority": "urgent",
@@ -56,171 +221,6 @@
       "platform": "console",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-10-16T04:45:45.615208+00:00"
-    },
-    {
-      "id": "brief-20261016-5f320802",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "惡魔城新作今日推出",
-      "detail": "傳奇《惡魔城：貝爾蒙特的詛咒》本傳最新作今日正式上市。",
-      "action": "立即購買體驗",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-16T04:45:45.615208+00:00"
-    },
-    {
-      "id": "brief-20261015-872dc589",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "不良人幻想（新發現・高威脅）",
-      "detail": "知名国漫IP改编，策略卡牌RPG玩法，已在台港澳上市，具备一定市场影响力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
-    },
-    {
-      "id": "brief-20261015-b037676d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "诡秘之主：愚者（新發現・高威脅）",
-      "detail": "顶级网络小说IP改编，由祖龙娱乐开发，美术风格和世界观还原度高，具备二次元审美。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
-    },
-    {
-      "id": "brief-20261015-687e91fa",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "PROJECT N (閃亂神樂系列新作)（新發現・高威脅）",
-      "detail": "知名二次元IP《閃亂神樂》新作，具備固定粉絲群體，預期會吸引大量二次元玩家.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
-    },
-    {
-      "id": "brief-20261015-5e5a599f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "火影忍者手遊 (全球版)（新發現・高威脅）",
-      "detail": "國際級動漫IP《火影忍者》在全球擁有巨大影響力，全球版手遊的推出將大規模搶佔市場注意力.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
-    },
-    {
-      "id": "brief-20261015-993df218",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "魔力寶貝手遊新作（新發現・高威脅）",
-      "detail": "經典日系MMORPG《魔力寶貝》IP改編，在台灣、香港、澳門地區擁有深厚玩家基礎，具備高回憶向價值.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
-    },
-    {
-      "id": "brief-20261015-72160cdf",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "榮耀出征點卡版（新發現・高威脅）",
-      "detail": "經典MMORPG《奇蹟MU》IP改編，點卡制模式可能吸引特定懷舊玩家群體.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
-    },
-    {
-      "id": "brief-20261015-eaced791",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "沙巴克傳奇（新發現・高威脅）",
-      "detail": "國民級IP《傳奇》系列新作，在中國市場擁有極高人氣與懷舊情懷，預期能吸引大量玩家.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
-    },
-    {
-      "id": "brief-20261015-3eb8beee",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "龍之谷啟程（新發現・高威脅）",
-      "detail": "知名動作RPG《龍之谷》IP改編，擁有大量忠實玩家，戰鬥系統具備吸引力.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
-    },
-    {
-      "id": "brief-20261015-e3489df7",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "神泣紛爭（新發現・高威脅）",
-      "detail": "經典MMORPG《神泣》IP改編，針對懷舊玩家群體，具備一定市場號召力.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
-    },
-    {
-      "id": "brief-20261015-35ecf128",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "鋼彈激戰指令（新發現・高威脅）",
-      "detail": "知名IP《鋼彈》改編手遊，具備龐大粉絲基礎，儘管是放置類遊戲仍有潛力吸引大量玩家.",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-15T05:02:37.544597+00:00"
-    },
-    {
-      "id": "brief-20261017-f6108bc2",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "加奈子的幸福殺手生活動畫化",
-      "detail": "漫畫改編動畫，2027年4月開播，聲優名單同步公開。",
-      "action": "關注動畫進度",
-      "platform": "",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-17T04:44:25.236480+00:00"
-    },
-    {
-      "id": "brief-20261017-2b07e098",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "卡莉亞鍊金工房體型變化",
-      "detail": "鍊金術RPG《卡莉亞的鍊金工房》將加入體型變化功能。",
-      "action": "期待遊戲發售",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-17T04:44:25.236480+00:00"
-    },
-    {
-      "id": "brief-20261017-e598c090",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "灰色系列手遊事前登錄",
-      "detail": "灰色系列15週年手遊《集結的百果》日本展開事前登錄。",
-      "action": "參與事前登錄",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-17T04:44:25.236480+00:00"
-    },
-    {
-      "id": "brief-20261017-343c1e0b",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "麻雀一番街狂賭之淵聯動",
-      "detail": "《麻雀一番街》與《狂賭之淵》聯動，釋出限定雀士。",
-      "action": "參與聯動活動",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-17T04:44:25.236480+00:00"
     }
   ]
 }
