@@ -1,63 +1,33 @@
 {
-  "lastAudit": "2026-10-18T04:53:02.041068+00:00",
-  "totalProducts": 578,
-  "updatesApplied": 56,
-  "issuesFound": 6,
+  "lastAudit": "2026-10-19T04:59:03.301380+00:00",
+  "totalProducts": 593,
+  "updatesApplied": 6,
+  "issuesFound": 1,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "星願之冠",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "托托比亞",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "足球經理 27",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "小蝦米闖江湖",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "生存手冊",
-      "status": "warning",
-      "issue": "狀態: announced→cbt",
-      "autoFixed": true
-    },
-    {
-      "name": "永恆之境",
+      "name": "RF ONLINE NEXT",
       "status": "warning",
       "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "奇蹟：新紀元",
-    "斗破蒼穹：覺醒",
-    "星願之冠",
-    "托托比亞",
-    "出發！與美少女一起冒險",
-    "足球經理 27",
-    "奇妙爪爪",
-    "小蝦米闖江湖",
-    "火線精英：突圍",
-    "生存手冊",
-    "龍之谷：覺醒",
-    "熱血江湖：重啟",
-    "我叫MT：榮耀之戰",
-    "風暴突圍隊",
-    "永恆之境"
+    "RF ONLINE NEXT",
+    "龍之劍",
+    "心靈之門 角落征途",
+    "控制：共振",
+    "天翼之鍊：第二章",
+    "掠奪者2",
+    "三角洲行動：鷹眼",
+    "星光迴響計畫",
+    "永恆契約",
+    "光之迴響計畫",
+    "星墜計畫",
+    "真仙錄",
+    "繪夢街區",
+    "三國殺：天命棋局",
+    "不一样的修真"
   ],
   "nextBatch": [
     "無限大",

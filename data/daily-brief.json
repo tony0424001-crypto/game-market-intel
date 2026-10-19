@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-10-18T04:57:41.522742+00:00",
-  "fetchCount": 158,
+  "lastUpdated": "2026-10-19T05:04:42.570524+00:00",
+  "fetchCount": 159,
   "items": [
+    {
+      "id": "brief-20261019-1fe0059a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "楓之谷：新世界（新發現・高威脅）",
+      "detail": "經典IP改編，Nexon作為大廠，有望吸引大量《楓之谷》老玩家及新玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-19T05:04:42.570524+00:00"
+    },
+    {
+      "id": "brief-20261019-a8576306",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "星塵迴響（新發現・高威脅）",
+      "detail": "米哈遊作為二次元遊戲的領軍者，其新作無論題材如何都將是市場焦點。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-10-19T05:04:42.570524+00:00"
+    },
+    {
+      "id": "brief-20261019-d3cb9de6",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "戀與深空×銀翼殺手",
+      "detail": "聯動活動今日上線，簽到領取獎勵。",
+      "action": "登入領取獎勵",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-19T04:58:44.292126+00:00"
+    },
+    {
+      "id": "brief-20261019-f8f8c422",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "LOL世界賽MVK晉級",
+      "detail": "LCP戰隊MVK擊敗巴西隊，將爭奪瑞士制唯一門票。",
+      "action": "關注後續賽事",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-19T04:58:44.292126+00:00"
+    },
     {
       "id": "brief-20261018-c233a678",
       "priority": "urgent",
@@ -157,70 +201,26 @@
       "fetchedAt": "2026-10-18T04:52:41.984815+00:00"
     },
     {
-      "id": "brief-20261018-5ad5b345",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "愛麗絲與彼岸發售",
-      "detail": "跑團卡牌遊戲，今日Steam發售",
-      "action": "考慮購買遊玩",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-18T04:52:41.984815+00:00"
-    },
-    {
-      "id": "brief-20261017-7bebd7cc",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "最強劍尊：吃最軟的飯，做最硬的劍（新發現・高威脅）",
-      "detail": "台灣市場常見的MMORPG類型，搭配吸睛標題與預約獎勵，預期有一定市場熱度。",
-      "action": "加入追蹤並評估上線時程",
+      "id": "brief-20261019-eb9ebf60",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "公主連結×賽馬娘",
+      "detail": "日版預告10/31合作，公布最新情報。",
+      "action": "關注合作詳情",
       "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-17T04:47:04.866745+00:00"
-    },
-    {
-      "id": "brief-20261017-9128c2cd",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "伊卡洛斯Online預創角",
-      "detail": "PC MMORPG今日開放預先創建角色，搶先打造專屬角色。",
-      "action": "立即預創角色",
-      "platform": "PC",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-17T04:44:25.236480+00:00"
+      "fetchedAt": "2026-10-19T04:58:44.292126+00:00"
     },
     {
-      "id": "brief-20261016-fedf7e7c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA 6上市宣傳片",
-      "detail": "《俠盜獵車手6》公開上市宣傳影片，收錄Justice新曲。",
-      "action": "立即觀看影片",
+      "id": "brief-20261019-a4534823",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "傑仕登《定海》新品節",
+      "detail": "自研ARPG Roguelike，10/20 Steam新品節釋出試玩。",
+      "action": "下載試玩版",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-16T04:45:45.615208+00:00"
-    },
-    {
-      "id": "brief-20261016-75e72781",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Ubisoft裁員關閉工作室",
-      "detail": "Ubisoft裁員約220人，關閉RedLynx工作室，縮減規模。",
-      "action": "關注公司動向",
-      "platform": "N/A",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-16T04:45:45.615208+00:00"
-    },
-    {
-      "id": "brief-20261016-817c0eec",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "幕府將軍2完整版下架",
-      "detail": "《全軍破敵：幕府將軍2完整版》因負評緊急下架，原版重返Steam。",
-      "action": "關注後續處理",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-16T04:45:45.615208+00:00"
+      "fetchedAt": "2026-10-19T04:58:44.292126+00:00"
     }
   ]
 }

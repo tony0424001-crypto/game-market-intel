@@ -26746,37 +26746,64 @@
     "threat": "high",
     "threatReason": "Netmarble為韓國大廠，且《RF Online》是知名IP，具備高市場潛力。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "sentiment": 85,
+    "launchEst": "2026-06-16",
     "desc": "由Netmarble開發的科幻MMORPG手遊，繼承經典IP《RF Online》。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】Netmarble為韓國大廠，且《RF Online》是知名IP，具備高市場潛力。",
+    "threatAnalysis": "【威脅類型】高威脅\n\n▶ 描述：Netmarble的科幻MMORPG《RF ONLINE NEXT》已於2026年6月16日全球正式上線，並在此之前於2025年9月在韓國、日本、台灣地區先行推出。遊戲上線後表現強勁，曾一度登上韓國App Store銷售榜首，並持續獲得大型內容更新，如「採礦戰」、新區域「拉瓦隆」和「塞維利亞」等。遊戲在PC和移動平台同步推出，支援多國語言，擁有穩定的玩家基礎和活躍的市場表現。目前DAU和MAU數據顯示其仍具備相當的市場影響力。\n\n▶ 建議行動：\n(1). 持續關注遊戲的營收表現和玩家活躍度，特別是大型更新後的數據變化。\n(2). 分析其內容更新策略，了解如何維持玩家參與度和延長遊戲生命週期。\n(3). 監測其在不同地區的市場反應，評估其全球擴張的成功程度。",
     "verified": "Agent 發現 (2026-10-02)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "官網",
+        "url": "https://rfonlinenext.netmarble.com/en"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.netmarble.rfnext"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/id/app/rf-online-next/id6740848451"
+      },
+      {
+        "label": "Epic Games Store",
+        "url": "https://store.epicgames.com/en-US/p/rf-online-next-220d2d"
+      }
+    ],
     "launchRegions": [
       {
+        "region": "KR/JP/TW",
+        "status": "live-ops",
+        "date": "2025-09-30"
+      },
+      {
         "region": "Global",
-        "status": "已上線",
-        "date": "2026-Q4"
+        "status": "live-ops",
+        "date": "2026-06-16"
       }
     ],
     "history": [
       {
         "date": "2026-10",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-10-02",
+    "updatedAt": "2026-10-19",
     "addedAt": "2026-10-02",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-19",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "全球已於2026年6月16日正式上線，並持續推出大型內容更新，如「採礦戰」和新章節「拉瓦隆」、「塞維利亞」等。"
   },
   {
     "id": 503,
@@ -31156,5 +31183,107 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 597,
+    "name": "星塵迴響",
+    "nameEn": "Star Dust Echoes",
+    "developer": "米哈遊 (miHoYo)",
+    "studio": "米哈遊 (miHoYo)",
+    "publisher": "米哈遊 (miHoYo)",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "米哈遊作為二次元遊戲的領軍者，其新作無論題材如何都將是市場焦點。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q3",
+    "desc": "米哈遊開發的全新科幻題材動作RPG手遊，強調高速戰鬥與多樣化角色養成。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】米哈遊作為二次元遊戲的領軍者，其新作無論題材如何都將是市場焦點。",
+    "verified": "Agent 發現 (2026-10-19)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-19",
+    "addedAt": "2026-10-19",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 598,
+    "name": "楓之谷：新世界",
+    "nameEn": "MapleStory: New World",
+    "developer": "Nexon",
+    "studio": "Nexon",
+    "publisher": "Nexon",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "經典IP改編，Nexon作為大廠，有望吸引大量《楓之谷》老玩家及新玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "Nexon基於經典PC MMORPG《楓之谷》IP開發的全新手遊，強調原汁原味的冒險體驗與社交互動。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典IP改編，Nexon作為大廠，有望吸引大量《楓之谷》老玩家及新玩家。",
+    "verified": "Agent 發現 (2026-10-19)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "已上線",
+        "date": "2025"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2026-07"
+      },
+      {
+        "region": "JP",
+        "status": "未上線",
+        "date": "2026"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-10-19",
+    "addedAt": "2026-10-19",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]
