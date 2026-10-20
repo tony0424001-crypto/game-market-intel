@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-10-19T05:04:42.570524+00:00",
-  "fetchCount": 159,
+  "lastUpdated": "2026-10-20T05:09:46.439681+00:00",
+  "fetchCount": 160,
   "items": [
+    {
+      "id": "brief-20261020-bb9bdfce",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "楓之谷 Classic（新發現・高威脅）",
+      "detail": "國民級經典IP手遊化，擁有龐大懷舊玩家基礎，預期將在韓國市場引起高度關注。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-10-20T05:09:46.439681+00:00"
+    },
+    {
+      "id": "brief-20261020-83716933",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "赤潮ZeroERA（新發現・高威脅）",
+      "detail": "知名IP衍生作，二次元美術風格與開放世界玩法，且已在中國開啟預註冊，具備一定市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-10-20T05:09:46.439681+00:00"
+    },
+    {
+      "id": "brief-20261020-d01570a1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "King's Raid RE:VERSE（新發現・高威脅）",
+      "detail": "經典IP重啟，且主打無角色抽卡機制，可能吸引對傳統抽卡厭倦的玩家，具備一定市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-10-20T05:09:46.439681+00:00"
+    },
+    {
+      "id": "brief-20261020-893f2ad1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "賽馬娘洛杉磯活動中止",
+      "detail": "因簽證問題，美國洛杉磯公演正式取消。",
+      "action": "關注後續補償方案",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-20T05:03:39.157209+00:00"
+    },
+    {
+      "id": "brief-20261020-92fdee7d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《絕地求生》新PvE模式",
+      "detail": "《絕地求生》43.2版更新，推出全新合作PvE模式。",
+      "action": "玩家可體驗新模式",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-20T05:03:39.157209+00:00"
+    },
+    {
+      "id": "brief-20261020-26694d49",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《巔峰極速》三週年",
+      "detail": "競速手遊《巔峰極速》三週年慶典開跑，登入免費領獎。",
+      "action": "玩家登入領取獎勵",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-20T05:03:39.157209+00:00"
+    },
     {
       "id": "brief-20261019-1fe0059a",
       "priority": "urgent",
@@ -155,72 +221,6 @@
       "platform": "mobile",
       "source": "新聞報導",
       "fetchedAt": "2026-10-18T04:57:41.522742+00:00"
-    },
-    {
-      "id": "brief-20261018-a9482996",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "地下城與勇士：阿拉德（新發現・高威脅）",
-      "detail": "知名大型IP《地下城與勇士》的開放世界動作RPG手遊新作，由大廠Nexon開發。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "官方公告",
-      "fetchedAt": "2026-10-18T04:57:41.522742+00:00"
-    },
-    {
-      "id": "brief-20261018-0a4406d2",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "英雄聯盟世界賽",
-      "detail": "LCP MVK雙殺巴西，明爭晉級門票",
-      "action": "關注賽事結果",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-18T04:52:41.984815+00:00"
-    },
-    {
-      "id": "brief-20261018-4666f5f3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "鏈獸角鬥上市",
-      "detail": "多人協力Roguelike，今日登陸多平台",
-      "action": "考慮購買遊玩",
-      "platform": "console/PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-18T04:52:41.984815+00:00"
-    },
-    {
-      "id": "brief-20261018-9299e137",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "夢迴症Steam上市",
-      "detail": "生存恐怖FPS，今日Steam發售",
-      "action": "考慮購買遊玩",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-18T04:52:41.984815+00:00"
-    },
-    {
-      "id": "brief-20261019-eb9ebf60",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "公主連結×賽馬娘",
-      "detail": "日版預告10/31合作，公布最新情報。",
-      "action": "關注合作詳情",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-19T04:58:44.292126+00:00"
-    },
-    {
-      "id": "brief-20261019-a4534823",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "傑仕登《定海》新品節",
-      "detail": "自研ARPG Roguelike，10/20 Steam新品節釋出試玩。",
-      "action": "下載試玩版",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-19T04:58:44.292126+00:00"
     }
   ]
 }

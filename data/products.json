@@ -26816,43 +26816,61 @@
     "platform": [
       "Mobile"
     ],
-    "region": "KR/Global",
+    "region": "Global (PC Steam), KR (Mobile - original version, status uncertain)",
     "model": "F2P",
     "stage": "live-ops",
-    "threat": "high",
-    "threatReason": "Webzen是韓國知名MMORPG開發商，遊戲品質和市場表現值得關注。",
+    "threat": "medium",
+    "threatReason": "原手遊版因發行商糾紛及營運問題表現不佳，開發商轉型推出買斷制PC版，市場規模與威脅性降低。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "sentiment": 60,
+    "launchEst": "2026-07-23",
     "desc": "由Webzen開發的MMORPG手遊，已於韓國市場上線。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】Webzen是韓國知名MMORPG開發商，遊戲品質和市場表現值得關注。",
+    "threatAnalysis": "【中等威脅】《龍之劍》原手遊版因開發商Hound13與發行商Webzen的嚴重合約糾紛，導致營運狀況不佳。開發商已於2026年7月23日轉型推出買斷制PC版《龍之劍：覺醒》於Steam平台，並移除轉蛋機制。儘管新版本獲得玩家對商業模式轉型的肯定，但其市場影響力已從原先預期的手遊大作轉變為PC獨立ARPG，整體威脅等級有所下降。\n\n▶ 建議行動：\n(1). 持續關注《龍之劍：覺醒》在Steam平台的玩家評價與銷售表現。\n(2). 評估其買斷制模式對市場同類產品的影響。\n(3). 追蹤Hound13是否能找到新的合作夥伴或投資者，以維持長期營運。",
     "verified": "Agent 發現 (2026-10-02)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam (龍之劍：覺醒)",
+        "url": "https://store.steampowered.com/app/XXXXXX/"
+      }
+    ],
     "launchRegions": [
       {
         "region": "KR",
-        "status": "已上線",
-        "date": "2026-Q4"
+        "platform": "Mobile",
+        "status": "launched",
+        "date": "2026-01-21"
+      },
+      {
+        "region": "Global",
+        "platform": "PC (Steam)",
+        "status": "launched",
+        "date": "2026-07-23"
       }
     ],
     "history": [
       {
         "date": "2026-10",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-10-02",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-02",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "開發商Hound13與發行商Webzen終止合作，Hound13自發行買斷制PC版《龍之劍：覺醒》於Steam平台，並已於2026年7月23日上線。",
+    "eventNote": "開發商Hound13與發行商Webzen終止合作，Hound13自發行買斷制PC版《龍之劍：覺醒》於Steam平台，並已於2026年7月23日上線。"
   },
   {
     "id": 504,
@@ -26877,7 +26895,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名台灣開發商新作，但放置類遊戲市場競爭激烈，威脅性中等。",
+    "threatAnalysis": "【中等規模】《心靈之門 角落征途》目前仍處於CBT階段，預計於2027年Q1上線。作為雷亞遊戲的作品，具備一定的品牌號召力與潛在玩家基礎，但目前市場聲量與具體玩法資訊仍待觀察，威脅等級維持中等。\n\n▶ 建議行動：\n(1). 持續關注其CBT進度與玩家反饋。\n(2). 追蹤官方是否公佈更詳細的遊戲內容、特色及商業模式。\n(3). 評估其美術風格與玩法創新度在市場上的接受度。",
     "verified": "Agent 發現 (2026-10-03)",
     "category": "active",
     "testType": "待確認",
@@ -26897,9 +26915,9 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -26916,35 +26934,63 @@
     ],
     "region": "Global",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "high",
-    "threatReason": "知名西方大IP改編手遊，具備高話題度與潛在市場吸引力。",
+    "stage": "live-ops",
+    "threat": "critical",
+    "threatReason": "遊戲已成功上市並取得現象級銷售成績，口碑良好，市場影響力極高。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027-Q1",
+    "sentiment": 95,
+    "launchEst": "2026-09-24",
     "desc": "知名超自然動作遊戲《控制》系列的手機版新作，延續其獨特世界觀與戰鬥體驗。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名西方大IP改編手遊，具備高話題度與潛在市場吸引力。",
+    "threatAnalysis": "【現象級大作】《控制：共振》已於2026年9月24日全球上市，並在短短三週內達成百萬銷量，創下Remedy Entertainment的銷售紀錄。遊戲獲得廣泛好評，顯示其在市場上具有極高的影響力與競爭力。其從前作的射擊核心轉向近戰動作RPG的玩法轉變，雖有部分爭議，但整體而言被認為是成功的嘗試。\n\n▶ 建議行動：\n(1). 密切追蹤其後續更新、DLC發布及長期營收表現。\n(2). 分析其成功因素，特別是IP延續、玩法創新及市場行銷策略。\n(3). 評估其對同類型動作RPG遊戲的市場衝擊。",
     "verified": "Agent 發現 (2026-10-03)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "sourceLinks": [
+      {
+        "label": "官網",
+        "url": "https://www.remedygames.com/games/control-resonant/"
+      },
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/3669870/"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "platform": "PS5, Xbox Series X|S, PC (Steam/Epic Games Store)",
+        "status": "launched",
+        "date": "2026-09-24"
+      },
+      {
+        "region": "Global",
+        "platform": "Mac",
+        "status": "announced",
+        "date": "2026"
+      }
+    ],
     "history": [
       {
         "date": "2026-10",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2026年9月24日全球正式發售，並在三週內銷量突破百萬，成為Remedy Entertainment史上銷售最快的遊戲。",
+    "eventNote": "遊戲已於2026年9月24日全球正式發售，並在三週內銷量突破百萬，成為Remedy Entertainment史上銷售最快的遊戲。"
   },
   {
     "id": 506,
@@ -26963,13 +27009,13 @@
     "threat": "high",
     "threatReason": "Nexon出品，經典IP改編MMORPG，在韓國及全球市場有一定影響力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 80,
     "launchEst": "2027-Q1",
     "desc": "Nexon旗下經典PC MMORPG《天翼之鍊》的全新手機版續作。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】Nexon出品，經典IP改編MMORPG，在韓國及全球市場有一定影響力。",
+    "threatAnalysis": "【具體威脅】《天翼之鍊：第二章》目前處於預註冊階段，預計於2027年Q1上線。作為Nexon旗下知名IP的續作，擁有龐大的粉絲基礎和市場期待。Nexon作為大廠，其開發與發行實力不容小覷，威脅等級維持高。\n\n▶ 建議行動：\n(1). 密切關注預註冊人數及官方公佈的最新消息。\n(2). 追蹤其測試進度（若有）及玩家反饋。\n(3). 分析其IP影響力與前作玩家留存情況。",
     "verified": "Agent 發現 (2026-10-03)",
     "category": "active",
     "testType": "待確認",
@@ -26989,9 +27035,9 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -27013,13 +27059,13 @@
     "threat": "high",
     "threatReason": "Netmarble旗艦級MMORPG續作，雙平台發行，預期將在韓國及全球市場引起關注。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 80,
     "launchEst": "2027-Q1",
     "desc": "Netmarble推出的《掠奪者》系列續作，主打PC與手機雙平台MMORPG體驗。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】Netmarble旗艦級MMORPG續作，雙平台發行，預期將在韓國及全球市場引起關注。",
+    "threatAnalysis": "【具體威脅】《掠奪者2》目前處於預註冊階段，預計於2027年Q1上線。Netmarble作為韓國手遊大廠，其產品通常具備較高的製作水準和市場推廣能力。作為前作的續作，預計將吸引大量核心玩家，威脅等級維持高。\n\n▶ 建議行動：\n(1). 密切關注預註冊活動及官方發布的遊戲特色資訊。\n(2). 追蹤其測試進度（若有）及玩家社群討論。\n(3). 評估其在動作RPG手遊市場的競爭力與潛在營收。",
     "verified": "Agent 發現 (2026-10-03)",
     "category": "active",
     "testType": "待確認",
@@ -27039,9 +27085,9 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -27064,13 +27110,13 @@
     "threat": "high",
     "threatReason": "騰訊大廠出品，經典IP重啟，多平台發行，具備全球市場競爭力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 85,
     "launchEst": "2027-Q1",
     "desc": "騰訊天美工作室群重啟經典IP《三角洲部隊》的多平台射擊遊戲。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】騰訊大廠出品，經典IP重啟，多平台發行，具備全球市場競爭力。",
+    "threatAnalysis": "【具體威脅】《三角洲行動：鷹眼》目前處於CBT階段，預計於2027年Q1上線。由騰訊旗下TiMi Studio Group開發，具備大廠資源與技術實力。作為射擊類遊戲，其潛在用戶群龐大，且騰訊在該領域有豐富的營運經驗，威脅等級維持高。\n\n▶ 建議行動：\n(1). 密切關注CBT的測試內容、玩家反饋及後續調整。\n(2). 分析其射擊手感、地圖設計及競技平衡性。\n(3). 評估其在FPS手遊市場的競爭優勢與潛在用戶規模。",
     "verified": "Agent 發現 (2026-10-03)",
     "category": "active",
     "testType": "待確認",
@@ -27095,9 +27141,9 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -27118,13 +27164,13 @@
     "threat": "high",
     "threatReason": "網易大廠自研新IP，開放世界RPG品類，潛力巨大。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "2027-Q2",
     "desc": "網易全新科幻題材開放世界RPG手遊，強調未來科技與廣闊世界的探索。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】網易大廠自研新IP，開放世界RPG品類，潛力巨大。",
+    "threatAnalysis": "【具體威脅】《星光迴響計畫》目前處於公布階段，預計於2027年Q2上線。作為網易遊戲的重點項目，通常會投入大量資源進行開發與推廣。網易在二次元及MMORPG領域有豐富經驗，該遊戲具備成為市場黑馬的潛力，威脅等級維持高。\n\n▶ 建議行動：\n(1). 密切關注官方公佈的遊戲世界觀、美術風格及核心玩法資訊。\n(2). 追蹤其首次測試或預約活動的市場反應。\n(3). 評估其在網易產品線中的戰略地位與資源投入。",
     "verified": "Agent 發現 (2026-10-03)",
     "category": "active",
     "testType": "待確認",
@@ -27144,9 +27190,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -27167,13 +27213,13 @@
     "threat": "high",
     "threatReason": "知名二次元遊戲開發商新作，有望成為《原神》、《崩壞》類競品。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 80,
     "launchEst": "2027-Q1",
     "desc": "庫洛遊戲開發的二次元動作RPG手遊，以流暢戰鬥和精美角色設計為特色。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】知名二次元遊戲開發商新作，有望成為《原神》、《崩壞》類競品。",
+    "threatAnalysis": "【具體威脅】《永恆契約》目前處於CBT階段，預計於2027年Q1上線。庫洛遊戲以其動作遊戲的開發實力聞名，該遊戲預計將在戰鬥體驗上有所突破。若能延續其前作的成功經驗，將對市場構成較高威脅，威脅等級維持高。\n\n▶ 建議行動：\n(1). 密切關注CBT的測試內容、戰鬥系統及玩家反饋。\n(2). 分析其美術風格、角色設計及劇情設定的市場接受度。\n(3). 評估其在動作手遊市場的差異化競爭優勢。",
     "verified": "Agent 發現 (2026-10-03)",
     "category": "active",
     "testType": "待確認",
@@ -27193,9 +27239,9 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -27216,13 +27262,13 @@
     "threat": "high",
     "threatReason": "Square Enix出品，二次元RPG品類，具備全球市場號召力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 85,
     "launchEst": "2027-Q2",
     "desc": "Square Enix推出的全新二次元RPG手遊，融合日系美術風格與深度劇情。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】Square Enix出品，二次元RPG品類，具備全球市場號召力。",
+    "threatAnalysis": "【具體威脅】《光之迴響計畫》目前處於公布階段，預計於2027年Q2上線。作為Square Enix的作品，擁有全球性的品牌影響力與高品質遊戲製作的聲譽。其在RPG領域的深厚積累，使得該遊戲具備成為市場焦點的潛力，威脅等級維持高。\n\n▶ 建議行動：\n(1). 密切關注官方公佈的遊戲類型、世界觀及美術風格。\n(2). 追蹤其首次宣傳片、實機演示及預約活動的市場反應。\n(3). 評估其在日系RPG及全球市場的潛在競爭力。",
     "verified": "Agent 發現 (2026-10-03)",
     "category": "active",
     "testType": "待確認",
@@ -27242,9 +27288,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -27265,13 +27311,13 @@
     "threat": "high",
     "threatReason": "騰訊大廠自研新IP，開放世界RPG品類，預期投入大量資源推廣。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "2027-Q3",
     "desc": "騰訊自研的開放世界動作RPG手遊，強調高自由度探索與沉浸式體驗。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】騰訊大廠自研新IP，開放世界RPG品類，預期投入大量資源推廣。",
+    "threatAnalysis": "【具體威脅】《星墜計畫》目前處於公布階段，預計於2027年Q3上線。作為騰訊遊戲的項目，通常會獲得充足的資源支持和市場推廣。騰訊在多類型遊戲的發行與營運上經驗豐富，該遊戲具備較高的市場潛力，威脅等級維持高。\n\n▶ 建議行動：\n(1). 密切關注官方公佈的遊戲類型、核心玩法及目標用戶群。\n(2). 追蹤其首次測試或預約活動的市場表現。\n(3). 評估其在騰訊產品矩陣中的戰略定位與資源傾斜。",
     "verified": "Agent 發現 (2026-10-03)",
     "category": "active",
     "testType": "待確認",
@@ -27291,9 +27337,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -27314,13 +27360,13 @@
     "threat": "medium",
     "threatReason": "知名開發商，仙俠RPG在中國市場受歡迎，具備一定潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "待定",
     "desc": "暢遊自主研發的國風仙俠角色扮演遊戲。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名開發商，仙俠RPG在中國市場受歡迎，具備一定潛力。",
+    "threatAnalysis": "【中等規模】《真仙錄》目前處於公布階段，上線日期待定。由北京暢遊時代數碼技術有限公司開發，具備一定的開發實力。仙俠題材在特定市場有穩定受眾，但若無突出特色或大廠加持，市場影響力可能有限，威脅等級維持中等。\n\n▶ 建議行動：\n(1). 關注官方是否公佈更詳細的遊戲內容、玩法特色及上線計畫。\n(2). 評估其在仙俠類遊戲市場中的差異化競爭策略。\n(3). 追蹤其首次測試或預約活動的市場反應。",
     "verified": "版號雷達 (2026-10-03)",
     "category": "active",
     "testType": "待確認",
@@ -27334,9 +27380,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -27357,13 +27403,13 @@
     "threat": "medium",
     "threatReason": "知名大廠發行，RPG品類符合關注重點。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "待定",
     "desc": "由知名大廠4399發行，可能是一款武俠題材的RPG手遊。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名大廠發行，RPG品類符合關注重點。",
+    "threatAnalysis": "【中等規模】《繪夢街區》目前處於公布階段，上線日期待定。由廣州四三九九信息科技有限公司開發，該公司在休閒及輕度遊戲領域有一定經驗。遊戲名稱暗示可能為模擬經營或休閒社交類，具體威脅程度需待更多資訊釋出，威脅等級維持中等。\n\n▶ 建議行動：\n(1). 關注官方是否公佈遊戲類型、美術風格及目標用戶群。\n(2). 追蹤其首次宣傳或測試活動的市場反應。\n(3). 評估其在休閒遊戲市場的潛在競爭力。",
     "verified": "版號雷達 (2026-10-03)",
     "category": "active",
     "testType": "待確認",
@@ -27377,9 +27423,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -27396,35 +27442,56 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "cbt",
     "threat": "high",
     "threatReason": "《三國殺》是中國國民級IP，新卡牌遊戲有望吸引大量玩家。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "待定",
     "desc": "基於熱門IP《三國殺》的全新數字策略卡牌遊戲。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】《三國殺》是中國國民級IP，新卡牌遊戲有望吸引大量玩家。",
+    "threatAnalysis": "【具體威脅】《三國殺：天命棋局》作為知名IP「三國殺」的首款戰棋手遊，已於2026年6月進行了安卓平台的刪檔測試。遊戲將經典卡牌元素與戰棋玩法融合，具備獨特的策略性。憑藉「三國殺」的廣大玩家基礎和游卡網絡的開發實力，該遊戲在上市後預計將有較高的市場關注度和競爭力，威脅等級維持高。\n\n▶ 建議行動：\n(1). 密切關注後續測試進度及官方公佈的正式上線日期。\n(2). 分析其測試反饋，特別是玩法平衡性與付費模式的接受度。\n(3). 評估其對現有戰棋類手遊市場的潛在衝擊。",
     "verified": "版號雷達 (2026-10-03)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "testDateEnd": "2026-06-21",
+    "sourceLinks": [
+      {
+        "label": "豌豆莢預約",
+        "url": "https://www.wandoujia.com/games/11721523"
+      },
+      {
+        "label": "九游預約",
+        "url": "https://www.9game.cn/sgs_tmqj/"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "platform": "Android",
+        "status": "cbt",
+        "date": "2026-06-18~2026-06-21"
+      }
+    ],
     "history": [
       {
         "date": "2026-10",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "cbt"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲已於2026年6月18日至6月21日進行了安卓平台的「啟明測試」（限量刪檔不計費測試）。"
   },
   {
     "id": 516,
@@ -27443,13 +27510,13 @@
     "threat": "medium",
     "threatReason": "修真題材RPG在中國市場有廣泛受眾。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "待定",
     "desc": "一款高自由度的修真題材角色扮演遊戲。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】修真題材RPG在中國市場有廣泛受眾。",
+    "threatAnalysis": "【中等規模】《不一样的修真》目前處於公布階段，上線日期待定。修真題材在中國市場有固定受眾，但競爭激烈。游藝春秋作為開發商，其過往產品表現需進一步評估，威脅等級維持中等。\n\n▶ 建議行動：\n(1). 關注官方是否公佈遊戲的具體玩法、美術風格及商業模式。\n(2). 追蹤其首次測試或預約活動的市場反應。\n(3). 評估其在修真類遊戲市場中的差異化競爭力。",
     "verified": "版號雷達 (2026-10-03)",
     "category": "active",
     "testType": "待確認",
@@ -27463,9 +27530,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -27486,13 +27553,13 @@
     "threat": "medium",
     "threatReason": "知名開發商，修仙題材遊戲在中國市場受歡迎。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "待定",
     "desc": "電魂網絡推出的一款修仙題材角色扮演遊戲。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名開發商，修仙題材遊戲在中國市場受歡迎。",
+    "threatAnalysis": "【中等規模】《我在靈界修大仙》目前處於公布階段，上線日期待定。電魂網絡作為開發商，在某些細分市場有一定經驗。修仙題材遊戲市場競爭激烈，該遊戲需展現獨特賣點才能脫穎而出，威脅等級維持中等。\n\n▶ 建議行動：\n(1). 關注官方是否公佈遊戲的核心玩法、美術風格及目標用戶群。\n(2). 追蹤其首次測試或預約活動的市場反應。\n(3). 評估其在修仙類遊戲市場的潛在競爭力。",
     "verified": "版號雷達 (2026-10-03)",
     "category": "active",
     "testType": "待確認",
@@ -27506,9 +27573,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-03",
+    "updatedAt": "2026-10-20",
     "addedAt": "2026-10-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-20",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -31285,5 +31352,258 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
+  },
+  {
+    "id": 599,
+    "name": "拉拉熊 輕鬆益智遊戲",
+    "nameEn": "Rilakkuma Relaxing Puzzle Game",
+    "developer": "Imagineer Co.,Ltd.",
+    "studio": "Imagineer Co.,Ltd.",
+    "publisher": "Imagineer Co.,Ltd.",
+    "genre": "益智",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "medium",
+    "threatReason": "知名IP改編，但益智類遊戲市場競爭激烈，且主要針對日本市場。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "以知名角色拉拉熊為主題的益智遊戲新作，預計於日本市場推出，目前已開放事前登錄。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP改編，但益智類遊戲市場競爭激烈，且主要針對日本市場。",
+    "verified": "Agent 發現 (2026-10-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "預註冊",
+        "date": "2027年初"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-10-20",
+    "addedAt": "2026-10-20",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 600,
+    "name": "King's Raid RE:VERSE",
+    "nameEn": "King's Raid RE:VERSE",
+    "developer": "Masangsoft",
+    "studio": "Masangsoft",
+    "publisher": "Masangsoft",
+    "genre": "動作角色扮演",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "經典IP重啟，且主打無角色抽卡機制，可能吸引對傳統抽卡厭倦的玩家，具備一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "經典角色收集RPG《King's Raid》的全球重啟版本，保留原有世界觀與角色，並進行平衡與優化，主打無角色抽卡機制。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】經典IP重啟，且主打無角色抽卡機制，可能吸引對傳統抽卡厭倦的玩家，具備一定市場潛力。",
+    "verified": "Agent 發現 (2026-10-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "預註冊",
+        "date": "2026-09-17"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-10-20",
+    "addedAt": "2026-10-20",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 601,
+    "name": "Muv-Luv Girls Garden",
+    "nameEn": "Muv-Luv Girls Garden",
+    "developer": "MOEDOKI",
+    "studio": "MOEDOKI",
+    "publisher": "MOEDOKI",
+    "genre": "放置角色扮演, 抽卡",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "JP/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名IP改編，但放置型玩法與已在日本上線，全球市場表現仍待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "《Muv-Luv》系列新作，一款放置型抽卡RPG，玩家將指揮駕駛巨大人形機甲的少女們探索地下迷宮。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】知名IP改編，但放置型玩法與已在日本上線，全球市場表現仍待觀察。",
+    "verified": "Agent 發現 (2026-10-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "已上線",
+        "date": "2025-09-03"
+      },
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "2026-Q4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-20",
+    "addedAt": "2026-10-20",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 602,
+    "name": "赤潮ZeroERA",
+    "nameEn": "Scarlet Tide: ZeroERA",
+    "developer": "YoMioBeYoung (YoMio Studios)",
+    "studio": "YoMioBeYoung (YoMio Studios)",
+    "publisher": "YoMioBeYoung (YoMio Studios)",
+    "genre": "開放世界, 角色扮演, 抽卡",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "知名IP衍生作，二次元美術風格與開放世界玩法，且已在中國開啟預註冊，具備一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4 / 2027-Q1",
+    "desc": "《赤潮》IP衍生作，一款2.5D開放世界角色扮演遊戲，以末日世界與少年角色為特色，結合即時戰鬥與基地建設。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】知名IP衍生作，二次元美術風格與開放世界玩法，且已在中國開啟預註冊，具備一定市場潛力。",
+    "verified": "Agent 發現 (2026-10-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "預註冊",
+        "date": "2026-03-27"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-10-20",
+    "addedAt": "2026-10-20",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 603,
+    "name": "楓之谷 Classic",
+    "nameEn": "MapleStory Classic",
+    "developer": "Nexon",
+    "studio": "Nexon",
+    "publisher": "Nexon",
+    "genre": "角色扮演",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "國民級經典IP手遊化，擁有龐大懷舊玩家基礎，預期將在韓國市場引起高度關注。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-10",
+    "desc": "經典MMORPG《楓之谷》的行動版新作，旨在重現懷舊體驗，預計於韓國市場推出。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】國民級經典IP手遊化，擁有龐大懷舊玩家基礎，預期將在韓國市場引起高度關注。",
+    "verified": "Agent 發現 (2026-10-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "未上線",
+        "date": "2026-10-21"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-20",
+    "addedAt": "2026-10-20",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
   }
 ]

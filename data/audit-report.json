@@ -1,19 +1,30 @@
 {
-  "lastAudit": "2026-10-19T04:59:03.301380+00:00",
-  "totalProducts": 593,
-  "updatesApplied": 6,
-  "issuesFound": 1,
+  "lastAudit": "2026-10-20T05:04:06.300307+00:00",
+  "totalProducts": 595,
+  "updatesApplied": 46,
+  "issuesFound": 3,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "RF ONLINE NEXT",
+      "name": "龍之劍",
       "status": "warning",
       "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "控制：共振",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "三國殺：天命棋局",
+      "status": "warning",
+      "issue": "狀態: announced→cbt",
       "autoFixed": true
     }
   ],
   "checked": [
-    "RF ONLINE NEXT",
     "龍之劍",
     "心靈之門 角落征途",
     "控制：共振",
@@ -27,7 +38,8 @@
     "真仙錄",
     "繪夢街區",
     "三國殺：天命棋局",
-    "不一样的修真"
+    "不一样的修真",
+    "我在靈界修大仙"
   ],
   "nextBatch": [
     "無限大",
