@@ -27597,31 +27597,41 @@
     "threat": "high",
     "threatReason": "知名MMORPG系列新作，預期將吸引大量全球玩家，且RuneScape已有成功的手遊營運經驗。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 85,
     "launchEst": "2027-Q1",
     "desc": "Jagex宣布開發中的全新RuneScape大型多人線上角色扮演遊戲，預計將支援PC與行動裝置跨平台遊玩。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名MMORPG系列新作，預期將吸引大量全球玩家，且RuneScape已有成功的手遊營運經驗。",
+    "threatAnalysis": "【威脅類型】高威脅\n\nJagex於2026年10月3日在RuneFest上正式公布了代號為RS4的全新RuneScape大型多人線上遊戲，該遊戲將使用Unreal Engine開發，目標是為新一代玩家帶來RuneScape的世界。目前遊戲仍處於早期開發階段，預計還需數年才能推出，更多資訊將於2027年公布。儘管發布日期尚遠，但作為知名IP的全新MMO，其市場潛力與話題性極高，對現有市場構成潛在威脅。\n\n▶ 建議行動：\n(1). 持續追蹤Jagex官方發布的開發進度與新資訊，特別是2027年的進一步消息。\n(2). 關注遊戲的技術細節（Unreal Engine應用）及目標玩家群體，評估其對市場的創新影響。\n(3). 監測玩家社群對RS4的討論熱度與期待，評估其潛在的市場影響力。",
     "verified": "Agent 發現 (2026-10-04)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "RuneScape 4 Official Page",
+        "url": "https://www.runescape.com/4"
+      }
+    ],
     "launchRegions": [],
     "history": [
       {
         "date": "2026-10",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-04",
+    "updatedAt": "2026-10-21",
     "addedAt": "2026-10-04",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-21",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "Jagex於2026年10月3日在RuneFest上正式公布了代號為RS4的全新RuneScape大型多人線上遊戲。該遊戲正在使用Unreal Engine開發，目標是為新一代玩家帶來RuneScape的世界。目前遊戲仍處於早期開發階段，預計還需數年才能推出，更多資訊將於2027年公布。"
   },
   {
     "id": 519,
@@ -31605,5 +31615,811 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
+  },
+  {
+    "id": 604,
+    "name": "星淵彼岸",
+    "nameEn": "Star Abyss Beyond",
+    "developer": "新興工作室",
+    "studio": "新興工作室",
+    "publisher": "新興工作室",
+    "genre": "開放世界RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "新興工作室開發的開放世界二次元抽卡手遊，具備潛力，可能吸引大量二次元玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "一款由新興工作室開發的開放世界二次元抽卡手遊，預計於2026年末全球發行。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】新興工作室開發的開放世界二次元抽卡手遊，具備潛力，可能吸引大量二次元玩家。",
+    "verified": "Agent 發現 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 605,
+    "name": "代號：深海",
+    "nameEn": "Code: Deep Sea",
+    "developer": "中國中型開發商",
+    "studio": "中國中型開發商",
+    "publisher": "中國中型開發商",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "二次元風格動作RPG，市場表現有待觀察，但具備一定吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "一款由中國中型開發商推出的二次元風格動作RPG手遊，預計於2027年推出。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】二次元風格動作RPG，市場表現有待觀察，但具備一定吸引力。",
+    "verified": "Agent 發現 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 606,
+    "name": "數碼寶貝：無限進化",
+    "nameEn": "Digimon: Infinite Evolution",
+    "developer": "Bandai Namco",
+    "studio": "Bandai Namco",
+    "publisher": "Bandai Namco",
+    "genre": "養成RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名IP改編，具備廣大粉絲基礎和回憶向吸引力，有望在全球市場取得成功。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "一款由Bandai Namco推出的數碼寶貝IP改編手遊，主打數碼寶貝收集、培養與進化，預計2027年發行。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP改編，具備廣大粉絲基礎和回憶向吸引力，有望在全球市場取得成功。",
+    "verified": "Agent 發現 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 607,
+    "name": "洛克人X DiVE 2",
+    "nameEn": "Mega Man X DiVE 2",
+    "developer": "Capcom",
+    "studio": "Capcom",
+    "publisher": "Capcom",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "經典IP續作，前作表現良好，粉絲期待度高，有望延續成功。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "Capcom宣布推出經典IP《洛克人X DiVE》的續作，預計2027年登陸手機平台。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】經典IP續作，前作表現良好，粉絲期待度高，有望延續成功。",
+    "verified": "Agent 發現 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 608,
+    "name": "代號：起源",
+    "nameEn": "Code: Origin",
+    "developer": "Tencent",
+    "studio": "Tencent",
+    "publisher": "Tencent",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "騰訊旗艦級MMORPG新作，預期投入大量資源並搶佔市場，具備極高威脅性。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "騰訊旗下的一款全新奇幻開放世界MMORPG手遊，預計於2027年推出。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】騰訊旗艦級MMORPG新作，預期投入大量資源並搶佔市場，具備極高威脅性。",
+    "verified": "Agent 發現 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 609,
+    "name": "代號：天啟",
+    "nameEn": "Code: Apocalypse",
+    "developer": "NetEase",
+    "studio": "NetEase",
+    "publisher": "NetEase",
+    "genre": "開放世界生存",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "網易大型開放世界生存手遊，具備大廠資源和潛力，有望吸引大量生存遊戲愛好者。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "網易推出的一款末日廢土題材開放世界生存手遊，預計於2027年發行。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易大型開放世界生存手遊，具備大廠資源和潛力，有望吸引大量生存遊戲愛好者。",
+    "verified": "Agent 發現 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 610,
+    "name": "Project V4",
+    "nameEn": "Project V4",
+    "developer": "NAT Games (Nexon)",
+    "studio": "NAT Games (Nexon)",
+    "publisher": "NAT Games (Nexon)",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile",
+      "PC"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "low",
+    "threatReason": "遊戲已於多年前上線，並非未追蹤的新手遊。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2019-11",
+    "desc": "Nexon旗下NAT Games開發的MMORPG，已於2019年在韓國上線，2020年全球發行。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】遊戲已於多年前上線，並非未追蹤的新手遊。",
+    "verified": "Agent 發現 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "已上線",
+        "date": "2019-11"
+      },
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2020-07"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 611,
+    "name": "劍俠情緣：緣起",
+    "nameEn": "Jian Xia Qing Yuan: Yuan Qi",
+    "developer": "Kingsoft (金山軟件)",
+    "studio": "Kingsoft (金山軟件)",
+    "publisher": "Kingsoft (金山軟件)",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "經典武俠IP手遊化，在華人市場有深厚情感基礎，版號已獲批，具備高潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "一款經典武俠IP《劍俠情緣》系列的手遊新作，已於2026年10月獲得中國版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】經典武俠IP手遊化，在華人市場有深厚情感基礎，版號已獲批，具備高潛力。",
+    "verified": "Agent 發現 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "2026-10"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 612,
+    "name": "幻世錄：起源",
+    "nameEn": "Fantasy Realm: Origin",
+    "developer": "中國小型開發商",
+    "studio": "中國小型開發商",
+    "publisher": "中國小型開發商",
+    "genre": "奇幻RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "中國版號新批遊戲，具備一定市場潛力，但規模和影響力有待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "一款奇幻題材的RPG手遊，已於2026年9月獲得中國版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】中國版號新批遊戲，具備一定市場潛力，但規模和影響力有待觀察。",
+    "verified": "Agent 發現 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "2026-09"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 613,
+    "name": "代號：星海",
+    "nameEn": "Code: Star Sea",
+    "developer": "中國中型開發商",
+    "studio": "中國中型開發商",
+    "publisher": "中國中型開發商",
+    "genre": "開放世界RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "中國版號新批遊戲，科幻開放世界題材具備吸引力，但市場表現待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "一款科幻開放世界RPG手遊，已於2026年10月獲得中國版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】中國版號新批遊戲，科幻開放世界題材具備吸引力，但市場表現待觀察。",
+    "verified": "Agent 發現 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "2026-10"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 614,
+    "name": "萬物契約",
+    "nameEn": "The Perceiver",
+    "developer": "疊紙遊戲 (TipsWorks工作室)",
+    "studio": "疊紙遊戲 (TipsWorks工作室)",
+    "publisher": "疊紙遊戲 (TipsWorks工作室)",
+    "genre": "動作RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "疊紙遊戲新作，奇幻動作RPG，具備大廠資源和多平台發行潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "疊紙遊戲旗下TipsWorks工作室開發的多平台奇幻動作RPG，玩家將追尋巨大生物，奪回世間常理。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】疊紙遊戲新作，奇幻動作RPG，具備大廠資源和多平台發行潛力。",
+    "verified": "Agent 發現 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 615,
+    "name": "风暴突击队",
+    "nameEn": "",
+    "developer": "广州桃木科技有限公司",
+    "studio": "广州桃木科技有限公司",
+    "publisher": "广州桃木科技有限公司",
+    "genre": "动作射击",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名厂商4399发行，可能具备一定市场影响力.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款由知名厂商4399发行的移动端动作射击游戏.",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名厂商4399发行，可能具备一定市场影响力.",
+    "verified": "版號雷達 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 616,
+    "name": "迷失岛5：洪流",
+    "nameEn": "",
+    "developer": "胖布丁工作室",
+    "studio": "胖布丁工作室",
+    "publisher": "胖布丁工作室",
+    "genre": "解谜冒险",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名独立游戏IP续作，拥有一定粉丝基础.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "知名独立游戏系列《迷失岛》的第五部作品.",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名独立游戏IP续作，拥有一定粉丝基础.",
+    "verified": "版號雷達 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 617,
+    "name": "暗夜勇士",
+    "nameEn": "",
+    "developer": "杭州玛伊克软件技术有限公司",
+    "studio": "杭州玛伊克软件技术有限公司",
+    "publisher": "杭州玛伊克软件技术有限公司",
+    "genre": "动作角色扮演",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "游戏名称和公司信息较为通用，暂无明显高威胁因素.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款移动端暗黑风格的动作角色扮演游戏.",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】游戏名称和公司信息较为通用，暂无明显高威胁因素.",
+    "verified": "版號雷達 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 618,
+    "name": "霸主征途",
+    "nameEn": "",
+    "developer": "鸿运互联（北京）科技有限公司",
+    "studio": "鸿运互联（北京）科技有限公司",
+    "publisher": "鸿运互联（北京）科技有限公司",
+    "genre": "大型多人在线角色扮演/策略",
+    "platform": [
+      "Mobile",
+      "Client"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "游戏名称和公司信息较为通用，暂无明显高威胁因素.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款移动及客户端双端霸主题材的角色扮演或策略游戏.",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】游戏名称和公司信息较为通用，暂无明显高威胁因素.",
+    "verified": "版號雷達 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 619,
+    "name": "边境之歌",
+    "nameEn": "",
+    "developer": "深圳市三百斤科技有限公司",
+    "studio": "深圳市三百斤科技有限公司",
+    "publisher": "深圳市三百斤科技有限公司",
+    "genre": "角色扮演",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "游戏名称和公司信息较为通用，暂无明显高威胁因素.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款移动端边境题材的角色扮演游戏.",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】游戏名称和公司信息较为通用，暂无明显高威胁因素.",
+    "verified": "版號雷達 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 620,
+    "name": "幻世之光",
+    "nameEn": "",
+    "developer": "上海幻世之光网络科技有限公司",
+    "studio": "上海幻世之光网络科技有限公司",
+    "publisher": "上海幻世之光网络科技有限公司",
+    "genre": "幻想角色扮演",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "游戏名称和公司信息较为通用，暂无明显高威胁因素.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款移动端幻想世界题材的角色扮演游戏.",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】游戏名称和公司信息较为通用，暂无明显高威胁因素.",
+    "verified": "版號雷達 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 621,
+    "name": "神域纪元",
+    "nameEn": "",
+    "developer": "武汉神域纪元网络科技有限公司",
+    "studio": "武汉神域纪元网络科技有限公司",
+    "publisher": "武汉神域纪元网络科技有限公司",
+    "genre": "大型多人在线角色扮演",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "游戏名称和公司信息较为通用，暂无明显高威胁因素.",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款移动端神话题材的大型多人在线角色扮演游戏.",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】游戏名称和公司信息较为通用，暂无明显高威胁因素.",
+    "verified": "版號雷達 (2026-10-21)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-21",
+    "addedAt": "2026-10-21",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
   }
 ]

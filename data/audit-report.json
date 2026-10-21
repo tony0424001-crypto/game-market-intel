@@ -1,45 +1,33 @@
 {
-  "lastAudit": "2026-10-20T05:04:06.300307+00:00",
-  "totalProducts": 595,
-  "updatesApplied": 46,
-  "issuesFound": 3,
+  "lastAudit": "2026-10-21T05:06:52.814551+00:00",
+  "totalProducts": 600,
+  "updatesApplied": 4,
+  "issuesFound": 1,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "龍之劍",
+      "name": "RuneScape 4 (暫譯)",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "控制：共振",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "三國殺：天命棋局",
-      "status": "warning",
-      "issue": "狀態: announced→cbt",
+      "issue": "狀態: announced→announced",
       "autoFixed": true
     }
   ],
   "checked": [
-    "龍之劍",
-    "心靈之門 角落征途",
-    "控制：共振",
-    "天翼之鍊：第二章",
-    "掠奪者2",
-    "三角洲行動：鷹眼",
-    "星光迴響計畫",
-    "永恆契約",
-    "光之迴響計畫",
-    "星墜計畫",
-    "真仙錄",
-    "繪夢街區",
-    "三國殺：天命棋局",
-    "不一样的修真",
-    "我在靈界修大仙"
+    "RuneScape 4 (暫譯)",
+    "三國：天下歸心",
+    "地下城與勇士：卡贊",
+    "七界夢譚",
+    "帕萌戰鬥日記",
+    "棕色塵埃2",
+    "師父 (手機版)",
+    "劍俠世界4：無限",
+    "星際大戰：銀河賽車手",
+    "控制- 終極合輯 (手機版)",
+    "詭秘之主：愚者",
+    "魔刻獵手",
+    "Miresi:看不見的未來",
+    "危機曙光",
+    "巨龍與紛爭"
   ],
   "nextBatch": [
     "無限大",
