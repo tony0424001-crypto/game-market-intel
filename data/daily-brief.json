@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-10-21T05:13:19.661652+00:00",
-  "fetchCount": 161,
+  "lastUpdated": "2026-10-22T05:12:23.669358+00:00",
+  "fetchCount": 162,
   "items": [
+    {
+      "id": "brief-20261022-02ca70c6",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Project G（新發現・高威脅）",
+      "detail": "知名開發商NHN PlayArt的IP改編RPG新作，具備潛在市場影響力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-22T05:12:23.669358+00:00"
+    },
+    {
+      "id": "brief-20261022-9aa6fc10",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "代號：新斗羅（新發現・高威脅）",
+      "detail": "知名IP「斗羅大陸」改編，由中手遊開發，預期有較高市場關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-22T05:12:23.669358+00:00"
+    },
+    {
+      "id": "brief-20261022-f6d4e5f3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "忍者冒險團（新發現・高威脅）",
+      "detail": "知名IP「火影世界觀」改編，儘管是卡牌遊戲，仍具備高市場吸引力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-22T05:12:23.669358+00:00"
+    },
+    {
+      "id": "brief-20261022-9633204c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "超數據世界（新發現・高威脅）",
+      "detail": "二次元開放世界為重點關注品類，且被列為2026年熱門推薦。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-22T05:12:23.669358+00:00"
+    },
+    {
+      "id": "brief-20261022-4035970f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "在地下城尋求邂逅是否搞錯了什麼 Frontier Zero（新發現・高威脅）",
+      "detail": "知名動畫IP改編，橫跨PC與行動平台，具備一定市場吸引力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-22T05:12:23.669358+00:00"
+    },
+    {
+      "id": "brief-20261022-83ac27e4",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "人間異想計畫（新發現・高威脅）",
+      "detail": "騰訊大廠自研UE5開放世界RPG，話題度高，預期會大規模搶佔市場注意力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-22T05:12:23.669358+00:00"
+    },
+    {
+      "id": "brief-20261022-7a757908",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "BioWare關閉《質量效應》取消",
+      "detail": "EA關閉BioWare工作室，取消《質量效應》新作。",
+      "action": "關注業界動態",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-22T05:06:16.608920+00:00"
+    },
+    {
+      "id": "brief-20261022-a0ac661e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《電馭叛客2077》2.5更新",
+      "detail": "免費更新實裝《邊緣行者2》任務、雙持槍械等。",
+      "action": "更新遊戲體驗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-22T05:06:16.608920+00:00"
+    },
+    {
+      "id": "brief-20261022-8f8ee1d3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "多款遊戲緊急維修",
+      "detail": "因PHP資安漏洞，《賽馬娘》等遊戲實施維修。",
+      "action": "留意遊戲公告",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-22T05:06:16.608920+00:00"
+    },
     {
       "id": "brief-20261021-3c4fb189",
       "priority": "urgent",
@@ -122,105 +221,6 @@
       "platform": "console",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-10-21T05:06:20.568173+00:00"
-    },
-    {
-      "id": "brief-20261020-bb9bdfce",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "楓之谷 Classic（新發現・高威脅）",
-      "detail": "國民級經典IP手遊化，擁有龐大懷舊玩家基礎，預期將在韓國市場引起高度關注。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-20T05:09:46.439681+00:00"
-    },
-    {
-      "id": "brief-20261020-83716933",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "赤潮ZeroERA（新發現・高威脅）",
-      "detail": "知名IP衍生作，二次元美術風格與開放世界玩法，且已在中國開啟預註冊，具備一定市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-20T05:09:46.439681+00:00"
-    },
-    {
-      "id": "brief-20261020-d01570a1",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "King's Raid RE:VERSE（新發現・高威脅）",
-      "detail": "經典IP重啟，且主打無角色抽卡機制，可能吸引對傳統抽卡厭倦的玩家，具備一定市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-20T05:09:46.439681+00:00"
-    },
-    {
-      "id": "brief-20261020-893f2ad1",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "賽馬娘洛杉磯活動中止",
-      "detail": "因簽證問題，美國洛杉磯公演正式取消。",
-      "action": "關注後續補償方案",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-20T05:03:39.157209+00:00"
-    },
-    {
-      "id": "brief-20261020-92fdee7d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《絕地求生》新PvE模式",
-      "detail": "《絕地求生》43.2版更新，推出全新合作PvE模式。",
-      "action": "玩家可體驗新模式",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-20T05:03:39.157209+00:00"
-    },
-    {
-      "id": "brief-20261020-26694d49",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《巔峰極速》三週年",
-      "detail": "競速手遊《巔峰極速》三週年慶典開跑，登入免費領獎。",
-      "action": "玩家登入領取獎勵",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-20T05:03:39.157209+00:00"
-    },
-    {
-      "id": "brief-20261019-1fe0059a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "楓之谷：新世界（新發現・高威脅）",
-      "detail": "經典IP改編，Nexon作為大廠，有望吸引大量《楓之谷》老玩家及新玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-19T05:04:42.570524+00:00"
-    },
-    {
-      "id": "brief-20261019-a8576306",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "星塵迴響（新發現・高威脅）",
-      "detail": "米哈遊作為二次元遊戲的領軍者，其新作無論題材如何都將是市場焦點。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-19T05:04:42.570524+00:00"
-    },
-    {
-      "id": "brief-20261019-d3cb9de6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "戀與深空×銀翼殺手",
-      "detail": "聯動活動今日上線，簽到領取獎勵。",
-      "action": "登入領取獎勵",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-19T04:58:44.292126+00:00"
     }
   ]
 }
