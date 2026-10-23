@@ -1,57 +1,87 @@
 {
-  "lastAudit": "2026-10-22T05:07:01.084899+00:00",
-  "totalProducts": 618,
-  "updatesApplied": 43,
-  "issuesFound": 5,
+  "lastAudit": "2026-10-23T05:06:10.125711+00:00",
+  "totalProducts": 626,
+  "updatesApplied": 71,
+  "issuesFound": 10,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "師父 (手機版)",
+      "name": "冰汽時代：最後的家園",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "權力的遊戲：龍火",
+      "status": "error",
+      "issue": "移除: 未找到任何近期上線或營運資訊，且原定上線時間已過，判斷為已取消或無限期延遲。",
+      "autoFixed": false
+    },
+    {
+      "name": "凌雲對決",
       "status": "warning",
       "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "劍俠世界4：無限",
+      "name": "QQ經典農場",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "星際大戰：銀河賽車手",
+      "name": "魔力寶貝：重返法蘭",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "控制- 終極合輯 (手機版)",
+      "name": "RO 仙境傳說世界",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "Elsword Slash",
+      "name": "暗月十二",
+      "status": "error",
+      "issue": "移除: 遊戲已於2026年5月27日終止營運。",
+      "autoFixed": false
+    },
+    {
+      "name": "魔女與龍：光暗篇章",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "尋秦記",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "幻幻靈之戰",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
       "autoFixed": true
     }
   ],
   "checked": [
-    "三國：天下歸心",
-    "地下城與勇士：卡贊",
-    "七界夢譚",
-    "帕萌戰鬥日記",
-    "棕色塵埃2",
-    "師父 (手機版)",
-    "劍俠世界4：無限",
-    "星際大戰：銀河賽車手",
-    "控制- 終極合輯 (手機版)",
-    "詭秘之主：愚者",
-    "魔刻獵手",
-    "Miresi:看不見的未來",
-    "危機曙光",
-    "巨龍與紛爭",
-    "Elsword Slash"
+    "冰汽時代：最後的家園",
+    "遮天世界",
+    "權力的遊戲：龍火",
+    "妖妖棋",
+    "凌雲對決",
+    "Tango 5: The Last Dance",
+    "QQ經典農場",
+    "魔力寶貝：重返法蘭",
+    "RO 仙境傳說世界",
+    "暗月十二",
+    "白日夢：無限世界",
+    "趙雲與阿斗",
+    "魔女與龍：光暗篇章",
+    "尋秦記",
+    "幻幻靈之戰"
   ],
   "nextBatch": [
     "無限大",

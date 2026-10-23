@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-10-22T05:12:23.669358+00:00",
-  "fetchCount": 162,
+  "lastUpdated": "2026-10-23T05:11:30.506353+00:00",
+  "fetchCount": 163,
   "items": [
+    {
+      "id": "brief-20261023-534ccbaf",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Project Octopus（新發現・高威脅）",
+      "detail": "網石發行，改編自《守望傳說》IP，動作Roguelike RPG，具備全球市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-23T05:11:30.506353+00:00"
+    },
+    {
+      "id": "brief-20261023-9d4aeafd",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "MISFITZ（新發現・高威脅）",
+      "detail": "由Supercell和King前開發者打造，首款專為手機設計的撤離射擊遊戲，玩法創新且具備高話題性。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-23T05:11:30.506353+00:00"
+    },
+    {
+      "id": "brief-20261023-eade309d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "VALORANT Mobile（新發現・高威脅）",
+      "detail": "Riot Games的現象級戰術射擊IP手遊化，已在中國市場取得巨大成功，全球版本預期將大規模搶佔市場注意力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-23T05:11:30.506353+00:00"
+    },
+    {
+      "id": "brief-20261023-8c795b46",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Azur Promilia（新發現・高威脅）",
+      "detail": "《碧藍航線》開發商新作，開放世界動作RPG，二次元抽卡要素，多平台發行，在亞洲主要市場同步上線，預期將有極高關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-23T05:11:30.506353+00:00"
+    },
+    {
+      "id": "brief-20261023-15b084e7",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Disney Sparklink Stars（新發現・高威脅）",
+      "detail": "迪士尼IP改編，結合養成與三消玩法，預計在日本市場有較高關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-23T05:11:30.506353+00:00"
+    },
+    {
+      "id": "brief-20261023-1578a27f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "CAPCOM ID資料外洩",
+      "detail": "1177萬人電子信箱外流，遭非法入侵。",
+      "action": "檢查帳號安全",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-23T05:05:50.964152+00:00"
+    },
+    {
+      "id": "brief-20261023-6ca46433",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "宮本茂獲文化勳章",
+      "detail": "任天堂宮本茂獲日本文化勳章，遊戲界首例。",
+      "action": "了解業界新聞",
+      "platform": "N/A",
+      "source": "4Gamers",
+      "fetchedAt": "2026-10-23T05:05:50.964152+00:00"
+    },
     {
       "id": "brief-20261022-02ca70c6",
       "priority": "urgent",
@@ -144,83 +221,6 @@
       "platform": "mobile",
       "source": "模型知識推論",
       "fetchedAt": "2026-10-21T05:13:19.661652+00:00"
-    },
-    {
-      "id": "brief-20261021-3941b5a7",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "洛克人X DiVE 2（新發現・高威脅）",
-      "detail": "經典IP續作，前作表現良好，粉絲期待度高，有望延續成功。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-21T05:13:19.661652+00:00"
-    },
-    {
-      "id": "brief-20261021-a7480dea",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "數碼寶貝：無限進化（新發現・高威脅）",
-      "detail": "知名IP改編，具備廣大粉絲基礎和回憶向吸引力，有望在全球市場取得成功。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-21T05:13:19.661652+00:00"
-    },
-    {
-      "id": "brief-20261021-8ca1d8ef",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "星淵彼岸（新發現・高威脅）",
-      "detail": "新興工作室開發的開放世界二次元抽卡手遊，具備潛力，可能吸引大量二次元玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-21T05:13:19.661652+00:00"
-    },
-    {
-      "id": "brief-20261021-efb2c317",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "爐石戰記新資料片",
-      "detail": "《黑暗帝國霸業》上線，135張新卡與古神大戰",
-      "action": "立即體驗新內容",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-21T05:06:20.568173+00:00"
-    },
-    {
-      "id": "brief-20261021-2c8117cb",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "瑪奇 Mobile x 咒術",
-      "detail": "預告11/4聯名合作，公開預告影片",
-      "action": "觀看預告片",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-21T05:06:20.568173+00:00"
-    },
-    {
-      "id": "brief-20261021-a969fc41",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "FF Resonance將推出",
-      "detail": "《FFBE》改編首款HD-2D作品，10/22發售",
-      "action": "準備體驗新作",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-21T05:06:20.568173+00:00"
-    },
-    {
-      "id": "brief-20261021-485839c2",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "電馭叛客邊緣行者2",
-      "detail": "動畫開播，2077將推2.5版合作更新",
-      "action": "觀看動畫與更新遊戲",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-21T05:06:20.568173+00:00"
     }
   ]
 }
