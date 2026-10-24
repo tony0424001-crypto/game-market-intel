@@ -1,87 +1,63 @@
 {
-  "lastAudit": "2026-10-23T05:06:10.125711+00:00",
-  "totalProducts": 626,
-  "updatesApplied": 71,
-  "issuesFound": 10,
+  "lastAudit": "2026-10-24T04:50:37.562530+00:00",
+  "totalProducts": 631,
+  "updatesApplied": 52,
+  "issuesFound": 6,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "冰汽時代：最後的家園",
+      "name": "NTE：Neverness to Everness",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "權力的遊戲：龍火",
-      "status": "error",
-      "issue": "移除: 未找到任何近期上線或營運資訊，且原定上線時間已過，判斷為已取消或無限期延遲。",
-      "autoFixed": false
-    },
-    {
-      "name": "凌雲對決",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "QQ經典農場",
+      "name": "Legend of YMIR",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "魔力寶貝：重返法蘭",
+      "name": "Crystal of Atlan",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "RO 仙境傳說世界",
+      "name": "ARES: THE IRON VANGUARD",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "暗月十二",
-      "status": "error",
-      "issue": "移除: 遊戲已於2026年5月27日終止營運。",
-      "autoFixed": false
-    },
-    {
-      "name": "魔女與龍：光暗篇章",
+      "name": "星塔旅人",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "尋秦記",
+      "name": "Lumi Master",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "幻幻靈之戰",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
       "autoFixed": true
     }
   ],
   "checked": [
-    "冰汽時代：最後的家園",
-    "遮天世界",
-    "權力的遊戲：龍火",
-    "妖妖棋",
-    "凌雲對決",
-    "Tango 5: The Last Dance",
-    "QQ經典農場",
-    "魔力寶貝：重返法蘭",
-    "RO 仙境傳說世界",
-    "暗月十二",
-    "白日夢：無限世界",
-    "趙雲與阿斗",
-    "魔女與龍：光暗篇章",
-    "尋秦記",
-    "幻幻靈之戰"
+    "萌將刷刷樂",
+    "梦境清理团",
+    "WWM: Heaven's Threshold",
+    "境界-死神激鬥",
+    "NTE：Neverness to Everness",
+    "Legend of YMIR",
+    "Crystal of Atlan",
+    "ARES: THE IRON VANGUARD",
+    "星塔旅人",
+    "Lumi Master",
+    "弱虫ペダル レゾナンス・ペダイズム",
+    "Project:NET",
+    "阿尔法契约",
+    "荒漠沙舟",
+    "梦境守望者"
   ],
   "nextBatch": [
     "無限大",

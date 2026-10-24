@@ -1,7 +1,150 @@
 {
-  "lastUpdated": "2026-10-23T05:11:30.506353+00:00",
-  "fetchCount": 163,
+  "lastUpdated": "2026-10-24T04:53:54.935268+00:00",
+  "fetchCount": 164,
   "items": [
+    {
+      "id": "brief-20261024-3d038bcf",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "狼人殺：月夜推理樂園（新發現・高威脅）",
+      "detail": "基於國民級社交推理IP《狼人殺》，由知名大廠網易開發/運營，具備極高的用戶基礎和市場影響力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
+    },
+    {
+      "id": "brief-20261024-a495dae0",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "三國望神州（新發現・高威脅）",
+      "detail": "改編自大型IP《三國》，開發商彈指宇宙為快手旗下團隊，具備一定資源和推廣能力，且為重點關注的策略RPG品類。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
+    },
+    {
+      "id": "brief-20261024-adfdbc08",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "光明記憶：無限（新發現・高威脅）",
+      "detail": "知名獨立遊戲IP，其PC/主機版已獲好評，手機版為其移植，具備較高知名度和市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
+    },
+    {
+      "id": "brief-20261024-fa72779a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "從前有座花果山（新發現・高威脅）",
+      "detail": "改編自知名IP《西遊記》，開發商掌趣科技為國內知名大廠，具備較強的市場影響力，且包含抽卡玩法。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
+    },
+    {
+      "id": "brief-20261024-58bc22d7",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "境·界刀鳴（新發現・高威脅）",
+      "detail": "知名動漫IP《死神》改編手遊，具備高人氣基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
+    },
+    {
+      "id": "brief-20261024-a894f5ae",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "火影忍者：巔峰對決（新發現・高威脅）",
+      "detail": "知名動漫IP《火影忍者》改編手遊，具備高人氣基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
+    },
+    {
+      "id": "brief-20261024-86cf09da",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "新世紀福音戰士：破曉（新發現・高威脅）",
+      "detail": "經典動漫IP《新世紀福音戰士》改編手遊，具備高人氣基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
+    },
+    {
+      "id": "brief-20261024-ebd1d076",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "BLEACH Mirrors High（新發現・高威脅）",
+      "detail": "知名動漫IP《BLEACH 死神》改編手遊，具備高人氣基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
+    },
+    {
+      "id": "brief-20261024-e099f696",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "奇遇動物城（新發現・高威脅）",
+      "detail": "大廠莉莉絲遊戲新作，具備二次元/抽卡要素，預期有一定市場規模。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
+    },
+    {
+      "id": "brief-20261024-d80d835f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "決勝時刻4今日上市",
+      "detail": "《現代戰爭4》正式開戰，劇情戰役、DMZ模式登場。",
+      "action": "立即體驗遊戲",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-24T04:50:15.737020+00:00"
+    },
+    {
+      "id": "brief-20261024-1578a27f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "CAPCOM ID資料外洩",
+      "detail": "1177萬人電子信箱外流，請檢查帳號安全。",
+      "action": "檢查帳號安全",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-24T04:50:15.737020+00:00"
+    },
+    {
+      "id": "brief-20261024-121d9044",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "薩爾達時之笛試玩",
+      "detail": "Switch 2重製版搶先試玩，全面現代化。 ",
+      "action": "參考試玩報導",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-24T04:50:15.737020+00:00"
+    },
+    {
+      "id": "brief-20261024-0539be51",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "妮姬4週年直播預告",
+      "detail": "《勝利女神：妮姬》4週年特別直播今日登場。",
+      "action": "觀看直播內容",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-24T04:50:15.737020+00:00"
+    },
     {
       "id": "brief-20261023-534ccbaf",
       "priority": "urgent",
@@ -78,149 +221,6 @@
       "platform": "N/A",
       "source": "4Gamers",
       "fetchedAt": "2026-10-23T05:05:50.964152+00:00"
-    },
-    {
-      "id": "brief-20261022-02ca70c6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Project G（新發現・高威脅）",
-      "detail": "知名開發商NHN PlayArt的IP改編RPG新作，具備潛在市場影響力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-22T05:12:23.669358+00:00"
-    },
-    {
-      "id": "brief-20261022-9aa6fc10",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "代號：新斗羅（新發現・高威脅）",
-      "detail": "知名IP「斗羅大陸」改編，由中手遊開發，預期有較高市場關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-22T05:12:23.669358+00:00"
-    },
-    {
-      "id": "brief-20261022-f6d4e5f3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "忍者冒險團（新發現・高威脅）",
-      "detail": "知名IP「火影世界觀」改編，儘管是卡牌遊戲，仍具備高市場吸引力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-22T05:12:23.669358+00:00"
-    },
-    {
-      "id": "brief-20261022-9633204c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "超數據世界（新發現・高威脅）",
-      "detail": "二次元開放世界為重點關注品類，且被列為2026年熱門推薦。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-22T05:12:23.669358+00:00"
-    },
-    {
-      "id": "brief-20261022-4035970f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "在地下城尋求邂逅是否搞錯了什麼 Frontier Zero（新發現・高威脅）",
-      "detail": "知名動畫IP改編，橫跨PC與行動平台，具備一定市場吸引力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-22T05:12:23.669358+00:00"
-    },
-    {
-      "id": "brief-20261022-83ac27e4",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "人間異想計畫（新發現・高威脅）",
-      "detail": "騰訊大廠自研UE5開放世界RPG，話題度高，預期會大規模搶佔市場注意力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-22T05:12:23.669358+00:00"
-    },
-    {
-      "id": "brief-20261022-7a757908",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "BioWare關閉《質量效應》取消",
-      "detail": "EA關閉BioWare工作室，取消《質量效應》新作。",
-      "action": "關注業界動態",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-22T05:06:16.608920+00:00"
-    },
-    {
-      "id": "brief-20261022-a0ac661e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《電馭叛客2077》2.5更新",
-      "detail": "免費更新實裝《邊緣行者2》任務、雙持槍械等。",
-      "action": "更新遊戲體驗",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-22T05:06:16.608920+00:00"
-    },
-    {
-      "id": "brief-20261022-8f8ee1d3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "多款遊戲緊急維修",
-      "detail": "因PHP資安漏洞，《賽馬娘》等遊戲實施維修。",
-      "action": "留意遊戲公告",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-22T05:06:16.608920+00:00"
-    },
-    {
-      "id": "brief-20261021-3c4fb189",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "萬物契約（新發現・高威脅）",
-      "detail": "疊紙遊戲新作，奇幻動作RPG，具備大廠資源和多平台發行潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-21T05:13:19.661652+00:00"
-    },
-    {
-      "id": "brief-20261021-2e9f35e6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "劍俠情緣：緣起（新發現・高威脅）",
-      "detail": "經典武俠IP手遊化，在華人市場有深厚情感基礎，版號已獲批，具備高潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-21T05:13:19.661652+00:00"
-    },
-    {
-      "id": "brief-20261021-aac5c699",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "代號：天啟（新發現・高威脅）",
-      "detail": "網易大型開放世界生存手遊，具備大廠資源和潛力，有望吸引大量生存遊戲愛好者。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-21T05:13:19.661652+00:00"
-    },
-    {
-      "id": "brief-20261021-f3b344ef",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "代號：起源（新發現・高威脅）",
-      "detail": "騰訊旗艦級MMORPG新作，預期投入大量資源並搶佔市場，具備極高威脅性。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-10-21T05:13:19.661652+00:00"
     }
   ]
 }
