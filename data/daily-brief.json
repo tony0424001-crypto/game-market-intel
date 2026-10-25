@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-10-24T04:53:54.935268+00:00",
-  "fetchCount": 164,
+  "lastUpdated": "2026-10-25T05:05:23.187270+00:00",
+  "fetchCount": 165,
   "items": [
+    {
+      "id": "brief-20261025-d97685f6",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "終極角逐（新發現・高威脅）",
+      "detail": "騰訊出品，競技類遊戲在手遊市場具備巨大潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-25T05:05:23.187270+00:00"
+    },
+    {
+      "id": "brief-20261025-a8ed43b0",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "漫威秘法狂潮（新發現・高威脅）",
+      "detail": "國際知名IP「漫威」改編，由中國大廠網易雷火開發，預期將有高製作水準與廣泛市場吸引力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-25T05:05:23.187270+00:00"
+    },
+    {
+      "id": "brief-20261025-de6d7f96",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《決勝時刻4》上市",
+      "detail": "普萊斯復仇路！《現代戰爭4》今日上市，經典槍戰開戰。",
+      "action": "立即體驗新作",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-25T04:59:50.905285+00:00"
+    },
+    {
+      "id": "brief-20261025-92fa4ff9",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《妮姬》4週年更新",
+      "detail": "妮姬4週年活動10/29上線，新妮姬與華山特展。",
+      "action": "準備迎接新內容",
+      "platform": "mobile",
+      "source": "4Gamers",
+      "fetchedAt": "2026-10-25T04:59:50.905285+00:00"
+    },
+    {
+      "id": "brief-20261025-157ef31c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《幕府將軍2》停售",
+      "detail": "《全軍破敵2完整版》負評停售，副總裁致歉。",
+      "action": "了解停售原因",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-10-25T04:59:50.905285+00:00"
+    },
     {
       "id": "brief-20261024-3d038bcf",
       "priority": "urgent",
@@ -157,70 +212,15 @@
       "fetchedAt": "2026-10-23T05:11:30.506353+00:00"
     },
     {
-      "id": "brief-20261023-9d4aeafd",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "MISFITZ（新發現・高威脅）",
-      "detail": "由Supercell和King前開發者打造，首款專為手機設計的撤離射擊遊戲，玩法創新且具備高話題性。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-23T05:11:30.506353+00:00"
-    },
-    {
-      "id": "brief-20261023-eade309d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "VALORANT Mobile（新發現・高威脅）",
-      "detail": "Riot Games的現象級戰術射擊IP手遊化，已在中國市場取得巨大成功，全球版本預期將大規模搶佔市場注意力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-23T05:11:30.506353+00:00"
-    },
-    {
-      "id": "brief-20261023-8c795b46",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Azur Promilia（新發現・高威脅）",
-      "detail": "《碧藍航線》開發商新作，開放世界動作RPG，二次元抽卡要素，多平台發行，在亞洲主要市場同步上線，預期將有極高關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-23T05:11:30.506353+00:00"
-    },
-    {
-      "id": "brief-20261023-15b084e7",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Disney Sparklink Stars（新發現・高威脅）",
-      "detail": "迪士尼IP改編，結合養成與三消玩法，預計在日本市場有較高關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-23T05:11:30.506353+00:00"
-    },
-    {
-      "id": "brief-20261023-1578a27f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "CAPCOM ID資料外洩",
-      "detail": "1177萬人電子信箱外流，遭非法入侵。",
-      "action": "檢查帳號安全",
+      "id": "brief-20261025-6ca46433",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "宮本茂獲文化勳章",
+      "detail": "瑪利歐之父宮本茂獲日本文化勳章，遊戲界首位。",
+      "action": "關注遊戲界榮耀",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-23T05:05:50.964152+00:00"
-    },
-    {
-      "id": "brief-20261023-6ca46433",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "宮本茂獲文化勳章",
-      "detail": "任天堂宮本茂獲日本文化勳章，遊戲界首例。",
-      "action": "了解業界新聞",
-      "platform": "N/A",
-      "source": "4Gamers",
-      "fetchedAt": "2026-10-23T05:05:50.964152+00:00"
+      "fetchedAt": "2026-10-25T04:59:50.905285+00:00"
     }
   ]
 }

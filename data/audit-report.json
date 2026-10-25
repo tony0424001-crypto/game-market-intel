@@ -1,63 +1,69 @@
 {
-  "lastAudit": "2026-10-24T04:50:37.562530+00:00",
-  "totalProducts": 631,
-  "updatesApplied": 52,
-  "issuesFound": 6,
+  "lastAudit": "2026-10-25T05:00:09.143638+00:00",
+  "totalProducts": 646,
+  "updatesApplied": 59,
+  "issuesFound": 7,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "NTE：Neverness to Everness",
+      "name": "攻城三国志",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "Legend of YMIR",
+      "name": "卧龙吟2",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "神泣紛爭",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "Crystal of Atlan",
+      "name": "龍之谷啟程",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "ARES: THE IRON VANGUARD",
+      "name": "沙巴克傳奇",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "星塔旅人",
+      "name": "不良人幻想",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: announced→announced",
       "autoFixed": true
     },
     {
-      "name": "Lumi Master",
+      "name": "此田山海间",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: announced→announced",
       "autoFixed": true
     }
   ],
   "checked": [
-    "萌將刷刷樂",
-    "梦境清理团",
-    "WWM: Heaven's Threshold",
-    "境界-死神激鬥",
-    "NTE：Neverness to Everness",
-    "Legend of YMIR",
-    "Crystal of Atlan",
-    "ARES: THE IRON VANGUARD",
-    "星塔旅人",
-    "Lumi Master",
-    "弱虫ペダル レゾナンス・ペダイズム",
-    "Project:NET",
-    "阿尔法契约",
-    "荒漠沙舟",
-    "梦境守望者"
+    "攻城三国志",
+    "卧龙吟2",
+    "鋼彈激戰指令",
+    "神泣紛爭",
+    "龍之谷啟程",
+    "沙巴克傳奇",
+    "榮耀出征點卡版",
+    "魔力寶貝手遊新作",
+    "大富翁系列手機遊戲新作",
+    "火影忍者手遊 (全球版)",
+    "奧術扳機",
+    "PROJECT N (閃亂神樂系列新作)",
+    "诡秘之主：愚者",
+    "不良人幻想",
+    "此田山海间"
   ],
   "nextBatch": [
     "無限大",
