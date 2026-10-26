@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-10-25T05:05:23.187270+00:00",
-  "fetchCount": 165,
+  "lastUpdated": "2026-10-26T05:03:51.200500+00:00",
+  "fetchCount": 166,
   "items": [
+    {
+      "id": "brief-20261026-20258061",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《決勝時刻4》今日上市",
+      "detail": "普萊斯踏上復仇路，全新戰役與DMZ模式正式開戰。",
+      "action": "立即體驗新作",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-26T05:03:51.200500+00:00"
+    },
+    {
+      "id": "brief-20261026-f1735120",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《蔚藍檔案》日版移交",
+      "detail": "Yostar宣布2027年將日版營運移交NEXON。",
+      "action": "留意營運公告",
+      "platform": "mobile",
+      "source": "4Gamers",
+      "fetchedAt": "2026-10-26T05:03:51.200500+00:00"
+    },
+    {
+      "id": "brief-20261026-a789bab8",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《幕府將軍2》慘遭停售",
+      "detail": "遊戲獲壓倒性負評，官方致歉並全面下架。",
+      "action": "了解停售原因",
+      "platform": "PC",
+      "source": "4Gamers",
+      "fetchedAt": "2026-10-26T05:03:51.200500+00:00"
+    },
     {
       "id": "brief-20261025-d97685f6",
       "priority": "urgent",
@@ -157,70 +190,37 @@
       "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
     },
     {
-      "id": "brief-20261024-d80d835f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "決勝時刻4今日上市",
-      "detail": "《現代戰爭4》正式開戰，劇情戰役、DMZ模式登場。",
-      "action": "立即體驗遊戲",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-24T04:50:15.737020+00:00"
-    },
-    {
-      "id": "brief-20261024-1578a27f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "CAPCOM ID資料外洩",
-      "detail": "1177萬人電子信箱外流，請檢查帳號安全。",
-      "action": "檢查帳號安全",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-24T04:50:15.737020+00:00"
-    },
-    {
-      "id": "brief-20261024-121d9044",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "薩爾達時之笛試玩",
-      "detail": "Switch 2重製版搶先試玩，全面現代化。 ",
-      "action": "參考試玩報導",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-24T04:50:15.737020+00:00"
-    },
-    {
-      "id": "brief-20261024-0539be51",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "妮姬4週年直播預告",
-      "detail": "《勝利女神：妮姬》4週年特別直播今日登場。",
-      "action": "觀看直播內容",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-24T04:50:15.737020+00:00"
-    },
-    {
-      "id": "brief-20261023-534ccbaf",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Project Octopus（新發現・高威脅）",
-      "detail": "網石發行，改編自《守望傳說》IP，動作Roguelike RPG，具備全球市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-23T05:11:30.506353+00:00"
-    },
-    {
-      "id": "brief-20261025-6ca46433",
+      "id": "brief-20261026-6ca46433",
       "priority": "watch",
       "icon": "👁",
       "title": "宮本茂獲文化勳章",
-      "detail": "瑪利歐之父宮本茂獲日本文化勳章，遊戲界首位。",
-      "action": "關注遊戲界榮耀",
+      "detail": "《瑪利歐》之父成遊戲界首位獲日本文化勳章者。",
+      "action": "認識業界傳奇",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-25T04:59:50.905285+00:00"
+      "fetchedAt": "2026-10-26T05:03:51.200500+00:00"
+    },
+    {
+      "id": "brief-20261026-0d7bd400",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《FF RESONANCE》破紀錄",
+      "detail": "Steam同上峰值超越《FF7重生》，刷新PC單機紀錄。",
+      "action": "關注遊戲熱度",
+      "platform": "PC",
+      "source": "4Gamers",
+      "fetchedAt": "2026-10-26T05:03:51.200500+00:00"
+    },
+    {
+      "id": "brief-20261026-c1650451",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "《妮姬》4週年新內容",
+      "detail": "直播預告「瑪麗安：女王」、「紅蓮：弒神」等新妮姬。",
+      "action": "查看更新詳情",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-26T05:03:51.200500+00:00"
     }
   ]
 }
