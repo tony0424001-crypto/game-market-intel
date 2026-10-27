@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-10-26T05:03:51.200500+00:00",
-  "fetchCount": 166,
+  "lastUpdated": "2026-10-27T05:24:24.421873+00:00",
+  "fetchCount": 167,
   "items": [
+    {
+      "id": "brief-20261027-686d6582",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "元氣百響（新發現・高威脅）",
+      "detail": "二次元畫風、音樂格鬥與RPG結合，具備Roguelike和策略元素，對二次元玩家有較強吸引力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
+    },
+    {
+      "id": "brief-20261027-0a6e1b36",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "狹道英雄（新發現・高威脅）",
+      "detail": "知名大廠多益網絡出品，Roguelike冒險RPG類型，具備策略性和收集元素，市場潛力較高。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
+    },
+    {
+      "id": "brief-20261027-37ef7448",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "夢幻飛飛飛（新發現・高威脅）",
+      "detail": "極有可能為《飛飛》IP改編，該IP擁有大量粉絲基礎，若為MMORPG則市場潛力巨大。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
+    },
+    {
+      "id": "brief-20261027-12646790",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "黑龍風暴（新發現・高威脅）",
+      "detail": "知名大廠愷英網絡的MMORPG新作，此類遊戲通常投入巨大且目標市場廣闊，具備現象級潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
+    },
+    {
+      "id": "brief-20261027-657bacfc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "古荒遺蹟2（新發現・高威脅）",
+      "detail": "知名大廠4399開發，為現有遊戲續作，Roguelike RPG類型通常包含角色或裝備收集，具備較高市場關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
+    },
+    {
+      "id": "brief-20261027-ba1e21ae",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "此處必有妖（新發現・高威脅）",
+      "detail": "知名大廠三七互娛旗下產品，遊戲名稱具備二次元/抽卡品類潛力，預計為奇幻RPG。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
+    },
+    {
+      "id": "brief-20261027-2867d24c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "超級新寵物（新發現・高威脅）",
+      "detail": "改編自知名IP（西遊記），且寵物養成類遊戲常包含抽卡機制，具備較高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
+    },
+    {
+      "id": "brief-20261027-b40f0239",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "宮本茂獲日本文化勳章",
+      "detail": "《瑪利歐》之父宮本茂獲日本文化勳章，遊戲界首位。",
+      "action": "了解遊戲界最高榮譽",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-27T05:19:25.863779+00:00"
+    },
+    {
+      "id": "brief-20261027-dc919360",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《影之刃 零》試玩",
+      "detail": "動作RPG《影之刃 零》實機試玩，甄子丹武指加持。",
+      "action": "準備體驗武俠新作",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-27T05:19:25.863779+00:00"
+    },
+    {
+      "id": "brief-20261027-0c3ad68d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《Pokemon GO》萬聖節",
+      "detail": "《Pokemon GO》萬聖節活動登場，新扮裝寶可夢。",
+      "action": "參與季節限定活動",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-27T05:19:25.863779+00:00"
+    },
     {
       "id": "brief-20261026-20258061",
       "priority": "urgent",
@@ -111,116 +221,6 @@
       "platform": "mobile",
       "source": "版號公示",
       "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
-    },
-    {
-      "id": "brief-20261024-adfdbc08",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "光明記憶：無限（新發現・高威脅）",
-      "detail": "知名獨立遊戲IP，其PC/主機版已獲好評，手機版為其移植，具備較高知名度和市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
-    },
-    {
-      "id": "brief-20261024-fa72779a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "從前有座花果山（新發現・高威脅）",
-      "detail": "改編自知名IP《西遊記》，開發商掌趣科技為國內知名大廠，具備較強的市場影響力，且包含抽卡玩法。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
-    },
-    {
-      "id": "brief-20261024-58bc22d7",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "境·界刀鳴（新發現・高威脅）",
-      "detail": "知名動漫IP《死神》改編手遊，具備高人氣基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
-    },
-    {
-      "id": "brief-20261024-a894f5ae",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "火影忍者：巔峰對決（新發現・高威脅）",
-      "detail": "知名動漫IP《火影忍者》改編手遊，具備高人氣基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
-    },
-    {
-      "id": "brief-20261024-86cf09da",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "新世紀福音戰士：破曉（新發現・高威脅）",
-      "detail": "經典動漫IP《新世紀福音戰士》改編手遊，具備高人氣基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
-    },
-    {
-      "id": "brief-20261024-ebd1d076",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "BLEACH Mirrors High（新發現・高威脅）",
-      "detail": "知名動漫IP《BLEACH 死神》改編手遊，具備高人氣基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
-    },
-    {
-      "id": "brief-20261024-e099f696",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "奇遇動物城（新發現・高威脅）",
-      "detail": "大廠莉莉絲遊戲新作，具備二次元/抽卡要素，預期有一定市場規模。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
-    },
-    {
-      "id": "brief-20261026-6ca46433",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "宮本茂獲文化勳章",
-      "detail": "《瑪利歐》之父成遊戲界首位獲日本文化勳章者。",
-      "action": "認識業界傳奇",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-26T05:03:51.200500+00:00"
-    },
-    {
-      "id": "brief-20261026-0d7bd400",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《FF RESONANCE》破紀錄",
-      "detail": "Steam同上峰值超越《FF7重生》，刷新PC單機紀錄。",
-      "action": "關注遊戲熱度",
-      "platform": "PC",
-      "source": "4Gamers",
-      "fetchedAt": "2026-10-26T05:03:51.200500+00:00"
-    },
-    {
-      "id": "brief-20261026-c1650451",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "《妮姬》4週年新內容",
-      "detail": "直播預告「瑪麗安：女王」、「紅蓮：弒神」等新妮姬。",
-      "action": "查看更新詳情",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-26T05:03:51.200500+00:00"
     }
   ]
 }

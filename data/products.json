@@ -31548,35 +31548,61 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "知名大廠完美世界出品，經典仙俠IP改編，具備穩定受眾和市場號召力。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "待定",
+    "sentiment": 85,
+    "launchEst": "2026-09-03",
     "desc": "完美世界旗下知名IP「誅仙」的MMORPG手遊新版本，可能為更輕量化的體驗。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名大廠完美世界出品，經典仙俠IP改編，具備穩定受眾和市場號召力。",
+    "threatAnalysis": "【high】完美世界旗下誅仙IP新作，已於2026年9月3日公測。遊戲主打「輕量化」體驗，強調30分鐘日常、永久69級上限，並取消傳統戰寵打書與裝備打造，獲得玩家正面評價（App Store評分4.7）。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲營收與玩家活躍數據，評估其在輕量化賽道的長期表現。\n(2). 關注其內容更新與賽季制活動，分析對玩家留存的影響。\n(3). 評估其對同類回合制手遊市場的衝擊。",
     "verified": "版號雷達 (2026-10-18)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "testDateEnd": "2026-06-03",
+    "sourceLinks": [
+      {
+        "label": "Microsoft Store",
+        "url": "https://www.microsoft.com/zh-cn/p/%E6%A2%A6%E5%B9%BB%E6%96%B0%E8%AF%9B%E4%BB%99%EF%BC%9A%E8%BD%BB%E4%BA%AB/9p4713831818"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/cn/app/%E6%A2%A6%E5%B9%BB%E6%96%B0%E8%AF%9B%E4%BB%99-%E8%BD%BB%E4%BA%AB/id6446340523"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "live-ops",
+        "launchDate": "2026-09-03",
+        "platforms": [
+          "iOS",
+          "Android",
+          "PC"
+        ]
+      }
+    ],
     "history": [
       {
         "date": "2026-10",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-10-18",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-18",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲已於2026年9月3日全平台公測，主打輕量化體驗，日常任務30分鐘完成，等級上限永久69級。",
+    "eventNote": "遊戲已於2026年9月3日全平台公測，主打輕量化體驗，日常任務30分鐘完成，等級上限永久69級。"
   },
   {
     "id": 595,
@@ -31601,7 +31627,7 @@
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名遊戲公司出品，仙俠題材在中國市場有一定受眾基礎。",
+    "threatAnalysis": "【medium】目前無新資訊，維持原評估。\n\n▶ 建議行動：\n(1). 持續關注開發商吉比特旗下雷霆遊戲的官方公告，尋找新的測試或上線資訊。\n(2). 監測行業新聞，看是否有相關爆料或版號進展。",
     "verified": "版號雷達 (2026-10-18)",
     "category": "active",
     "testType": "待確認",
@@ -31615,9 +31641,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-18",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-18",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -31644,7 +31670,7 @@
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名移動遊戲發行商出品，在女性向或特定RPG市場有一定影響力。",
+    "threatAnalysis": "【medium】目前無新資訊，維持原評估。\n\n▶ 建議行動：\n(1). 持續關注開發商蘇州好玩友網絡科技有限公司的官方公告，尋找新的測試或上線資訊。\n(2). 監測行業新聞，看是否有相關爆料或版號進展。",
     "verified": "版號雷達 (2026-10-18)",
     "category": "active",
     "testType": "待確認",
@@ -31658,9 +31684,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-18",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-18",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -31687,7 +31713,7 @@
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】米哈遊作為二次元遊戲的領軍者，其新作無論題材如何都將是市場焦點。",
+    "threatAnalysis": "【critical】目前無新資訊，維持原評估。米哈遊新作，潛在威脅極高。\n\n▶ 建議行動：\n(1). 持續密切關注米哈遊官方發布的任何消息，包括測試、宣傳、預約等。\n(2). 監測遊戲媒體和社群討論，評估其話題熱度與玩家期待值。",
     "verified": "Agent 發現 (2026-10-19)",
     "category": "active",
     "testType": "待確認",
@@ -31701,9 +31727,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-19",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -31730,7 +31756,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】經典IP改編，Nexon作為大廠，有望吸引大量《楓之谷》老玩家及新玩家。",
+    "threatAnalysis": "【high】目前無新資訊，維持原評估。請注意此遊戲與「楓之谷 Classic」為不同產品。\n\n▶ 建議行動：\n(1). 釐清此遊戲與「楓之谷 Classic」的區別，避免混淆。\n(2). 持續關注Nexon官方發布的任何關於「楓之谷：新世界」的消息。",
     "verified": "Agent 發現 (2026-10-19)",
     "category": "active",
     "testType": "待確認",
@@ -31760,9 +31786,9 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-10-19",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-19",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -31789,31 +31815,45 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名IP改編，但益智類遊戲市場競爭激烈，且主要針對日本市場。",
+    "threatAnalysis": "【medium】拉拉熊IP新作益智遊戲，已於2026年10月20日開啟日本地區事前登錄，預計2027年初上線。作為休閒益智類遊戲，具備IP影響力，但市場競爭激烈。\n\n▶ 建議行動：\n(1). 追蹤事前登錄人數與後續宣傳活動，評估其市場熱度。\n(2). 關注遊戲上線後的初期營收表現，判斷其在休閒遊戲市場的潛力。",
     "verified": "Agent 發現 (2026-10-20)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "預約網站",
+        "url": "https://rilakkuma-puzzle.com"
+      }
+    ],
     "launchRegions": [
       {
         "region": "JP",
-        "status": "預註冊",
-        "date": "2027年初"
+        "status": "pre-reg",
+        "launchDate": "2027-Q1",
+        "platforms": [
+          "iOS",
+          "Android"
+        ]
       }
     ],
     "history": [
       {
         "date": "2026-10",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-10-20",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-20",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2026年10月20日開啟事前登錄，預計2027年初在日本上線。"
   },
   {
     "id": 600,
@@ -31833,19 +31873,24 @@
     "threat": "high",
     "threatReason": "經典IP重啟，且主打無角色抽卡機制，可能吸引對傳統抽卡厭倦的玩家，具備一定市場潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "待確認",
     "desc": "經典角色收集RPG《King's Raid》的全球重啟版本，保留原有世界觀與角色，並進行平衡與優化，主打無角色抽卡機制。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】經典IP重啟，且主打無角色抽卡機制，可能吸引對傳統抽卡厭倦的玩家，具備一定市場潛力。",
+    "threatAnalysis": "【high】《King's Raid RE:VERSE》已於2026年4月完成第二次封閉測試。作為知名IP的續作，儘管測試已結束，但尚未公布確切上線日期，仍具備一定市場關注度。\n\n▶ 建議行動：\n(1). 持續關注官方發布的最新消息，特別是關於正式上線日期的公告。\n(2). 監測玩家社群對測試反饋的討論，評估遊戲潛在的優勢與劣勢。",
     "verified": "Agent 發現 (2026-10-20)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-04-24",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2299690/KINGs_RAID_REVERSE/"
+      }
+    ],
     "launchRegions": [
       {
         "region": "Global",
@@ -31857,13 +31902,18 @@
       {
         "date": "2026-10",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-10-20",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-20",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "遊戲已於2026年4月7日至4月24日進行第二次封閉測試（CBT）。"
   },
   {
     "id": 601,
@@ -31877,21 +31927,21 @@
       "PC",
       "Mobile"
     ],
-    "region": "JP/Global",
+    "region": "JP",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
-    "threatReason": "知名IP改編，但放置型玩法與已在日本上線，全球市場表現仍待觀察。",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "遊戲已在日本成功上線並取得可觀營收，市場表現優於原先預期。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "sentiment": 80,
+    "launchEst": "2025-09-03",
     "desc": "《Muv-Luv》系列新作，一款放置型抽卡RPG，玩家將指揮駕駛巨大人形機甲的少女們探索地下迷宮。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】知名IP改編，但放置型玩法與已在日本上線，全球市場表現仍待觀察。",
+    "threatAnalysis": "【high】《Muv-Luv Girls Garden》已於2025年9月3日在日本上線，並在初期取得了良好的營收表現。原先預計2026年Q4上線的資訊已過時，遊戲已進入長期營運階段。有消息指出可能於2026年Q4推出全球版本。\n\n▶ 建議行動：\n(1). 密切追蹤其在日本市場的長期營收與玩家活躍度，評估其穩定性。\n(2). 關注全球版本的推出進度與宣傳策略，評估其對國際市場的潛在影響。",
     "verified": "Agent 發現 (2026-10-20)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
@@ -31899,26 +31949,31 @@
     "launchRegions": [
       {
         "region": "JP",
-        "status": "已上線",
-        "date": "2025-09-03"
-      },
-      {
-        "region": "Global",
-        "status": "未上線",
-        "date": "2026-Q4"
+        "status": "live-ops",
+        "launchDate": "2025-09-03",
+        "platforms": [
+          "PC",
+          "Android"
+        ]
       }
     ],
     "history": [
       {
         "date": "2026-10",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-10-20",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-20",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "遊戲已於2025年9月3日在日本地區PC (DMM Games) 和Android平台正式上線，並包含R-18版本。遊戲在2025年11月獲得了可觀的營收。",
+    "eventNote": "遊戲已於2025年9月3日在日本地區PC (DMM Games) 和Android平台正式上線，並包含R-18版本。遊戲在2025年11月獲得了可觀的營收。"
   },
   {
     "id": 602,
@@ -31938,13 +31993,13 @@
     "threat": "high",
     "threatReason": "知名IP衍生作，二次元美術風格與開放世界玩法，且已在中國開啟預註冊，具備一定市場潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "2026-Q4 / 2027-Q1",
     "desc": "《赤潮》IP衍生作，一款2.5D開放世界角色扮演遊戲，以末日世界與少年角色為特色，結合即時戰鬥與基地建設。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】知名IP衍生作，二次元美術風格與開放世界玩法，且已在中國開啟預註冊，具備一定市場潛力。",
+    "threatAnalysis": "【high】《赤潮ZeroERA》是一款主打「全正太角色」的2.5D橫版箱庭回合制冒險遊戲，已於2024年3月取得中國版號。遊戲目前處於預約階段，預計2026年Q4或2027年Q1上線。其獨特的角色設定在特定玩家群體中引起高度關注。\n\n▶ 建議行動：\n(1). 密切關注其上線時間與初期市場反響，特別是其獨特美術風格的接受度。\n(2). 評估其在二次元細分市場的潛力與競爭力。",
     "verified": "Agent 發現 (2026-10-20)",
     "category": "active",
     "testType": "待確認",
@@ -31954,8 +32009,22 @@
     "launchRegions": [
       {
         "region": "CN",
-        "status": "預註冊",
-        "date": "2026-03-27"
+        "status": "pre-reg",
+        "launchDate": "2026-Q4 / 2027-Q1",
+        "platforms": [
+          "iOS",
+          "Android",
+          "PC"
+        ]
+      },
+      {
+        "region": "Global",
+        "status": "announced",
+        "launchDate": "2025+",
+        "platforms": [
+          "PC",
+          "Mobile"
+        ]
       }
     ],
     "history": [
@@ -31964,11 +32033,12 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-10-20",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-20",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "遊戲已於2024年3月取得中國版號。目前仍處於預約階段，預計2026年下半年（Q4）或2027年Q1上線。"
   },
   {
     "id": 603,
@@ -31981,43 +32051,52 @@
     "platform": [
       "Mobile"
     ],
-    "region": "KR",
+    "region": "Global",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "國民級經典IP手遊化，擁有龐大懷舊玩家基礎，預期將在韓國市場引起高度關注。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-10",
+    "sentiment": 85,
+    "launchEst": "2026-10-21",
     "desc": "經典MMORPG《楓之谷》的行動版新作，旨在重現懷舊體驗，預計於韓國市場推出。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】國民級經典IP手遊化，擁有龐大懷舊玩家基礎，預期將在韓國市場引起高度關注。",
+    "threatAnalysis": "【high】Nexon旗下《楓之谷 Classic World》已於2026年10月21日正式上線，為全球玩家帶來懷舊體驗。作為經典IP的復刻版，憑藉其龐大的粉絲基礎和懷舊情懷，預計將在市場上引起巨大反響。\n\n▶ 建議行動：\n(1). 密切追蹤遊戲上線後的玩家活躍度、營收數據及社群討論熱度。\n(2). 評估其對現有MMORPG市場，特別是其他懷舊服產品的影響。",
     "verified": "Agent 發現 (2026-10-20)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
     "sourceLinks": [],
     "launchRegions": [
       {
-        "region": "KR",
-        "status": "未上線",
-        "date": "2026-10-21"
+        "region": "Global",
+        "status": "live-ops",
+        "launchDate": "2026-10-21",
+        "platforms": [
+          "PC"
+        ]
       }
     ],
     "history": [
       {
         "date": "2026-10",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-10-20",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-20",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "《MapleStory Classic World》已於2026年10月21日正式上線。付費創始人禮包玩家可於10月6日提前體驗。",
+    "eventNote": "《MapleStory Classic World》已於2026年10月21日正式上線。付費創始人禮包玩家可於10月6日提前體驗。"
   },
   {
     "id": 604,
@@ -32042,7 +32121,7 @@
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】新興工作室開發的開放世界二次元抽卡手遊，具備潛力，可能吸引大量二次元玩家。",
+    "threatAnalysis": "【high】目前無新資訊，維持原評估。\n\n▶ 建議行動：\n(1). 持續關注新興工作室的官方公告，尋找新的測試或上線資訊。\n(2). 監測行業新聞，看是否有相關爆料或版號進展。",
     "verified": "Agent 發現 (2026-10-21)",
     "category": "active",
     "testType": "待確認",
@@ -32056,9 +32135,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-21",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-21",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -32085,7 +32164,7 @@
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】二次元風格動作RPG，市場表現有待觀察，但具備一定吸引力。",
+    "threatAnalysis": "【medium】目前無新資訊，維持原評估。\n\n▶ 建議行動：\n(1). 持續關注中國中型開發商的官方公告，尋找新的測試或上線資訊。\n(2). 監測行業新聞，看是否有相關爆料或版號進展。",
     "verified": "Agent 發現 (2026-10-21)",
     "category": "active",
     "testType": "待確認",
@@ -32099,9 +32178,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-21",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-21",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -32128,7 +32207,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名IP改編，具備廣大粉絲基礎和回憶向吸引力，有望在全球市場取得成功。",
+    "threatAnalysis": "【high】目前無新資訊，維持原評估。萬代南夢宮旗下IP新作，潛在威脅高。\n\n▶ 建議行動：\n(1). 持續關注Bandai Namco官方發布的任何消息，包括測試、宣傳、預約等。\n(2). 監測遊戲媒體和社群討論，評估其話題熱度與玩家期待值。",
     "verified": "Agent 發現 (2026-10-21)",
     "category": "active",
     "testType": "待確認",
@@ -32142,9 +32221,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-21",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-21",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -32171,7 +32250,7 @@
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】經典IP續作，前作表現良好，粉絲期待度高，有望延續成功。",
+    "threatAnalysis": "【high】目前無新資訊，維持原評估。Capcom旗下IP新作，潛在威脅高。\n\n▶ 建議行動：\n(1). 持續關注Capcom官方發布的任何消息，包括測試、宣傳、預約等。\n(2). 監測遊戲媒體和社群討論，評估其話題熱度與玩家期待值。",
     "verified": "Agent 發現 (2026-10-21)",
     "category": "active",
     "testType": "待確認",
@@ -32185,9 +32264,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-21",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-21",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -32214,7 +32293,7 @@
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】騰訊旗艦級MMORPG新作，預期投入大量資源並搶佔市場，具備極高威脅性。",
+    "threatAnalysis": "【critical】目前無新資訊，維持原評估。騰訊旗下新作，潛在威脅極高。\n\n▶ 建議行動：\n(1). 持續密切關注Tencent官方發布的任何消息，包括測試、宣傳、預約等。\n(2). 監測遊戲媒體和社群討論，評估其話題熱度與玩家期待值。",
     "verified": "Agent 發現 (2026-10-21)",
     "category": "active",
     "testType": "待確認",
@@ -32228,9 +32307,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-21",
+    "updatedAt": "2026-10-27",
     "addedAt": "2026-10-21",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-27",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -34253,6 +34332,350 @@
     ],
     "updatedAt": "2026-10-25",
     "addedAt": "2026-10-25",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 652,
+    "name": "超級新寵物",
+    "nameEn": "",
+    "developer": "廣州市方巨網絡科技有限公司",
+    "studio": "廣州市方巨網絡科技有限公司",
+    "publisher": "廣州市方巨網絡科技有限公司",
+    "genre": "寵物養成RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "改編自知名IP（西遊記），且寵物養成類遊戲常包含抽卡機制，具備較高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款Q版萌系回合制策略手遊，以經典西遊記世界觀為基礎，主打寵物養成與策略戰鬥。 [cite: 3, 10 (previous turn)]",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】改編自知名IP（西遊記），且寵物養成類遊戲常包含抽卡機制，具備較高市場潛力。",
+    "verified": "版號雷達 (2026-10-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-27",
+    "addedAt": "2026-10-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 653,
+    "name": "超迷足球",
+    "nameEn": "",
+    "developer": "上海零越網絡科技有限公司",
+    "studio": "上海零越網絡科技有限公司",
+    "publisher": "上海零越網絡科技有限公司",
+    "genre": "足球卡牌競技",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "擁有FIFPro大型IP授權，卡牌遊戲模式可能涉及抽卡元素，對足球愛好者有吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款獲得FIFPro正版授權的足球卡牌競技遊戲，核心玩法為陣容搭配與團隊經營。 [cite: 1 (previous turn), 5 (previous turn), 6 (previous turn), 7 (previous turn), 15 (previous turn)]",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】擁有FIFPro大型IP授權，卡牌遊戲模式可能涉及抽卡元素，對足球愛好者有吸引力。",
+    "verified": "版號雷達 (2026-10-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-27",
+    "addedAt": "2026-10-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 654,
+    "name": "此處必有妖",
+    "nameEn": "",
+    "developer": "廣州趣虎網絡科技有限公司",
+    "studio": "廣州趣虎網絡科技有限公司",
+    "publisher": "廣州趣虎網絡科技有限公司",
+    "genre": "奇幻RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名大廠三七互娛旗下產品，遊戲名稱具備二次元/抽卡品類潛力，預計為奇幻RPG。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "由知名大廠三七互娛旗下公司開發，遊戲名稱暗示奇幻題材，可能包含妖精或生物收集元素。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名大廠三七互娛旗下產品，遊戲名稱具備二次元/抽卡品類潛力，預計為奇幻RPG。",
+    "verified": "版號雷達 (2026-10-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-27",
+    "addedAt": "2026-10-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 655,
+    "name": "古荒遺蹟2",
+    "nameEn": "",
+    "developer": "廣州四三九九信息科技有限公司",
+    "studio": "廣州四三九九信息科技有限公司",
+    "publisher": "廣州四三九九信息科技有限公司",
+    "genre": "暗黑風格鬥冒險RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名大廠4399開發，為現有遊戲續作，Roguelike RPG類型通常包含角色或裝備收集，具備較高市場關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款暗黑風格鬥冒險Roguelike RPG，為《古荒遺蹟》續作，主打橫版地牢探索與戰鬥。 [cite: 6 (previous turn), 21 (previous turn), 26 (previous turn)]",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名大廠4399開發，為現有遊戲續作，Roguelike RPG類型通常包含角色或裝備收集，具備較高市場關注度。",
+    "verified": "版號雷達 (2026-10-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-27",
+    "addedAt": "2026-10-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 656,
+    "name": "黑龍風暴",
+    "nameEn": "",
+    "developer": "浙江盛和網絡科技有限公司",
+    "studio": "浙江盛和網絡科技有限公司",
+    "publisher": "浙江盛和網絡科技有限公司",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "知名大廠愷英網絡的MMORPG新作，此類遊戲通常投入巨大且目標市場廣闊，具備現象級潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "由知名遊戲公司愷英網絡旗下浙江盛和開發的MMORPG。 [cite: 9 (previous turn), 10 (previous turn), 31 (previous turn), 42 (previous turn)]",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名大廠愷英網絡的MMORPG新作，此類遊戲通常投入巨大且目標市場廣闊，具備現象級潛力。",
+    "verified": "版號雷達 (2026-10-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-27",
+    "addedAt": "2026-10-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 657,
+    "name": "夢幻飛飛飛",
+    "nameEn": "",
+    "developer": "海南玩友網絡科技有限公司",
+    "studio": "海南玩友網絡科技有限公司",
+    "publisher": "海南玩友網絡科技有限公司",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "極有可能為《飛飛》IP改編，該IP擁有大量粉絲基礎，若為MMORPG則市場潛力巨大。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "遊戲名稱暗示與知名MMORPG《飛飛》IP相關，可能為其移動端改編作品。 [cite: 4 (previous turn), 8 (previous turn), 33 (previous turn), 38 (previous turn), 45 (previous turn)]",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】極有可能為《飛飛》IP改編，該IP擁有大量粉絲基礎，若為MMORPG則市場潛力巨大。",
+    "verified": "版號雷達 (2026-10-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-27",
+    "addedAt": "2026-10-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 658,
+    "name": "狹道英雄",
+    "nameEn": "",
+    "developer": "廣州多益網絡科技有限公司",
+    "studio": "廣州多益網絡科技有限公司",
+    "publisher": "廣州多益網絡科技有限公司",
+    "genre": "黑暗追逐式Roguelike冒險RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名大廠多益網絡出品，Roguelike冒險RPG類型，具備策略性和收集元素，市場潛力較高。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款由多益網絡開發的黑暗追逐式Roguelike冒險RPG，玩家扮演英雄在黑暗籠罩的世界中探索與戰鬥。 [cite: 2 (previous turn), 13 (previous turn), 18 (previous turn)]",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名大廠多益網絡出品，Roguelike冒險RPG類型，具備策略性和收集元素，市場潛力較高。",
+    "verified": "版號雷達 (2026-10-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-27",
+    "addedAt": "2026-10-27",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 659,
+    "name": "元氣百響",
+    "nameEn": "",
+    "developer": "無限電玩, Combo X Camp",
+    "studio": "無限電玩, Combo X Camp",
+    "publisher": "無限電玩, Combo X Camp",
+    "genre": "二次元音樂格鬥RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "二次元畫風、音樂格鬥與RPG結合，具備Roguelike和策略元素，對二次元玩家有較強吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款二次元畫風的音樂格鬥遊戲，融合了角色成長RPG與Roguelike元素，採用骰子策略回合制戰鬥。 [cite: 23 (previous turn), 27 (previous turn), 29 (previous turn), 30 (previous turn)]",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】二次元畫風、音樂格鬥與RPG結合，具備Roguelike和策略元素，對二次元玩家有較強吸引力。",
+    "verified": "版號雷達 (2026-10-27)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-27",
+    "addedAt": "2026-10-27",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"

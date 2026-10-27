@@ -1,51 +1,57 @@
 {
-  "lastAudit": "2026-10-26T05:04:20.775010+00:00",
+  "lastAudit": "2026-10-27T05:19:45.588423+00:00",
   "totalProducts": 648,
-  "updatesApplied": 42,
-  "issuesFound": 4,
+  "updatesApplied": 44,
+  "issuesFound": 5,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "山海奇旅",
+      "name": "夢幻新誅仙：輕享",
       "status": "warning",
-      "issue": "狀態: announced→cbt",
+      "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "虹彩六號：戰術",
+      "name": "拉拉熊 輕鬆益智遊戲",
       "status": "warning",
-      "issue": "狀態: announced→announced",
+      "issue": "狀態: pre-reg→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "極速快感：聯合",
+      "name": "King's Raid RE:VERSE",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
+      "issue": "狀態: pre-reg→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "極速快感：聯合",
-      "status": "error",
-      "issue": "移除: 遊戲已宣布將於2026年12月28日正式停止營運。",
-      "autoFixed": false
+      "name": "Muv-Luv Girls Garden",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "楓之谷 Classic",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
     }
   ],
   "checked": [
-    "三國：百將牌",
-    "山海奇旅",
-    "最強劍尊：吃最軟的飯，做最硬的劍",
-    "地下城與勇士：阿拉德",
-    "勇者前線：起源",
-    "綠夢：時空之聲",
-    "史萊姆世界",
-    "機甲狗狗計畫",
-    "浩劫前夕",
-    "瘋狂計程車：世界巡迴",
-    "虹彩六號：戰術",
-    "極速快感：聯合",
-    "仙境傳說3",
-    "轉生之獸",
-    "冒險島：楓之新篇"
+    "夢幻新誅仙：輕享",
+    "再世仙途",
+    "此生無白",
+    "星塵迴響",
+    "楓之谷：新世界",
+    "拉拉熊 輕鬆益智遊戲",
+    "King's Raid RE:VERSE",
+    "Muv-Luv Girls Garden",
+    "赤潮ZeroERA",
+    "楓之谷 Classic",
+    "星淵彼岸",
+    "代號：深海",
+    "數碼寶貝：無限進化",
+    "洛克人X DiVE 2",
+    "代號：起源"
   ],
   "nextBatch": [
     "無限大",
