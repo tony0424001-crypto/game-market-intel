@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-10-27T05:24:24.421873+00:00",
-  "fetchCount": 167,
+  "lastUpdated": "2026-10-28T06:13:24.449440+00:00",
+  "fetchCount": 168,
   "items": [
+    {
+      "id": "brief-20261028-0e7750c3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "上古世紀：戰爭（新發現・高威脅）",
+      "detail": "知名MMORPG IP改編，由大廠Kakao Games發行，已在韓國成功上線並開啟全球預註冊，具備高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導/網路搜尋",
+      "fetchedAt": "2026-10-28T06:13:24.449440+00:00"
+    },
+    {
+      "id": "brief-20261028-5b6f29d6",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "忍者亂太郎將停運",
+      "detail": "手遊《忍者亂太郎》12/16結束營運。",
+      "action": "留意停運日期",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-28T05:58:45.672271+00:00"
+    },
+    {
+      "id": "brief-20261028-5225f24b",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "BLEACH手遊上市",
+      "detail": "《BLEACH Mirrors High》今日上線，藍染登場。",
+      "action": "下載體驗遊戲",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-28T05:58:45.672271+00:00"
+    },
+    {
+      "id": "brief-20261028-3e145afe",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "魔物獵人：旅人預載",
+      "detail": "手遊《魔物獵人：旅人》10/29上市，已開放預載。",
+      "action": "立即預先下載",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-28T05:58:45.672271+00:00"
+    },
     {
       "id": "brief-20261027-686d6582",
       "priority": "urgent",
@@ -157,70 +201,26 @@
       "fetchedAt": "2026-10-25T05:05:23.187270+00:00"
     },
     {
-      "id": "brief-20261025-a8ed43b0",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "漫威秘法狂潮（新發現・高威脅）",
-      "detail": "國際知名IP「漫威」改編，由中國大廠網易雷火開發，預期將有高製作水準與廣泛市場吸引力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-25T05:05:23.187270+00:00"
-    },
-    {
-      "id": "brief-20261025-de6d7f96",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《決勝時刻4》上市",
-      "detail": "普萊斯復仇路！《現代戰爭4》今日上市，經典槍戰開戰。",
-      "action": "立即體驗新作",
+      "id": "brief-20261028-d7fd6c89",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "漫威宇宙入侵DLC",
+      "detail": "橫向捲軸遊戲DLC《圍攻末日城堡》11/11推出。",
+      "action": "準備迎接新內容",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-25T04:59:50.905285+00:00"
+      "fetchedAt": "2026-10-28T05:58:45.672271+00:00"
     },
     {
-      "id": "brief-20261025-92fa4ff9",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《妮姬》4週年更新",
-      "detail": "妮姬4週年活動10/29上線，新妮姬與華山特展。",
-      "action": "準備迎接新內容",
-      "platform": "mobile",
-      "source": "4Gamers",
-      "fetchedAt": "2026-10-25T04:59:50.905285+00:00"
-    },
-    {
-      "id": "brief-20261025-157ef31c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《幕府將軍2》停售",
-      "detail": "《全軍破敵2完整版》負評停售，副總裁致歉。",
-      "action": "了解停售原因",
+      "id": "brief-20261028-8910e144",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "餓狼傳說x東京復仇者",
+      "detail": "合作角色「佐野萬次郎」等參戰，預告片公開。",
+      "action": "關注合作內容",
       "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-10-25T04:59:50.905285+00:00"
-    },
-    {
-      "id": "brief-20261024-3d038bcf",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "狼人殺：月夜推理樂園（新發現・高威脅）",
-      "detail": "基於國民級社交推理IP《狼人殺》，由知名大廠網易開發/運營，具備極高的用戶基礎和市場影響力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
-    },
-    {
-      "id": "brief-20261024-a495dae0",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "三國望神州（新發現・高威脅）",
-      "detail": "改編自大型IP《三國》，開發商彈指宇宙為快手旗下團隊，具備一定資源和推廣能力，且為重點關注的策略RPG品類。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-24T04:53:54.935268+00:00"
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-28T05:58:45.672271+00:00"
     }
   ]
 }

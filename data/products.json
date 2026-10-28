@@ -34679,5 +34679,59 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 660,
+    "name": "上古世紀：戰爭",
+    "nameEn": "ArcheAge War",
+    "developer": "XLGAMES",
+    "studio": "XLGAMES",
+    "publisher": "XLGAMES",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "high",
+    "threatReason": "知名MMORPG IP改編，由大廠Kakao Games發行，已在韓國成功上線並開啟全球預註冊，具備高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2024-Q1",
+    "desc": "經典MMORPG《上古世紀》IP改編的全新手機MMORPG，強調大規模攻城戰與海戰。",
+    "tags": [
+      "新聞報導/網路搜尋"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導/網路搜尋】知名MMORPG IP改編，由大廠Kakao Games發行，已在韓國成功上線並開啟全球預註冊，具備高市場潛力。",
+    "verified": "Agent 發現 (2026-10-28)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "已上線",
+        "date": "2023-03-21"
+      },
+      {
+        "region": "Global",
+        "status": "預註冊",
+        "date": "2023-10-25"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-10-28",
+    "addedAt": "2026-10-28",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導/網路搜尋"
   }
 ]
