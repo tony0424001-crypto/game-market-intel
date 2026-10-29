@@ -1,10 +1,29 @@
 {
-  "lastAudit": "2026-10-28T05:59:09.384671+00:00",
-  "totalProducts": 656,
-  "updatesApplied": 0,
-  "issuesFound": 0,
+  "lastAudit": "2026-10-29T06:05:47.398332+00:00",
+  "totalProducts": 657,
+  "updatesApplied": 31,
+  "issuesFound": 3,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
-  "findings": [],
+  "findings": [
+    {
+      "name": "幻世錄：起源",
+      "status": "warning",
+      "issue": "狀態: announced→cbt",
+      "autoFixed": true
+    },
+    {
+      "name": "人間異想計畫",
+      "status": "warning",
+      "issue": "狀態: pre-reg→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "在地下城尋求邂逅是否搞錯了什麼 Frontier Zero",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    }
+  ],
   "checked": [
     "代號：天啟",
     "Project V4",

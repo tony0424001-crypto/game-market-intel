@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-10-28T06:13:24.449440+00:00",
-  "fetchCount": 168,
+  "lastUpdated": "2026-10-29T06:10:12.668571+00:00",
+  "fetchCount": 169,
   "items": [
+    {
+      "id": "brief-20261029-4e11507d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "mo.co（新發現・高威脅）",
+      "detail": "頂級大廠Supercell新作，具備現象級潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-29T06:10:12.668571+00:00"
+    },
+    {
+      "id": "brief-20261029-4466963f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "RO 仙境傳說：愛如初見Classic（新發現・高威脅）",
+      "detail": "經典IP《仙境傳說》的MMORPG新作，具備強大的回憶向吸引力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-29T06:10:12.668571+00:00"
+    },
+    {
+      "id": "brief-20261029-9916e55a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "數碼寶貝卡牌遊戲手機版：Alysion（新發現・高威脅）",
+      "detail": "經典IP改編卡牌手遊，具備廣泛的粉絲基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-29T06:10:12.668571+00:00"
+    },
+    {
+      "id": "brief-20261029-2f15adb9",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "命運之子：Assemble（新發現・高威脅）",
+      "detail": "知名二次元IP新作，預計全球發行，具備較高市場關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-29T06:10:12.668571+00:00"
+    },
+    {
+      "id": "brief-20261029-b980fdaf",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "芙娅之魂（新發現・高威脅）",
+      "detail": "開放世界魂系玩法，中國開發商，有潛力成為大作。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-10-29T06:10:12.668571+00:00"
+    },
+    {
+      "id": "brief-20261029-590bf917",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "影之刃 零 Steam首日破43萬",
+      "detail": "魂系武俠ARPG《影之刃 零》今日推出，Steam同上人數驚人。",
+      "action": "關注遊戲表現與評價",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-29T06:05:11.167303+00:00"
+    },
+    {
+      "id": "brief-20261029-dc369f26",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "妮姬4週年新版上線",
+      "detail": "《勝利女神：妮姬》4週年版本上線，新SSR妮姬登場。",
+      "action": "參與週年活動",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-29T06:05:11.167303+00:00"
+    },
+    {
+      "id": "brief-20261029-5db4af4e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "魔物獵人：旅人手機上線",
+      "detail": "《魔物獵人：旅人》今日手機雙平台上市，新角色登場。",
+      "action": "下載體驗遊戲",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-29T06:05:11.167303+00:00"
+    },
     {
       "id": "brief-20261028-0e7750c3",
       "priority": "urgent",
@@ -133,94 +221,6 @@
       "platform": "console",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-10-27T05:19:25.863779+00:00"
-    },
-    {
-      "id": "brief-20261027-dc919360",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《影之刃 零》試玩",
-      "detail": "動作RPG《影之刃 零》實機試玩，甄子丹武指加持。",
-      "action": "準備體驗武俠新作",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-27T05:19:25.863779+00:00"
-    },
-    {
-      "id": "brief-20261027-0c3ad68d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《Pokemon GO》萬聖節",
-      "detail": "《Pokemon GO》萬聖節活動登場，新扮裝寶可夢。",
-      "action": "參與季節限定活動",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-27T05:19:25.863779+00:00"
-    },
-    {
-      "id": "brief-20261026-20258061",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《決勝時刻4》今日上市",
-      "detail": "普萊斯踏上復仇路，全新戰役與DMZ模式正式開戰。",
-      "action": "立即體驗新作",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-26T05:03:51.200500+00:00"
-    },
-    {
-      "id": "brief-20261026-f1735120",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《蔚藍檔案》日版移交",
-      "detail": "Yostar宣布2027年將日版營運移交NEXON。",
-      "action": "留意營運公告",
-      "platform": "mobile",
-      "source": "4Gamers",
-      "fetchedAt": "2026-10-26T05:03:51.200500+00:00"
-    },
-    {
-      "id": "brief-20261026-a789bab8",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《幕府將軍2》慘遭停售",
-      "detail": "遊戲獲壓倒性負評，官方致歉並全面下架。",
-      "action": "了解停售原因",
-      "platform": "PC",
-      "source": "4Gamers",
-      "fetchedAt": "2026-10-26T05:03:51.200500+00:00"
-    },
-    {
-      "id": "brief-20261025-d97685f6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "終極角逐（新發現・高威脅）",
-      "detail": "騰訊出品，競技類遊戲在手遊市場具備巨大潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-25T05:05:23.187270+00:00"
-    },
-    {
-      "id": "brief-20261028-d7fd6c89",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "漫威宇宙入侵DLC",
-      "detail": "橫向捲軸遊戲DLC《圍攻末日城堡》11/11推出。",
-      "action": "準備迎接新內容",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-28T05:58:45.672271+00:00"
-    },
-    {
-      "id": "brief-20261028-8910e144",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "餓狼傳說x東京復仇者",
-      "detail": "合作角色「佐野萬次郎」等參戰，預告片公開。",
-      "action": "關注合作內容",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-28T05:58:45.672271+00:00"
     }
   ]
 }
