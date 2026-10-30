@@ -35263,5 +35263,349 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
+  },
+  {
+    "id": 671,
+    "name": "桃花",
+    "nameEn": "",
+    "developer": "网易雷火",
+    "studio": "网易雷火",
+    "publisher": "网易雷火",
+    "genre": "仙俠 RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名大廠網易開發的仙俠RPG，具備高潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款以精美畫面和深刻劇情為特色的仙俠角色扮演遊戲，玩家將體驗獨特的仙俠故事與戰鬥機制。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名大廠網易開發的仙俠RPG，具備高潛力。",
+    "verified": "版號雷達 (2026-10-30)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-30",
+    "addedAt": "2026-10-30",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 672,
+    "name": "斗羅大陸：第十魂環",
+    "nameEn": "",
+    "developer": "三七互娱",
+    "studio": "三七互娱",
+    "publisher": "三七互娱",
+    "genre": "IP改編 RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "國民級IP改編，由知名大廠三七互娛開發，預計將有極高關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "基於人氣小說《斗羅大陸》改編的角色扮演遊戲，繼承原作經典元素並引入創新戰鬥系統和角色培養玩法。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】國民級IP改編，由知名大廠三七互娛開發，預計將有極高關注度。",
+    "verified": "版號雷達 (2026-10-30)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-30",
+    "addedAt": "2026-10-30",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 673,
+    "name": "武林外傳之七俠重遊",
+    "nameEn": "",
+    "developer": "愷英網絡",
+    "studio": "愷英網絡",
+    "publisher": "愷英網絡",
+    "genre": "IP改編 MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名懷舊IP改編的MMORPG，由愷英網絡開發，具備高人氣基礎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款基於經典電視劇《武林外傳》端遊素材改編的MMORPG遊戲，旨在復刻經典玩法並加入新元素。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名懷舊IP改編的MMORPG，由愷英網絡開發，具備高人氣基礎。",
+    "verified": "版號雷達 (2026-10-30)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-30",
+    "addedAt": "2026-10-30",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 674,
+    "name": "拇指人領主",
+    "nameEn": "",
+    "developer": "游族網絡",
+    "studio": "游族網絡",
+    "publisher": "游族網絡",
+    "genre": "策略卡牌/RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名大廠游族網絡新作，符合其擅長的策略卡牌/RPG品類。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "由知名大廠游族網絡開發的策略卡牌或角色扮演類遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名大廠游族網絡新作，符合其擅長的策略卡牌/RPG品類。",
+    "verified": "版號雷達 (2026-10-30)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-30",
+    "addedAt": "2026-10-30",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 675,
+    "name": "誅仙：歸來",
+    "nameEn": "",
+    "developer": "完美世界",
+    "studio": "完美世界",
+    "publisher": "完美世界",
+    "genre": "IP改編 MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "國民級仙俠IP改編，由知名大廠完美世界開發，預計將有極高關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "基於知名仙俠IP《誅仙》改編的角色扮演遊戲，由完美世界開發。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】國民級仙俠IP改編，由知名大廠完美世界開發，預計將有極高關注度。",
+    "verified": "版號雷達 (2026-10-30)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-30",
+    "addedAt": "2026-10-30",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 676,
+    "name": "他予回聲",
+    "nameEn": "",
+    "developer": "樂元素",
+    "studio": "樂元素",
+    "publisher": "樂元素",
+    "genre": "二次元 RPG/抽卡",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名二次元遊戲開發商樂元素新作，預計將吸引二次元玩家群體。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "由樂元素開發，具有深邃劇情和豐富人物設定的二次元角色扮演遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名二次元遊戲開發商樂元素新作，預計將吸引二次元玩家群體。",
+    "verified": "版號雷達 (2026-10-30)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-30",
+    "addedAt": "2026-10-30",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 677,
+    "name": "劍俠情緣：重逢",
+    "nameEn": "",
+    "developer": "虎牙獨家發行",
+    "studio": "虎牙獨家發行",
+    "publisher": "虎牙獨家發行",
+    "genre": "IP改編 MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "經典武俠IP《劍俠情緣》新作，由知名平台虎牙發行，具備高人氣基礎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "基於經典武俠IP《劍俠情緣》改編的角色扮演遊戲，由虎牙獨家發行。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】經典武俠IP《劍俠情緣》新作，由知名平台虎牙發行，具備高人氣基礎。",
+    "verified": "版號雷達 (2026-10-30)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-30",
+    "addedAt": "2026-10-30",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 678,
+    "name": "奧丁：神叛",
+    "nameEn": "",
+    "developer": "紫龍",
+    "studio": "紫龍",
+    "publisher": "紫龍",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "韓國知名MMORPG大作引進，由知名發行商紫龍代理，具備高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "韓國知名MMORPG《奧丁：神叛》引進中國，由紫龍發行。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】韓國知名MMORPG大作引進，由知名發行商紫龍代理，具備高市場潛力。",
+    "verified": "版號雷達 (2026-10-30)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-10",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-10-30",
+    "addedAt": "2026-10-30",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
   }
 ]

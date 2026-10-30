@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-10-29T06:10:12.668571+00:00",
-  "fetchCount": 169,
+  "lastUpdated": "2026-10-30T06:19:27.184069+00:00",
+  "fetchCount": 170,
   "items": [
+    {
+      "id": "brief-20261030-7e0a7709",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "奧丁：神叛（新發現・高威脅）",
+      "detail": "韓國知名MMORPG大作引進，由知名發行商紫龍代理，具備高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-30T06:19:27.184069+00:00"
+    },
+    {
+      "id": "brief-20261030-2eb2ec5a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "劍俠情緣：重逢（新發現・高威脅）",
+      "detail": "經典武俠IP《劍俠情緣》新作，由知名平台虎牙發行，具備高人氣基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-30T06:19:27.184069+00:00"
+    },
+    {
+      "id": "brief-20261030-6dcc97ff",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "他予回聲（新發現・高威脅）",
+      "detail": "知名二次元遊戲開發商樂元素新作，預計將吸引二次元玩家群體。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-30T06:19:27.184069+00:00"
+    },
+    {
+      "id": "brief-20261030-f2248534",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "誅仙：歸來（新發現・高威脅）",
+      "detail": "國民級仙俠IP改編，由知名大廠完美世界開發，預計將有極高關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-30T06:19:27.184069+00:00"
+    },
+    {
+      "id": "brief-20261030-a55fa07c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "武林外傳之七俠重遊（新發現・高威脅）",
+      "detail": "知名懷舊IP改編的MMORPG，由愷英網絡開發，具備高人氣基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-30T06:19:27.184069+00:00"
+    },
+    {
+      "id": "brief-20261030-0e247b13",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "斗羅大陸：第十魂環（新發現・高威脅）",
+      "detail": "國民級IP改編，由知名大廠三七互娛開發，預計將有極高關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-30T06:19:27.184069+00:00"
+    },
+    {
+      "id": "brief-20261030-9d7189ea",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "桃花（新發現・高威脅）",
+      "detail": "知名大廠網易開發的仙俠RPG，具備高潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-10-30T06:19:27.184069+00:00"
+    },
     {
       "id": "brief-20261029-4e11507d",
       "priority": "urgent",
@@ -144,83 +221,6 @@
       "platform": "mobile",
       "source": "版號公示",
       "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
-    },
-    {
-      "id": "brief-20261027-0a6e1b36",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "狹道英雄（新發現・高威脅）",
-      "detail": "知名大廠多益網絡出品，Roguelike冒險RPG類型，具備策略性和收集元素，市場潛力較高。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
-    },
-    {
-      "id": "brief-20261027-37ef7448",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "夢幻飛飛飛（新發現・高威脅）",
-      "detail": "極有可能為《飛飛》IP改編，該IP擁有大量粉絲基礎，若為MMORPG則市場潛力巨大。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
-    },
-    {
-      "id": "brief-20261027-12646790",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "黑龍風暴（新發現・高威脅）",
-      "detail": "知名大廠愷英網絡的MMORPG新作，此類遊戲通常投入巨大且目標市場廣闊，具備現象級潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
-    },
-    {
-      "id": "brief-20261027-657bacfc",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "古荒遺蹟2（新發現・高威脅）",
-      "detail": "知名大廠4399開發，為現有遊戲續作，Roguelike RPG類型通常包含角色或裝備收集，具備較高市場關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
-    },
-    {
-      "id": "brief-20261027-ba1e21ae",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "此處必有妖（新發現・高威脅）",
-      "detail": "知名大廠三七互娛旗下產品，遊戲名稱具備二次元/抽卡品類潛力，預計為奇幻RPG。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
-    },
-    {
-      "id": "brief-20261027-2867d24c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "超級新寵物（新發現・高威脅）",
-      "detail": "改編自知名IP（西遊記），且寵物養成類遊戲常包含抽卡機制，具備較高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
-    },
-    {
-      "id": "brief-20261027-b40f0239",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "宮本茂獲日本文化勳章",
-      "detail": "《瑪利歐》之父宮本茂獲日本文化勳章，遊戲界首位。",
-      "action": "了解遊戲界最高榮譽",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-27T05:19:25.863779+00:00"
     }
   ]
 }
