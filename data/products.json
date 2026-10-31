@@ -33055,41 +33055,52 @@
     ],
     "region": "CN",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "high",
     "threatReason": "二次元開放世界為重點關注品類，且被列為2026年熱門推薦。",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026",
+    "launchEst": "2024-04-30",
     "desc": "一款採用模組化區域設計的二次元開放世界手遊，強調靈寵系統與策略戰鬥。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】二次元開放世界為重點關注品類，且被列為2026年熱門推薦。",
+    "threatAnalysis": "【中等規模，穩定營運】《超數據世界》已於2024年4月30日在中國市場上線，並持續營運至今，TapTap下載量超過174萬次，且於2026年10月舉辦了2週年及國慶活動，顯示其擁有穩定的玩家基礎和營運活動。雖然未達現象級大作，但其活躍度足以維持中等威脅等級。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲內活動及玩家社群討論，評估其長期留存與營收表現。\n(2). 分析其遊戲內容更新頻率及版本迭代，了解其產品生命週期。\n(3). 關注是否有擴展至其他地區的計畫。",
     "verified": "Agent 發現 (2026-10-22)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/234033"
+      }
+    ],
     "launchRegions": [
       {
         "region": "CN",
-        "status": "未上線",
-        "date": "2026"
+        "status": "live-ops",
+        "date": "2024-04-30"
       }
     ],
     "history": [
       {
         "date": "2026-10",
         "s": "announced"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-10-22",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-22",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2024年4月30日上線，並於2026年10月舉辦2週年及國慶活動，TapTap下載量達174萬次。",
+    "eventNote": "⚡ 遊戲已於2024年4月30日上線，並於2026年10月舉辦2週年及國慶活動，TapTap下載量達174萬次。"
   },
   {
     "id": 625,
@@ -33108,13 +33119,13 @@
     "threat": "medium",
     "threatReason": "二次元題材手遊，但具體玩法和開發商資訊較少，威脅等級中等。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026",
     "desc": "一款以二次元人設為主的策略卡牌與動作冒險手遊，收錄130多位戰鬥角色。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】二次元題材手遊，但具體玩法和開發商資訊較少，威脅等級中等。",
+    "threatAnalysis": "【中等規模，資訊待確認】目前缺乏《次元戰紀》的具體狀態更新或市場資訊，無法判斷其開發進度或市場表現。維持中等威脅等級，但需持續關注是否有新消息釋出。\n\n▶ 建議行動：\n(1). 定期搜尋遊戲名稱，留意是否有新的官方公告或媒體報導。\n(2). 嘗試透過開發商（若有確認）的官方管道查詢遊戲進度。\n(3). 若長期無任何消息，可考慮調整威脅等級。",
     "verified": "Agent 發現 (2026-10-22)",
     "category": "active",
     "testType": "待確認",
@@ -33134,9 +33145,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-22",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-22",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -33157,13 +33168,13 @@
     "threat": "high",
     "threatReason": "知名IP「火影世界觀」改編，儘管是卡牌遊戲，仍具備高市場吸引力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026",
     "desc": "圍繞忍者題材展開，沿用火影世界觀的卡牌收集與對戰手遊。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名IP「火影世界觀」改編，儘管是卡牌遊戲，仍具備高市場吸引力。",
+    "threatAnalysis": "【具體威脅，資訊待確認】目前缺乏《忍者冒險團》的具體狀態更新或市場資訊，無法判斷其開發進度或市場表現。維持高威脅等級，但需持續關注是否有新消息釋出。\n\n▶ 建議行動：\n(1). 定期搜尋遊戲名稱，留意是否有新的官方公告或媒體報導。\n(2). 嘗試透過開發商（若有確認）的官方管道查詢遊戲進度。\n(3). 若長期無任何消息，可考慮調整威脅等級。",
     "verified": "Agent 發現 (2026-10-22)",
     "category": "active",
     "testType": "待確認",
@@ -33183,9 +33194,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-22",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-22",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -33206,13 +33217,13 @@
     "threat": "high",
     "threatReason": "知名IP「斗羅大陸」改編，由中手遊開發，預期有較高市場關注度。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2027或之後",
     "desc": "中手遊基於知名IP「斗羅大陸」開發的手遊新作，預計2027年或之後推出。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名IP「斗羅大陸」改編，由中手遊開發，預期有較高市場關注度。",
+    "threatAnalysis": "【具體威脅，資訊待確認】目前缺乏《代號：新斗羅》的具體狀態更新或市場資訊，無法判斷其開發進度或市場表現。維持高威脅等級，但需持續關注是否有新消息釋出。\n\n▶ 建議行動：\n(1). 定期搜尋遊戲名稱，留意是否有新的官方公告或媒體報導。\n(2). 關注開發商中手遊的其他產品線及發行策略，推測此產品的潛在動向。\n(3). 若長期無任何消息，可考慮調整威脅等級。",
     "verified": "Agent 發現 (2026-10-22)",
     "category": "active",
     "testType": "待確認",
@@ -33226,9 +33237,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-22",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-22",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -33249,13 +33260,13 @@
     "threat": "medium",
     "threatReason": "二次元開放世界為重點關注品類，但「治癒系」可能受眾較為小眾。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026",
     "desc": "一款以低飽和度暖色調構建治癒系幻想世界的二次元開放世界手遊。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】二次元開放世界為重點關注品類，但「治癒系」可能受眾較為小眾。",
+    "threatAnalysis": "【中等規模，資訊待確認】目前缺乏《開放空間》的具體狀態更新或市場資訊，無法判斷其開發進度或市場表現。維持中等威脅等級，但需持續關注是否有新消息釋出。\n\n▶ 建議行動：\n(1). 定期搜尋遊戲名稱，留意是否有新的官方公告或媒體報導。\n(2). 嘗試透過開發商（若有確認）的官方管道查詢遊戲進度。\n(3). 若長期無任何消息，可考慮調整威脅等級。",
     "verified": "Agent 發現 (2026-10-22)",
     "category": "active",
     "testType": "待確認",
@@ -33275,9 +33286,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-22",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-22",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -33298,13 +33309,13 @@
     "threat": "high",
     "threatReason": "知名開發商NHN PlayArt的IP改編RPG新作，具備潛在市場影響力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2025-2026",
     "desc": "NHN PlayArt開發中的IP改編RPG新作。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名開發商NHN PlayArt的IP改編RPG新作，具備潛在市場影響力。",
+    "threatAnalysis": "【具體威脅，資訊待確認】目前缺乏NHN PlayArt旗下《Project G》的具體狀態更新或市場資訊，無法判斷其開發進度或市場表現。維持高威脅等級，但需持續關注是否有新消息釋出。\n\n▶ 建議行動：\n(1). 定期搜尋遊戲名稱及開發商，留意是否有新的官方公告或媒體報導。\n(2). 關注NHN PlayArt的其他產品線及發行策略，推測此產品的潛在動向。\n(3). 若長期無任何消息，可考慮調整威脅等級。",
     "verified": "Agent 發現 (2026-10-22)",
     "category": "active",
     "testType": "待確認",
@@ -33318,9 +33329,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-22",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-22",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -33341,23 +33352,36 @@
     "threat": "high",
     "threatReason": "迪士尼IP改編，結合養成與三消玩法，預計在日本市場有較高關注度。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-11",
+    "sentiment": 85,
+    "launchEst": "2026-11-04",
     "desc": "一款迪士尼主題的養成冒險手機遊戲，結合三消玩法與角色培育，玩家將扮演製作人培育「Spark Rider」展開舞台冒險。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】迪士尼IP改編，結合養成與三消玩法，預計在日本市場有較高關注度。",
+    "threatAnalysis": "【具體威脅，即將上線】《Disney Sparklink Stars》作為迪士尼IP與coly合作的女性向遊戲，已確認將於2026年11月4日在日本市場上線。遊戲在預註冊階段已展現高人氣，並將透過參展AGF2026進一步宣傳，預計將對目標市場產生顯著影響。其IP影響力及開發商在女性向遊戲領域的經驗，使其威脅等級維持高位。\n\n▶ 建議行動：\n(1). 密切關注遊戲上線後的市場表現、營收數據及玩家評價。\n(2). 分析其角色設計、玩法機制及營運活動，評估其對同類競品的影響。\n(3). 留意是否有全球發行計畫或英文版消息。",
     "verified": "Agent 發現 (2026-10-23)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "官網",
+        "url": "https://colyinc.com/sparklink-stars/"
+      },
+      {
+        "label": "官方X",
+        "url": "https://x.com/spalik_jp"
+      },
+      {
+        "label": "官方YouTube",
+        "url": "https://www.youtube.com/@spalik_jp"
+      }
+    ],
     "launchRegions": [
       {
         "region": "JP",
-        "status": "已上線",
+        "status": "launching",
         "date": "2026-11-04"
       }
     ],
@@ -33367,11 +33391,12 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-10-23",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-23",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已確認將於2026年11月4日在iOS和Android平台推出，並將參展2026年11月7日至8日的Animate Girls Festival 2026。"
   },
   {
     "id": 631,
@@ -33386,50 +33411,55 @@
       "Mobile",
       "PS5"
     ],
-    "region": "JP/KR/TW/CN",
+    "region": "JP/KR/TW/CN (首發), Global (預計2027年)",
     "model": "F2P",
     "stage": "pre-reg",
     "threat": "critical",
     "threatReason": "《碧藍航線》開發商新作，開放世界動作RPG，二次元抽卡要素，多平台發行，在亞洲主要市場同步上線，預期將有極高關注度。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-11",
+    "sentiment": 95,
+    "launchEst": "2026-11-26",
     "desc": "由《碧藍航線》開發商Manjuu Games打造的開放世界奇幻RPG，玩家將探索普羅米利亞大陸，與神秘生物「Kibo」建立羈絆，進行探索、戰鬥與建造。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】《碧藍航線》開發商新作，開放世界動作RPG，二次元抽卡要素，多平台發行，在亞洲主要市場同步上線，預期將有極高關注度。",
+    "threatAnalysis": "【現象級大作，即將上線】《Azur Promilia》作為Manjuu Games的開放世界Gacha RPG，已在全球累積超過2000萬預註冊，並確認將於2026年11月26日在亞洲主要市場上線。其高人氣、大廠開發背景及開放世界Gacha的熱門品類，使其具備現象級大作的潛力，威脅等級維持critical。\n\n▶ 建議行動：\n(1). 立即啟動對其上線後市場表現、營收、下載量及玩家社群熱度的全面監測。\n(2). 深入分析其核心玩法、美術風格、角色養成及Gacha機制，評估其對市場的衝擊。\n(3). 密切關注其全球發行策略及英文版Open Beta測試的進度，為未來全球競爭做準備。",
     "verified": "Agent 發現 (2026-10-23)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "CN CBT3已結束；英文版OBT預計2027年夏季",
+    "sourceLinks": [
+      {
+        "label": "官網",
+        "url": "https://www.azurpromilia.com/"
+      }
+    ],
     "launchRegions": [
       {
         "region": "JP",
-        "status": "預註冊",
+        "status": "launching",
         "date": "2026-11-26"
       },
       {
         "region": "KR",
-        "status": "預註冊",
+        "status": "launching",
         "date": "2026-11-26"
       },
       {
-        "region": "TW/HK/MO",
-        "status": "預註冊",
+        "region": "TW",
+        "status": "launching",
         "date": "2026-11-26"
       },
       {
         "region": "CN",
-        "status": "預註冊",
+        "status": "launching",
         "date": "2026-11-26"
       },
       {
         "region": "Global",
-        "status": "未上線",
-        "date": "2027-Q3"
+        "status": "announced",
+        "date": "Summer 2027"
       }
     ],
     "history": [
@@ -33438,11 +33468,12 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-10-23",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-23",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已確認將於2026年11月26日在日本、韓國、台灣和中國地區推出PC、iOS和Android版本。全球預註冊人數已突破2000萬，並計畫於2027年夏季在美國推出英文版Open Beta測試。"
   },
   {
     "id": 632,
@@ -33455,48 +33486,54 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN/Global",
+    "region": "CN (已上線), Global (預計)",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "critical",
     "threatReason": "Riot Games的現象級戰術射擊IP手遊化，已在中國市場取得巨大成功，全球版本預期將大規模搶佔市場注意力。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q1",
+    "sentiment": 98,
+    "launchEst": "CN: 2025-08-19, Global: TBD (預計2026年)",
     "desc": "Riot Games的熱門戰術射擊遊戲《特戰英豪》的手機版本，已在中國上線，全球版本預計於2026年推出。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】Riot Games的現象級戰術射擊IP手遊化，已在中國市場取得巨大成功，全球版本預期將大規模搶佔市場注意力。",
+    "threatAnalysis": "【現象級大作，中國市場表現強勁】《VALORANT Mobile》已於2025年8月19日在中國市場成功上線，首日即創下近100萬美元營收和17萬下載量的佳績，並獲得騰訊與Riot Games高達2億美元的電競生態投資，顯示其在中國市場的巨大潛力與影響力。全球發行仍在籌備中，預計將在2026年推出。其IP號召力及已驗證的市場表現，使其威脅等級維持critical。\n\n▶ 建議行動：\n(1). 持續監測其在中國市場的營收、活躍用戶及電競賽事發展，評估其長期影響力。\n(2). 密切關注全球發行計畫的最新消息，包括測試階段、發行地區及具體日期。\n(3). 深入研究其移動端適配與優化，以及與PC版的差異化策略。",
     "verified": "Agent 發現 (2026-10-23)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "中國區封測於2025年6月12日開始；全球版仍在測試階段",
     "sourceLinks": [],
     "launchRegions": [
       {
         "region": "CN",
-        "status": "已上線",
+        "status": "live-ops",
         "date": "2025-08-19"
       },
       {
         "region": "Global",
-        "status": "未上線",
-        "date": "2026-Q1"
+        "status": "announced",
+        "date": "TBD (expected 2026)"
       }
     ],
     "history": [
       {
         "date": "2026-10",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-10-23",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-23",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2025年8月19日在中國市場獨家上線，首日iOS營收近100萬美元，下載量達17萬次，並迅速登上iOS下載榜首及暢銷榜前十。Riot Games與騰訊承諾在三年內投入2億美元建設中國電競生態。全球發行日期尚未確定，但預計將在2026年推出。",
+    "eventNote": "遊戲已於2025年8月19日在中國市場獨家上線，首日iOS營收近100萬美元，下載量達17萬次，並迅速登上iOS下載榜首及暢銷榜前十。Riot Games與騰訊承諾在三年內投入2億美元建設中國電競生態。全球發行日期尚未確定，但預計將在2026年推出。"
   },
   {
     "id": 633,
@@ -33515,18 +33552,18 @@
     "threat": "high",
     "threatReason": "由Supercell和King前開發者打造，首款專為手機設計的撤離射擊遊戲，玩法創新且具備高話題性。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 80,
     "launchEst": "TBD",
     "desc": "由前《荒野亂鬥》、《皇室戰爭》開發者創立的Antihero Studios打造，首款專為手機設計的撤離射擊遊戲，強調高風險的5-10分鐘對局。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】由Supercell和King前開發者打造，首款專為手機設計的撤離射擊遊戲，玩法創新且具備高話題性。",
+    "threatAnalysis": "【具體威脅，開發進度良好】《MISFITZ》作為一款由Supercell和King資深成員組成的Antihero Studios開發的俯視角多人撤離射擊遊戲，在2026年2月的Pre-alpha測試中表現出色，吸引大量玩家並獲得高參與度。同時，其獲得450萬美元種子輪融資，顯示市場對其潛力的高度認可。預計2026年內推出Open Alpha，威脅等級維持高位。\n\n▶ 建議行動：\n(1). 密切關注其Open Alpha的推出時間、測試內容及玩家反饋。\n(2). 分析其核心玩法（撤離射擊）在移動端的適配性及市場潛力。\n(3). 追蹤開發商的後續融資及團隊擴張情況。",
     "verified": "Agent 發現 (2026-10-23)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "Pre-alpha測試於2026年2月結束；Open Alpha預計2026年內",
     "sourceLinks": [],
     "launchRegions": [],
     "history": [
@@ -33535,11 +33572,12 @@
         "s": "alpha"
       }
     ],
-    "updatedAt": "2026-10-23",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-23",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲於2026年2月成功舉辦Pre-alpha測試，吸引了83,500名玩家參與，平均每日遊玩50分鐘。開發商Antihero Studios已獲得450萬美元種子輪融資，並計畫在2026年內推出Open Alpha。"
   },
   {
     "id": 634,
@@ -33558,13 +33596,13 @@
     "threat": "high",
     "threatReason": "網石發行，改編自《守望傳說》IP，動作Roguelike RPG，具備全球市場潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026",
     "desc": "Netmarble與Kong Studio簽訂全球發行合約的新作，是一款基於《守望傳說》IP的像素風格休閒動作Roguelike RPG。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】網石發行，改編自《守望傳說》IP，動作Roguelike RPG，具備全球市場潛力。",
+    "threatAnalysis": "【具體威脅，資訊待確認】目前缺乏Kong Studio旗下《Project Octopus》的具體狀態更新或市場資訊，無法判斷其開發進度或市場表現。維持高威脅等級，但需持續關注是否有新消息釋出。\n\n▶ 建議行動：\n(1). 定期搜尋遊戲名稱及開發商，留意是否有新的官方公告或媒體報導。\n(2). 嘗試透過開發商的官方管道查詢遊戲進度。\n(3). 若長期無任何消息，可考慮調整威脅等級。",
     "verified": "Agent 發現 (2026-10-23)",
     "category": "active",
     "testType": "待確認",
@@ -33578,9 +33616,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-10-23",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-23",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -33601,13 +33639,13 @@
     "threat": "high",
     "threatReason": "大廠莉莉絲遊戲新作，具備二次元/抽卡要素，預期有一定市場規模。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026-Q4",
     "desc": "莉莉絲遊戲新作，以動物城為背景的抽卡冒險遊戲，已釋出首個宣傳影片。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】大廠莉莉絲遊戲新作，具備二次元/抽卡要素，預期有一定市場規模。",
+    "threatAnalysis": "【具體威脅，資訊待確認】目前缺乏Lilith Games旗下《奇遇動物城》的具體狀態更新或市場資訊，無法判斷其開發進度或市場表現。維持高威脅等級，但需持續關注是否有新消息釋出。\n\n▶ 建議行動：\n(1). 定期搜尋遊戲名稱及開發商，留意是否有新的官方公告或媒體報導。\n(2). 關注Lilith Games的其他產品線及發行策略，推測此產品的潛在動向。\n(3). 若長期無任何消息，可考慮調整威脅等級。",
     "verified": "Agent 發現 (2026-10-24)",
     "category": "active",
     "testType": "待確認",
@@ -33627,9 +33665,9 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-10-24",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -33650,13 +33688,13 @@
     "threat": "medium",
     "threatReason": "韓國IP改編手遊，已在韓國上市，具備角色收集養成要素。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026-10",
     "desc": "韓國Factorial Games開發，集結YLAB旗下人氣漫畫角色，3D角色收集養成型RPG。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】韓國IP改編手遊，已在韓國上市，具備角色收集養成要素。",
+    "threatAnalysis": "【中等規模，上線資訊待確認】目前未能找到Factorial Games旗下《Super String》於2026年10月上線的確切資訊。若此為新產品，則其上線狀態未獲證實，威脅等級維持中等。\n\n▶ 建議行動：\n(1). 再次確認遊戲名稱及開發商，避免與舊版或同名遊戲混淆。\n(2). 密切關注Factorial Games的官方發布，確認是否有新產品或重大更新。\n(3). 若無新消息，需重新評估其威脅等級。",
     "verified": "Agent 發現 (2026-10-24)",
     "category": "active",
     "testType": "待確認",
@@ -33676,11 +33714,12 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-10-24",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "未找到關於Factorial Games旗下《Super String》於2026年10月上線的具體資訊。若此為新產品，則其上線狀態未獲證實。"
   },
   {
     "id": 637,
@@ -33693,43 +33732,59 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "CN/TW/HK/MO",
     "model": "F2P",
-    "stage": "pre-reg",
+    "stage": "live-ops",
     "threat": "medium",
     "threatReason": "都市題材策略RPG，已開啟預約與封測，有一定市場關注度。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "待確認",
+    "sentiment": 75,
+    "launchEst": "CN: 2024-10-24, TW/HK/MO: 2025-08-07",
     "desc": "都市超常策略RPG，即將上線事前預約與封測。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】都市題材策略RPG，已開啟預約與封測，有一定市場關注度。",
+    "threatAnalysis": "【中等規模，穩定營運】《新月同行》已於2024年10月24日在中國市場上線，並於2025年8月7日在台港澳地區推出，目前處於穩定營運狀態。遊戲結合都市新怪談風格與回合制策略玩法，並有騰訊極光計畫發行，具備一定的市場基礎。威脅等級維持中等。\n\n▶ 建議行動：\n(1). 持續追蹤其在中國及台港澳地區的營收、玩家活躍度及內容更新。\n(2). 分析其遊戲活動及社群互動，評估其長期留存能力。\n(3). 關注是否有擴展至其他地區的計畫或版本更新。",
     "verified": "Agent 發現 (2026-10-24)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "官網 (JP)",
+        "url": "https://www.garena.jp/games/shingetsudoukou"
+      }
+    ],
     "launchRegions": [
       {
         "region": "CN",
-        "status": "預註冊/封測中",
-        "date": "待確認"
+        "status": "live-ops",
+        "date": "2024-10-24"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "live-ops",
+        "date": "2025-08-07"
       }
     ],
     "history": [
       {
         "date": "2026-10",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-10",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-10-24",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2024年10月24日在中國上線，並於2025年8月7日在台灣、香港、澳門地區正式推出。",
+    "eventNote": "遊戲已於2024年10月24日在中國上線，並於2025年8月7日在台灣、香港、澳門地區正式推出。"
   },
   {
     "id": 638,
@@ -33748,13 +33803,13 @@
     "threat": "low",
     "threatReason": "經典IP改編的放置型手遊，玩法相對輕度，威脅性較低。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026-03",
     "desc": "以韓國經典RPG系列《創世紀戰》為基礎打造的放置型RPG，強調免費製作傳說英雄。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】經典IP改編的放置型手遊，玩法相對輕度，威脅性較低。",
+    "threatAnalysis": "【小型/長尾，上線資訊待確認】目前未能找到NEW NORMAL SOFT旗下《創世紀戰：放置英雄》於2026年3月上線的確切資訊。其上線狀態未獲證實，威脅等級維持低位。\n\n▶ 建議行動：\n(1). 再次確認遊戲名稱及開發商，避免與舊版或同名遊戲混淆。\n(2). 密切關注NEW NORMAL SOFT的官方發布，確認是否有新產品或重大更新。\n(3). 若無新消息，需重新評估其威脅等級。",
     "verified": "Agent 發現 (2026-10-24)",
     "category": "active",
     "testType": "待確認",
@@ -33774,11 +33829,12 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-10-24",
+    "updatedAt": "2026-10-31",
     "addedAt": "2026-10-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-10-31",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "未找到關於NEW NORMAL SOFT旗下《創世紀戰：放置英雄》於2026年3月上線的具體資訊。其上線狀態未獲證實。"
   },
   {
     "id": 639,

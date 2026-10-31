@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-10-30T06:19:27.184069+00:00",
-  "fetchCount": 170,
+  "lastUpdated": "2026-10-31T06:01:06.427665+00:00",
+  "fetchCount": 171,
   "items": [
+    {
+      "id": "brief-20261031-b2077ae1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Switch 2薩爾達主機開箱",
+      "detail": "Switch 2薩爾達40週年主機開箱，時之笛重製版資訊。",
+      "action": "觀看電玩瘋節目",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-31T06:01:06.427665+00:00"
+    },
+    {
+      "id": "brief-20261031-6656521c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "星穹鐵道洩密判賠",
+      "detail": "玩家破解測試版洩密，《星穹鐵道》獲判賠100萬人民幣。",
+      "action": "警惕洩密行為",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-31T06:01:06.427665+00:00"
+    },
     {
       "id": "brief-20261030-7e0a7709",
       "priority": "urgent",
@@ -157,70 +179,48 @@
       "fetchedAt": "2026-10-29T06:05:11.167303+00:00"
     },
     {
-      "id": "brief-20261029-5db4af4e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "魔物獵人：旅人手機上線",
-      "detail": "《魔物獵人：旅人》今日手機雙平台上市，新角色登場。",
-      "action": "下載體驗遊戲",
+      "id": "brief-20261031-4ef65de0",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "進擊的巨人3 Switch 2預購",
+      "detail": "《進擊的巨人3》Switch 2數位版開放預購，同步公開宣傳影片。",
+      "action": "前往eShop預購",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-10-31T06:01:06.427665+00:00"
+    },
+    {
+      "id": "brief-20261031-bcc23398",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "妮姬四週年特展",
+      "detail": "《勝利女神：妮姬》四週年特展將於華山文創園區登場。",
+      "action": "規劃前往參觀",
       "platform": "mobile",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-29T06:05:11.167303+00:00"
+      "fetchedAt": "2026-10-31T06:01:06.427665+00:00"
     },
     {
-      "id": "brief-20261028-0e7750c3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "上古世紀：戰爭（新發現・高威脅）",
-      "detail": "知名MMORPG IP改編，由大廠Kakao Games發行，已在韓國成功上線並開啟全球預註冊，具備高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導/網路搜尋",
-      "fetchedAt": "2026-10-28T06:13:24.449440+00:00"
-    },
-    {
-      "id": "brief-20261028-5b6f29d6",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "忍者亂太郎將停運",
-      "detail": "手遊《忍者亂太郎》12/16結束營運。",
-      "action": "留意停運日期",
+      "id": "brief-20261031-f982f201",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "無限暖暖2.11版上線",
+      "detail": "開放世界換裝遊戲《無限暖暖》2.11版本「時光縫合的扉頁」上線。",
+      "action": "更新遊戲體驗",
       "platform": "mobile",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-28T05:58:45.672271+00:00"
+      "fetchedAt": "2026-10-31T06:01:06.427665+00:00"
     },
     {
-      "id": "brief-20261028-5225f24b",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "BLEACH手遊上市",
-      "detail": "《BLEACH Mirrors High》今日上線，藍染登場。",
-      "action": "下載體驗遊戲",
+      "id": "brief-20261031-7d60ae09",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "逆水寒2.3.4版上線",
+      "detail": "《逆水寒》2.3.4版本上線，二週年預約開跑，新玩法登場。",
+      "action": "參與二週年預約",
       "platform": "mobile",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-28T05:58:45.672271+00:00"
-    },
-    {
-      "id": "brief-20261028-3e145afe",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "魔物獵人：旅人預載",
-      "detail": "手遊《魔物獵人：旅人》10/29上市，已開放預載。",
-      "action": "立即預先下載",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-28T05:58:45.672271+00:00"
-    },
-    {
-      "id": "brief-20261027-686d6582",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "元氣百響（新發現・高威脅）",
-      "detail": "二次元畫風、音樂格鬥與RPG結合，具備Roguelike和策略元素，對二次元玩家有較強吸引力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-10-27T05:24:24.421873+00:00"
+      "fetchedAt": "2026-10-31T06:01:06.427665+00:00"
     }
   ]
 }
