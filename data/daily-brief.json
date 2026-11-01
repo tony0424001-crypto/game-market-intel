@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-10-31T06:01:06.427665+00:00",
-  "fetchCount": 171,
+  "lastUpdated": "2026-11-01T06:37:36.190169+00:00",
+  "fetchCount": 172,
   "items": [
+    {
+      "id": "brief-20261101-4a48b95e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "異議 (暫譯)（新發現・高威脅）",
+      "detail": "玩法獨特，結合開放世界與動作元素，且強調無角色抽卡，可能吸引廣泛玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-01T06:37:36.190169+00:00"
+    },
+    {
+      "id": "brief-20261101-c629caca",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "魔物獵人 崛起 (手機版)（新發現・高威脅）",
+      "detail": "國民級IP《魔物獵人》的手機版，預期將吸引大量玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-01T06:37:36.190169+00:00"
+    },
+    {
+      "id": "brief-20261101-26984ad3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "奧丁Q：女武神之喚 (暫譯)（新發現・高威脅）",
+      "detail": "由知名MMORPG《奧丁：神叛》團隊開發，採用UE5，具備大廠背景和高畫質潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-01T06:37:36.190169+00:00"
+    },
+    {
+      "id": "brief-20261101-be52e426",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "白銀之城定檔12/14",
+      "detail": "UE5大世界RPG《白銀之城》12/14全球公測，登陸多平台。",
+      "action": "關注公測資訊",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-01T06:30:21.172619+00:00"
+    },
+    {
+      "id": "brief-20261101-353266ff",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "薩爾達40週年主機",
+      "detail": "Switch 2薩爾達40週年紀念主機開箱，時之笛重製版資訊。",
+      "action": "關注主機發售",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-01T06:30:21.172619+00:00"
+    },
+    {
+      "id": "brief-20261101-8225fe43",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "崩鐵洩密判賠百萬",
+      "detail": "米哈遊《崩壞：星穹鐵道》測試版洩密案，法院判賠100萬人民幣。",
+      "action": "警惕洩密行為",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-01T06:30:21.172619+00:00"
+    },
     {
       "id": "brief-20261031-b2077ae1",
       "priority": "urgent",
@@ -155,72 +221,6 @@
       "platform": "mobile",
       "source": "新聞報導",
       "fetchedAt": "2026-10-29T06:10:12.668571+00:00"
-    },
-    {
-      "id": "brief-20261029-590bf917",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "影之刃 零 Steam首日破43萬",
-      "detail": "魂系武俠ARPG《影之刃 零》今日推出，Steam同上人數驚人。",
-      "action": "關注遊戲表現與評價",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-29T06:05:11.167303+00:00"
-    },
-    {
-      "id": "brief-20261029-dc369f26",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "妮姬4週年新版上線",
-      "detail": "《勝利女神：妮姬》4週年版本上線，新SSR妮姬登場。",
-      "action": "參與週年活動",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-29T06:05:11.167303+00:00"
-    },
-    {
-      "id": "brief-20261031-4ef65de0",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "進擊的巨人3 Switch 2預購",
-      "detail": "《進擊的巨人3》Switch 2數位版開放預購，同步公開宣傳影片。",
-      "action": "前往eShop預購",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-31T06:01:06.427665+00:00"
-    },
-    {
-      "id": "brief-20261031-bcc23398",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "妮姬四週年特展",
-      "detail": "《勝利女神：妮姬》四週年特展將於華山文創園區登場。",
-      "action": "規劃前往參觀",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-31T06:01:06.427665+00:00"
-    },
-    {
-      "id": "brief-20261031-f982f201",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "無限暖暖2.11版上線",
-      "detail": "開放世界換裝遊戲《無限暖暖》2.11版本「時光縫合的扉頁」上線。",
-      "action": "更新遊戲體驗",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-31T06:01:06.427665+00:00"
-    },
-    {
-      "id": "brief-20261031-7d60ae09",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "逆水寒2.3.4版上線",
-      "detail": "《逆水寒》2.3.4版本上線，二週年預約開跑，新玩法登場。",
-      "action": "參與二週年預約",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-10-31T06:01:06.427665+00:00"
     }
   ]
 }

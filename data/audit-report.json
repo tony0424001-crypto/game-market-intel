@@ -1,45 +1,87 @@
 {
-  "lastAudit": "2026-10-31T06:02:59.844612+00:00",
+  "lastAudit": "2026-11-01T06:30:41.652989+00:00",
   "totalProducts": 675,
-  "updatesApplied": 55,
-  "issuesFound": 3,
+  "updatesApplied": 104,
+  "issuesFound": 10,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "超數據世界",
+      "name": "BLEACH Mirrors High",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "黑月",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "VALORANT Mobile",
+      "name": "新世紀福音戰士：破曉",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
+      "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "新月同行",
+      "name": "火影忍者：巔峰對決",
       "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
+      "issue": "狀態: announced→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "境·界刀鳴",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "光明記憶：無限",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "三國望神州",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "加菲貓家族：萌寵集結",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "漫威秘法狂潮",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "終極角逐",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     }
   ],
   "checked": [
-    "超數據世界",
-    "次元戰紀",
-    "忍者冒險團",
-    "代號：新斗羅",
-    "開放空間",
-    "Project G",
-    "Disney Sparklink Stars",
-    "Azur Promilia",
-    "VALORANT Mobile",
-    "MISFITZ",
-    "Project Octopus",
-    "奇遇動物城",
-    "Super String",
-    "新月同行",
-    "創世紀戰：放置英雄"
+    "BLEACH Mirrors High",
+    "黑月",
+    "新世紀福音戰士：破曉",
+    "火影忍者：巔峰對決",
+    "境·界刀鳴",
+    "大夢道心錄",
+    "從前有座花果山",
+    "光明記憶：無限",
+    "三國望神州",
+    "加菲貓家族：萌寵集結",
+    "狼人殺：月夜推理樂園",
+    "漫威秘法狂潮",
+    "終極角逐",
+    "超級新寵物",
+    "超迷足球"
   ],
   "nextBatch": [
     "無限大",
