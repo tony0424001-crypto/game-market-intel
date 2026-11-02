@@ -1,87 +1,39 @@
 {
-  "lastAudit": "2026-11-01T06:30:41.652989+00:00",
-  "totalProducts": 675,
-  "updatesApplied": 104,
-  "issuesFound": 10,
+  "lastAudit": "2026-11-02T06:31:55.553676+00:00",
+  "totalProducts": 681,
+  "updatesApplied": 51,
+  "issuesFound": 2,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "BLEACH Mirrors High",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "黑月",
+      "name": "狹道英雄",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "新世紀福音戰士：破曉",
+      "name": "芙娅之魂",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "火影忍者：巔峰對決",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "境·界刀鳴",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "光明記憶：無限",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "三國望神州",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "加菲貓家族：萌寵集結",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "漫威秘法狂潮",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "終極角逐",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
+      "issue": "狀態: pre-reg→pre-reg",
       "autoFixed": true
     }
   ],
   "checked": [
-    "BLEACH Mirrors High",
-    "黑月",
-    "新世紀福音戰士：破曉",
-    "火影忍者：巔峰對決",
-    "境·界刀鳴",
-    "大夢道心錄",
-    "從前有座花果山",
-    "光明記憶：無限",
-    "三國望神州",
-    "加菲貓家族：萌寵集結",
-    "狼人殺：月夜推理樂園",
-    "漫威秘法狂潮",
-    "終極角逐",
-    "超級新寵物",
-    "超迷足球"
+    "此處必有妖",
+    "古荒遺蹟2",
+    "黑龍風暴",
+    "夢幻飛飛飛",
+    "狹道英雄",
+    "元氣百響",
+    "上古世紀：戰爭",
+    "芙娅之魂",
+    "劍與杖",
+    "命運之子：Assemble",
+    "數碼寶貝卡牌遊戲手機版：Alysion",
+    "3對3街籃",
+    "現代坦克",
+    "VAMPIR：血之繼承者",
+    "勇者來開團"
   ],
   "nextBatch": [
     "無限大",
