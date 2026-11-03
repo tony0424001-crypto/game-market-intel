@@ -1,39 +1,87 @@
 {
-  "lastAudit": "2026-11-02T06:31:55.553676+00:00",
-  "totalProducts": 681,
-  "updatesApplied": 51,
-  "issuesFound": 2,
+  "lastAudit": "2026-11-03T07:02:14.768489+00:00",
+  "totalProducts": 695,
+  "updatesApplied": 59,
+  "issuesFound": 10,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "狹道英雄",
+      "name": "mo.co",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "芙娅之魂",
+      "name": "桃花",
       "status": "warning",
-      "issue": "狀態: pre-reg→pre-reg",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "斗羅大陸：第十魂環",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "武林外傳之七俠重遊",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "拇指人領主",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "誅仙：歸來",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "他予回聲",
+      "status": "warning",
+      "issue": "狀態: announced→cbt",
+      "autoFixed": true
+    },
+    {
+      "name": "劍俠情緣：重逢",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "奧丁：神叛",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "魔物獵人 崛起 (手機版)",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "此處必有妖",
-    "古荒遺蹟2",
-    "黑龍風暴",
-    "夢幻飛飛飛",
-    "狹道英雄",
-    "元氣百響",
-    "上古世紀：戰爭",
-    "芙娅之魂",
-    "劍與杖",
-    "命運之子：Assemble",
-    "數碼寶貝卡牌遊戲手機版：Alysion",
-    "3對3街籃",
-    "現代坦克",
-    "VAMPIR：血之繼承者",
-    "勇者來開團"
+    "RO 仙境傳說：愛如初見Classic",
+    "mo.co",
+    "桃花",
+    "斗羅大陸：第十魂環",
+    "武林外傳之七俠重遊",
+    "拇指人領主",
+    "誅仙：歸來",
+    "他予回聲",
+    "劍俠情緣：重逢",
+    "奧丁：神叛",
+    "命運共鳴：印記 (暫譯)",
+    "奧丁Q：女武神之喚 (暫譯)",
+    "魔物獵人 崛起 (手機版)",
+    "異議 (暫譯)",
+    "蔚藍港灣 (暫譯)"
   ],
   "nextBatch": [
     "無限大",
