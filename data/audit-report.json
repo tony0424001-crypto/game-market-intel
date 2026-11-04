@@ -1,87 +1,63 @@
 {
-  "lastAudit": "2026-11-03T07:02:14.768489+00:00",
-  "totalProducts": 695,
-  "updatesApplied": 59,
-  "issuesFound": 10,
+  "lastAudit": "2026-11-04T06:46:29.641014+00:00",
+  "totalProducts": 703,
+  "updatesApplied": 28,
+  "issuesFound": 6,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "mo.co",
+      "name": "守護少女 (暫譯)",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "不可卷卷書店",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "龍紋破曉",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "神將世界：破曉",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "斗羅大陸：逆轉時空",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "桃花",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "斗羅大陸：第十魂環",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "武林外傳之七俠重遊",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "拇指人領主",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "誅仙：歸來",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "他予回聲",
-      "status": "warning",
-      "issue": "狀態: announced→cbt",
-      "autoFixed": true
-    },
-    {
-      "name": "劍俠情緣：重逢",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "奧丁：神叛",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "魔物獵人 崛起 (手機版)",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
+      "name": "斗羅大陸：逆轉時空",
+      "status": "error",
+      "issue": "移除: 遊戲已於2026年9月18日結束營運。",
+      "autoFixed": false
     }
   ],
   "checked": [
-    "RO 仙境傳說：愛如初見Classic",
-    "mo.co",
-    "桃花",
-    "斗羅大陸：第十魂環",
-    "武林外傳之七俠重遊",
-    "拇指人領主",
-    "誅仙：歸來",
-    "他予回聲",
-    "劍俠情緣：重逢",
-    "奧丁：神叛",
-    "命運共鳴：印記 (暫譯)",
-    "奧丁Q：女武神之喚 (暫譯)",
-    "魔物獵人 崛起 (手機版)",
-    "異議 (暫譯)",
-    "蔚藍港灣 (暫譯)"
+    "守護少女 (暫譯)",
+    "不可卷卷書店",
+    "龍紋破曉",
+    "神將世界：破曉",
+    "斗羅大陸：逆轉時空",
+    "人氣動漫大亂鬥",
+    "熱血江湖：覺醒",
+    "元夜十二談",
+    "少女與學院城",
+    "俠客風雲傳：正傳",
+    "忘卻前夜：銀鑰",
+    "英靈奇兵",
+    "我叫MT：商棧",
+    "戰爭前線：突圍",
+    "千次初見"
   ],
   "nextBatch": [
     "無限大",

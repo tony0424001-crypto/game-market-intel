@@ -36288,19 +36288,19 @@
       "PC",
       "Mobile"
     ],
-    "region": "Global",
+    "region": "TW/HK/MO",
     "model": "F2P",
     "stage": "announced",
     "threat": "medium",
     "threatReason": "屬於重點關注的二次元/抽卡品類，但目前資訊較少，規模待觀察。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026",
+    "sentiment": 50,
+    "launchEst": "待定",
     "desc": "一款預計於2026年推出的跨平台抽卡遊戲。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】屬於重點關注的二次元/抽卡品類，但目前資訊較少，規模待觀察。",
+    "threatAnalysis": "【中等規模】遊戲中文名稱已定為《守望之心》，並確認台港澳代理商。開發商Kong Studios雖有內部調整，但新作開發持續。目前仍處於早期宣傳階段，市場熱度有待觀察。\n\n▶ 建議行動：\n(1). 持續追蹤台港澳代理商Poseidon Games的官方公告，獲取最新上市計畫。\n(2). 關注遊戲在韓國及其他地區的測試或宣傳活動，評估市場反應。\n(3). 留意開發商Kong Studios的後續動態，評估其對遊戲開發進度的影響。",
     "verified": "Agent 發現 (2026-11-01)",
     "category": "active",
     "testType": "待確認",
@@ -36312,13 +36312,18 @@
       {
         "date": "2026-11",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-01",
+    "updatedAt": "2026-11-04",
     "addedAt": "2026-11-01",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-04",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲中文名稱已正式定名為《守望之心》，並由Poseidon Games代理台港澳發行權。開發商Kong Studios於2026年3月進行人力縮減，但表示新作開發仍在進行中。"
   },
   {
     "id": 685,
@@ -36337,13 +36342,13 @@
     "threat": "medium",
     "threatReason": "騰訊大廠新作，但遊戲類型與詳細資訊尚未公布，仍待觀察。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "sentiment": 65,
+    "launchEst": "2026-Q4 (待確認具體日期)",
     "desc": "騰訊旗下獲得中國版號的新作手遊。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】騰訊大廠新作，但遊戲類型與詳細資訊尚未公布，仍待觀察。",
+    "threatAnalysis": "【中等規模】騰訊旗下遊戲已取得中國版號，為上線鋪平道路。雖然具體上線日期和測試資訊仍待確認，但版號的獲批顯著提升了其市場地位和潛在威脅。遊戲類型為書店模擬經營，具備一定的獨特性。\n\n▶ 建議行動：\n(1). 密切關注騰訊官方發布的測試及上線時間。\n(2). 評估遊戲在中國市場的預約量和初期宣傳熱度。\n(3). 觀察遊戲玩法是否具備創新性，以判斷其在細分市場的潛力。",
     "verified": "Agent 發現 (2026-11-02)",
     "category": "active",
     "testType": "待確認",
@@ -36361,13 +36366,18 @@
       {
         "date": "2026-11",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-04",
     "addedAt": "2026-11-02",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-04",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲已於2026年10月28日獲得中國版號，為後續商業化上線掃清障礙。"
   },
   {
     "id": 686,
@@ -36386,13 +36396,13 @@
     "threat": "medium",
     "threatReason": "獲得中國版號的RPG類型手遊，具備一定市場潛力。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "sentiment": 60,
+    "launchEst": "2026-Q4 (待確認具體日期)",
     "desc": "中青寶旗下獲得中國版號的新作手遊，名稱推估為RPG類型。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】獲得中國版號的RPG類型手遊，具備一定市場潛力。",
+    "threatAnalysis": "【中等規模】中青寶旗下MMORPG《龍紋破曉》已取得中國版號，為上線做好準備。版號的獲批提升了其市場潛力，但具體上線和測試資訊仍待公布。作為MMORPG，其市場競爭激烈，需觀察後續宣傳和產品品質。\n\n▶ 建議行動：\n(1). 追蹤中青寶或相關合作夥伴關於遊戲測試和上線日期的公告。\n(2). 評估遊戲在TapTap等平台的預約表現和玩家討論熱度。\n(3). 分析遊戲的MMORPG玩法特色，判斷其在市場中的差異化競爭力。",
     "verified": "Agent 發現 (2026-11-02)",
     "category": "active",
     "testType": "待確認",
@@ -36410,13 +36420,18 @@
       {
         "date": "2026-11",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-04",
     "addedAt": "2026-11-02",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-04",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲已於2026年10月28日獲得中國版號，為後續商業化上線掃清障礙。"
   },
   {
     "id": 687,
@@ -36435,18 +36450,18 @@
     "threat": "medium",
     "threatReason": "獲得中國版號的RPG類型手遊，具備一定市場潛力。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-Q4",
+    "sentiment": 60,
+    "launchEst": "2026-Q4 (待確認具體日期)",
     "desc": "4399 旗下獲得中國版號的新作手遊，名稱推估為RPG類型。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】獲得中國版號的RPG類型手遊，具備一定市場潛力。",
+    "threatAnalysis": "【中等規模】4399旗下《神將世界：破曉》已取得中國版號，並確認為三國題材橫版動作手遊。版號獲批為其上線鋪路，但具體測試和上線時間仍待公布。遊戲改編自經典頁遊IP，具備一定用戶基礎。\n\n▶ 建議行動：\n(1). 密切關注4399官方發布的測試招募和上線時間。\n(2). 評估遊戲在TapTap等平台的預約情況和玩家對IP的期待度。\n(3). 分析其橫版動作玩法在當前市場的競爭力。",
     "verified": "Agent 發現 (2026-11-02)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "待確認 (安卓測試服尚未上線)",
     "sourceLinks": [],
     "launchRegions": [
       {
@@ -36459,13 +36474,18 @@
       {
         "date": "2026-11",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-04",
     "addedAt": "2026-11-02",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-04",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲已於2026年10月29日獲得中國版號，正式定名為《神將世界：破曉》。目前安卓測試服尚未上線，預計將有後續測試。"
   },
   {
     "id": 688,
@@ -36478,37 +36498,63 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "CN/TW/HK/MO",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "high",
-    "threatReason": "知名IP《斗羅大陸》改編，二次元卡牌RPG符合重點關注品類。",
+    "stage": "live-ops",
+    "threat": "low",
+    "threatReason": "遊戲已停止營運，不再構成威脅。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026",
+    "sentiment": 0,
+    "launchEst": "已結束營運",
     "desc": "以《斗羅大陸》IP 為基礎的二次元卡牌RPG，圍繞魂師大賽與魂導器系統展開。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名IP《斗羅大陸》改編，二次元卡牌RPG符合重點關注品類。",
+    "threatAnalysis": "【已停止營運】《斗羅大陸：逆轉時空》已於2026年9月18日正式結束營運。雖然遊戲曾於中國大陸和台港澳地區上線，並進行過CBT測試，但最終因市場表現不佳而關服。這表明其在競爭激烈的斗羅大陸IP手遊市場中未能持續吸引玩家。\n\n▶ 建議行動：\n(1). 將此產品標記為已移除，不再追蹤。\n(2). 分析其失敗原因，作為未來同類IP產品的借鑒。\n(3). 關注市場上其他斗羅大陸IP手遊的表現，以了解該IP的整體市場趨勢。",
     "verified": "Agent 發現 (2026-11-02)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "testDateEnd": "2025/3/31 (CBT結束)",
+    "sourceLinks": [
+      {
+        "label": "TapTap (CN)",
+        "url": "https://www.taptap.cn/app/231149"
+      },
+      {
+        "label": "官網 (TW/HK/MO)",
+        "url": "https://www.gamebeans.com/drdl"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "launched",
+        "date": "2024-09-25"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "shut down",
+        "date": "2026-09-18"
+      }
+    ],
     "history": [
       {
         "date": "2026-11",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-02",
+    "updatedAt": "2026-11-04",
     "addedAt": "2026-11-02",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-04",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2026年9月18日發布結束營運公告，正式停止服務。",
+    "eventNote": "遊戲已於2026年9月18日發布結束營運公告，正式停止服務。"
   },
   {
     "id": 689,
@@ -37318,6 +37364,299 @@
     ],
     "updatedAt": "2026-11-03",
     "addedAt": "2026-11-03",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 707,
+    "name": "勇者鬥惡龍：粉碎成長",
+    "nameEn": "Dragon Quest Smash Grow",
+    "developer": "待確認",
+    "studio": "待確認",
+    "publisher": "待確認",
+    "genre": "Roguelike",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名IP《勇者鬥惡龍》的移動平台新作，具備高吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "勇者鬥惡龍系列新作，一款移動平台Roguelike遊戲。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP《勇者鬥惡龍》的移動平台新作，具備高吸引力。",
+    "verified": "Agent 發現 (2026-11-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-04",
+    "addedAt": "2026-11-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 708,
+    "name": "靠裝勇者",
+    "nameEn": "Overgeared Hero",
+    "developer": "KRAFTON",
+    "studio": "KRAFTON",
+    "publisher": "KRAFTON",
+    "genre": "策略RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "KRAFTON新作，主打移動平台，Roguelike策略玩法具潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "KRAFTON開發的復古像素風格Roguelike策略RPG，強調裝備搭配。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】KRAFTON新作，主打移動平台，Roguelike策略玩法具潛力。",
+    "verified": "Agent 發現 (2026-11-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "2026-Q4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-04",
+    "addedAt": "2026-11-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 709,
+    "name": "納薩力克之王",
+    "nameEn": "Overlord: King of Nazarick",
+    "developer": "待確認",
+    "studio": "待確認",
+    "publisher": "待確認",
+    "genre": "卡牌策略",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "知名IP《Overlord》改編手遊，已在中國市場上線，具備高吸引力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "《Overlord》IP改編的卡牌策略手遊，玩家可與原作角色一同冒險。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP《Overlord》改編手遊，已在中國市場上線，具備高吸引力。",
+    "verified": "Agent 發現 (2026-11-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2026"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-04",
+    "addedAt": "2026-11-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 710,
+    "name": "輕語之境",
+    "nameEn": "Whisperborne",
+    "developer": "Sextant / Liufenyu Games",
+    "studio": "Sextant / Liufenyu Games",
+    "publisher": "Sextant / Liufenyu Games",
+    "genre": "角色扮演",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "已在中國市場營運，全球發行後潛力待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "已在中國上線的二次元角色扮演手遊，預計2027年Q1全球發行。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】已在中國市場營運，全球發行後潛力待觀察。",
+    "verified": "Agent 發現 (2026-11-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2026-01-08"
+      },
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "2027-Q1"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-04",
+    "addedAt": "2026-11-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 711,
+    "name": "無盡夢回",
+    "nameEn": "Endless Dream Return",
+    "developer": "待確認",
+    "studio": "待確認",
+    "publisher": "待確認",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "中國市場已上線的二次元動作手遊，玩法具特色，但開發商資訊較少。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "動作割草類二次元手遊，強調流派組合與隨機地圖體驗。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】中國市場已上線的二次元動作手遊，玩法具特色，但開發商資訊較少。",
+    "verified": "Agent 發現 (2026-11-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2026"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-04",
+    "addedAt": "2026-11-04",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 712,
+    "name": "霧境序列",
+    "nameEn": "Mist Sequence",
+    "developer": "待確認",
+    "studio": "待確認",
+    "publisher": "待確認",
+    "genre": "角色扮演",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "中國市場已上線的二次元角色扮演手遊，玩法具特色，但開發商資訊較少。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "扮演調查官探索濃霧大陸的二次元角色扮演手遊。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】中國市場已上線的二次元角色扮演手遊，玩法具特色，但開發商資訊較少。",
+    "verified": "Agent 發現 (2026-11-04)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已上線",
+        "date": "2026"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-04",
+    "addedAt": "2026-11-04",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
