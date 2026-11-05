@@ -1,53 +1,60 @@
 {
-  "lastAudit": "2026-11-04T06:46:29.641014+00:00",
-  "totalProducts": 703,
-  "updatesApplied": 28,
-  "issuesFound": 6,
+  "lastAudit": "2026-11-05T07:06:31.297648+00:00",
+  "totalProducts": 709,
+  "updatesApplied": 65,
+  "issuesFound": 8,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "守護少女 (暫譯)",
+      "name": "人氣動漫大亂鬥",
       "status": "warning",
-      "issue": "狀態: announced→announced",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "不可卷卷書店",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "龍紋破曉",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "神將世界：破曉",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "斗羅大陸：逆轉時空",
+      "name": "熱血江湖：覺醒",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "斗羅大陸：逆轉時空",
+      "name": "元夜十二談",
+      "status": "warning",
+      "issue": "狀態: announced→cbt",
+      "autoFixed": true
+    },
+    {
+      "name": "少女與學院城",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "伊蘭西亞 Mobile",
+      "status": "warning",
+      "issue": "狀態: live-ops→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "最終幻想14：水晶世界",
+      "status": "warning",
+      "issue": "狀態: announced→shutdown",
+      "autoFixed": true
+    },
+    {
+      "name": "最終幻想14：水晶世界",
       "status": "error",
-      "issue": "移除: 遊戲已於2026年9月18日結束營運。",
+      "issue": "移除: 遊戲已於2026年9月30日停止營運並關閉伺服器。",
       "autoFixed": false
+    },
+    {
+      "name": "墨香情",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
     }
   ],
   "checked": [
-    "守護少女 (暫譯)",
-    "不可卷卷書店",
-    "龍紋破曉",
-    "神將世界：破曉",
-    "斗羅大陸：逆轉時空",
     "人氣動漫大亂鬥",
     "熱血江湖：覺醒",
     "元夜十二談",
@@ -57,7 +64,12 @@
     "英靈奇兵",
     "我叫MT：商棧",
     "戰爭前線：突圍",
-    "千次初見"
+    "千次初見",
+    "嘟嘟臉惡作劇：帕蒂瑪",
+    "伊蘭西亞 Mobile",
+    "極限戰場",
+    "最終幻想14：水晶世界",
+    "墨香情"
   ],
   "nextBatch": [
     "無限大",

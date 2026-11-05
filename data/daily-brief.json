@@ -1,7 +1,117 @@
 {
-  "lastUpdated": "2026-11-04T06:50:21.649847+00:00",
-  "fetchCount": 175,
+  "lastUpdated": "2026-11-05T07:13:19.984118+00:00",
+  "fetchCount": 176,
   "items": [
+    {
+      "id": "brief-20261105-d7dbdb7c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "丹墨三国：弈（新發現・高威脅）",
+      "detail": "三國IP改編，策略RPG並包含抽卡元素，已在Steam平台發行。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-11-05T07:13:19.984118+00:00"
+    },
+    {
+      "id": "brief-20261105-3a87f674",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "斗破苍穹：帝炎（新發現・高威脅）",
+      "detail": "頂級中國IP改編，預計為大型RPG，具備高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-11-05T07:13:19.984118+00:00"
+    },
+    {
+      "id": "brief-20261105-8f6db079",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "艾乌之光（新發現・高威脅）",
+      "detail": "動作RPG，日系動漫風格，已在其他地區上線並獲得良好口碑。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-11-05T07:13:19.984118+00:00"
+    },
+    {
+      "id": "brief-20261105-ee1b9ab2",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "代號：無限（新發現・高威脅）",
+      "detail": "騰訊大廠新作，開放世界RPG品類，具備潛在市場競爭力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-11-05T07:13:19.984118+00:00"
+    },
+    {
+      "id": "brief-20261105-025d2196",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "重返未來：1999（新發現・高威脅）",
+      "detail": "雖已上線，但作為近期全球市場表現亮眼的二次元抽卡手遊，其市場影響力不容忽視。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導/官方公告",
+      "fetchedAt": "2026-11-05T07:13:19.984118+00:00"
+    },
+    {
+      "id": "brief-20261105-517e3551",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "國產新作《異病偵探》上市",
+      "detail": "台灣獨立團隊推理新作《異病偵探》今日正式上市。",
+      "action": "立即試玩體驗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-05T07:05:54.539824+00:00"
+    },
+    {
+      "id": "brief-20261105-27c4faf3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《英雄聯盟》世界賽",
+      "detail": "GEN橫掃LYON晉級四強，將對決IG。",
+      "action": "觀看四強賽事",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-05T07:05:54.539824+00:00"
+    },
+    {
+      "id": "brief-20261105-a6eee63c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《魔獸世界：永恆》上市",
+      "detail": "全新MMORPG《魔獸世界：永恆》今日正式登場。",
+      "action": "立即體驗新版",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-05T07:05:54.539824+00:00"
+    },
+    {
+      "id": "brief-20261105-cb57a011",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《Apex》x《哥吉拉》",
+      "detail": "《Apex 英雄》預告將與經典IP《哥吉拉》合作。",
+      "action": "期待聯動活動",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-05T07:05:54.539824+00:00"
+    },
+    {
+      "id": "brief-20261105-b3c0f8df",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《崩壞：因緣精靈》測試",
+      "detail": "米哈遊新作《崩壞：因緣精靈》最終測試將登場。",
+      "action": "報名參與測試",
+      "platform": "mobile",
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-05T07:05:54.539824+00:00"
+    },
     {
       "id": "brief-20261104-20d3e303",
       "priority": "urgent",
@@ -111,116 +221,6 @@
       "platform": "mobile",
       "source": "新聞報導",
       "fetchedAt": "2026-11-03T07:04:13.169143+00:00"
-    },
-    {
-      "id": "brief-20261103-ce0d1a71",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "劍與家園2（新發現・高威脅）",
-      "detail": "莉莉絲遊戲旗下知名IP續作，策略SLG品類在手遊市場表現穩定，具備一定市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-03T07:04:13.169143+00:00"
-    },
-    {
-      "id": "brief-20261103-4fb92ab1",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "墨香情（新發現・高威脅）",
-      "detail": "經典武俠端遊IP手遊化，主打懷舊情懷，在中國市場具備一定玩家基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-03T07:04:13.169143+00:00"
-    },
-    {
-      "id": "brief-20261103-1ac70398",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "最終幻想14：水晶世界（新發現・高威脅）",
-      "detail": "全球知名IP《最終幻想14》手遊化，由騰訊大廠開發，預期將引起全球玩家高度關注。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-03T07:04:13.169143+00:00"
-    },
-    {
-      "id": "brief-20261103-5883f1b0",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "極限戰場（新發現・高威脅）",
-      "detail": "網易旗下新作，射擊品類在移動遊戲市場收入佔比高，具備潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-03T07:04:13.169143+00:00"
-    },
-    {
-      "id": "brief-20261103-059c2d29",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "伊蘭西亞 Mobile（新發現・高威脅）",
-      "detail": "Nexon旗下經典IP手遊化，具備一定玩家基礎和市場關注度，屬於回憶向產品。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-03T07:04:13.169143+00:00"
-    },
-    {
-      "id": "brief-20261103-96f5af9a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "嘟嘟臉惡作劇：帕蒂瑪（新發現・高威脅）",
-      "detail": "知名二次元手遊開發商新作，具備一定市場影響力，且為二次元/抽卡品類。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-03T07:04:13.169143+00:00"
-    },
-    {
-      "id": "brief-20261103-eb236dfb",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《邊緣禁地》銷量破億",
-      "detail": "《邊緣禁地》系列累計銷量破1億套，全系列作品限時特價。",
-      "action": "把握特價機會",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-03T07:01:48.977356+00:00"
-    },
-    {
-      "id": "brief-20261103-70bab1d8",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《足球經理27》免費預覽",
-      "detail": "《足球經理27》上市預覽版即日起開放免費遊玩，限時至11/3。",
-      "action": "立即免費遊玩",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-03T07:01:48.977356+00:00"
-    },
-    {
-      "id": "brief-20261102-923293ee",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "戰爭前線：突圍（新發現・高威脅）",
-      "detail": "國際知名IP，在射擊遊戲領域有廣泛影響力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-02T06:38:25.058154+00:00"
-    },
-    {
-      "id": "brief-20261102-f3af2e49",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "我叫MT：商棧（新發現・高威脅）",
-      "detail": "擁有廣泛國民度的IP，具備強大的情懷號召力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-02T06:38:25.058154+00:00"
     }
   ]
 }
