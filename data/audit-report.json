@@ -1,75 +1,45 @@
 {
-  "lastAudit": "2026-11-05T07:06:31.297648+00:00",
-  "totalProducts": 709,
-  "updatesApplied": 65,
-  "issuesFound": 8,
+  "lastAudit": "2026-11-06T07:06:39.821005+00:00",
+  "totalProducts": 717,
+  "updatesApplied": 60,
+  "issuesFound": 3,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "人氣動漫大亂鬥",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "熱血江湖：覺醒",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "元夜十二談",
-      "status": "warning",
-      "issue": "狀態: announced→cbt",
-      "autoFixed": true
-    },
-    {
-      "name": "少女與學院城",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "伊蘭西亞 Mobile",
-      "status": "warning",
-      "issue": "狀態: live-ops→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "最終幻想14：水晶世界",
-      "status": "warning",
-      "issue": "狀態: announced→shutdown",
-      "autoFixed": true
-    },
-    {
-      "name": "最終幻想14：水晶世界",
+      "name": "勇者鬥惡龍：粉碎成長",
       "status": "error",
-      "issue": "移除: 遊戲已於2026年9月30日停止營運並關閉伺服器。",
+      "issue": "移除: 查無此遊戲的官方資訊或相關開發進度，高度懷疑為不存在或已取消的項目。",
       "autoFixed": false
     },
     {
-      "name": "墨香情",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
+      "name": "靠裝勇者",
+      "status": "error",
+      "issue": "移除: 查無此遊戲的官方資訊或相關開發進度，高度懷疑為不存在或已取消的項目。",
+      "autoFixed": false
+    },
+    {
+      "name": "納薩力克之王",
+      "status": "error",
+      "issue": "移除: 遊戲已於2023年3月31日全面停止營運。",
+      "autoFixed": false
     }
   ],
   "checked": [
-    "人氣動漫大亂鬥",
-    "熱血江湖：覺醒",
-    "元夜十二談",
-    "少女與學院城",
-    "俠客風雲傳：正傳",
-    "忘卻前夜：銀鑰",
-    "英靈奇兵",
-    "我叫MT：商棧",
-    "戰爭前線：突圍",
-    "千次初見",
-    "嘟嘟臉惡作劇：帕蒂瑪",
-    "伊蘭西亞 Mobile",
-    "極限戰場",
-    "最終幻想14：水晶世界",
-    "墨香情"
+    "劍與家園2",
+    "遠光84",
+    "鵝鴨殺",
+    "勇者鬥惡龍：粉碎成長",
+    "靠裝勇者",
+    "納薩力克之王",
+    "輕語之境",
+    "無盡夢回",
+    "霧境序列",
+    "重返未來：1999",
+    "代號：無限",
+    "艾乌之光",
+    "斗破苍穹：帝炎",
+    "丹墨三国：弈",
+    "盛世武神"
   ],
   "nextBatch": [
     "無限大",

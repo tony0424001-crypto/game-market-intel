@@ -37373,13 +37373,13 @@
     "threat": "high",
     "threatReason": "莉莉絲遊戲旗下知名IP續作，策略SLG品類在手遊市場表現穩定，具備一定市場潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "待確認",
     "desc": "莉莉絲遊戲《劍與家園》IP的正統續作，延續魔幻軍事題材，構建具備地形交互、多兵種協同的策略沙盤。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】莉莉絲遊戲旗下知名IP續作，策略SLG品類在手遊市場表現穩定，具備一定市場潛力。",
+    "threatAnalysis": "【高威脅】莉莉絲遊戲的續作，儘管目前開發進度不明，但憑藉前作IP與開發商實力，仍具潛在威脅。\n\n▶ 建議行動：\n(1). 持續關注莉莉絲遊戲官方公告及行業新聞，追蹤任何測試或上線消息。\n(2). 留意遊戲類型與玩法，評估其對目標市場的影響。\n(3). 準備應對策略，一旦有具體進展，迅速調整市場佈局。",
     "verified": "Agent 發現 (2026-11-03)",
     "category": "active",
     "testType": "待確認",
@@ -37393,11 +37393,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "自2021年首次公布後，遊戲開發進度緩慢，至今未有新的測試或上線消息。"
   },
   {
     "id": 705,
@@ -37416,15 +37417,15 @@
     "threat": "high",
     "threatReason": "莉莉絲遊戲旗下射擊競技產品，已在全球市場上線並累積一定玩家群體。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "2023-04",
     "desc": "莉莉絲自研的快節奏科幻題材大逃殺競技手遊，支持60人同場對抗，已在全球範圍內上線。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】莉莉絲遊戲旗下射擊競技產品，已在全球市場上線並累積一定玩家群體。",
+    "threatAnalysis": "【高威脅】莉莉絲遊戲的戰術競技產品，已全球上線並營運超過一年。雖然初期表現亮眼，但目前已過高峰期，玩家熱度與營收有下滑趨勢。\n\n▶ 建議行動：\n(1). 持續監測其營收與玩家活躍數據，評估其長期競爭力。\n(2). 分析其版本更新內容與活動策略，了解其維持玩家留存的方式。\n(3). 關注其在東南亞及印度等主要市場的表現，評估其對當地市場的影響。",
     "verified": "Agent 發現 (2026-11-03)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
@@ -37432,8 +37433,8 @@
     "launchRegions": [
       {
         "region": "Global",
-        "status": "已上線",
-        "date": "2023-04-23"
+        "status": "launched",
+        "date": "2023-04"
       }
     ],
     "history": [
@@ -37442,11 +37443,13 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲於2023年4月全球上線，目前持續營運中。",
+    "eventNote": "遊戲於2023年4月全球上線，目前持續營運中。"
   },
   {
     "id": 706,
@@ -37466,23 +37469,28 @@
     "threatReason": "知名PC遊戲IP手遊化，具備龐大玩家基礎和話題度，社交推理品類在移動端受歡迎。",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-01",
+    "launchEst": "2021-10",
     "desc": "PC端經典社交推理遊戲《鵝鴨殺》的移動版本，於2026年1月7日開啟公測，保留多人社交推理玩法。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名PC遊戲IP手遊化，具備龐大玩家基礎和話題度，社交推理品類在移動端受歡迎。",
+    "threatAnalysis": "【高威脅】一款現象級的社交推理遊戲，已全球上線並營運多年。儘管已過高峰期，但仍擁有龐大的忠實玩家社群與話題潛力。\n\n▶ 建議行動：\n(1). 監測其社群活躍度與內容創作趨勢，了解其長尾效應。\n(2). 分析其新模式或活動對玩家回流的影響。\n(3). 評估其在不同地區的文化適應性與傳播潛力。",
     "verified": "Agent 發現 (2026-11-03)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
     "sourceLinks": [],
     "launchRegions": [
       {
-        "region": "Global",
-        "status": "已上線",
-        "date": "2026-01-07"
+        "region": "Global (Steam)",
+        "status": "launched",
+        "date": "2021-10"
+      },
+      {
+        "region": "Global (Mobile)",
+        "status": "launched",
+        "date": "2022-11"
       }
     ],
     "history": [
@@ -37491,11 +37499,13 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-03",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-03",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2021年10月在Steam上線，並於2022年11月推出行動版，目前持續營運中。",
+    "eventNote": "遊戲已於2021年10月在Steam上線，並於2022年11月推出行動版，目前持續營運中。"
   },
   {
     "id": 707,
@@ -37511,16 +37521,16 @@
     "region": "Global",
     "model": "F2P",
     "stage": "announced",
-    "threat": "high",
-    "threatReason": "知名IP《勇者鬥惡龍》的移動平台新作，具備高吸引力。",
+    "threat": "low",
+    "threatReason": "遊戲資訊不明，無實際威脅。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2026",
     "desc": "勇者鬥惡龍系列新作，一款移動平台Roguelike遊戲。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名IP《勇者鬥惡龍》的移動平台新作，具備高吸引力。",
+    "threatAnalysis": "【低威脅】此遊戲名稱查無任何官方資訊，建議移除追蹤。\n\n▶ 建議行動：\n(1). 移除此遊戲的追蹤。\n(2). 若未來有相關資訊浮現，再重新評估。",
     "verified": "Agent 發現 (2026-11-04)",
     "category": "active",
     "testType": "待確認",
@@ -37534,11 +37544,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-04",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-04",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "經查證，目前無任何官方消息或遊戲資訊與此名稱相符，可能為誤傳、內部代號或已取消的項目。"
   },
   {
     "id": 708,
@@ -37554,16 +37565,16 @@
     "region": "Global",
     "model": "F2P",
     "stage": "announced",
-    "threat": "high",
-    "threatReason": "KRAFTON新作，主打移動平台，Roguelike策略玩法具潛力。",
+    "threat": "low",
+    "threatReason": "遊戲資訊不明，無實際威脅。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2026-Q4",
     "desc": "KRAFTON開發的復古像素風格Roguelike策略RPG，強調裝備搭配。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】KRAFTON新作，主打移動平台，Roguelike策略玩法具潛力。",
+    "threatAnalysis": "【低威脅】此遊戲名稱查無任何官方資訊，建議移除追蹤。\n\n▶ 建議行動：\n(1). 移除此遊戲的追蹤。\n(2). 若未來有相關資訊浮現，再重新評估。",
     "verified": "Agent 發現 (2026-11-04)",
     "category": "active",
     "testType": "待確認",
@@ -37583,11 +37594,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-04",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-04",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "經查證，目前無任何官方消息或遊戲資訊與此名稱相符，可能為誤傳、內部代號或已取消的項目。"
   },
   {
     "id": 709,
@@ -37600,19 +37612,19 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "JP/Global",
     "model": "F2P",
     "stage": "live-ops",
-    "threat": "high",
-    "threatReason": "知名IP《Overlord》改編手遊，已在中國市場上線，具備高吸引力。",
+    "threat": "low",
+    "threatReason": "遊戲已停止營運，無任何威脅。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026",
+    "sentiment": 0,
+    "launchEst": "2019-02",
     "desc": "《Overlord》IP改編的卡牌策略手遊，玩家可與原作角色一同冒險。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名IP《Overlord》改編手遊，已在中國市場上線，具備高吸引力。",
+    "threatAnalysis": "【低威脅】此遊戲已於2023年3月31日停止營運，建議移除追蹤。\n\n▶ 建議行動：\n(1). 移除此遊戲的追蹤。",
     "verified": "Agent 發現 (2026-11-04)",
     "category": "active",
     "testType": "待確認",
@@ -37621,9 +37633,14 @@
     "sourceLinks": [],
     "launchRegions": [
       {
-        "region": "CN",
-        "status": "已上線",
-        "date": "2026"
+        "region": "JP",
+        "status": "launched",
+        "date": "2019-02"
+      },
+      {
+        "region": "Global",
+        "status": "launched",
+        "date": "2020-04"
       }
     ],
     "history": [
@@ -37632,11 +37649,12 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-04",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-04",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲《OVERLORD: MASS FOR THE DEAD》日版已於2023年3月31日停止營運，全球版已於2021年4月12日停止營運。"
   },
   {
     "id": 710,
@@ -37649,21 +37667,21 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN/Global",
+    "region": "CN",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "medium",
     "threatReason": "已在中國市場營運，全球發行後潛力待觀察。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027-Q1",
+    "sentiment": 60,
+    "launchEst": "2023-10-26",
     "desc": "已在中國上線的二次元角色扮演手遊，預計2027年Q1全球發行。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】已在中國市場營運，全球發行後潛力待觀察。",
+    "threatAnalysis": "【中等威脅】遊戲已於2023年10月在中國大陸上線，營運穩定。屬於中等規模的二次元RPG，對特定玩家群體有吸引力。\n\n▶ 建議行動：\n(1). 監測其在中國大陸的營收排名與玩家評價，評估其長期市場表現。\n(2). 分析其內容更新頻率與活動設計，了解其玩家留存策略。\n(3). 關注是否有拓展海外市場的計畫。",
     "verified": "Agent 發現 (2026-11-04)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
@@ -37671,13 +37689,8 @@
     "launchRegions": [
       {
         "region": "CN",
-        "status": "已上線",
-        "date": "2026-01-08"
-      },
-      {
-        "region": "Global",
-        "status": "未上線",
-        "date": "2027-Q1"
+        "status": "launched",
+        "date": "2023-10-26"
       }
     ],
     "history": [
@@ -37686,11 +37699,13 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-04",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-04",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2023年10月26日在中國大陸上線，目前持續營運中。",
+    "eventNote": "遊戲已於2023年10月26日在中國大陸上線，目前持續營運中。"
   },
   {
     "id": 711,
@@ -37709,15 +37724,15 @@
     "threat": "medium",
     "threatReason": "中國市場已上線的二次元動作手遊，玩法具特色，但開發商資訊較少。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026",
+    "sentiment": 55,
+    "launchEst": "2023-09-28",
     "desc": "動作割草類二次元手遊，強調流派組合與隨機地圖體驗。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】中國市場已上線的二次元動作手遊，玩法具特色，但開發商資訊較少。",
+    "threatAnalysis": "【中等威脅】遊戲已於2023年9月在中國大陸上線，營運穩定。作為一款放置類RPG，其市場表現符合預期，對特定休閒玩家有吸引力。\n\n▶ 建議行動：\n(1). 監測其在中國大陸的營收與玩家活躍數據，評估其長尾效應。\n(2). 分析其版本更新與福利活動，了解其玩家黏著度。\n(3). 關注其是否有跨平台或海外發行計畫。",
     "verified": "Agent 發現 (2026-11-04)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
@@ -37725,8 +37740,8 @@
     "launchRegions": [
       {
         "region": "CN",
-        "status": "已上線",
-        "date": "2026"
+        "status": "launched",
+        "date": "2023-09-28"
       }
     ],
     "history": [
@@ -37735,11 +37750,13 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-04",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-04",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2023年9月28日在中國大陸上線，目前持續營運中。",
+    "eventNote": "遊戲已於2023年9月28日在中國大陸上線，目前持續營運中。"
   },
   {
     "id": 712,
@@ -37758,15 +37775,15 @@
     "threat": "medium",
     "threatReason": "中國市場已上線的二次元角色扮演手遊，玩法具特色，但開發商資訊較少。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026",
+    "sentiment": 60,
+    "launchEst": "2023-10-19",
     "desc": "扮演調查官探索濃霧大陸的二次元角色扮演手遊。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】中國市場已上線的二次元角色扮演手遊，玩法具特色，但開發商資訊較少。",
+    "threatAnalysis": "【中等威脅】遊戲已於2023年10月在中國大陸上線，營運穩定。作為一款策略RPG，其市場表現中規中矩，對策略遊戲愛好者有一定吸引力。\n\n▶ 建議行動：\n(1). 監測其在中國大陸的營收與玩家留存數據，評估其市場潛力。\n(2). 分析其遊戲內容更新與平衡性調整，了解其對核心玩家的影響。\n(3). 關注其是否有拓展其他地區市場的計畫。",
     "verified": "Agent 發現 (2026-11-04)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
@@ -37774,8 +37791,8 @@
     "launchRegions": [
       {
         "region": "CN",
-        "status": "已上線",
-        "date": "2026"
+        "status": "launched",
+        "date": "2023-10-19"
       }
     ],
     "history": [
@@ -37784,11 +37801,13 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-04",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-04",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2023年10月19日在中國大陸上線，目前持續營運中。",
+    "eventNote": "遊戲已於2023年10月19日在中國大陸上線，目前持續營運中。"
   },
   {
     "id": 713,
@@ -37802,29 +37821,34 @@
       "Mobile",
       "PC"
     ],
-    "region": "Global",
+    "region": "CN/Global",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "high",
     "threatReason": "雖已上線，但作為近期全球市場表現亮眼的二次元抽卡手遊，其市場影響力不容忽視。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 85,
     "launchEst": "2023-10",
     "desc": "一款以20世紀為背景的二次元策略回合制抽卡RPG，美術風格獨特。",
     "tags": [
       "新聞報導/官方公告"
     ],
-    "threatAnalysis": "【自動發現・新聞報導/官方公告】雖已上線，但作為近期全球市場表現亮眼的二次元抽卡手遊，其市場影響力不容忽視。",
+    "threatAnalysis": "【高威脅】一款成功的二次元回合制RPG，已全球上線並營運超過一年。憑藉其獨特的藝術風格、劇情與玩法，在市場上表現強勁，營收與話題度穩定。\n\n▶ 建議行動：\n(1). 持續密切監測其全球各主要市場的營收與玩家活躍數據，特別是日本、韓國及歐美地區。\n(2). 深入分析其版本更新、角色推出與活動策略，學習其長線營運模式。\n(3). 評估其對同類型二次元產品的競爭壓力，並調整自身產品策略。",
     "verified": "Agent 發現 (2026-11-05)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
     "sourceLinks": [],
     "launchRegions": [
       {
+        "region": "CN",
+        "status": "launched",
+        "date": "2023-05-31"
+      },
+      {
         "region": "Global",
-        "status": "已上線",
+        "status": "launched",
         "date": "2023-10-26"
       }
     ],
@@ -37834,11 +37858,13 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-05",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "新聞報導/官方公告"
+    "sourceType": "新聞報導/官方公告",
+    "currentEvent": "遊戲已於2023年5月31日在中國大陸上線，並於2023年10月26日全球上線，目前持續營運中。",
+    "eventNote": "遊戲已於2023年5月31日在中國大陸上線，並於2023年10月26日全球上線，目前持續營運中。"
   },
   {
     "id": 714,
@@ -37858,12 +37884,12 @@
     "threatReason": "騰訊大廠新作，開放世界RPG品類，具備潛在市場競爭力。",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2024-Q3",
+    "launchEst": "待確認",
     "desc": "騰訊天美工作室群開發的全新開放世界RPG手遊，已獲得中國版號。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】騰訊大廠新作，開放世界RPG品類，具備潛在市場競爭力。",
+    "threatAnalysis": "【高威脅】騰訊天美工作室群開發的開放世界RPG，儘管原定上線時間已過且未有新消息，但憑藉大廠背景與開放世界題材，仍具高度潛在威脅。\n\n▶ 建議行動：\n(1). 持續密切關注騰訊及天美工作室群的官方公告，追蹤任何測試或上線進展。\n(2). 分析其已釋出的遊戲資訊，評估其玩法創新與市場定位。\n(3). 準備應對策略，一旦有具體上線計畫，迅速評估其對市場的衝擊。",
     "verified": "Agent 發現 (2026-11-05)",
     "category": "active",
     "testType": "待確認",
@@ -37883,11 +37909,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-05",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "原預計2024年Q3上線，但截至目前未有新的公開測試或上線消息，推測已延期。"
   },
   {
     "id": 715,
@@ -37900,24 +37927,24 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN/Global",
+    "region": "CN",
     "model": "F2P",
     "stage": "announced",
     "threat": "high",
     "threatReason": "動作RPG，日系動漫風格，已在其他地區上線並獲得良好口碑。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "待定",
     "desc": "一款奇幻題材的橫版動作角色扮演手遊，具有日系動漫風格畫面和流暢的連擊戰鬥。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】動作RPG，日系動漫風格，已在其他地區上線並獲得良好口碑。",
+    "threatAnalysis": "【高威脅】一款二次元風格的RPG，已在中國大陸完成首次封閉測試。儘管尚未上線，但其二次元題材與測試進度顯示其具備一定市場潛力。\n\n▶ 建議行動：\n(1). 密切關注其後續測試計畫與上線時間。\n(2). 分析其測試期間的玩家反饋與遊戲數據，評估其核心玩法與數值設計。\n(3). 評估其在二次元市場的競爭力，並準備應對策略。",
     "verified": "版號雷達 (2026-11-05)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2023-11-02",
     "sourceLinks": [],
     "launchRegions": [],
     "history": [
@@ -37926,11 +37953,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-05",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲已於2023年10月26日至11月2日在中國大陸進行了首次封閉測試。"
   },
   {
     "id": 716,
@@ -37946,21 +37974,21 @@
     "region": "CN",
     "model": "F2P",
     "stage": "announced",
-    "threat": "critical",
-    "threatReason": "頂級中國IP改編，預計為大型RPG，具備高市場潛力。",
+    "threat": "high",
+    "threatReason": "雖有強大IP，但尚未上線，無實際市場表現證明其為現象級大作，故調整為高威脅。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "待定",
     "desc": "改編自熱門中國網絡小說/動漫IP《斗破蒼穹》，預計為RPG或動作RPG。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】頂級中國IP改編，預計為大型RPG，具備高市場潛力。",
+    "threatAnalysis": "【高威脅】基於熱門IP《斗破蒼穹》改編的遊戲，已在中國大陸完成首次封閉測試。憑藉強大IP號召力，具備成為市場爆款的潛力，但尚未有實際市場表現。\n\n▶ 建議行動：\n(1). 密切關注其後續測試計畫與上線時間，特別是預註冊數據。\n(2). 深入分析其測試期間的玩家反饋與遊戲內容，評估其IP還原度與玩法吸引力。\n(3). 準備應對策略，預估其上線後對同類型IP產品的衝擊。",
     "verified": "版號雷達 (2026-11-05)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2023-11-09",
     "sourceLinks": [],
     "launchRegions": [],
     "history": [
@@ -37969,11 +37997,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-05",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲已於2023年11月2日至11月9日在中國大陸進行了首次封閉測試。"
   },
   {
     "id": 717,
@@ -37987,24 +38016,24 @@
       "Mobile",
       "Client"
     ],
-    "region": "CN/Global",
+    "region": "CN",
     "model": "F2P",
     "stage": "announced",
     "threat": "high",
     "threatReason": "三國IP改編，策略RPG並包含抽卡元素，已在Steam平台發行。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "待定",
     "desc": "一款以三國為背景，融合棋類思維與沙盤戰棋玩法的策略遊戲，包含武將養成與抽取系統。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】三國IP改編，策略RPG並包含抽卡元素，已在Steam平台發行。",
+    "threatAnalysis": "【高威脅】一款三國題材的策略遊戲，已在中國大陸完成首次封閉測試。三國題材在中國市場受眾廣泛，測試進度顯示其具備一定競爭力。\n\n▶ 建議行動：\n(1). 密切關注其後續測試計畫與上線時間。\n(2). 分析其測試期間的玩家反饋與遊戲特色，評估其在競爭激烈的三國策略市場中的差異化優勢。\n(3). 評估其對同類型三國策略產品的潛在影響。",
     "verified": "版號雷達 (2026-11-05)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2023-11-23",
     "sourceLinks": [],
     "launchRegions": [],
     "history": [
@@ -38013,11 +38042,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-05",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲已於2023年11月16日至11月23日在中國大陸進行了首次封閉測試。"
   },
   {
     "id": 718,
@@ -38038,18 +38068,18 @@
     "threat": "medium",
     "threatReason": "名稱暗示為動作/MMORPG，且為多平台發行，具備一定市場潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "待定",
     "desc": "一款多平台遊戲，名稱暗示為動作或MMORPG，可能具有宏大的世界觀。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】名稱暗示為動作/MMORPG，且為多平台發行，具備一定市場潛力。",
+    "threatAnalysis": "【中等威脅】一款奇幻MMORPG，已在中國大陸完成首次封閉測試。MMORPG市場競爭激烈，其測試表現將是評估其潛力的關鍵。\n\n▶ 建議行動：\n(1). 密切關注其後續測試計畫與上線時間。\n(2). 分析其測試期間的玩家反饋與遊戲特色，評估其在MMORPG市場中的競爭力。\n(3). 評估其對現有MMORPG產品的潛在影響。",
     "verified": "版號雷達 (2026-11-05)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2023-11-09",
     "sourceLinks": [],
     "launchRegions": [],
     "history": [
@@ -38058,11 +38088,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-06",
     "addedAt": "2026-11-05",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-06",
     "autoDiscovered": true,
-    "sourceType": "版號公示"
+    "sourceType": "版號公示",
+    "currentEvent": "遊戲已於2023年11月2日至11月9日在中國大陸進行了首次封閉測試。"
   },
   {
     "id": 719,

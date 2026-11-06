@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-11-05T07:13:19.984118+00:00",
-  "fetchCount": 176,
+  "lastUpdated": "2026-11-06T07:05:28.146595+00:00",
+  "fetchCount": 177,
   "items": [
+    {
+      "id": "brief-20261106-b14eb298",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "薩爾達時之笛重製",
+      "detail": "經典《時之笛》Switch 2完全重製版昨日發售。",
+      "action": "立即回味經典",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-06T07:05:28.146595+00:00"
+    },
+    {
+      "id": "brief-20261106-c67723b3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "劍星Switch 2上市",
+      "detail": "完全版今日登陸Switch 2，含DLC與合作服裝。",
+      "action": "立即體驗新作",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-06T07:05:28.146595+00:00"
+    },
+    {
+      "id": "brief-20261106-a5b0a43e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "永劫無間新英雄登場",
+      "detail": "新英雄雲慶、水下武器兩股叉及新賽季同步開放。",
+      "action": "立即體驗新內容",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-06T07:05:28.146595+00:00"
+    },
+    {
+      "id": "brief-20261106-a113f96a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "戀與深空新卡池",
+      "detail": "五位男主仿生人形態限定五星思念今日上線。",
+      "action": "把握限定抽卡",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-06T07:05:28.146595+00:00"
+    },
+    {
+      "id": "brief-20261106-85732461",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Cygames新作發售",
+      "detail": "CygamesEdge首部作品《崩落之國》昨日發售。",
+      "action": "體驗Cygames新作",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-06T07:05:28.146595+00:00"
+    },
     {
       "id": "brief-20261105-d7dbdb7c",
       "priority": "urgent",
@@ -157,70 +212,15 @@
       "fetchedAt": "2026-11-04T06:46:09.434373+00:00"
     },
     {
-      "id": "brief-20261104-3858e0e1",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "崩壞星穹鐵道4.7版",
-      "detail": "星神阿哈登場，最終幻月遊戲",
-      "action": "準備更新遊玩",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-04T06:46:09.434373+00:00"
-    },
-    {
-      "id": "brief-20261104-99f79b7f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA6預載11/10開放",
-      "detail": "需212GB空間，準備迎接罪惡市",
-      "action": "預留儲存空間",
+      "id": "brief-20261106-e8ce5f60",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "Apex英雄X哥吉拉",
+      "detail": "11/10起《Apex英雄》與哥吉拉限定合作登場。",
+      "action": "準備迎接怪獸",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-04T06:46:09.434373+00:00"
-    },
-    {
-      "id": "brief-20261104-fff7bcc2",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "妮姬PC啟動器異常",
-      "detail": "腳本檔案恐遭竄改，確認影響",
-      "action": "留意官方公告",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-04T06:46:09.434373+00:00"
-    },
-    {
-      "id": "brief-20261104-3e7bb2c4",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "鬥陣特攻季中更新",
-      "detail": "劍星合作，新故事線與活動",
-      "action": "登入體驗新內容",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-04T06:46:09.434373+00:00"
-    },
-    {
-      "id": "brief-20261103-69c0d3be",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "鵝鴨殺（新發現・高威脅）",
-      "detail": "知名PC遊戲IP手遊化，具備龐大玩家基礎和話題度，社交推理品類在移動端受歡迎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-03T07:04:13.169143+00:00"
-    },
-    {
-      "id": "brief-20261103-8747f465",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "遠光84（新發現・高威脅）",
-      "detail": "莉莉絲遊戲旗下射擊競技產品，已在全球市場上線並累積一定玩家群體。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-03T07:04:13.169143+00:00"
+      "fetchedAt": "2026-11-06T07:05:28.146595+00:00"
     }
   ]
 }
