@@ -524,7 +524,7 @@
     "stage": "live-ops",
     "threat": "high",
     "prereg": 8000000,
-    "sentiment": 78,
+    "sentiment": 75,
     "launchEst": "2026-07-09",
     "desc": "網易重點二遊產品，版號已取得。三測（破曉號測試）招募中，5/22 前瞻直播公布開測日。",
     "tags": [
@@ -532,7 +532,7 @@
       "動作",
       "網易"
     ],
-    "threatAnalysis": "【威脅類型】初期營運挑戰/玩家滿意度\n\n▶ 建議行動：\n(1). 密切關注遊戲上線後的玩家評價與社群討論，特別是針對遊戲機制、肝度與商業化模式的調整是否有效。\n(2). 評估網易快速回應玩家反饋並進行大改的策略效果，這可能影響遊戲的長期留存率。\n(3). 監測多平台數據表現，尤其是移動端與PC端的用戶活躍度與營收，確保跨平台體驗的一致性與優化。",
+    "threatAnalysis": "【具體威脅】網易出品，已於2026年7月9日上線。作為大廠新作，具備一定市場影響力，但目前缺乏具體營收和玩家熱度數據來判斷其長期表現。\n\n▶ 建議行動：\n(1). 密切監測其上線後的營收表現和玩家評價。\n(2). 追蹤其內容更新和運營活動。\n(3). 評估其在中國市場的競爭地位。",
     "verified": "VNG 情報站、網易 520 發布會",
     "history": [
       {
@@ -550,25 +550,19 @@
       {
         "date": "2026-07",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-24",
-    "category": "active",
+    "updatedAt": "2026-11-07",
+    "category": "tracking",
     "launchRegions": [
       {
         "region": "CN",
-        "status": "封測中（三測）",
-        "date": "2026-05"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "未上線",
-        "date": "待定"
-      },
-      {
-        "region": "Global",
-        "status": "未上線",
-        "date": "待定"
+        "status": "launched",
+        "date": "2026-07-09"
       }
     ],
     "developer": "網易",
@@ -586,7 +580,9 @@
         "url": "https://www.taptap.cn/app/223849"
       }
     ],
-    "lastChecked": "2026-07-24"
+    "lastChecked": "2026-11-07",
+    "currentEvent": "遊戲已於2026年7月9日上線。",
+    "eventNote": "遊戲已於2026年7月9日上線。"
   },
   {
     "id": 8,
@@ -598,12 +594,12 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "Global/CN",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "medium",
     "prereg": 3500000,
-    "sentiment": 72,
+    "sentiment": 65,
     "launchEst": "2025-10-22 (Global), 2026-05-28 (China)",
     "desc": "克蘇魯二次元 RPG，騰訊代理。5/28 國服公測已上線。",
     "tags": [
@@ -611,7 +607,7 @@
       "二次元",
       "騰訊代理"
     ],
-    "threatAnalysis": "【威脅類型】營運穩定性/玩家滿意度\n\n▶ 建議行動：\n(1). 密切關注遊戲在中國市場的表現，因其為近期新上線區域，需評估其營收與玩家活躍度。\n(2). 持續監測全球營收數據，特別是2026年初出現的營收下滑趨勢，需分析原因並評估官方後續調整策略的有效性。\n(3). 關注玩家社群對遊戲內容更新、平衡性及福利活動的反應，確保遊戲能持續吸引並留住玩家。",
+    "threatAnalysis": "【中等規模】Smilegate開發，已於2025年10月全球上線，2026年5月中國上線。作為長期營運產品，目前市場表現穩定，但未見現象級爆發。\n\n▶ 建議行動：\n(1). 持續追蹤其全球及中國市場的營收和玩家活躍度。\n(2). 關注其版本更新和電競賽事等運營策略。\n(3). 評估其在MMORPG品類的競爭力。",
     "verified": "VNG 情報站、TGS 2025 報導",
     "history": [
       {
@@ -635,35 +631,25 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-24",
+    "updatedAt": "2026-11-07",
     "category": "tracking",
     "launchRegions": [
       {
+        "region": "Global",
+        "status": "launched",
+        "date": "2025-10-22"
+      },
+      {
         "region": "CN",
-        "status": "已上線",
+        "status": "launched",
         "date": "2026-05-28"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "未上線",
-        "date": "待定"
-      },
-      {
-        "region": "JP",
-        "status": "未上線",
-        "date": "待定"
-      },
-      {
-        "region": "KR",
-        "status": "已上線",
-        "date": "先於國服"
       }
     ],
     "developer": "Smilegate",
     "publisher_cn": "騰訊代理",
     "testType": "不刪檔公測",
     "testDateStart": "2026-05-28",
-    "testDateEnd": "2025-09-25",
+    "testDateEnd": "2026-05-28",
     "sourceLinks": [
       {
         "label": "官網",
@@ -678,9 +664,9 @@
         "url": "https://www.taptap.io/app/235732"
       }
     ],
-    "lastChecked": "2026-07-24",
-    "currentEvent": "遊戲已於2025年10月22日全球上線，並於2026年5月28日於中國市場公測。 遊戲持續更新中，例如2026年4月29日更新了S3賽季「回蕩在銀河中的歌聲」並新增季節性戰鬥員「海德瑪麗」。",
-    "eventNote": "遊戲已於2025年10月22日全球上線，並於2026年5月28日於中國市場公測。 遊戲持續更新中，例如2026年4月29日更新了S3賽季「回蕩在銀河中的歌聲」並新增季節性戰鬥員「海德瑪麗」。"
+    "lastChecked": "2026-11-07",
+    "currentEvent": "遊戲已於2025年10月22日全球上線，並於2026年5月28日在中國上線。",
+    "eventNote": "遊戲已於2025年10月22日全球上線，並於2026年5月28日在中國上線。"
   },
   {
     "id": 10,
@@ -693,13 +679,13 @@
       "PC",
       "Mobile"
     ],
-    "region": "CN/TW/Global",
+    "region": "CN/TW/JP/KR",
     "model": "F2P",
-    "stage": "pre-reg",
+    "stage": "live-ops",
     "threat": "high",
     "prereg": 12000000,
-    "sentiment": 86,
-    "launchEst": "2026-Q3",
+    "sentiment": 85,
+    "launchEst": "2026-11-26",
     "desc": "碧藍航線開發商新作，星寵幻想大世界 RPG。台服限量刪檔測試招募中（截止 5/29）。",
     "tags": [
       "開放世界",
@@ -707,7 +693,7 @@
       "二次元",
       "碧藍航線團隊"
     ],
-    "threatAnalysis": "【威脅類型】上市時程不確定性/市場競爭\n\n▶ 建議行動：\n(1). 密切關注官方是否公布確切的全球上市日期，並評估其是否能如期在2026年Q3推出。\n(2). 監測玩家社群對多次封閉測試的評價與反饋，特別是遊戲優化進度與核心玩法的接受度。\n(3). 考量同類型開放世界RPG市場競爭激烈，需評估遊戲在正式上市時的差異化競爭力與宣發策略。",
+    "threatAnalysis": "【具體威脅】蠻啾網絡（碧藍航線團隊）開發，已官宣將於2026年11月26日全球（CN/TW/JP/KR）公測。作為備受期待的二次元大作，市場關注度極高，預計上線後將對市場產生顯著影響。\n\n▶ 建議行動：\n(1). 密切關注其上線前的宣傳造勢和預約數據。\n(2). 準備上線後的營收和玩家數據分析。\n(3). 評估其對同類二次元遊戲的潛在衝擊。",
     "verified": "蘋果仁、36kr、TGS 2025 報導",
     "history": [
       {
@@ -725,30 +711,34 @@
       {
         "date": "2026-07",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-24",
+    "updatedAt": "2026-11-07",
     "category": "active",
     "launchRegions": [
       {
         "region": "CN",
-        "status": "封測中",
-        "date": "2026-Q3（預計）"
+        "status": "announced",
+        "date": "2026-11-26"
       },
       {
-        "region": "TW/HK/MO",
-        "status": "封測中（限量刪檔）",
-        "date": "2026-05 招募中"
+        "region": "TW",
+        "status": "announced",
+        "date": "2026-11-26"
       },
       {
         "region": "JP",
-        "status": "未上線",
-        "date": "待定"
+        "status": "announced",
+        "date": "2026-11-26"
       },
       {
-        "region": "Global",
-        "status": "未上線",
-        "date": "待定"
+        "region": "KR",
+        "status": "announced",
+        "date": "2026-11-26"
       }
     ],
     "developer": "蠻啾網絡（碧藍航線團隊）",
@@ -756,18 +746,19 @@
     "publisher_tw": "NIJIGEN",
     "testType": "限量刪檔測試",
     "testDateStart": "2026-05（台服截止5/29）",
-    "testDateEnd": "2026-07-10",
+    "testDateEnd": "2026-10-07",
     "sourceLinks": [
       {
-        "label": "官網",
-        "url": "https://azurpromilia.manjuu.com/"
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/234057"
       },
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.cn/app/235314"
+        "label": "官網",
+        "url": "https://www.azurpromilia.com/"
       }
     ],
-    "lastChecked": "2026-07-24"
+    "lastChecked": "2026-11-07",
+    "currentEvent": "「旅跡測試」已於2026年10月7日結束。遊戲已官宣將於2026年11月26日開啟全平台正式公測。"
   },
   {
     "id": 11,
@@ -780,7 +771,7 @@
       "PC",
       "Mobile"
     ],
-    "region": "KR/Global",
+    "region": "Global",
     "model": "F2P",
     "stage": "pre-reg",
     "threat": "medium",
@@ -793,7 +784,7 @@
       "ARPG",
       "NCsoft"
     ],
-    "threatAnalysis": "【威脅類型】上市時程不確定性/玩家對發行商的疑慮\n\n▶ 建議行動：\n(1). 密切關注NCsoft是否公布確切的全球上市日期，並評估其能否在2026年內推出。\n(2). 監測玩家社群對「序幕測試」的評價，特別是針對遊戲操作、戰鬥深度及NCsoft營運模式的擔憂。\n(3). 建議NCsoft加強與玩家的溝通，透明化開發進度與未來的營運策略，以重建玩家信任。",
+    "threatAnalysis": "【中等規模】NCsoft發行，VIC GAME STUDIOS開發的動畫風格動作RPG。序幕測試已結束，預計Q3上線。作為大廠投資的二次元新作，具備一定潛力。\n\n▶ 建議行動：\n(1). 持續追蹤其後續測試和上線日期。\n(2). 關注其宣傳策略和玩家社群反饋。\n(3). 評估其在動作RPG市場的競爭力。",
     "verified": "蘋果仁",
     "history": [
       {
@@ -811,9 +802,13 @@
       {
         "date": "2026-07",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-11",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-24",
+    "updatedAt": "2026-11-07",
     "category": "active",
     "launchRegions": [
       {
@@ -840,14 +835,11 @@
     "sourceLinks": [
       {
         "label": "官網",
-        "url": "https://breakers.plaync.com/zh-tw/index"
-      },
-      {
-        "label": "Steam",
-        "url": "https://store.steampowered.com/app/3764400"
+        "url": "https://limitzerobreakers.com/"
       }
     ],
-    "lastChecked": "2026-07-24"
+    "lastChecked": "2026-11-07",
+    "currentEvent": "「序幕測試」已於2026年6月15日結束。"
   },
   {
     "id": 12,
@@ -860,20 +852,20 @@
       "PC",
       "Mobile"
     ],
-    "region": "KR/Global",
+    "region": "TW/HK/MO/Other Asia (9 regions total)",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
+    "stage": "live-ops",
+    "threat": "high",
     "prereg": 1500000,
-    "sentiment": 68,
-    "launchEst": "2026-Q4",
+    "sentiment": 80,
+    "launchEst": "2026-09-16",
     "desc": "天堂 2：革命團隊新作，UE5 無接縫大世界 MMORPG。6/18 CBT，預約截止 6/17。",
     "tags": [
       "MMORPG",
       "UE5",
       "大世界"
     ],
-    "threatAnalysis": "【威脅類型】CBT結束後，正式上市日期仍未確定，可能影響玩家期待度。\n\n▶ 建議行動：\n(1). 密切關注官方公告，確認正式上市日期。\n(2). 評估CBT玩家回饋，了解遊戲優化方向。\n(3). 準備上市前的行銷活動，維持玩家熱度。",
+    "threatAnalysis": "【具體威脅】AQUA TREE（天堂2團隊）開發，DRIMAGE發行，已於2026年9月16日在亞洲9個地區上線。作為大型MMORPG，上線初期表現強勁，具備長期營運潛力。\n\n▶ 建議行動：\n(1). 密切監測其上線後的營收和玩家活躍度。\n(2). 追蹤其版本更新和運營活動，特別是RvR戰鬥內容。\n(3). 評估其在亞洲MMORPG市場的競爭地位。",
     "verified": "蘋果仁",
     "history": [
       {
@@ -887,20 +879,34 @@
       {
         "date": "2026-07",
         "s": "announced"
-      }
-    ],
-    "updatedAt": "2026-07-26",
-    "category": "active",
-    "launchRegions": [
-      {
-        "region": "KR",
-        "status": "封測中",
-        "date": "2026-06-18"
       },
       {
-        "region": "Global",
-        "status": "未上線",
-        "date": "待定"
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-07",
+    "category": "tracking",
+    "launchRegions": [
+      {
+        "region": "TW",
+        "status": "launched",
+        "date": "2026-09-16"
+      },
+      {
+        "region": "HK",
+        "status": "launched",
+        "date": "2026-09-16"
+      },
+      {
+        "region": "MO",
+        "status": "launched",
+        "date": "2026-09-16"
+      },
+      {
+        "region": "Other Asia",
+        "status": "launched",
+        "date": "2026-09-16"
       }
     ],
     "developer": "AQUA TREE（天堂2團隊）",
@@ -918,7 +924,10 @@
         "url": "https://thecreator.drimage.game/"
       }
     ],
-    "lastChecked": "2026-07-26"
+    "lastChecked": "2026-11-07",
+    "threatReason": "遊戲已正式上線並由天堂2團隊開發，具備大廠背景和MMORPG品類潛力。",
+    "currentEvent": "遊戲已於2026年9月16日在台灣等9個亞洲地區正式上線。",
+    "eventNote": "遊戲已於2026年9月16日在台灣等9個亞洲地區正式上線。"
   },
   {
     "id": 13,
@@ -932,12 +941,12 @@
       "Mobile",
       "Console"
     ],
-    "region": "CN/Global",
+    "region": "Global",
     "model": "F2P",
     "stage": "live-ops",
-    "threat": "high",
+    "threat": "critical",
     "prereg": null,
-    "sentiment": 80,
+    "sentiment": 95,
     "launchEst": "2020-09",
     "desc": "二遊標竿產品，5.x 版本持續營運中。面臨無限大、異環等新進競品大量挑戰。",
     "tags": [
@@ -946,7 +955,7 @@
       "米哈遊",
       "長期營運"
     ],
-    "threatAnalysis": "【威脅類型】無。\n\n▶ 建議行動：\n(1). 持續關注遊戲版本更新與新角色/活動推出。\n(2). 分析玩家對新內容的反應，優化營運策略。\n(3). 探索跨界合作機會，擴大品牌影響力。",
+    "threatAnalysis": "【現象級大作】米哈遊的旗艦產品，全球營收已突破90億美元，持續保持極高的市場地位和玩家熱度。儘管有營收增速放緩的報導，但其絕對體量和影響力仍是業界頂尖。\n\n▶ 建議行動：\n(1). 持續密切監測其版本更新、新角色推出和全球市場表現。\n(2). 分析其長線運營策略和IP生態建設。\n(3). 關注其在不同地區的文化影響力和用戶獲取策略。",
     "verified": "公開資訊",
     "history": [
       {
@@ -954,35 +963,30 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-07-26",
+    "updatedAt": "2026-11-07",
     "category": "tracking",
-    "currentEvent": "遊戲持續更新中，近期活動包括2026年7月1日的「輝天的星告」與「神鑄賦形」祈願活動，以及7月6日的「幽境危戰」活動。2026年1月14日上線了6.3版本「月之四如果在冬夜一個旅人」。",
-    "eventNote": "遊戲持續更新中，近期活動包括2026年7月1日的「輝天的星告」與「神鑄賦形」祈願活動，以及7月6日的「幽境危戰」活動。2026年1月14日上線了6.3版本「月之四如果在冬夜一個旅人」。",
+    "currentEvent": "遊戲持續穩定營運，並已陸續登陸PS5、Xbox Series X/S、HarmonyOS NEXT等新平台。",
+    "eventNote": "遊戲持續穩定營運，並已陸續登陸PS5、Xbox Series X/S、HarmonyOS NEXT等新平台。",
     "launchRegions": [
       {
-        "region": "CN",
-        "status": "已上線",
+        "region": "Global (PC, PS4, Android, iOS)",
+        "status": "launched",
         "date": "2020-09-28"
       },
       {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2020-09-28"
+        "region": "Global (PS5)",
+        "status": "launched",
+        "date": "2021-04-28"
       },
       {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2020-09-28"
+        "region": "Global (Xbox Series X/S)",
+        "status": "launched",
+        "date": "2024-11-20"
       },
       {
-        "region": "KR",
-        "status": "已上線",
-        "date": "2020-09-28"
-      },
-      {
-        "region": "Global",
-        "status": "已上線",
-        "date": "2020-09-28"
+        "region": "Global (HarmonyOS NEXT)",
+        "status": "launched",
+        "date": "2025-09-10"
       }
     ],
     "developer": "miHoYo",
@@ -991,11 +995,12 @@
     "testDateEnd": "待確認",
     "sourceLinks": [
       {
-        "label": "官網",
-        "url": "https://genshin.hoyoverse.com/zh-tw/"
+        "label": "維基百科",
+        "url": "https://zh.wikipedia.org/wiki/%E5%8E%9F%E7%A5%9E"
       }
     ],
-    "lastChecked": "2026-07-26"
+    "lastChecked": "2026-11-07",
+    "threatReason": "全球現象級大作，長期霸榜，營收和話題度極高，持續擴展平台。"
   },
   {
     "id": 14,
@@ -1009,7 +1014,7 @@
       "Mobile",
       "Console"
     ],
-    "region": "CN/Global",
+    "region": "Global",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "medium",
@@ -1023,7 +1028,7 @@
       "二次元",
       "米哈遊"
     ],
-    "threatAnalysis": "【威脅類型】無。\n\n▶ 建議行動：\n(1). 持續關注遊戲版本更新與新角色/活動推出。\n(2). 積極參與線下慶典活動，提升玩家社群活躍度。\n(3). 分析玩家對新內容的反應，優化營運策略。",
+    "threatAnalysis": "【具體威脅】米哈遊新作，已於2024年7月上線，並在2025年全球二次元遊戲收入榜中佔據一席之地。作為新IP，其市場表現證明了米哈遊的號召力。\n\n▶ 建議行動：\n(1). 持續追蹤其營收、玩家活躍度和內容更新。\n(2). 分析其在動作RPG和二次元品類的競爭策略。\n(3). 關注其IP發展和跨媒體合作潛力。",
     "verified": "公開資訊",
     "history": [
       {
@@ -1031,30 +1036,15 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-07-26",
+    "updatedAt": "2026-11-07",
     "category": "tracking",
-    "currentEvent": "遊戲持續更新中，近期活動包括2026年7月17日3.1版本「漫長的告別」前瞻特別節目，以及「2026美味大作戰」活動。遊戲將於2026年8月8日至9日在台北舉辦二週年線下慶典「Zenless LIVE 2026 —— 台北站」。",
-    "eventNote": "⚡ 遊戲持續更新中，近期活動包括2026年7月17日3.1版本「漫長的告別」前瞻特別節目，以及「2026美味大作戰」活動。遊戲將於2026年8月8日至9日在台北舉辦二週年線下慶典「Zenless LIVE 2026 —— 台北站」。",
+    "currentEvent": "遊戲已於2024年7月上線，並在2025年全球二次元遊戲收入榜中位列第十。",
+    "eventNote": "遊戲已於2024年7月上線，並在2025年全球二次元遊戲收入榜中位列第十。",
     "launchRegions": [
       {
-        "region": "CN",
-        "status": "已上線",
-        "date": "2024-07-04"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2024-07-04"
-      },
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2024-07-04"
-      },
-      {
         "region": "Global",
-        "status": "已上線",
-        "date": "2024-07-04"
+        "status": "launched",
+        "date": "2024-07"
       }
     ],
     "developer": "miHoYo",
@@ -1067,7 +1057,7 @@
         "url": "https://zenless.hoyoverse.com/zh-tw/"
       }
     ],
-    "lastChecked": "2026-07-26"
+    "lastChecked": "2026-11-07"
   },
   {
     "id": 15,
@@ -1081,12 +1071,12 @@
       "Mobile",
       "Console"
     ],
-    "region": "CN/Global",
+    "region": "Global",
     "model": "F2P",
     "stage": "live-ops",
-    "threat": "high",
+    "threat": "critical",
     "prereg": null,
-    "sentiment": 84,
+    "sentiment": 98,
     "launchEst": "2023-04",
     "desc": "米哈遊回合制 RPG，穩定高營收產品。3.x 版本持續更新。",
     "tags": [
@@ -1095,7 +1085,7 @@
       "二次元",
       "米哈遊"
     ],
-    "threatAnalysis": "【威脅類型】無。\n\n▶ 建議行動：\n(1). 持續關注遊戲版本更新與新角色/活動推出。\n(2). 積極規劃並執行周年慶等大型活動，維持玩家參與度。\n(3). 探索與其他品牌的合作，擴大遊戲影響力。",
+    "threatAnalysis": "【現象級大作】米哈遊的另一款現象級產品，上線後迅速在全球市場取得巨大成功，2025年登頂全球二次元遊戲收入榜首。其營收能力和玩家熱度均處於頂尖水平。\n\n▶ 建議行動：\n(1). 密切監測其版本更新、新角色推出和全球市場表現。\n(2). 分析其內容迭代和用戶留存策略。\n(3). 關注其在不同地區的市場擴張和IP影響力。",
     "verified": "公開資訊",
     "history": [
       {
@@ -1103,30 +1093,15 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-07-26",
+    "updatedAt": "2026-11-07",
     "category": "tracking",
-    "currentEvent": "遊戲持續更新中，2026年4月18日啟動三週年慶祝活動，包括全球線下活動、線上活動及音樂會。2026年4月22日上線4.2版本，並於4月26日迎來三週年紀念日。2026年7月15日啟動4.4版本「鳴笛於歸寂之時」激勵計畫。",
-    "eventNote": "⚡ 遊戲持續更新中，2026年4月18日啟動三週年慶祝活動，包括全球線下活動、線上活動及音樂會。2026年4月22日上線4.2版本，並於4月26日迎來三週年紀念日。2026年7月15日啟動4.4版本「鳴笛於歸寂之時」激勵計畫。",
+    "currentEvent": "遊戲持續穩定營運，並在2025年登頂全球二次元遊戲收入榜首。",
+    "eventNote": "遊戲持續穩定營運，並在2025年登頂全球二次元遊戲收入榜首。",
     "launchRegions": [
       {
-        "region": "CN",
-        "status": "已上線",
-        "date": "2023-04-26"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2023-04-26"
-      },
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2023-04-26"
-      },
-      {
         "region": "Global",
-        "status": "已上線",
-        "date": "2023-04-26"
+        "status": "launched",
+        "date": "2023-04"
       }
     ],
     "developer": "miHoYo",
@@ -1139,7 +1114,8 @@
         "url": "https://hsr.hoyoverse.com/zh-tw/"
       }
     ],
-    "lastChecked": "2026-07-26"
+    "lastChecked": "2026-11-07",
+    "threatReason": "米哈遊現象級大作，上線後迅速登頂全球二次元遊戲收入榜首，表現極為強勁。"
   },
   {
     "id": 16,
@@ -1152,20 +1128,20 @@
       "PC",
       "Mobile"
     ],
-    "region": "CN/JP",
+    "region": "Global",
     "model": "F2P",
-    "stage": "cbt",
-    "threat": "medium",
+    "stage": "pre-reg",
+    "threat": "high",
     "prereg": 6000000,
-    "sentiment": 77,
-    "launchEst": "2026-Q3",
+    "sentiment": 80,
+    "launchEst": "2026-12-14",
     "desc": "樂元素二次元新作，高品質美術與劇情為賣點。",
     "tags": [
       "二次元",
       "劇情",
       "美術"
     ],
-    "threatAnalysis": "【威脅類型】CBT測試頻繁，正式上市日期仍未確定，可能影響玩家期待度。\n\n▶ 建議行動：\n(1). 密切關注「二分法測試」的玩家回饋，評估遊戲核心玩法與優化方向。\n(2). 根據測試結果，調整上市前行銷策略。\n(3). 盡快確認並公布正式上市日期，穩定玩家信心。",
+    "threatAnalysis": "【具體威脅】樂元素旗下Unreal Engine 5大世界動作RPG，已宣布將於2026年12月14日開啟全球公測，預約量已突破1500萬。作為一款高畫質、大世界題材的二次元遊戲，具備成為爆款的潛力。\n\n▶ 建議行動：\n(1). 密切關注其公測前的宣傳和市場預熱。\n(2). 準備上線後的營收和玩家數據分析。\n(3). 評估其在開放世界動作RPG市場的競爭力。",
     "verified": "36kr 二遊大年報導、TGS 2025 - 兩個來源但細節有限",
     "history": [
       {
@@ -1179,20 +1155,19 @@
       {
         "date": "2026-07",
         "s": "cbt"
+      },
+      {
+        "date": "2026-11",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-26",
+    "updatedAt": "2026-11-07",
     "category": "active",
     "launchRegions": [
       {
-        "region": "CN",
-        "status": "封測中",
-        "date": "2026-Q3（預計）"
-      },
-      {
-        "region": "JP",
-        "status": "封測中",
-        "date": "待定"
+        "region": "Global (Android, iOS, PC)",
+        "status": "announced",
+        "date": "2026-12-14"
       }
     ],
     "developer": "樂元素",
@@ -1202,15 +1177,17 @@
     "testDateEnd": "2026-08-13",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.cn/app/233076"
+        "label": "新聞",
+        "url": "https://gnn.gamer.com.tw/detail.php?sn=241031"
       },
       {
         "label": "官網",
         "url": "https://www.silverpalace.com/"
       }
     ],
-    "lastChecked": "2026-07-26"
+    "lastChecked": "2026-11-07",
+    "threatReason": "樂元素出品的UE5大世界動作RPG，已宣布全球公測日期，預約量高，市場關注度高。",
+    "currentEvent": "遊戲已宣布將於2026年12月14日開啟全球公開測試，並登陸Android、iOS、PC平台。全球預約已突破1500萬。"
   },
   {
     "id": 17,
@@ -1223,7 +1200,7 @@
       "PC",
       "Mobile"
     ],
-    "region": "CN/Global",
+    "region": "CN",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "high",
@@ -1238,7 +1215,7 @@
       "雙線敘事",
       "外觀商城"
     ],
-    "threatAnalysis": "【威脅類型】持續營運與內容更新\n\n▶ 建議行動：\n(1). 密切關注新版本「銀星奔流」的玩家反饋與營收表現。\n(2). 分析新角色與武器的推出對遊戲生態的影響。\n(3). 評估其免費獲取角色與武器的商業模式是否能持續吸引玩家並產生足夠收益。",
+    "threatAnalysis": "【具體威脅】潘神工作室開發，已於2025年10月28日上線。作為一款二次元動作遊戲，具備一定市場關注度，但目前缺乏具體營收和玩家熱度數據來判斷其長期表現。\n\n▶ 建議行動：\n(1). 密切監測其上線後的營收表現和玩家評價。\n(2). 追蹤其內容更新和運營活動。\n(3). 評估其在中國二次元動作遊戲市場的競爭地位。",
     "verified": "TapTap、GNN 巴哈、Paradaily",
     "history": [
       {
@@ -1258,29 +1235,14 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-27",
+    "updatedAt": "2026-11-07",
     "category": "tracking",
-    "currentEvent": "遊戲已於2025年10月28日全球多平台同步上線，並於2026年6月2日推出新版本「銀星奔流」，帶來新劇情、角色與福利。",
-    "eventNote": "⚡ 遊戲已於2025年10月28日全球多平台同步上線，並於2026年6月2日推出新版本「銀星奔流」，帶來新劇情、角色與福利。",
+    "currentEvent": "遊戲已於2025年10月28日上線。",
+    "eventNote": "遊戲已於2025年10月28日上線。",
     "launchRegions": [
       {
         "region": "CN",
-        "status": "已上線",
-        "date": "2025-10-28"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2025-10-28"
-      },
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2025-10-28"
-      },
-      {
-        "region": "Global",
-        "status": "已上線",
+        "status": "launched",
         "date": "2025-10-28"
       }
     ],
@@ -1294,7 +1256,7 @@
         "url": "https://duetnightabyss.herogame.com/"
       }
     ],
-    "lastChecked": "2026-07-27"
+    "lastChecked": "2026-11-07"
   },
   {
     "id": 18,
@@ -1307,20 +1269,20 @@
       "PC",
       "Mobile"
     ],
-    "region": "CN/Global",
+    "region": "Global",
     "model": "F2P",
-    "stage": "delayed-early-access",
-    "threat": "low",
+    "stage": "pre-reg",
+    "threat": "medium",
     "prereg": 5000000,
-    "sentiment": 70,
-    "launchEst": "待定",
+    "sentiment": 60,
+    "launchEst": "2026",
     "desc": "騰訊二次元射擊新作，TGS 2025 首度曝光。目前僅有概念階段資訊，無具體開測計劃。",
     "tags": [
       "二次元",
       "射擊",
       "騰訊"
     ],
-    "threatAnalysis": "【威脅類型】開發進度延遲與內容品質挑戰\n\n▶ 建議行動：\n(1). 密切關注官方關於新搶先體驗時程的公告。\n(2). 分析Steam新品節測試的玩家反饋，評估遊戲核心玩法與內容的接受度。\n(3). 評估延期是否會影響玩家期待度與市場競爭力。",
+    "threatAnalysis": "【中等規模】騰訊旗下Saroasis Studios開發的UE5戰術射擊遊戲。原定2025年底或2026年初上線，目前Steam顯示為2026年發行。儘管有延遲，但大廠背景和熱門品類仍使其具備一定威脅。\n\n▶ 建議行動：\n(1). 持續追蹤其確切上線日期和測試進展。\n(2). 關注其宣傳策略和玩家社群反饋。\n(3). 評估其在戰術射擊遊戲市場的競爭力。",
     "verified": "36kr（TGS 報導）- 僅單一來源，資訊有限",
     "history": [
       {
@@ -1338,9 +1300,13 @@
       {
         "date": "2026-07",
         "s": "delayed-early-access"
+      },
+      {
+        "date": "2026-11",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-27",
+    "updatedAt": "2026-11-07",
     "category": "active",
     "launchRegions": [
       {
@@ -1356,10 +1322,12 @@
     "sourceLinks": [
       {
         "label": "Steam",
-        "url": "https://store.steampowered.com/app/2260680/Fate_Trigger/"
+        "url": "https://store.steampowered.com/app/2507850/_/"
       }
     ],
-    "lastChecked": "2026-07-27"
+    "lastChecked": "2026-11-07",
+    "threatReason": "騰訊出品的UE5戰術射擊遊戲，儘管發行日期延遲，但大廠背景和熱門品類仍具潛力。",
+    "currentEvent": "遊戲曾於2025年7月進行封閉測試，並於2026年2月參與新品節公開測試。Steam顯示預計2026年發行。"
   },
   {
     "id": 19,
@@ -1371,10 +1339,10 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "Global/CN",
     "model": "F2P",
     "stage": "cbt",
-    "threat": "low",
+    "threat": "medium",
     "prereg": 2000000,
     "sentiment": 65,
     "launchEst": "2027-Q1",
@@ -1384,7 +1352,7 @@
       "RPG",
       "騰訊"
     ],
-    "threatAnalysis": "【威脅類型】測試階段進展與市場反饋\n\n▶ 建議行動：\n(1). 密切關注最新一輪封測的玩家反饋，特別是關於遊戲核心玩法與重機美少女元素的接受度。\n(2). 評估測試數據，確保遊戲在2027年Q1上線前能達到預期品質。\n(3). 考慮中國版號已獲，需規劃國內外市場的差異化營銷策略。",
+    "threatAnalysis": "【中等規模】騰訊旗下飛馳蛤蜊工作室開發的機車美少女3D RPG。已獲得中國版號，並在中國大陸及海外進行多輪測試。作為騰訊的二次元新作，具備一定潛力。\n\n▶ 建議行動：\n(1). 持續追蹤其測試進展和玩家反饋。\n(2). 關注其宣傳策略和IP打造方向。\n(3). 評估其在二次元RPG市場的競爭力。",
     "verified": "36kr（TGS 報導）- 僅單一來源，資訊有限",
     "history": [
       {
@@ -1398,9 +1366,13 @@
       {
         "date": "2026-07",
         "s": "cbt"
+      },
+      {
+        "date": "2026-11",
+        "s": "cbt"
       }
     ],
-    "updatedAt": "2026-07-27",
+    "updatedAt": "2026-11-07",
     "category": "active",
     "launchRegions": [
       {
@@ -1416,10 +1388,16 @@
     "sourceLinks": [
       {
         "label": "官網",
-        "url": "https://kaleidorider.cm/tw"
+        "url": "https://chasingkaleidorider.com/"
+      },
+      {
+        "label": "TapTap",
+        "url": "https://www.taptap.cn/app/234057"
       }
     ],
-    "lastChecked": "2026-07-27"
+    "lastChecked": "2026-11-07",
+    "threatReason": "騰訊出品的二次元RPG，已獲得版號並進行多輪測試，市場關注度提升。",
+    "currentEvent": "遊戲於2026年7月16日在中國大陸開啟Android限量刪檔首測，並於2026年9月12日在中國以外地區開啟新一輪測試。全球CBT招募已開啟。"
   },
   {
     "id": 20,
@@ -1437,7 +1415,7 @@
     "stage": "線下試玩會已舉辦，預計開啟新一輪線上測試",
     "threat": "medium",
     "prereg": 3000000,
-    "sentiment": 68,
+    "sentiment": 55,
     "launchEst": "2026-Q4",
     "desc": "國風開放世界探索 RPG，嘗試打破傳統二遊框架，探索新商業模式。",
     "tags": [
@@ -1445,7 +1423,7 @@
       "開放世界",
       "創新"
     ],
-    "threatAnalysis": "【威脅類型】資訊不透明與潛在開發風險\n\n▶ 建議行動：\n(1). 需主動聯繫開發商詩悅，確認遊戲的最新開發進度與測試計畫。\n(2). 評估資訊缺乏是否暗示開發進度不如預期，或有潛在延期風險。\n(3). 建議持續追蹤相關遊戲媒體與社群，以獲取任何潛在的更新消息。",
+    "threatAnalysis": "【中等規模】詩悅開發，目前處於線下試玩會階段，預計將開啟新一輪線上測試。市場關注度仍待提升。\n\n▶ 建議行動：\n(1). 持續追蹤其線上測試的具體時間和內容。\n(2). 關注其宣傳策略和玩家社群反饋。\n(3). 評估其遊戲類型和潛在市場競爭力。",
     "verified": "36kr 報導 - 僅單一來源，資訊有限",
     "history": [
       {
@@ -1465,7 +1443,7 @@
         "s": "線下試玩會已舉辦，預計開啟新一輪線上測試"
       }
     ],
-    "updatedAt": "2026-07-27",
+    "updatedAt": "2026-11-07",
     "category": "active",
     "launchRegions": [
       {
@@ -1492,7 +1470,8 @@
         "url": "https://apps.qoo-app.com/en/search?keyword=Gazing%20Moon"
       }
     ],
-    "lastChecked": "2026-07-27"
+    "lastChecked": "2026-11-07",
+    "currentEvent": "線下試玩會已舉辦，預計開啟新一輪線上測試。"
   },
   {
     "id": 21,
@@ -38112,13 +38091,13 @@
     "threat": "medium",
     "threatReason": "名稱暗示為MMORPG，符合重點關注品類。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "待定",
     "desc": "一款移動遊戲，名稱暗示為MMORPG或具有強大多人/公會元素的策略遊戲。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】名稱暗示為MMORPG，符合重點關注品類。",
+    "threatAnalysis": "【中等規模】目前缺乏具體資訊，仍處於「announced」狀態，市場關注度不高。\n\n▶ 建議行動：\n(1). 持續追蹤開發商北京温榆家网络科技有限公司的動態。\n(2). 關注是否有新的測試或上線消息。\n(3). 評估其遊戲類型和潛在市場競爭力。",
     "verified": "版號雷達 (2026-11-05)",
     "category": "active",
     "testType": "待確認",
@@ -38132,9 +38111,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "addedAt": "2026-11-05",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-07",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -38155,13 +38134,13 @@
     "threat": "medium",
     "threatReason": "名稱強烈暗示為動作RPG，符合重點關注品類。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "待定",
     "desc": "一款移動遊戲，名稱暗示為動作或動作RPG，可能為砍殺類型。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】名稱強烈暗示為動作RPG，符合重點關注品類。",
+    "threatAnalysis": "【中等規模】目前缺乏具體資訊，仍處於「announced」狀態，市場關注度不高。\n\n▶ 建議行動：\n(1). 持續追蹤開發商海南祥贝网络科技有限公司的動態。\n(2). 關注是否有新的測試或上線消息。\n(3). 評估其遊戲類型和潛在市場競爭力。",
     "verified": "版號雷達 (2026-11-05)",
     "category": "active",
     "testType": "待確認",
@@ -38175,10 +38154,151 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-05",
+    "updatedAt": "2026-11-07",
     "addedAt": "2026-11-05",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-07",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 721,
+    "name": "巨龍之歌 Online",
+    "nameEn": "Dragon Song Online",
+    "developer": "未知",
+    "studio": "未知",
+    "publisher": "未知",
+    "genre": "動作MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "TW/HK/MO",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "MMORPG類型，但開發商和IP知名度不高，預期影響力中等。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-11",
+    "desc": "一款暗黑奇幻動作MMORPG，已於今日在台港澳地區上線。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】MMORPG類型，但開發商和IP知名度不高，預期影響力中等。",
+    "verified": "Agent 發現 (2026-11-07)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2026-11-07"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-07",
+    "addedAt": "2026-11-07",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 722,
+    "name": "天翼之鍊：手機版",
+    "nameEn": "TalesWeaver Mobile",
+    "developer": "Nexon",
+    "studio": "Nexon",
+    "publisher": "Nexon",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "threatReason": "經典IP改編，由大廠Nexon開發，MMORPG類型，具備較高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "經典端遊《天翼之鍊》改編的手機MMORPG，由Nexon開發，預計12月展開測試。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典IP改編，由大廠Nexon開發，MMORPG類型，具備較高市場潛力。",
+    "verified": "Agent 發現 (2026-11-07)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "封測中",
+        "date": "2026-12"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-11-07",
+    "addedAt": "2026-11-07",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 723,
+    "name": "仙境傳說：深淵",
+    "nameEn": "Ragnarok Abyss",
+    "developer": "Gravity",
+    "studio": "Gravity",
+    "publisher": "Gravity",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "經典IP《仙境傳說》新作，MMORPG類型，具備高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "經典《仙境傳說》系列新作MMORPG，預計在2026-2027年間推出。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典IP《仙境傳說》新作，MMORPG類型，具備高市場潛力。",
+    "verified": "Agent 發現 (2026-11-07)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-07",
+    "addedAt": "2026-11-07",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]

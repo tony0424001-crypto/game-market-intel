@@ -1,53 +1,56 @@
 {
-  "lastAudit": "2026-11-06T07:06:39.821005+00:00",
+  "lastAudit": "2026-11-07T06:20:01.682372+00:00",
   "totalProducts": 717,
-  "updatesApplied": 60,
-  "issuesFound": 3,
-  "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
+  "updatesApplied": 80,
+  "issuesFound": 7,
+  "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 數碼寶貝 UP, 勇者鬥惡龍：破限亂鬥, 魔御：STAR DIVE, 東離劍遊紀M, 奇幻生活 i, Pictonico!, GTA VI, 魔物獵人 荒野, 魔物獵人：旅人",
   "findings": [
     {
-      "name": "勇者鬥惡龍：粉碎成長",
-      "status": "error",
-      "issue": "移除: 查無此遊戲的官方資訊或相關開發進度，高度懷疑為不存在或已取消的項目。",
-      "autoFixed": false
+      "name": "遺忘之海",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
     },
     {
-      "name": "靠裝勇者",
-      "status": "error",
-      "issue": "移除: 查無此遊戲的官方資訊或相關開發進度，高度懷疑為不存在或已取消的項目。",
-      "autoFixed": false
+      "name": "藍色星原：旅謠",
+      "status": "warning",
+      "issue": "狀態: pre-reg→live-ops",
+      "autoFixed": true
     },
     {
-      "name": "納薩力克之王",
-      "status": "error",
-      "issue": "移除: 遊戲已於2023年3月31日全面停止營運。",
-      "autoFixed": false
+      "name": "破界：界限終零",
+      "status": "warning",
+      "issue": "狀態: pre-reg→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "締造者：放逐之境",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "白銀之城",
+      "status": "warning",
+      "issue": "狀態: cbt→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "命運扳機",
+      "status": "warning",
+      "issue": "狀態: delayed-early-access→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "追逐卡蕾多",
+      "status": "warning",
+      "issue": "狀態: cbt→cbt",
+      "autoFixed": true
     }
   ],
   "checked": [
-    "劍與家園2",
-    "遠光84",
-    "鵝鴨殺",
-    "勇者鬥惡龍：粉碎成長",
-    "靠裝勇者",
-    "納薩力克之王",
-    "輕語之境",
-    "無盡夢回",
-    "霧境序列",
-    "重返未來：1999",
-    "代號：無限",
-    "艾乌之光",
-    "斗破苍穹：帝炎",
-    "丹墨三国：弈",
-    "盛世武神"
-  ],
-  "nextBatch": [
-    "無限大",
-    "異環",
-    "明日方舟：終末地",
-    "失控進化",
-    "王者榮耀：世界",
-    "鳴潮",
+    "赤月战盟",
+    "傲视怒斩",
     "遺忘之海",
     "卡厄思夢境",
     "藍色星原：旅謠",
@@ -56,6 +59,27 @@
     "原神",
     "絕區零",
     "崩壞：星穹鐵道",
-    "白銀之城"
+    "白銀之城",
+    "二重螺旋",
+    "命運扳機",
+    "追逐卡蕾多",
+    "望月"
+  ],
+  "nextBatch": [
+    "無限大",
+    "異環",
+    "明日方舟：終末地",
+    "失控進化",
+    "王者榮耀：世界",
+    "鳴潮",
+    "數碼寶貝 UP",
+    "勇者鬥惡龍：破限亂鬥",
+    "魔御：STAR DIVE",
+    "東離劍遊紀M",
+    "奇幻生活 i",
+    "Pictonico!",
+    "GTA VI",
+    "魔物獵人 荒野",
+    "魔物獵人：旅人"
   ]
 }
