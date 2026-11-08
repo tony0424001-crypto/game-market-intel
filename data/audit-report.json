@@ -1,77 +1,57 @@
 {
-  "lastAudit": "2026-11-07T06:20:01.682372+00:00",
-  "totalProducts": 717,
-  "updatesApplied": 80,
+  "lastAudit": "2026-11-08T06:24:01.630065+00:00",
+  "totalProducts": 720,
+  "updatesApplied": 61,
   "issuesFound": 7,
-  "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 數碼寶貝 UP, 勇者鬥惡龍：破限亂鬥, 魔御：STAR DIVE, 東離劍遊紀M, 奇幻生活 i, Pictonico!, GTA VI, 魔物獵人 荒野, 魔物獵人：旅人",
+  "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "遺忘之海",
+      "name": "巨龍之歌 Online",
       "status": "warning",
       "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "藍色星原：旅謠",
+      "name": "東離劍遊紀M",
       "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
+      "issue": "狀態: shutdown→shutdown",
       "autoFixed": true
     },
     {
-      "name": "破界：界限終零",
+      "name": "東離劍遊紀M",
+      "status": "error",
+      "issue": "移除: 遊戲已於2024年8月24日停止營運。",
+      "autoFixed": false
+    },
+    {
+      "name": "奇幻生活 i",
+      "status": "warning",
+      "issue": "狀態: 手機版預計2026年夏季推出→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "GTA VI",
       "status": "warning",
       "issue": "狀態: pre-reg→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "締造者：放逐之境",
+      "name": "魔物獵人 荒野",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "白銀之城",
-      "status": "warning",
-      "issue": "狀態: cbt→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "命運扳機",
-      "status": "warning",
-      "issue": "狀態: delayed-early-access→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "追逐卡蕾多",
-      "status": "warning",
-      "issue": "狀態: cbt→cbt",
-      "autoFixed": true
+      "name": "二十世紀電氣目錄",
+      "status": "error",
+      "issue": "移除: 此為動畫作品，非遊戲產品。",
+      "autoFixed": false
     }
   ],
   "checked": [
-    "赤月战盟",
-    "傲视怒斩",
-    "遺忘之海",
-    "卡厄思夢境",
-    "藍色星原：旅謠",
-    "破界：界限終零",
-    "締造者：放逐之境",
-    "原神",
-    "絕區零",
-    "崩壞：星穹鐵道",
-    "白銀之城",
-    "二重螺旋",
-    "命運扳機",
-    "追逐卡蕾多",
-    "望月"
-  ],
-  "nextBatch": [
-    "無限大",
-    "異環",
-    "明日方舟：終末地",
-    "失控進化",
-    "王者榮耀：世界",
-    "鳴潮",
+    "巨龍之歌 Online",
+    "天翼之鍊：手機版",
+    "仙境傳說：深淵",
     "數碼寶貝 UP",
     "勇者鬥惡龍：破限亂鬥",
     "魔御：STAR DIVE",
@@ -80,6 +60,26 @@
     "Pictonico!",
     "GTA VI",
     "魔物獵人 荒野",
-    "魔物獵人：旅人"
+    "魔物獵人：旅人",
+    "仙境傳說RO：守護永恒的愛2",
+    "雨霧之都",
+    "二十世紀電氣目錄"
+  ],
+  "nextBatch": [
+    "無限大",
+    "異環",
+    "明日方舟：終末地",
+    "失控進化",
+    "王者榮耀：世界",
+    "鳴潮",
+    "遺忘之海",
+    "卡厄思夢境",
+    "藍色星原：旅謠",
+    "破界：界限終零",
+    "締造者：放逐之境",
+    "原神",
+    "絕區零",
+    "崩壞：星穹鐵道",
+    "白銀之城"
   ]
 }

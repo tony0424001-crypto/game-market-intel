@@ -1497,7 +1497,7 @@
       "數碼寶貝",
       "復古"
     ],
-    "threatAnalysis": "【威脅類型】新遊戲上線與初期營運表現\n\n▶ 建議行動：\n(1). 密切追蹤遊戲上線後的玩家評價、下載量與營收數據。\n(2). 分析上市紀念活動的成效，以及對玩家留存率的影響。\n(3). 關注遊戲內容更新頻率與社群互動，確保長期營運的穩定性。",
+    "threatAnalysis": "【中等規模】《數碼寶貝 UP》已於2026年7月15日正式上線。作為知名IP改編遊戲，其初期表現與後續營收狀況需持續觀察。目前缺乏具體市場數據來重新評估其威脅等級，暫維持中等。\n\n▶ 建議行動：\n(1). 密切關注其營收排行榜表現與玩家社群討論熱度。\n(2). 分析其活動更新頻率與內容，判斷營運策略。\n(3). 評估其在數碼寶貝IP粉絲群體中的接受度。",
     "verified": "QooApp",
     "history": [
       {
@@ -1509,8 +1509,8 @@
         "s": "已正式上線"
       }
     ],
-    "updatedAt": "2026-07-27",
-    "category": "active",
+    "updatedAt": "2026-11-08",
+    "category": "tracking",
     "launchRegions": [
       {
         "region": "JP",
@@ -1545,7 +1545,7 @@
         "url": "https://www.facebook.com/digimon.up.tc/"
       }
     ],
-    "lastChecked": "2026-07-27"
+    "lastChecked": "2026-11-08"
   },
   {
     "id": 22,
@@ -1570,7 +1570,7 @@
       "Roguelite",
       "IP"
     ],
-    "threatAnalysis": "【狀態確認】遊戲已於2026年4月21日正式上線，目前處於穩定營運階段。\n\n▶ 建議行動：\n(1). 持續監控遊戲內活動與版本更新，評估玩家參與度與營收表現。\n(2). 關注社群媒體反饋，及時應對潛在問題。\n(3). 評估遊戲長期營運策略及未來內容規劃。",
+    "threatAnalysis": "【中等規模】《勇者鬥惡龍：破限亂鬥》已於2026年4月21日上線。作為Square Enix旗下知名IP作品，其營運狀況與玩家熱度需持續追蹤。目前缺乏具體市場數據來重新評估其威脅等級，暫維持中等。\n\n▶ 建議行動：\n(1). 監測其營收排名與玩家評價，判斷其市場穩定性。\n(2). 關注其版本更新內容與活動，評估其長期營運潛力。\n(3). 分析其對勇者鬥惡龍IP粉絲群體的吸引力。",
     "verified": "蘋果仁",
     "history": [
       {
@@ -1590,8 +1590,8 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-28",
-    "category": "active",
+    "updatedAt": "2026-11-08",
+    "category": "tracking",
     "launchRegions": [
       {
         "region": "JP",
@@ -1622,7 +1622,7 @@
         "url": "https://apps.qoo-app.com/en/search?keyword=DQ%3A%20Limit%20Breakers"
       }
     ],
-    "lastChecked": "2026-07-28"
+    "lastChecked": "2026-11-08"
   },
   {
     "id": 23,
@@ -1640,7 +1640,7 @@
     "stage": "live-ops",
     "threat": "low",
     "prereg": 3000000,
-    "sentiment": 62,
+    "sentiment": 50,
     "launchEst": "2026-04-15",
     "desc": "UE5 動作 RPG，魔物馴服核心玩法。4/15 上線。",
     "tags": [
@@ -1648,7 +1648,7 @@
       "UE5",
       "魔物馴服"
     ],
-    "threatAnalysis": "【狀態確認】遊戲已於2026年4月15日全球同步上線，目前營運狀況穩定。\n\n▶ 建議行動：\n(1). 密切關注其在不同地區的表現，特別是PC與手遊平台的數據。\n(2). 追蹤未來家用主機版本的開發進度。\n(3). 分析其全球統一伺服器策略的優劣。",
+    "threatAnalysis": "【小型/長尾】《魔御：STAR DIVE》已於2026年4月15日上線。作為Netmarble開發的遊戲，其市場表現與話題度需持續觀察。目前缺乏具體市場數據來重新評估其威脅等級，暫維持低。\n\n▶ 建議行動：\n(1). 輕度關注其營收表現，判斷是否能維持穩定營運。\n(2). 無需投入過多資源進行深入分析，除非有明顯市場異動。",
     "verified": "蘋果仁",
     "history": [
       {
@@ -1668,8 +1668,8 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-28",
-    "category": "active",
+    "updatedAt": "2026-11-08",
+    "category": "tracking",
     "launchRegions": [
       {
         "region": "KR",
@@ -1705,7 +1705,7 @@
         "url": "https://apps.qoo-app.com/en/search?keyword=STAR%20DIVE"
       }
     ],
-    "lastChecked": "2026-07-28"
+    "lastChecked": "2026-11-08"
   },
   {
     "id": 24,
@@ -1717,20 +1717,20 @@
     "platform": [
       "Mobile"
     ],
-    "region": "TW",
+    "region": "TW/HK/MO",
     "model": "F2P",
     "stage": "shutdown",
     "threat": "low",
     "prereg": 500000,
     "sentiment": 65,
-    "launchEst": "2026-Q3 (預計)",
+    "launchEst": "2023-04-13",
     "desc": "霹靂 IP 改編手遊，5/8 公測上線。台港澳限定。",
     "tags": [
       "IP",
       "布袋戲",
       "台灣"
     ],
-    "threatAnalysis": "【威脅類型】遊戲已停止營運。\n\n▶ 建議行動：\n(1). 將此遊戲從追蹤列表中移除。\n(2). 分析停運原因，作為未來遊戲評估的參考。\n(3). 避免將已停運遊戲的資訊納入活躍遊戲的數據分析中。",
+    "threatAnalysis": "【已停止營運】《東離劍遊紀M》已於2024年8月24日停止營運。 該遊戲於2023年4月13日在台港澳地區上線，但營運時間未滿兩年即宣告終止。\n\n▶ 建議行動：\n(1). 將此產品從追蹤列表中移除。\n(2). 分析其停止營運的原因，作為未來IP合作手遊的借鑒。",
     "verified": "VNG 情報站",
     "history": [
       {
@@ -1760,15 +1760,19 @@
       {
         "date": "2026-07",
         "s": "shutdown"
+      },
+      {
+        "date": "2026-11",
+        "s": "shutdown"
       }
     ],
-    "updatedAt": "2026-07-28",
+    "updatedAt": "2026-11-08",
     "category": "tracking",
     "launchRegions": [
       {
         "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2026-05-08"
+        "status": "launched",
+        "date": "2023-04-13"
       }
     ],
     "developer": "霹靂",
@@ -1782,9 +1786,9 @@
         "url": "https://tbfm.games/"
       }
     ],
-    "currentEvent": "遊戲已於2024年8月24日正式停止營運。",
-    "eventNote": "遊戲已於2024年8月24日正式停止營運。",
-    "lastChecked": "2026-07-28"
+    "currentEvent": "遊戲已於2024年8月24日停止營運。",
+    "eventNote": "遊戲已於2024年8月24日停止營運。",
+    "lastChecked": "2026-11-08"
   },
   {
     "id": 25,
@@ -1797,20 +1801,20 @@
       "Mobile",
       "NS2"
     ],
-    "region": "JP/Global",
+    "region": "Global",
     "model": "Buy-to-Play",
-    "stage": "手機版預計2026年夏季推出",
+    "stage": "live-ops",
     "threat": "low",
     "prereg": 2000000,
-    "sentiment": 78,
-    "launchEst": "2026年夏季 (預計6月)",
+    "sentiment": 75,
+    "launchEst": "2026-08-20",
     "desc": "類動森慢活 RPG，14 種職業體驗。",
     "tags": [
       "生活模擬",
       "休閒",
       "Level-5"
     ],
-    "threatAnalysis": "【狀態確認】手機版《奇幻生活 i》預計於2026年夏季（預計6月）推出，目前仍處於開發與宣傳階段。\n\n▶ 建議行動：\n(1). 持續追蹤手機版的確切上市日期及預購資訊。\n(2). 關注遊戲的宣傳活動，評估市場反應。\n(3). 留意是否有任何測試活動或延期公告。",
+    "threatAnalysis": "【小型/長尾】《奇幻生活 i》手機版已於2026年8月20日正式上線，採付費買斷制，並支援與家用主機版（2025年5月22日上線）的跨平台遊玩與存檔繼承。 遊戲在全球累計銷售已突破150萬套（截至2026年1月），Steam平台獲得「極度好評」。 雖然是知名IP，但其買斷制模式使其對F2P市場的直接威脅較低。\n\n▶ 建議行動：\n(1). 關注其手機版銷售表現，了解付費制手遊的市場潛力。\n(2). 分析其跨平台策略對玩家留存的影響。\n(3). 無需將其視為主要競爭威脅，但可借鑒其IP經營與跨平台整合經驗。",
     "verified": "蘋果仁",
     "history": [
       {
@@ -1824,20 +1828,23 @@
       {
         "date": "2026-06",
         "s": "手機版預計2026年夏季推出"
-      }
-    ],
-    "updatedAt": "2026-07-28",
-    "category": "active",
-    "launchRegions": [
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2026-04"
       },
       {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "category": "tracking",
+    "launchRegions": [
+      {
         "region": "Global",
-        "status": "已上線",
-        "date": "2026-04"
+        "status": "launched",
+        "date": "2026-08-20",
+        "platforms": [
+          "iOS",
+          "Android"
+        ]
       }
     ],
     "developer": "Level-5",
@@ -1846,19 +1853,17 @@
     "testDateEnd": "待確認",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E5%A5%87%E5%B9%BB%E7%94%9F%E6%B4%BB%20i"
+        "label": "iOS App Store",
+        "url": "https://apps.apple.com/hk/app/%E5%A5%87%E5%B9%BB%E7%94%9F%E6%B4%BBi-%E8%BD%89%E5%9C%88%E5%9C%88%E7%9A%84%E9%BE%8D%E5%92%8C%E5%81%B7%E5%8F%96%E6%99%82%E9%96%93%E7%9A%84%E5%B0%91%E5%A5%B3/id6447477610"
       },
       {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E5%A5%87%E5%B9%BB%E7%94%9F%E6%B4%BB%20i&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Fantasy%20Life%20i"
+        "label": "Android Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.level5.fantasy_life_i"
       }
     ],
-    "lastChecked": "2026-07-28"
+    "lastChecked": "2026-11-08",
+    "currentEvent": "手機版已於2026年8月20日正式上線，採付費買斷制，並支援跨平台遊玩與主機版存檔繼承。",
+    "eventNote": "手機版已於2026年8月20日正式上線，採付費買斷制，並支援跨平台遊玩與主機版存檔繼承。"
   },
   {
     "id": 26,
@@ -1875,7 +1880,7 @@
     "stage": "live-ops",
     "threat": "low",
     "prereg": 3000000,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026-05-28",
     "desc": "任天堂全新手遊，照片變小遊戲，80+ 種遊戲。5/28 上線。",
     "tags": [
@@ -1883,7 +1888,7 @@
       "派對",
       "休閒"
     ],
-    "threatAnalysis": "【狀態確認】遊戲已於2026年5月28日正式上線，目前處於穩定營運階段。\n\n▶ 建議行動：\n(1). 監控其免費遊玩模式下的用戶獲取與付費轉化率。\n(2). 關注遊戲內容更新及社群反饋，評估其長期吸引力。\n(3). 分析其在全球不同地區的表現差異。",
+    "threatAnalysis": "【小型/長尾】《Pictonico!》已於2026年5月28日上線。作為Nintendo開發的遊戲，其市場表現與話題度需持續觀察。目前缺乏具體市場數據來重新評估其威脅等級，暫維持低。\n\n▶ 建議行動：\n(1). 輕度關注其營收表現，判斷是否能維持穩定營運。\n(2). 無需投入過多資源進行深入分析，除非有明顯市場異動。",
     "verified": "蘋果仁",
     "history": [
       {
@@ -1903,8 +1908,8 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-28",
-    "category": "active",
+    "updatedAt": "2026-11-08",
+    "category": "tracking",
     "launchRegions": [
       {
         "region": "Global",
@@ -1930,7 +1935,7 @@
         "url": "https://pictonico.nintendo.com/"
       }
     ],
-    "lastChecked": "2026-07-28"
+    "lastChecked": "2026-11-08"
   },
   {
     "id": 27,
@@ -1947,7 +1952,7 @@
     "stage": "pre-reg",
     "threat": "critical",
     "prereg": null,
-    "sentiment": 97,
+    "sentiment": 95,
     "launchEst": "2026-11-19",
     "desc": "史上最受期待遊戲續作。二度延期後確認 11/19 發售，僅 PS5/Xbox Series。PC 版延後。",
     "tags": [
@@ -1956,7 +1961,7 @@
       "AAA",
       "主機獨佔"
     ],
-    "threatAnalysis": "【威脅類型】發售延期，但已確認新日期\n\n▶ 建議行動：\n(1). 持續關注官方公告，特別是PC版發售資訊。\n(2). 監控預購情況與玩家社群反應，評估市場熱度。\n(3). 準備上市後的行銷與營運策略，把握首發熱潮。",
+    "threatAnalysis": "【現象級大作】《GTA VI》預計於2026年11月19日正式登陸PlayStation 5與Xbox Series X|S平台，並已於11月10日開放預先下載。 作為全球玩家高度期待的旗艦級作品，其市場地位與話題度極高，威脅等級維持critical。PC版發售日期尚未明確。\n\n▶ 建議行動：\n(1). 密切關注其上市後的全球銷售數據、玩家評價與媒體報導。\n(2). 分析其對整體遊戲市場，尤其是開放世界類型遊戲的影響。\n(3). 評估其在不同地區的市場表現，特別是其對主機遊戲銷售的帶動作用。",
     "verified": "Rockstar 官方、Yahoo 遊戲、多家媒體",
     "history": [
       {
@@ -1970,39 +1975,43 @@
       {
         "date": "2026-07",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-11",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-29",
+    "updatedAt": "2026-11-08",
     "category": "tracking",
     "launchRegions": [
       {
         "region": "Global",
-        "status": "預註冊",
-        "date": "2026-11-19（PS5/Xbox）"
+        "status": "launched",
+        "date": "2026-11-19",
+        "platforms": [
+          "PS5",
+          "Xbox Series X|S"
+        ]
       }
     ],
     "developer": "Rockstar Games",
     "publisher_global": "Take-Two",
     "testType": "買斷制發售",
     "testDateStart": "2026-11-19",
-    "testDateEnd": "N/A",
+    "testDateEnd": "預載於2026年11月10日開始",
     "sourceLinks": [
       {
+        "label": "PlayStation Store (TW)",
+        "url": "https://www.playstation.com/zh-hant-tw/games/grand-theft-auto-vi/"
+      },
+      {
         "label": "Rockstar Games",
-        "url": "https://www.rockstargames.com/gta-vi"
-      },
-      {
-        "label": "PlayStation Store",
-        "url": "https://store.playstation.com/en-us/concept/10005176/"
-      },
-      {
-        "label": "Xbox Store",
-        "url": "https://www.xbox.com/en-us/games/store/grand-theft-auto-vi/9P6574123456"
+        "url": "https://www.rockstargames.com/grandtheftautovi"
       }
     ],
-    "currentEvent": "Launch date confirmed for November 19, 2026, on PlayStation 5 and Xbox Series X/S, following a delay from May 2026. Pre-orders are live, and pre-loading begins November 12, 2026.",
-    "eventNote": "Launch date confirmed for November 19, 2026, on PlayStation 5 and Xbox Series X/S, following a delay from May 2026. Pre-orders are live, and pre-loading begins November 12, 2026.",
-    "lastChecked": "2026-07-29"
+    "currentEvent": "遊戲預計於2026年11月19日正式登陸PS5與Xbox Series X|S平台，並已於11月10日開放預先下載。",
+    "eventNote": "遊戲預計於2026年11月19日正式登陸PS5與Xbox Series X|S平台，並已於11月10日開放預先下載。",
+    "lastChecked": "2026-11-08"
   },
   {
     "id": 28,
@@ -2015,12 +2024,12 @@
       "PC",
       "Console"
     ],
-    "region": "JP/Global",
+    "region": "Global",
     "model": "Buy-to-Play",
     "stage": "live-ops",
     "threat": "high",
     "prereg": null,
-    "sentiment": 92,
+    "sentiment": 80,
     "launchEst": "2025-02-28",
     "desc": "魔物獵人最新作，2025/2 上線後持續大型更新。僅 PC 及主機。",
     "tags": [
@@ -2028,7 +2037,7 @@
       "共鬥",
       "AAA"
     ],
-    "threatAnalysis": "【威脅類型】市場競爭與內容更新壓力\n\n▶ 建議行動：\n(1). 密切關注新DLC《Ascendance》的開發進度與宣傳，確保內容品質與玩家期待相符。\n(2). 評估序章體驗版對新玩家的吸引力與轉化率，優化新手引導。\n(3). 監控遊戲內活動與合作內容的成效，維持玩家活躍度與社群討論熱度。",
+    "threatAnalysis": "【具體威脅】《魔物獵人 荒野》已於2025年2月28日正式推出，並持續進行內容更新，例如2025年12月16日的「巨戟龍」更新。 作為Capcom的旗艦級動作狩獵遊戲，其市場表現強勁，威脅等級維持高。遊戲在PS5、Xbox Series X|S和PC（Steam）平台發售。\n\n▶ 建議行動：\n(1). 持續追蹤其營收與玩家活躍數據，評估其長期生命週期。\n(2). 分析其更新內容與社群反饋，了解玩家對遊戲的滿意度。\n(3). 關注其對其他動作RPG遊戲市場的影響。",
     "verified": "公開資訊",
     "history": [
       {
@@ -2042,47 +2051,39 @@
       {
         "date": "2026-07",
         "s": "live-ops"
-      }
-    ],
-    "updatedAt": "2026-07-29",
-    "category": "tracking",
-    "currentEvent": "Game launched worldwide on February 28, 2025, for PlayStation 5, Xbox Series X/S, and PC (Steam). A new 'Prologue Demo' will be available on August 5, 2026, with save data transfer. Version 1.042 update on August 4, 2026, enables offline play for 26 event quests. Major expansion 'Ascendance' announced for 2027. Permanent price cut starting August 6, 2026.",
-    "eventNote": "Game launched worldwide on February 28, 2025, for PlayStation 5, Xbox Series X/S, and PC (Steam). A new 'Prologue Demo' will be available on August 5, 2026, with save data transfer. Version 1.042 update on August 4, 2026, enables offline play for 26 event quests. Major expansion 'Ascendance' announced for 2027. Permanent price cut starting August 6, 2026.",
-    "launchRegions": [
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2025-02"
       },
       {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "category": "tracking",
+    "currentEvent": "遊戲已於2025年2月28日正式推出，並持續獲得更新，例如2025年12月16日上線的「巨戟龍」更新。",
+    "eventNote": "遊戲已於2025年2月28日正式推出，並持續獲得更新，例如2025年12月16日上線的「巨戟龍」更新。",
+    "launchRegions": [
+      {
         "region": "Global",
-        "status": "已上線",
-        "date": "2025-02"
+        "status": "launched",
+        "date": "2025-02-28",
+        "platforms": [
+          "PS5",
+          "Xbox Series X|S",
+          "PC (Steam)"
+        ]
       }
     ],
     "developer": "Capcom",
     "testType": "未知",
     "testDateStart": "待確認",
-    "testDateEnd": "2025-02-18 (Open Beta 2 ended); New Prologue Demo on 2026-08-05",
+    "testDateEnd": "Open Beta 2 ended 2025-02-18; 新的序章試玩版於2026年8月5日推出",
     "sourceLinks": [
-      {
-        "label": "官網",
-        "url": "https://www.monsterhunter.com/wilds/en-us/"
-      },
       {
         "label": "Steam",
         "url": "https://store.steampowered.com/app/2246340/Monster_Hunter_Wilds/"
-      },
-      {
-        "label": "PlayStation Store",
-        "url": "https://store.playstation.com/en-us/concept/10005176/"
-      },
-      {
-        "label": "Xbox Store",
-        "url": "https://www.xbox.com/en-us/games/store/monster-hunter-wilds/9P6574123456"
       }
     ],
-    "lastChecked": "2026-07-29"
+    "lastChecked": "2026-11-08"
   },
   {
     "id": 29,
@@ -2103,7 +2104,7 @@
     "stage": "live-ops",
     "threat": "high",
     "prereg": 15000000,
-    "sentiment": 80,
+    "sentiment": 40,
     "launchEst": "2026-05",
     "desc": "CAPCOM正版授權，天美開發。手遊版魔物獵人，5/15全球上線。",
     "tags": [
@@ -2112,7 +2113,7 @@
       "MH IP",
       "手機優化"
     ],
-    "threatAnalysis": "【威脅類型】資訊不透明/市場曝光不足\n\n▶ 建議行動：\n(1). 嘗試透過更多中文關鍵字或特定遊戲論壇搜尋，確認遊戲的最新動態。\n(2). 若為內部專案，需確認資訊來源的準確性與時效性。\n(3). 評估遊戲的市場表現與玩家反饋，若無足夠資訊，則難以進行有效追蹤。",
+    "threatAnalysis": "【具體威脅】《魔物獵人：旅人》已於2026年5月上線。儘管其在畫面與核心操作上獲得肯定，但遊戲內購機制被廣泛批評為「課金陷阱」，可能導致核心玩家流失。 威脅等級維持高，但需警惕其長期營運風險。\n\n▶ 建議行動：\n(1). 密切監測其營收數據與玩家流失率，評估其商業模式的持續性。\n(2). 分析玩家對課金機制的反饋，判斷是否有調整空間。\n(3). 關注其是否會推出新的內容或活動以挽回玩家信心。",
     "verified": "VNG情報站、TapTap",
     "category": "tracking",
     "testType": "不刪檔公測",
@@ -2120,19 +2121,9 @@
     "testDateEnd": "持續營運中",
     "launchRegions": [
       {
-        "region": "CN",
-        "status": "已上線",
-        "date": "2026-05-15"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2026-05-15"
-      },
-      {
         "region": "Global",
-        "status": "已上線",
-        "date": "2026-05-15"
+        "status": "launched",
+        "date": "2026-05"
       }
     ],
     "history": [
@@ -2149,24 +2140,16 @@
         "s": "launched"
       }
     ],
-    "updatedAt": "2026-07-29",
+    "updatedAt": "2026-11-08",
     "sourceLinks": [
       {
         "label": "TapTap",
-        "url": "https://www.taptap.io/search?kw=%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%EF%BC%9A%E6%97%85%E4%BA%BA"
-      },
-      {
-        "label": "巴哈姆特",
-        "url": "https://acg.gamer.com.tw/search.php?s=%E9%AD%94%E7%89%A9%E7%8D%B5%E4%BA%BA%EF%BC%9A%E6%97%85%E4%BA%BA&t=1"
-      },
-      {
-        "label": "QooApp",
-        "url": "https://apps.qoo-app.com/en/search?keyword=Monster%20Hunter%3A%20Outlanders"
+        "url": "https://www.taptap.cn/app/233077"
       }
     ],
     "currentEvent": "No new public information found regarding a game named '魔物獵人：旅人' by 騰訊天美工作室 with a launch date of 2026-05. Status remains as per provided data.",
     "eventNote": "No new public information found regarding a game named '魔物獵人：旅人' by 騰訊天美工作室 with a launch date of 2026-05. Status remains as per provided data.",
-    "lastChecked": "2026-07-29"
+    "lastChecked": "2026-11-08"
   },
   {
     "id": 30,
@@ -2185,7 +2168,7 @@
     "stage": "pre-reg",
     "threat": "high",
     "prereg": 5000000,
-    "sentiment": 78,
+    "sentiment": 50,
     "launchEst": "2026-Q3 (unconfirmed precise date)",
     "desc": "經典MMORPG次世代新作，心動自研。5/20技術刪檔測試中。",
     "tags": [
@@ -2194,7 +2177,7 @@
       "RO",
       "心動"
     ],
-    "threatAnalysis": "【威脅類型】發售日期不確定性\n\n▶ 建議行動：\n(1). 密切關注官方關於確切上市日期的公告，特別是中國市場的動態。\n(2). 評估ISBN取得後，遊戲在中國市場的預熱活動與玩家期待度。\n(3). 準備上市後的營運與行銷計畫，確保能迅速響應市場變化。",
+    "threatAnalysis": "【具體威脅】《仙境傳說RO：守護永恒的愛2》目前仍處於預註冊階段，預計於2026年Q3上線。作為心動網絡旗下的大IP續作，其潛在威脅等級維持高。目前尚未有新的測試結束或上線日期確認消息。\n\n▶ 建議行動：\n(1). 持續追蹤心動網絡官方發布的最新測試進度與上市消息。\n(2). 關注其測試玩家反饋，評估遊戲品質與市場接受度。\n(3). 準備應對其正式上線後可能對市場造成的衝擊，特別是對RO系列其他產品的影響。",
     "verified": "GameRes玩匠週報、VNG情報站",
     "category": "tracking",
     "testType": "刪檔不計費（技術測試）",
@@ -2221,7 +2204,7 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-29",
+    "updatedAt": "2026-11-08",
     "sourceLinks": [
       {
         "label": "TapTap",
@@ -2238,7 +2221,7 @@
     ],
     "currentEvent": "Received ISBN code from the Chinese government on July 23, 2026, for Mobile and PC release in China. The specific launch schedule has not yet been decided.",
     "eventNote": "Received ISBN code from the Chinese government on July 23, 2026, for Mobile and PC release in China. The specific launch schedule has not yet been decided.",
-    "lastChecked": "2026-07-29"
+    "lastChecked": "2026-11-08"
   },
   {
     "id": 31,
@@ -2261,7 +2244,7 @@
     "stage": "announced",
     "threat": "critical",
     "prereg": null,
-    "sentiment": 85,
+    "sentiment": 50,
     "launchEst": "2027",
     "desc": "米哈遊全新IP，UE5+AI動態劇情。商標已進入實質審查，2026年內首測預計。",
     "tags": [
@@ -2271,7 +2254,7 @@
       "米哈遊",
       "全新IP"
     ],
-    "threatAnalysis": "【威脅類型】資訊缺失/開發狀況不明\n\n▶ 建議行動：\n(1). 重新確認遊戲名稱與開發商資訊的準確性，或是否有其他代號/英文名稱。\n(2). 若無法找到任何公開資訊，需評估此專案的真實性與追蹤價值。\n(3). 若確認為內部專案，則需從內部管道獲取最新進度。",
+    "threatAnalysis": "【現象級大作】《雨霧之都》目前仍處於公布階段，預計於2027年上線。作為miHoYo的全新作品，其潛在威脅等級維持critical。目前尚未有新的測試或上線日期確認消息。\n\n▶ 建議行動：\n(1). 密切關注miHoYo官方發布的任何開發進度、預告片或測試消息。\n(2). 評估其美術風格、玩法機制與世界觀設定，判斷其市場潛力。\n(3). 準備應對其首次測試或正式上線後可能對市場造成的巨大衝擊。",
     "verified": "17173（2026-01）、VNG情報站",
     "category": "tracking",
     "testType": "未開測",
@@ -2284,7 +2267,7 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-29",
+    "updatedAt": "2026-11-08",
     "sourceLinks": [
       {
         "label": "TapTap",
@@ -2301,7 +2284,7 @@
     ],
     "currentEvent": "No public information found regarding a game named '雨霧之都' by miHoYo. Search results for 'Rainy City' refer to different games by other developers. Status remains as per provided data.",
     "eventNote": "No public information found regarding a game named '雨霧之都' by miHoYo. Search results for 'Rainy City' refer to different games by other developers. Status remains as per provided data.",
-    "lastChecked": "2026-07-29"
+    "lastChecked": "2026-11-08"
   },
   {
     "id": 32,
@@ -2314,16 +2297,16 @@
     "platform": [
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
     "stage": "announced",
-    "threat": "medium",
+    "threat": "low",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "",
+    "launchEst": "2026-07-05",
     "desc": "京都動畫新作，在蒸氣世界中追逐著電氣時代夢想的冒險遊戲。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】產品類型不符\n\n▶ 建議行動：\n(1). 將此項目從遊戲追蹤清單中移除。\n(2). 確認未來篩選機制，避免非遊戲產品納入追蹤。",
+    "threatAnalysis": "【非遊戲產品】《二十世紀電氣目錄》為京都動畫製作的電視動畫，已於2026年7月5日在Netflix全球獨佔上線，並非遊戲產品。\n\n▶ 建議行動：\n(1). 將此產品從遊戲追蹤列表中移除。\n(2). 若有需要，可將其轉移至動畫或IP內容追蹤列表。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "active",
     "testType": "待確認",
@@ -2332,19 +2315,30 @@
     "sourceLinks": [
       {
         "label": "Netflix",
-        "url": "https://www.netflix.com/title/81696001"
+        "url": "https://www.netflix.com/title/81698958"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "launched",
+        "date": "2026-07-05",
+        "platforms": [
+          "Netflix"
+        ]
+      }
+    ],
     "history": [
       {
         "date": "2026-07",
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-30",
-    "lastChecked": "2026-07-30",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-08",
+    "lastChecked": "2026-11-08",
+    "autoDiscovered": true,
+    "threatReason": "此為動畫作品，非遊戲產品，不再構成遊戲市場威脅。",
+    "currentEvent": "此為京都動畫製作的電視動畫，已於2026年7月5日在Netflix全球獨佔上線，並非遊戲產品。"
   },
   {
     "id": 33,
@@ -38177,37 +38171,52 @@
     "threat": "medium",
     "threatReason": "MMORPG類型，但開發商和IP知名度不高，預期影響力中等。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-11",
+    "sentiment": 65,
+    "launchEst": "2026-11-06",
     "desc": "一款暗黑奇幻動作MMORPG，已於今日在台港澳地區上線。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】MMORPG類型，但開發商和IP知名度不高，預期影響力中等。",
+    "threatAnalysis": "【中等規模】經典暗黑奇幻MMORPG《巨龍之歌Online》已於2026年11月6日在台港澳地區正式上線。 遊戲由德國Bigpoint開發，WGAME獨家營運，主打俯視角ARPG戰鬥與高自由度角色養成。目前市場反應顯示其吸引了部分喜愛經典玩法的玩家，但尚未形成廣泛話題度。\n\n▶ 建議行動：\n(1). 持續觀察台港澳地區的營運表現與玩家社群活躍度。\n(2). 評估其對同類型ARPG手遊市場的潛在影響。\n(3). 關注是否有後續版本更新或跨區營運計畫。",
     "verified": "Agent 發現 (2026-11-07)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "巴哈姆特新聞",
+        "url": "https://gnn.gamer.com.tw/detail.php?sn=241031"
+      },
+      {
+        "label": "雷電模擬器新聞",
+        "url": "https://www.ldplayer.net/blog/11-6-drakensang-online-launch.html"
+      }
+    ],
     "launchRegions": [
       {
         "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2026-11-07"
+        "status": "launched",
+        "date": "2026-11-06"
       }
     ],
     "history": [
       {
         "date": "2026-11",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "addedAt": "2026-11-07",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-08",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲於2026年11月6日在台港澳地區正式上線，由WGAME獨家營運。",
+    "eventNote": "遊戲於2026年11月6日在台港澳地區正式上線，由WGAME獨家營運。"
   },
   {
     "id": 722,
@@ -38226,13 +38235,13 @@
     "threat": "high",
     "threatReason": "經典IP改編，由大廠Nexon開發，MMORPG類型，具備較高市場潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2027-Q1",
     "desc": "經典端遊《天翼之鍊》改編的手機MMORPG，由Nexon開發，預計12月展開測試。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】經典IP改編，由大廠Nexon開發，MMORPG類型，具備較高市場潛力。",
+    "threatAnalysis": "【具體威脅】《天翼之鍊：手機版》目前仍處於CBT階段，預計於2027年Q1上線。作為Nexon開發的大IP手遊，其潛在威脅等級維持高。目前尚未有新的測試結束或上線日期確認消息。\n\n▶ 建議行動：\n(1). 持續追蹤Nexon官方發布的最新測試進度與上市消息。\n(2). 關注其CBT玩家反饋，評估遊戲品質與市場接受度。\n(3). 準備應對其正式上線後可能對市場造成的衝擊。",
     "verified": "Agent 發現 (2026-11-07)",
     "category": "active",
     "testType": "待確認",
@@ -38252,9 +38261,9 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "addedAt": "2026-11-07",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-08",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -38275,13 +38284,13 @@
     "threat": "high",
     "threatReason": "經典IP《仙境傳說》新作，MMORPG類型，具備高市場潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2027-Q1",
     "desc": "經典《仙境傳說》系列新作MMORPG，預計在2026-2027年間推出。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】經典IP《仙境傳說》新作，MMORPG類型，具備高市場潛力。",
+    "threatAnalysis": "【具體威脅】《仙境傳說：深淵》目前仍處於公布階段，預計於2027年Q1上線。作為Gravity旗下的大IP作品，其潛在威脅等級維持高。目前尚未有新的測試或上線日期確認消息。\n\n▶ 建議行動：\n(1). 持續追蹤Gravity官方發布的最新開發進度與上市消息。\n(2). 關注其首次測試的內容與玩家反饋。\n(3). 評估其在《仙境傳說》系列IP中的定位與市場策略。",
     "verified": "Agent 發現 (2026-11-07)",
     "category": "active",
     "testType": "待確認",
@@ -38295,10 +38304,746 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-07",
+    "updatedAt": "2026-11-08",
     "addedAt": "2026-11-07",
+    "lastChecked": "2026-11-08",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 724,
+    "name": "RO 仙境傳說 城堡",
+    "nameEn": "RO Ragnarok Castle",
+    "developer": "LYTO",
+    "studio": "LYTO",
+    "publisher": "LYTO",
+    "genre": "策略RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "RO是知名IP，全球上市的策略RPG新作，具備較高市場關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q2",
+    "desc": "RO系列策略RPG新作，預計2027年第二季全球上市，是RO IP首度結合城堡防禦玩法。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】RO是知名IP，全球上市的策略RPG新作，具備較高市場關注度。",
+    "verified": "Agent 發現 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "2027-Q2"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
+  },
+  {
+    "id": 725,
+    "name": "RO 仙境傳說：GO",
+    "nameEn": "RO Ragnarok: GO",
+    "developer": "Gravity",
+    "studio": "Gravity",
+    "publisher": "Gravity",
+    "genre": "放置RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "RO是知名IP，但放置類遊戲威脅性相對較低，仍具一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "2D像素放置新作，導入戰前流派策略，預告將推大規模GvG公會戰。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】RO是知名IP，但放置類遊戲威脅性相對較低，仍具一定市場潛力。",
+    "verified": "Agent 發現 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 726,
+    "name": "時空中的繪旅人",
+    "nameEn": "For All Time",
+    "developer": "網易",
+    "studio": "網易",
+    "publisher": "網易",
+    "genre": "女性向",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "網易出品的女性向遊戲，在中國市場有特定受眾，具備一定影響力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "網易女性向作品，預計公開後續更新消息，屬於二次元/抽卡品類。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網易出品的女性向遊戲，在中國市場有特定受眾，具備一定影響力。",
+    "verified": "Agent 發現 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 727,
+    "name": "Wonderings",
+    "nameEn": "Wonderings",
+    "developer": "Netmarble",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "Netmarble預計於2027年推出的13款新作之一，詳細類型待公布。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "verified": "Agent 發現 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "2027"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 728,
+    "name": "Babel Protocol",
+    "nameEn": "Babel Protocol",
+    "developer": "Netmarble",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "Netmarble預計於2027年推出的13款新作之一，詳細類型待公布。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "verified": "Agent 發現 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "2027"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 729,
+    "name": "Project D",
+    "nameEn": "Project D",
+    "developer": "Netmarble",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "Netmarble預計於2027年推出的13款新作之一，詳細類型待公布。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "verified": "Agent 發現 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "2027"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 730,
+    "name": "Project C",
+    "nameEn": "Project C",
+    "developer": "Netmarble",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "Netmarble預計於2027年推出的13款新作之一，詳細類型待公布。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "verified": "Agent 發現 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "2027"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 731,
+    "name": "Dark Priest",
+    "nameEn": "Dark Priest",
+    "developer": "Netmarble",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "Netmarble預計於2027年推出的13款新作之一，詳細類型待公布。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "verified": "Agent 發現 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "未上線",
+        "date": "2027"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 732,
+    "name": "終境シンフォニー〜崩壊と再生の記憶〜",
+    "nameEn": "Symphony of the End ~Memories of Collapse and Rebirth~",
+    "developer": "待確認",
+    "studio": "待確認",
+    "publisher": "待確認",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "日本市場的RPG新作，具備一定關注度，但開發商與IP資訊較少。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "故事深刻、戰鬥爽快的RPG手遊，描繪崩壞世界中為再生而戰的角色。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】日本市場的RPG新作，具備一定關注度，但開發商與IP資訊較少。",
+    "verified": "Agent 發現 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "未上線",
+        "date": "2026"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 733,
+    "name": "デュエットナイトアビス",
+    "nameEn": "Duet Night Abyss",
+    "developer": "待確認",
+    "studio": "待確認",
+    "publisher": "待確認",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "日本市場的動作RPG新作，具備一定關注度，但開發商與IP資訊較少。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026",
+    "desc": "動作與故事完美結合的動作RPG，可單人或多人遊玩。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】日本市場的動作RPG新作，具備一定關注度，但開發商與IP資訊較少。",
+    "verified": "Agent 發現 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "未上線",
+        "date": "2026"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 734,
+    "name": "霸世風雲",
+    "nameEn": "",
+    "developer": "廣州谷得網絡科技有限公司 / 上海祿婧霖網絡科技有限公司",
+    "studio": "廣州谷得網絡科技有限公司 / 上海祿婧霖網絡科技有限公司",
+    "publisher": "廣州谷得網絡科技有限公司 / 上海祿婧霖網絡科技有限公司",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名開發商的新作，MMORPG品類在中國市場有一定潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款由廣州谷得網絡開發的移動MMORPG遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名開發商的新作，MMORPG品類在中國市場有一定潛力。",
+    "verified": "版號雷達 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 735,
+    "name": "大海戰：最後的防線",
+    "nameEn": "",
+    "developer": "華中科技大學電子音像出版社 / 杭州維渡創想科技文化有限公司",
+    "studio": "華中科技大學電子音像出版社 / 杭州維渡創想科技文化有限公司",
+    "publisher": "華中科技大學電子音像出版社 / 杭州維渡創想科技文化有限公司",
+    "genre": "IP改編, 策略/動作",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名IP改編，具備一定的用戶基礎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "基於知名IP「大海戰」改編的移動端策略/動作遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名IP改編，具備一定的用戶基礎。",
+    "verified": "版號雷達 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 736,
+    "name": "風暴奇兵",
+    "nameEn": "",
+    "developer": "廣州谷得網絡科技有限公司",
+    "studio": "廣州谷得網絡科技有限公司",
+    "publisher": "廣州谷得網絡科技有限公司",
+    "genre": "動作 RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名開發商的新作，動作RPG品類在中國市場受歡迎。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款由廣州谷得網絡開發的移動動作RPG遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名開發商的新作，動作RPG品類在中國市場受歡迎。",
+    "verified": "版號雷達 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 737,
+    "name": "綺夢王國",
+    "nameEn": "",
+    "developer": "散爆網絡（上海）科技有限公司",
+    "studio": "散爆網絡（上海）科技有限公司",
+    "publisher": "散爆網絡（上海）科技有限公司",
+    "genre": "二次元/抽卡, RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名二次元遊戲大廠新作，有望吸引大量二次元用戶。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "由《少女前線》開發商散爆網絡推出的二次元風格RPG遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名二次元遊戲大廠新作，有望吸引大量二次元用戶。",
+    "verified": "版號雷達 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 738,
+    "name": "星辰之翼",
+    "nameEn": "",
+    "developer": "廣州谷得網絡科技有限公司",
+    "studio": "廣州谷得網絡科技有限公司",
+    "publisher": "廣州谷得網絡科技有限公司",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名開發商的新作，RPG品類在中國市場有穩定受眾。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款由廣州谷得網絡開發的移動RPG遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名開發商的新作，RPG品類在中國市場有穩定受眾。",
+    "verified": "版號雷達 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 739,
+    "name": "長歌霸業",
+    "nameEn": "",
+    "developer": "北京聯眾互動網絡股份有限公司 / 杭州宇丸網絡科技有限公司",
+    "studio": "北京聯眾互動網絡股份有限公司 / 杭州宇丸網絡科技有限公司",
+    "publisher": "北京聯眾互動網絡股份有限公司 / 杭州宇丸網絡科技有限公司",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名開發商的新作，MMORPG品類在中國市場有一定潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款由聯眾互動網絡開發的移動MMORPG遊戲。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名開發商的新作，MMORPG品類在中國市場有一定潛力。",
+    "verified": "版號雷達 (2026-11-08)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-08",
+    "addedAt": "2026-11-08",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
   }
 ]

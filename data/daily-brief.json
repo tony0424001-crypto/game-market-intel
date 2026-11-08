@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-11-07T06:22:15.451675+00:00",
-  "fetchCount": 178,
+  "lastUpdated": "2026-11-08T06:28:46.945115+00:00",
+  "fetchCount": 179,
   "items": [
+    {
+      "id": "brief-20261108-ad232e5b",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "綺夢王國（新發現・高威脅）",
+      "detail": "知名二次元遊戲大廠新作，有望吸引大量二次元用戶。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-11-08T06:28:46.945115+00:00"
+    },
+    {
+      "id": "brief-20261108-4dab2716",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "RO 仙境傳說 城堡（新發現・高威脅）",
+      "detail": "RO是知名IP，全球上市的策略RPG新作，具備較高市場關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-08T06:28:46.945115+00:00"
+    },
+    {
+      "id": "brief-20261108-52b7a436",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "RO 25週年預告11新作",
+      "detail": "GRAVITY將推11款RO新作，轉型全球生態系。",
+      "action": "關注RO品牌未來發展",
+      "platform": "mobile/console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-08T06:23:46.911767+00:00"
+    },
+    {
+      "id": "brief-20261108-3ef744e3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "COD登陸Switch 2",
+      "detail": "《現代戰爭4》與《現代戰域》第1賽季登陸Switch 2。",
+      "action": "體驗Switch 2新戰場",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-08T06:23:46.911767+00:00"
+    },
     {
       "id": "brief-20261107-bc3c2abe",
       "priority": "urgent",
@@ -157,70 +201,26 @@
       "fetchedAt": "2026-11-05T07:13:19.984118+00:00"
     },
     {
-      "id": "brief-20261105-8f6db079",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "艾乌之光（新發現・高威脅）",
-      "detail": "動作RPG，日系動漫風格，已在其他地區上線並獲得良好口碑。",
-      "action": "加入追蹤並評估上線時程",
+      "id": "brief-20261108-2201db9a",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "RO城堡策略RPG曝光",
+      "detail": "RO IP結合城堡建設策略與RPG，2027年Q2上市。",
+      "action": "期待新作上市資訊",
       "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-05T07:13:19.984118+00:00"
-    },
-    {
-      "id": "brief-20261105-ee1b9ab2",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "代號：無限（新發現・高威脅）",
-      "detail": "騰訊大廠新作，開放世界RPG品類，具備潛在市場競爭力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-05T07:13:19.984118+00:00"
-    },
-    {
-      "id": "brief-20261105-025d2196",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "重返未來：1999（新發現・高威脅）",
-      "detail": "雖已上線，但作為近期全球市場表現亮眼的二次元抽卡手遊，其市場影響力不容忽視。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導/官方公告",
-      "fetchedAt": "2026-11-05T07:13:19.984118+00:00"
-    },
-    {
-      "id": "brief-20261105-517e3551",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "國產新作《異病偵探》上市",
-      "detail": "台灣獨立團隊推理新作《異病偵探》今日正式上市。",
-      "action": "立即試玩體驗",
-      "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-05T07:05:54.539824+00:00"
+      "fetchedAt": "2026-11-08T06:23:46.911767+00:00"
     },
     {
-      "id": "brief-20261105-27c4faf3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《英雄聯盟》世界賽",
-      "detail": "GEN橫掃LYON晉級四強，將對決IG。",
-      "action": "觀看四強賽事",
-      "platform": "console",
+      "id": "brief-20261108-8686d17b",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "RO3界域沙盤玩法曝光",
+      "detail": "跨平台MMORPG《RO3》預約破200萬，將測新玩法。",
+      "action": "留意測試招募資訊",
+      "platform": "mobile/console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-05T07:05:54.539824+00:00"
-    },
-    {
-      "id": "brief-20261105-a6eee63c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《魔獸世界：永恆》上市",
-      "detail": "全新MMORPG《魔獸世界：永恆》今日正式登場。",
-      "action": "立即體驗新版",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-05T07:05:54.539824+00:00"
+      "fetchedAt": "2026-11-08T06:23:46.911767+00:00"
     }
   ]
 }
