@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-11-08T06:28:46.945115+00:00",
-  "fetchCount": 179,
+  "lastUpdated": "2026-11-09T06:58:40.121737+00:00",
+  "fetchCount": 180,
   "items": [
+    {
+      "id": "brief-20261109-a059ba52",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "勇者鬥惡龍 RPG：詛咒之樹與被選之島（新發現・高威脅）",
+      "detail": "知名日系RPG大廠Square Enix的經典IP新作，預期將吸引大量粉絲。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-09T06:58:40.121737+00:00"
+    },
+    {
+      "id": "brief-20261109-b8afaf06",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "RO仙境傳說25週年",
+      "detail": "GRAVITY預告《RO仙境傳說》25週年，11款新作籌備中。",
+      "action": "RO粉絲重大消息",
+      "platform": "mobile/console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-09T06:57:00.940754+00:00"
+    },
+    {
+      "id": "brief-20261109-9db7fa58",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "寶可夢卡牌父被捕",
+      "detail": "父為搶寶可夢卡牌，留6歲女夜排，遭美國警方逮捕。",
+      "action": "警惕兒童安全",
+      "platform": "N/A",
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-09T06:57:00.940754+00:00"
+    },
     {
       "id": "brief-20261108-ad232e5b",
       "priority": "urgent",
@@ -157,70 +190,37 @@
       "fetchedAt": "2026-11-06T07:05:28.146595+00:00"
     },
     {
-      "id": "brief-20261106-a113f96a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "戀與深空新卡池",
-      "detail": "五位男主仿生人形態限定五星思念今日上線。",
-      "action": "把握限定抽卡",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-06T07:05:28.146595+00:00"
-    },
-    {
-      "id": "brief-20261106-85732461",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Cygames新作發售",
-      "detail": "CygamesEdge首部作品《崩落之國》昨日發售。",
-      "action": "體驗Cygames新作",
+      "id": "brief-20261109-41293a0d",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "暗喻幻想Switch 2版",
+      "detail": "《暗喻幻想》配合Switch 2發售，既有平台數位版大降價。",
+      "action": "考慮入手數位版",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-06T07:05:28.146595+00:00"
+      "fetchedAt": "2026-11-09T06:57:00.940754+00:00"
     },
     {
-      "id": "brief-20261105-d7dbdb7c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "丹墨三国：弈（新發現・高威脅）",
-      "detail": "三國IP改編，策略RPG並包含抽卡元素，已在Steam平台發行。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-05T07:13:19.984118+00:00"
-    },
-    {
-      "id": "brief-20261105-3a87f674",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "斗破苍穹：帝炎（新發現・高威脅）",
-      "detail": "頂級中國IP改編，預計為大型RPG，具備高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-05T07:13:19.984118+00:00"
-    },
-    {
-      "id": "brief-20261108-2201db9a",
+      "id": "brief-20261109-b7de6550",
       "priority": "watch",
       "icon": "👁",
-      "title": "RO城堡策略RPG曝光",
-      "detail": "RO IP結合城堡建設策略與RPG，2027年Q2上市。",
-      "action": "期待新作上市資訊",
+      "title": "勇者鬥惡龍手遊發表",
+      "detail": "《勇者鬥惡龍》系列全新手機RPG閃電發表，預告片明晚公開。",
+      "action": "明晚關注預告片",
       "platform": "mobile",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-08T06:23:46.911767+00:00"
+      "fetchedAt": "2026-11-09T06:57:00.940754+00:00"
     },
     {
-      "id": "brief-20261108-8686d17b",
+      "id": "brief-20261109-8636ab36",
       "priority": "watch",
       "icon": "👁",
-      "title": "RO3界域沙盤玩法曝光",
-      "detail": "跨平台MMORPG《RO3》預約破200萬，將測新玩法。",
-      "action": "留意測試招募資訊",
-      "platform": "mobile/console",
+      "title": "我英手遊事前登錄",
+      "detail": "《我的英雄學院 終極亂鬥 Mobile》事前登錄開跑。",
+      "action": "粉絲快去登錄",
+      "platform": "mobile",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-08T06:23:46.911767+00:00"
+      "fetchedAt": "2026-11-09T06:57:00.940754+00:00"
     }
   ]
 }

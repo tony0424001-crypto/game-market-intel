@@ -38333,7 +38333,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】RO是知名IP，全球上市的策略RPG新作，具備較高市場關注度。",
+    "threatAnalysis": "【高威脅】《RO 仙境傳說 城堡》作為RO IP首次結合城堡建設策略與RPG元素的新作，在「RO FESTA 2026」上首次曝光並預計於2027年第二季全球上市。RO IP在全球擁有廣大粉絲基礎，此類創新玩法可能吸引不同類型的玩家，具備潛在的市場爆發力。目前尚未有測試或實際營運數據，但其IP影響力足以構成高威脅。\n\n▶ 建議行動：\n(1). 持續追蹤官方發布的遊戲內容、開發進度及任何測試消息。\n(2). 關注市場對此類RO IP策略遊戲的反應，評估其創新玩法的接受度。\n(3). 監測全球市場的預約活動及宣傳策略，特別是東南亞地區的推廣力度。",
     "verified": "Agent 發現 (2026-11-08)",
     "category": "active",
     "testType": "待確認",
@@ -38353,11 +38353,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-09",
     "addedAt": "2026-11-08",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-09",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "東南亞遊戲廠商LYTO執行長Andi Suryanto在「RO FESTA 2026」現場記者會上，首度對外公開全新手機遊戲《RO 仙境傳說城堡》，這是《RO 仙境傳說》IP首度結合「城堡建設策略」與「角色扮演」架構的全新策略模擬遊戲，規劃於2027年第二季在全球上市。"
   },
   {
     "id": 725,
@@ -39045,5 +39046,48 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
+  },
+  {
+    "id": 740,
+    "name": "勇者鬥惡龍 RPG：詛咒之樹與被選之島",
+    "nameEn": "Dragon Quest RPG: The Cursed Tree and the Chosen Isle",
+    "developer": "Square Enix",
+    "studio": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "JP/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名日系RPG大廠Square Enix的經典IP新作，預期將吸引大量粉絲。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "TBA",
+    "desc": "知名日系RPG大廠Square Enix宣布推出《勇者鬥惡龍》系列全新手機RPG。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名日系RPG大廠Square Enix的經典IP新作，預期將吸引大量粉絲。",
+    "verified": "Agent 發現 (2026-11-09)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-09",
+    "addedAt": "2026-11-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]

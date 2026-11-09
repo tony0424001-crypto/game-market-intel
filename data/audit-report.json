@@ -1,69 +1,26 @@
 {
-  "lastAudit": "2026-11-08T06:24:01.630065+00:00",
-  "totalProducts": 720,
-  "updatesApplied": 61,
-  "issuesFound": 7,
+  "lastAudit": "2026-11-09T06:57:22.256901+00:00",
+  "totalProducts": 736,
+  "updatesApplied": 1,
+  "issuesFound": 0,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
-  "findings": [
-    {
-      "name": "巨龍之歌 Online",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "東離劍遊紀M",
-      "status": "warning",
-      "issue": "狀態: shutdown→shutdown",
-      "autoFixed": true
-    },
-    {
-      "name": "東離劍遊紀M",
-      "status": "error",
-      "issue": "移除: 遊戲已於2024年8月24日停止營運。",
-      "autoFixed": false
-    },
-    {
-      "name": "奇幻生活 i",
-      "status": "warning",
-      "issue": "狀態: 手機版預計2026年夏季推出→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "GTA VI",
-      "status": "warning",
-      "issue": "狀態: pre-reg→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "魔物獵人 荒野",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "二十世紀電氣目錄",
-      "status": "error",
-      "issue": "移除: 此為動畫作品，非遊戲產品。",
-      "autoFixed": false
-    }
-  ],
+  "findings": [],
   "checked": [
-    "巨龍之歌 Online",
-    "天翼之鍊：手機版",
-    "仙境傳說：深淵",
-    "數碼寶貝 UP",
-    "勇者鬥惡龍：破限亂鬥",
-    "魔御：STAR DIVE",
-    "東離劍遊紀M",
-    "奇幻生活 i",
-    "Pictonico!",
-    "GTA VI",
-    "魔物獵人 荒野",
-    "魔物獵人：旅人",
-    "仙境傳說RO：守護永恒的愛2",
-    "雨霧之都",
-    "二十世紀電氣目錄"
+    "RO 仙境傳說 城堡",
+    "RO 仙境傳說：GO",
+    "時空中的繪旅人",
+    "Wonderings",
+    "Babel Protocol",
+    "Project D",
+    "Project C",
+    "Dark Priest",
+    "終境シンフォニー〜崩壊と再生の記憶〜",
+    "デュエットナイトアビス",
+    "霸世風雲",
+    "大海戰：最後的防線",
+    "風暴奇兵",
+    "綺夢王國",
+    "星辰之翼"
   ],
   "nextBatch": [
     "無限大",
