@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-11-09T06:58:40.121737+00:00",
-  "fetchCount": 180,
+  "lastUpdated": "2026-11-10T07:35:04.044089+00:00",
+  "fetchCount": 181,
   "items": [
+    {
+      "id": "brief-20261110-db12f8ab",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《俠盜獵車手6》音樂節",
+      "detail": "《GTA 6》11/19上市，11/21邁阿密辦音樂節。",
+      "action": "關注上市活動",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-10T07:35:04.044089+00:00"
+    },
+    {
+      "id": "brief-20261110-a7bdc157",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《流亡黯道2》新職業",
+      "detail": "《流亡黯道2》揭露新職業，12/12正式上市。",
+      "action": "關注遊戲內容",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-10T07:35:04.044089+00:00"
+    },
+    {
+      "id": "brief-20261110-84c42d7e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《流亡黯道》新資料片",
+      "detail": "《流亡黯道》新資料片「巫影密會」11/14上線。",
+      "action": "準備迎接更新",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-10T07:35:04.044089+00:00"
+    },
     {
       "id": "brief-20261109-a059ba52",
       "priority": "urgent",
@@ -157,70 +190,37 @@
       "fetchedAt": "2026-11-07T06:19:40.486165+00:00"
     },
     {
-      "id": "brief-20261106-b14eb298",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "薩爾達時之笛重製",
-      "detail": "經典《時之笛》Switch 2完全重製版昨日發售。",
-      "action": "立即回味經典",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-06T07:05:28.146595+00:00"
-    },
-    {
-      "id": "brief-20261106-c67723b3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "劍星Switch 2上市",
-      "detail": "完全版今日登陸Switch 2，含DLC與合作服裝。",
-      "action": "立即體驗新作",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-06T07:05:28.146595+00:00"
-    },
-    {
-      "id": "brief-20261106-a5b0a43e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "永劫無間新英雄登場",
-      "detail": "新英雄雲慶、水下武器兩股叉及新賽季同步開放。",
-      "action": "立即體驗新內容",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-06T07:05:28.146595+00:00"
-    },
-    {
-      "id": "brief-20261109-41293a0d",
+      "id": "brief-20261110-e99aa88a",
       "priority": "watch",
       "icon": "👁",
-      "title": "暗喻幻想Switch 2版",
-      "detail": "《暗喻幻想》配合Switch 2發售，既有平台數位版大降價。",
-      "action": "考慮入手數位版",
+      "title": "PS Portal遊玩機",
+      "detail": "SIE在日本推出新款PS Portal遊玩機，儲存空間增加。",
+      "action": "關注硬體升級",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-09T06:57:00.940754+00:00"
+      "fetchedAt": "2026-11-10T07:35:04.044089+00:00"
     },
     {
-      "id": "brief-20261109-b7de6550",
+      "id": "brief-20261110-c812efef",
       "priority": "watch",
       "icon": "👁",
-      "title": "勇者鬥惡龍手遊發表",
-      "detail": "《勇者鬥惡龍》系列全新手機RPG閃電發表，預告片明晚公開。",
-      "action": "明晚關注預告片",
+      "title": "《鳴潮》3.8版莉莉PV",
+      "detail": "《鳴潮》3.8版「舊夢凋零的百合」11/12上線。",
+      "action": "關注版本更新",
       "platform": "mobile",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-09T06:57:00.940754+00:00"
+      "fetchedAt": "2026-11-10T07:35:04.044089+00:00"
     },
     {
-      "id": "brief-20261109-8636ab36",
+      "id": "brief-20261110-16230060",
       "priority": "watch",
       "icon": "👁",
-      "title": "我英手遊事前登錄",
-      "detail": "《我的英雄學院 終極亂鬥 Mobile》事前登錄開跑。",
-      "action": "粉絲快去登錄",
+      "title": "《DQ RPG 魔界樹》",
+      "detail": "勇者鬥惡龍RPG手遊2027年全球同步上線。",
+      "action": "關注後續消息",
       "platform": "mobile",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-09T06:57:00.940754+00:00"
+      "fetchedAt": "2026-11-10T07:35:04.044089+00:00"
     }
   ]
 }

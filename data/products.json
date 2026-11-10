@@ -38371,11 +38371,11 @@
     "platform": [
       "Mobile"
     ],
-    "region": "Global",
+    "region": "SEA",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
-    "threatReason": "RO是知名IP，但放置類遊戲威脅性相對較低，仍具一定市場潛力。",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "遊戲已於東南亞地區正式上線，作為Gravity旗下RO IP的放置型RPG新作，具備一定的市場潛力與話題度。",
     "prereg": null,
     "sentiment": 70,
     "launchEst": "待確認",
@@ -38383,25 +38383,37 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】RO是知名IP，但放置類遊戲威脅性相對較低，仍具一定市場潛力。",
+    "threatAnalysis": "【具體威脅】《RO 仙境傳說：GO》已於東南亞地區正式上線，這是一款2D像素放置型RPG，主打輕度休閒與RO經典元素。作為Gravity旗下RO IP的最新作品，其市場表現與玩家接受度值得密切關注。雖然是放置型遊戲，但RO的品牌號召力不容小覷，尤其在東南亞市場。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲在東南亞地區的營收表現與玩家評價。\n(2). 關注是否有進一步的地區擴展計畫，例如港澳台或全球市場。\n(3). 分析其放置型玩法與RO核心IP結合的成功要素，作為未來產品開發參考。",
     "verified": "Agent 發現 (2026-11-08)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
     "sourceLinks": [],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "SEA",
+        "status": "live",
+        "date": "2026-11-08"
+      }
+    ],
     "history": [
       {
         "date": "2026-11",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-10",
     "addedAt": "2026-11-08",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-10",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2026年11月8日在泰國曼谷舉辦的「RO FESTA 2026」記者會中宣布於東南亞地區推出，是一款2D像素放置型RPG。",
+    "eventNote": "遊戲已於2026年11月8日在泰國曼谷舉辦的「RO FESTA 2026」記者會中宣布於東南亞地區推出，是一款2D像素放置型RPG。"
   },
   {
     "id": 726,
@@ -39086,6 +39098,49 @@
     ],
     "updatedAt": "2026-11-09",
     "addedAt": "2026-11-09",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 741,
+    "name": "Chasing KALEIDO RIDER",
+    "nameEn": "Chasing KALEIDO RIDER",
+    "developer": "Fizzglee Studio",
+    "studio": "Fizzglee Studio",
+    "publisher": "Fizzglee Studio",
+    "genre": "動漫RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "新公布的動漫RPG，資訊較少，潛力中等。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "一款動漫風格的RPG遊戲，資訊較少，但被列為2027年值得關注的抽卡遊戲。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】新公布的動漫RPG，資訊較少，潛力中等。",
+    "verified": "Agent 發現 (2026-11-10)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-10",
+    "addedAt": "2026-11-10",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"

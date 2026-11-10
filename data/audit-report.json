@@ -1,12 +1,18 @@
 {
-  "lastAudit": "2026-11-09T06:57:22.256901+00:00",
-  "totalProducts": 736,
-  "updatesApplied": 1,
-  "issuesFound": 0,
+  "lastAudit": "2026-11-10T07:35:44.697049+00:00",
+  "totalProducts": 737,
+  "updatesApplied": 6,
+  "issuesFound": 1,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
-  "findings": [],
+  "findings": [
+    {
+      "name": "RO 仙境傳說：GO",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    }
+  ],
   "checked": [
-    "RO 仙境傳說 城堡",
     "RO 仙境傳說：GO",
     "時空中的繪旅人",
     "Wonderings",
@@ -20,7 +26,8 @@
     "大海戰：最後的防線",
     "風暴奇兵",
     "綺夢王國",
-    "星辰之翼"
+    "星辰之翼",
+    "長歌霸業"
   ],
   "nextBatch": [
     "無限大",
