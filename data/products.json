@@ -38426,37 +38426,71 @@
     "platform": [
       "Mobile"
     ],
-    "region": "CN",
+    "region": "CN/TW/HK/MO/Global",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
-    "threatReason": "網易出品的女性向遊戲，在中國市場有特定受眾，具備一定影響力。",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "遊戲已上線多年並持續營運，擁有穩定的玩家基礎和持續的內容更新，在女性向戀愛遊戲市場中具備高威脅性。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 85,
     "launchEst": "2026",
     "desc": "網易女性向作品，預計公開後續更新消息，屬於二次元/抽卡品類。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】網易出品的女性向遊戲，在中國市場有特定受眾，具備一定影響力。",
+    "threatAnalysis": "【威脅類型】高威脅\n\n▶ 描述：\n《時空中的繪旅人》作為網易旗下的女性向戀愛冒險手遊，已於2020年10月23日在中國大陸上線，並於2023年10月20日推出繁中版（台港澳地區）。遊戲目前處於長期營運階段，並持續推出大型活動和內容更新，例如2026年9月24日開啟的六週年「永夜之城666」活動，顯示其活躍的生命週期和穩定的玩家基礎。遊戲在App Store和Google Play上均有持續更新和良好的用戶評價。雖然曾有玩家對關卡難度和活動排程提出不滿，但官方已進行調整和補償，並未影響其整體營運表現。\n\n▶ 建議行動：\n(1). 持續關注其新版本內容、活動排程及玩家社群反饋，特別是大型週年慶典活動的市場表現。\n(2). 分析其營收數據和用戶活躍度，以評估其在女性向遊戲市場的長期競爭力。\n(3). 監測其跨區域（如國際版）的推廣策略和在地化表現。",
     "verified": "Agent 發現 (2026-11-08)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "testDateEnd": "2023-08-24",
+    "sourceLinks": [
+      {
+        "label": "官網 (CN)",
+        "url": "https://hlr.163.com"
+      },
+      {
+        "label": "官網 (TW/HK/MO)",
+        "url": "https://www.foralltime.com.tw/"
+      },
+      {
+        "label": "App Store (TW)",
+        "url": "https://apps.apple.com/tw/app/%E6%99%82%E7%A9%BA%E4%B8%AD%E7%9A%84%E7%B9%AA%E6%97%85%E4%BA%BA/id6450659992"
+      },
+      {
+        "label": "Google Play (TW)",
+        "url": "https://play.google.com/store/apps/details?id=com.envoy.foralltime.tw"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "live",
+        "date": "2020-10-23"
+      },
+      {
+        "region": "TW/HK/MO",
+        "status": "live",
+        "date": "2023-10-20"
+      }
+    ],
     "history": [
       {
         "date": "2026-11",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-11",
     "addedAt": "2026-11-08",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-11",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "六週年「永夜之城666」活動於2026年9月24日開啟，推出全新世界觀和SSR畫靈等內容。",
+    "eventNote": "⚡ 六週年「永夜之城666」活動於2026年9月24日開啟，推出全新世界觀和SSR畫靈等內容。"
   },
   {
     "id": 727,
@@ -38475,13 +38509,13 @@
     "threat": "medium",
     "threatReason": "Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2027",
     "desc": "Netmarble預計於2027年推出的13款新作之一，詳細類型待公布。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 描述：\nNetmarble於2027年宣布的遊戲，目前缺乏具體的測試、上線日期或市場活動資訊。由於資訊稀少，其市場潛力與威脅等級仍需持續觀察。\n\n▶ 建議行動：\n(1). 持續追蹤Netmarble官方發布的任何關於此遊戲的進一步消息，特別是測試階段和宣傳活動。\n(2). 關注Netmarble未來財報或發表會中是否提及此產品的開發進度。\n(3). 由於名稱較為通用，需仔細篩選資訊以避免混淆。",
     "verified": "Agent 發現 (2026-11-08)",
     "category": "active",
     "testType": "待確認",
@@ -38501,9 +38535,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-11",
     "addedAt": "2026-11-08",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-11",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -38524,13 +38558,13 @@
     "threat": "medium",
     "threatReason": "Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2027",
     "desc": "Netmarble預計於2027年推出的13款新作之一，詳細類型待公布。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 描述：\nNetmarble宣布將於2027年推出此遊戲，並在2026年第三季財報中將其列為重要的成長驅動力。然而，除了此資訊外，目前尚未有關於測試、具體上線日期或遊戲內容的詳細消息。\n\n▶ 建議行動：\n(1). 密切關注Netmarble官方新聞稿和投資者會議，以獲取更多關於《Babel Protocol》的開發進度、遊戲類型和市場定位資訊。\n(2). 由於名稱可能與其他技術協議混淆，在搜尋時需加入「Netmarble」等關鍵字以精確查找。\n(3). 評估其是否為區塊鏈相關遊戲，因「Babel Protocol」也與加密貨幣領域相關。",
     "verified": "Agent 發現 (2026-11-08)",
     "category": "active",
     "testType": "待確認",
@@ -38550,11 +38584,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-11",
     "addedAt": "2026-11-08",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-11",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "Netmarble在2026年Q3財報中提及此遊戲為未來成長動力的重點新產品線之一。"
   },
   {
     "id": 729,
@@ -38573,13 +38608,13 @@
     "threat": "medium",
     "threatReason": "Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2027",
     "desc": "Netmarble預計於2027年推出的13款新作之一，詳細類型待公布。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 描述：\nNetmarble宣布將於2027年推出此遊戲，但目前市場上關於《Project D》的具體資訊極少，沒有公開的測試、上線日期或詳細遊戲內容。由於名稱通用性高，搜尋結果容易被其他不相關的內容干擾。\n\n▶ 建議行動：\n(1). 持續追蹤Netmarble官方發布的任何關於此遊戲的進一步消息，特別是正式名稱、遊戲類型和宣傳活動。\n(2). 關注Netmarble未來財報或發表會中是否提及此產品的開發進度。\n(3). 在搜尋時需加入「Netmarble」等關鍵字以精確查找，並留意是否有更名或新資訊釋出。",
     "verified": "Agent 發現 (2026-11-08)",
     "category": "active",
     "testType": "待確認",
@@ -38599,9 +38634,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-11",
     "addedAt": "2026-11-08",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-11",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -38622,13 +38657,13 @@
     "threat": "medium",
     "threatReason": "Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2027",
     "desc": "Netmarble預計於2027年推出的13款新作之一，詳細類型待公布。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 描述：\nNetmarble宣布將於2027年推出此遊戲，但目前市場上關於《Project C》的具體資訊極少，沒有公開的測試、上線日期或詳細遊戲內容。由於名稱通用性高，搜尋結果容易被其他不相關的內容干擾。\n\n▶ 建議行動：\n(1). 持續追蹤Netmarble官方發布的任何關於此遊戲的進一步消息，特別是正式名稱、遊戲類型和宣傳活動。\n(2). 關注Netmarble未來財報或發表會中是否提及此產品的開發進度。\n(3). 在搜尋時需加入「Netmarble」等關鍵字以精確查找，並留意是否有更名或新資訊釋出。",
     "verified": "Agent 發現 (2026-11-08)",
     "category": "active",
     "testType": "待確認",
@@ -38648,9 +38683,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-11",
     "addedAt": "2026-11-08",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-11",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -38671,13 +38706,13 @@
     "threat": "medium",
     "threatReason": "Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2027",
     "desc": "Netmarble預計於2027年推出的13款新作之一，詳細類型待公布。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】Netmarble作為大廠，其新作通常具備中等以上規模與全球發行潛力。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 描述：\nNetmarble宣布將於2027年推出此遊戲，並在2026年第三季財報中將其列為重要的成長驅動力。然而，除了此資訊外，目前尚未有關於測試、具體上線日期或遊戲內容的詳細消息。\n\n▶ 建議行動：\n(1). 密切關注Netmarble官方新聞稿和投資者會議，以獲取更多關於《Dark Priest》的開發進度、遊戲類型和市場定位資訊。\n(2). 由於名稱可能與其他遊戲中的角色或概念混淆，在搜尋時需加入「Netmarble」等關鍵字以精確查找。\n(3). 評估其是否為Netmarble近期成功上線的《VAMPIR》同類型或相關遊戲，以判斷其潛在威脅。",
     "verified": "Agent 發現 (2026-11-08)",
     "category": "active",
     "testType": "待確認",
@@ -38697,11 +38732,12 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-08",
+    "updatedAt": "2026-11-11",
     "addedAt": "2026-11-08",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-11",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "Netmarble在2026年Q3財報中提及此遊戲為未來成長動力的重點新產品線之一。"
   },
   {
     "id": 732,
@@ -39144,5 +39180,183 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
+  },
+  {
+    "id": 742,
+    "name": "王國 W：血盟之誓",
+    "nameEn": "Kingdom W: Blood Oath",
+    "developer": "Playwith Games",
+    "studio": "Playwith Games",
+    "publisher": "Playwith Games",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "TW/HK/MO",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "threatReason": "經典MMORPG玩法，強調PK與公會互動，在港澳台市場有一定潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-11",
+    "desc": "一款強調野外PK與公會玩法的MMORPG手遊，宣布於11/17正式公測。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典MMORPG玩法，強調PK與公會互動，在港澳台市場有一定潛力。",
+    "verified": "Agent 發現 (2026-11-11)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "TW/HK/MO",
+        "status": "公測中",
+        "date": "2026-11-17"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-11-11",
+    "addedAt": "2026-11-11",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 743,
+    "name": "勇者爭霸",
+    "nameEn": "",
+    "developer": "Nexters Global LTD.",
+    "studio": "Nexters Global LTD.",
+    "publisher": "Nexters Global LTD.",
+    "genre": "動作RPG, 放置RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "已在全球市場營運多年的成熟IP，此次獲得中國版號預計將吸引大量玩家。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款西方奇幻題材的線上動作RPG，玩家集結英雄對抗威脅，已在全球市場營運多年。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】已在全球市場營運多年的成熟IP，此次獲得中國版號預計將吸引大量玩家。",
+    "verified": "版號雷達 (2026-11-11)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-11",
+    "addedAt": "2026-11-11",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 744,
+    "name": "地牢小隊",
+    "nameEn": "",
+    "developer": "GameCoaster",
+    "studio": "GameCoaster",
+    "publisher": "GameCoaster",
+    "genre": "Roguelike塔防, 策略",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "在東亞市場有不錯反響的獨立遊戲，像素風格和可愛少女角色具備二次元潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款像素風格Roguelike塔防手遊，玩家扮演惡魔一方招募怪物抵禦英雄入侵，包含可愛少女角色。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】在東亞市場有不錯反響的獨立遊戲，像素風格和可愛少女角色具備二次元潛力。",
+    "verified": "版號雷達 (2026-11-11)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-11",
+    "addedAt": "2026-11-11",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 745,
+    "name": "不完美英雄",
+    "nameEn": "",
+    "developer": "西安乐推网络科技有限公司",
+    "studio": "西安乐推网络科技有限公司",
+    "publisher": "西安乐推网络科技有限公司",
+    "genre": "視覺小說, 冒險遊戲",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "視覺小說類型相對小眾，但其故事驅動和選擇導向的玩法可能吸引特定玩家群體。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款故事驅動的視覺小說冒險遊戲，玩家扮演超級英雄宇宙中的普通替補特工，通過選擇影響劇情走向。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】視覺小說類型相對小眾，但其故事驅動和選擇導向的玩法可能吸引特定玩家群體。",
+    "verified": "版號雷達 (2026-11-11)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-11",
+    "addedAt": "2026-11-11",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
   }
 ]
