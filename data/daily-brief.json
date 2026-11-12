@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-11-11T06:55:08.869248+00:00",
-  "fetchCount": 182,
+  "lastUpdated": "2026-11-12T07:28:15.760082+00:00",
+  "fetchCount": 183,
   "items": [
+    {
+      "id": "brief-20261112-d5cf7ff3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "金搖桿獎揭曉",
+      "detail": "《惡靈古堡9：安魂曲》奪年度遊戲大獎",
+      "action": "了解得獎名單",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-12T07:28:15.760082+00:00"
+    },
+    {
+      "id": "brief-20261112-7a3eaf2e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "無冕之燼全球測試",
+      "detail": "NEXON新作PC MMORPG 12/4展開測試",
+      "action": "關注測試資訊",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-12T07:28:15.760082+00:00"
+    },
     {
       "id": "brief-20261111-31b60848",
       "priority": "urgent",
@@ -157,70 +179,48 @@
       "fetchedAt": "2026-11-08T06:23:46.911767+00:00"
     },
     {
-      "id": "brief-20261108-3ef744e3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "COD登陸Switch 2",
-      "detail": "《現代戰爭4》與《現代戰域》第1賽季登陸Switch 2。",
-      "action": "體驗Switch 2新戰場",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-08T06:23:46.911767+00:00"
-    },
-    {
-      "id": "brief-20261107-bc3c2abe",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "仙境傳說：深淵（新發現・高威脅）",
-      "detail": "經典IP《仙境傳說》新作，MMORPG類型，具備高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-07T06:22:15.451675+00:00"
-    },
-    {
-      "id": "brief-20261107-7a42803c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "天翼之鍊：手機版（新發現・高威脅）",
-      "detail": "經典IP改編，由大廠Nexon開發，MMORPG類型，具備較高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-07T06:22:15.451675+00:00"
-    },
-    {
-      "id": "brief-20261107-88a3117b",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "RO3新玩法曝光",
-      "detail": "預約破200萬，將展開「品鑑測試」。",
-      "action": "關注測試資訊",
-      "platform": "mobile/console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-07T06:19:40.486165+00:00"
-    },
-    {
-      "id": "brief-20261107-8e054851",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "EA經典遊戲登Steam",
-      "detail": "25款經典作品重返PC，包含《創世紀》等。",
-      "action": "回味經典遊戲",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-07T06:19:40.486165+00:00"
-    },
-    {
-      "id": "brief-20261111-1ef3b58f",
+      "id": "brief-20261112-ea7166bc",
       "priority": "watch",
       "icon": "👁",
-      "title": "《魔獸世界：永恆》開箱",
-      "detail": "新MMORPG《魔獸世界：永恆》典藏版開箱，展示內容物。",
-      "action": "探索艾澤拉斯",
-      "platform": "PC",
+      "title": "RO FESTA 2026報導",
+      "detail": "仙境傳說系列11項新作計畫揭示",
+      "action": "關注RO系列新作",
+      "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-11T06:51:17.501596+00:00"
+      "fetchedAt": "2026-11-12T07:28:15.760082+00:00"
+    },
+    {
+      "id": "brief-20261112-33e03920",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "戰犬行動第三賽季",
+      "detail": "百人戰術FPS今晚更新，新地圖與模式",
+      "action": "立即體驗新賽季",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-12T07:28:15.760082+00:00"
+    },
+    {
+      "id": "brief-20261112-85c5c9b6",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "少女前線2聯動",
+      "detail": "RPG手遊確認與DJMAX聯動合作",
+      "action": "關注後續情報",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-12T07:28:15.760082+00:00"
+    },
+    {
+      "id": "brief-20261112-e1fbefec",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "楓之谷M聯名",
+      "detail": "MMORPG手遊限時聯名，新角色與地城",
+      "action": "參與聯名活動",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-12T07:28:15.760082+00:00"
     }
   ]
 }

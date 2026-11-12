@@ -1,24 +1,60 @@
 {
-  "lastAudit": "2026-11-11T06:51:39.437680+00:00",
-  "totalProducts": 738,
-  "updatesApplied": 19,
-  "issuesFound": 1,
+  "lastAudit": "2026-11-12T07:28:31.808314+00:00",
+  "totalProducts": 742,
+  "updatesApplied": 65,
+  "issuesFound": 8,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "時空中的繪旅人",
+      "name": "終境シンフォニー〜崩壊と再生の記憶〜",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
+    },
+    {
+      "name": "終境シンフォニー〜崩壊と再生の記憶〜",
+      "status": "error",
+      "issue": "移除: 遊戲已於2026年7月22日終止營運服務，營運期間約8個月。",
+      "autoFixed": false
+    },
+    {
+      "name": "デュエットナイトアビス",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "勇者鬥惡龍 RPG：詛咒之樹與被選之島",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "Chasing KALEIDO RIDER",
+      "status": "warning",
+      "issue": "狀態: announced→cbt",
+      "autoFixed": true
+    },
+    {
+      "name": "王國 W：血盟之誓",
+      "status": "warning",
+      "issue": "狀態: cbt→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "地牢小隊",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "陰影之村",
+      "status": "error",
+      "issue": "移除: 無法找到任何關於此遊戲的公開資訊，包括上線、測試或營運狀態，可能已取消開發或資訊不公開。",
+      "autoFixed": false
     }
   ],
   "checked": [
-    "時空中的繪旅人",
-    "Wonderings",
-    "Babel Protocol",
-    "Project D",
-    "Project C",
-    "Dark Priest",
     "終境シンフォニー〜崩壊と再生の記憶〜",
     "デュエットナイトアビス",
     "霸世風雲",
@@ -27,7 +63,13 @@
     "綺夢王國",
     "星辰之翼",
     "長歌霸業",
-    "勇者鬥惡龍 RPG：詛咒之樹與被選之島"
+    "勇者鬥惡龍 RPG：詛咒之樹與被選之島",
+    "Chasing KALEIDO RIDER",
+    "王國 W：血盟之誓",
+    "勇者爭霸",
+    "地牢小隊",
+    "不完美英雄",
+    "陰影之村"
   ],
   "nextBatch": [
     "無限大",
