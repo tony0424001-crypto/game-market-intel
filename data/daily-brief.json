@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-11-12T07:28:15.760082+00:00",
-  "fetchCount": 183,
+  "lastUpdated": "2026-11-13T07:05:36.623310+00:00",
+  "fetchCount": 184,
   "items": [
+    {
+      "id": "brief-20261113-c0c0df1f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "阿爾法契約（新發現・高威脅）",
+      "detail": "騰訊作為中國遊戲巨頭，其新遊戲通常擁有龐大的資源和市場推廣能力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-11-13T07:05:36.623310+00:00"
+    },
+    {
+      "id": "brief-20261113-05572669",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "暗喻幻想Switch 2發售",
+      "detail": "獲獎RPG《暗喻幻想》Switch 2版發售，其他平台降價。",
+      "action": "考慮入手遊戲",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-13T06:59:24.921831+00:00"
+    },
+    {
+      "id": "brief-20261113-997ddb36",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "寶可夢Z-A限免領取",
+      "detail": "《寶可夢傳說Z-A》異色哲爾尼亞斯與伊裴爾塔爾限免。",
+      "action": "立即領取寶可夢",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-13T06:59:24.921831+00:00"
+    },
     {
       "id": "brief-20261112-d5cf7ff3",
       "priority": "urgent",
@@ -157,70 +190,37 @@
       "fetchedAt": "2026-11-08T06:28:46.945115+00:00"
     },
     {
-      "id": "brief-20261108-4dab2716",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "RO 仙境傳說 城堡（新發現・高威脅）",
-      "detail": "RO是知名IP，全球上市的策略RPG新作，具備較高市場關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-08T06:28:46.945115+00:00"
-    },
-    {
-      "id": "brief-20261108-52b7a436",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "RO 25週年預告11新作",
-      "detail": "GRAVITY將推11款RO新作，轉型全球生態系。",
-      "action": "關注RO品牌未來發展",
-      "platform": "mobile/console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-08T06:23:46.911767+00:00"
-    },
-    {
-      "id": "brief-20261112-ea7166bc",
+      "id": "brief-20261113-1a6ded60",
       "priority": "watch",
       "icon": "👁",
-      "title": "RO FESTA 2026報導",
-      "detail": "仙境傳說系列11項新作計畫揭示",
-      "action": "關注RO系列新作",
+      "title": "Pokemon GO合作CHARGESPOT",
+      "detail": "行動電源站化身補給站及道館，方便玩家。",
+      "action": "留意合作地點",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-13T06:59:24.921831+00:00"
+    },
+    {
+      "id": "brief-20261113-1a1674a5",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "騰訊測試AI陪玩軟體",
+      "detail": "騰訊測試AI遊戲陪伴軟體《鵝次元》，AI美少女陪聊。",
+      "action": "關注AI新應用",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-13T06:59:24.921831+00:00"
+    },
+    {
+      "id": "brief-20261113-6b8de8aa",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "瑪奇英雄傳新角亮相",
+      "detail": "《瑪奇英雄傳：反抗命運》登PS5/Steam，新角Noctia亮相。",
+      "action": "關注遊戲開發",
       "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-12T07:28:15.760082+00:00"
-    },
-    {
-      "id": "brief-20261112-33e03920",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "戰犬行動第三賽季",
-      "detail": "百人戰術FPS今晚更新，新地圖與模式",
-      "action": "立即體驗新賽季",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-12T07:28:15.760082+00:00"
-    },
-    {
-      "id": "brief-20261112-85c5c9b6",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "少女前線2聯動",
-      "detail": "RPG手遊確認與DJMAX聯動合作",
-      "action": "關注後續情報",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-12T07:28:15.760082+00:00"
-    },
-    {
-      "id": "brief-20261112-e1fbefec",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "楓之谷M聯名",
-      "detail": "MMORPG手遊限時聯名，新角色與地城",
-      "action": "參與聯名活動",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-12T07:28:15.760082+00:00"
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-13T06:59:24.921831+00:00"
     }
   ]
 }

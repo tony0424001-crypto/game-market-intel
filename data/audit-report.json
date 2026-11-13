@@ -1,75 +1,111 @@
 {
-  "lastAudit": "2026-11-12T07:28:31.808314+00:00",
+  "lastAudit": "2026-11-13T06:59:51.646876+00:00",
   "totalProducts": 742,
-  "updatesApplied": 65,
-  "issuesFound": 8,
+  "updatesApplied": 43,
+  "issuesFound": 14,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "終境シンフォニー〜崩壊と再生の記憶〜",
+      "name": "為美好的世界獻上祝福！為這摯愛的城鎮獻上繁榮！",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: pre-reg→live-ops",
       "autoFixed": true
     },
     {
-      "name": "終境シンフォニー〜崩壊と再生の記憶〜",
+      "name": "戰神：勞菲",
       "status": "error",
-      "issue": "移除: 遊戲已於2026年7月22日終止營運服務，營運期間約8個月。",
+      "issue": "移除: 遊戲資訊為虛構，開發商並未發布此款遊戲。",
       "autoFixed": false
     },
     {
-      "name": "デュエットナイトアビス",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "勇者鬥惡龍 RPG：詛咒之樹與被選之島",
-      "status": "warning",
-      "issue": "狀態: announced→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "Chasing KALEIDO RIDER",
-      "status": "warning",
-      "issue": "狀態: announced→cbt",
-      "autoFixed": true
-    },
-    {
-      "name": "王國 W：血盟之誓",
-      "status": "warning",
-      "issue": "狀態: cbt→pre-reg",
-      "autoFixed": true
-    },
-    {
-      "name": "地牢小隊",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "陰影之村",
+      "name": "海綿破壞",
       "status": "error",
-      "issue": "移除: 無法找到任何關於此遊戲的公開資訊，包括上線、測試或營運狀態，可能已取消開發或資訊不公開。",
+      "issue": "移除: 遊戲資訊不明確，無法找到上線或開發進度，推測已取消或無聲下線。",
       "autoFixed": false
+    },
+    {
+      "name": "蝙蝠俠：披風鬥士編年史",
+      "status": "error",
+      "issue": "移除: 遊戲資訊為錯誤或虛構，無法找到上線或開發進度。",
+      "autoFixed": false
+    },
+    {
+      "name": "赤鳥",
+      "status": "error",
+      "issue": "移除: 遊戲資訊不明確，無法找到上線或開發進度，推測已取消或無聲下線。",
+      "autoFixed": false
+    },
+    {
+      "name": "異形：火力小隊精英2",
+      "status": "error",
+      "issue": "移除: 遊戲資訊為虛構，開發商並未宣布此款遊戲。",
+      "autoFixed": false
+    },
+    {
+      "name": "在虛假中",
+      "status": "error",
+      "issue": "移除: 遊戲資訊為虛構，開發商並未宣布此款遊戲。",
+      "autoFixed": false
+    },
+    {
+      "name": "海浪之簽",
+      "status": "error",
+      "issue": "移除: 遊戲資訊不明確，無法找到上線或開發進度，推測已取消或無聲下線。",
+      "autoFixed": false
+    },
+    {
+      "name": "雪葬",
+      "status": "error",
+      "issue": "移除: 遊戲資訊不明確，開發商並未發布此款遊戲，推測為錯誤或已取消。",
+      "autoFixed": false
+    },
+    {
+      "name": "PLATONICA SPACE",
+      "status": "error",
+      "issue": "移除: 遊戲資訊不明確，無法找到上線或開發進度，推測已取消或無聲下線。",
+      "autoFixed": false
+    },
+    {
+      "name": "The Immortal John Triptych",
+      "status": "error",
+      "issue": "移除: 遊戲資訊不明確，無法找到上線或開發進度，推測已取消或無聲下線。",
+      "autoFixed": false
+    },
+    {
+      "name": "9 R.I.P. 續作",
+      "status": "error",
+      "issue": "移除: 遊戲資訊為虛構，開發商並未宣布此款遊戲。",
+      "autoFixed": false
+    },
+    {
+      "name": "Guns & Dragons",
+      "status": "error",
+      "issue": "移除: 遊戲資訊矛盾且無法查證，推測為錯誤或已取消。",
+      "autoFixed": false
+    },
+    {
+      "name": "No More Room in Hell 2",
+      "status": "warning",
+      "issue": "狀態: live-ops→announced",
+      "autoFixed": true
     }
   ],
   "checked": [
-    "終境シンフォニー〜崩壊と再生の記憶〜",
-    "デュエットナイトアビス",
-    "霸世風雲",
-    "大海戰：最後的防線",
-    "風暴奇兵",
-    "綺夢王國",
-    "星辰之翼",
-    "長歌霸業",
-    "勇者鬥惡龍 RPG：詛咒之樹與被選之島",
-    "Chasing KALEIDO RIDER",
-    "王國 W：血盟之誓",
-    "勇者爭霸",
-    "地牢小隊",
-    "不完美英雄",
-    "陰影之村"
+    "君色帕特拉 IF",
+    "為美好的世界獻上祝福！為這摯愛的城鎮獻上繁榮！",
+    "戰神：勞菲",
+    "海綿破壞",
+    "蝙蝠俠：披風鬥士編年史",
+    "赤鳥",
+    "異形：火力小隊精英2",
+    "在虛假中",
+    "海浪之簽",
+    "雪葬",
+    "PLATONICA SPACE",
+    "The Immortal John Triptych",
+    "9 R.I.P. 續作",
+    "Guns & Dragons",
+    "No More Room in Hell 2"
   ],
   "nextBatch": [
     "無限大",

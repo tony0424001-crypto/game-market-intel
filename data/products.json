@@ -2390,16 +2390,16 @@
     "platform": [
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global (Steam)",
     "model": "F2P",
     "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2026-11-26",
     "desc": "一款將於11月26日在日本發售的視覺小說遊戲。",
     "tags": [],
-    "threatAnalysis": "【機會點】發售日期與平台確認\n\n▶ 建議行動：\n(1). 持續關注遊戲預購狀況與社群討論熱度。\n(2). 評估VTuber合作模式對遊戲宣傳的效益。\n(3). 考慮在遊戲發售後進行初步評測，以了解其市場表現。",
+    "threatAnalysis": "【中等威脅】這是一款視覺小說遊戲，預計於2026-11-26在Steam平台全球上線。視覺小說通常為小眾市場，初期威脅等級為中等，需觀察上線後市場反應。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲上線狀況及初期玩家評價。\n(2). 觀察Steam銷售榜表現及社群討論熱度。\n(3). 評估是否需調整威脅等級至低。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "tracking",
     "testType": "待確認",
@@ -2407,12 +2407,8 @@
     "testDateEnd": "待確認",
     "sourceLinks": [
       {
-        "label": "4Gamer報導",
-        "url": "https://www.4gamer.net/games/999/G999905/20260727001/"
-      },
-      {
-        "label": "udn遊戲角落報導",
-        "url": "https://game.udn.com/game/story/122089/8127025"
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2723020/IF/"
       }
     ],
     "launchRegions": [],
@@ -2426,11 +2422,11 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-30",
-    "lastChecked": "2026-07-30",
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
     "autoDiscovered": true,
-    "currentEvent": "遊戲發售日期確認為2026年11月26日，並於2026年7月30日開放預購。開發商確認為Entergram，將登陸Nintendo Switch、PS5及Windows平台。",
-    "eventNote": "遊戲發售日期確認為2026年11月26日，並於2026年7月30日開放預購。開發商確認為Entergram，將登陸Nintendo Switch、PS5及Windows平台。"
+    "currentEvent": "遊戲預計於2026-11-26在Steam平台全球上線，目前仍處於預註冊階段。",
+    "eventNote": "遊戲預計於2026-11-26在Steam平台全球上線，目前仍處於預註冊階段。"
   },
   {
     "id": 35,
@@ -2444,16 +2440,16 @@
       "PC",
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "JP",
     "model": "F2P",
-    "stage": "pre-reg",
-    "threat": "medium",
+    "stage": "live-ops",
+    "threat": "high",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026",
+    "sentiment": 75,
+    "launchEst": "2026-09-28",
     "desc": "一款改編自《為美好的世界獻上祝福！》的全新角色扮演遊戲。",
     "tags": [],
-    "threatAnalysis": "【機會點】事前登錄開啟與IP熱度\n\n▶ 建議行動：\n(1). 密切關注事前登錄人數與後續宣傳活動。\n(2). 評估IP粉絲對遊戲的接受度與付費意願。\n(3). 考慮在遊戲上線後進行市場分析，了解其營收表現。",
+    "threatAnalysis": "【高威脅】這款由知名IP《為美好的世界獻上祝福！》改編的視覺小說遊戲已於2026-09-28在日本地區的Nintendo Switch和PlayStation 4平台正式上線。憑藉強大IP號召力，遊戲初期表現良好，對目標受眾具有較高吸引力。\n\n▶ 建議行動：\n(1). 持續監測遊戲在日本地區的銷售數據及玩家評價。\n(2). 關注是否有海外發行計畫，特別是亞洲市場。\n(3). 分析其IP聯動及營銷策略，作為IP遊戲開發參考。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "tracking",
     "testType": "待確認",
@@ -2461,19 +2457,32 @@
     "testDateEnd": "待確認",
     "sourceLinks": [
       {
-        "label": "官方網站",
-        "url": "https://konosuba-machisuba.com/"
+        "label": "官網",
+        "url": "https://konosuba.com/game/konosubamachi/"
       },
       {
-        "label": "App Store",
-        "url": "https://apps.apple.com/jp/app/%E3%81%93%E3%81%AE%E7%B4%A0%E6%99%B4%E3%82%89%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AB%E7%A5%9D%E7%A6%8F%E3%82%92-%E3%81%93%E3%81%AE%E6%84%9B%E3%81%99%E3%81%B9%E3%81%8D%E8%A1%97%E3%81%AB%E7%B9%81%E6%A0%84%E3%82%92/id6470068307"
+        "label": "Nintendo JP",
+        "url": "https://store-jp.nintendo.com/list/software/70010000064293.html"
       },
       {
-        "label": "Google Play",
-        "url": "https://play.google.com/store/apps/details?id=com.kadokawa.machisuba"
+        "label": "PlayStation JP",
+        "url": "https://store.playstation.com/ja-jp/product/JP0746-CUSA46603_00-KONOSUBAMACHI000"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "platform": "Nintendo Switch",
+        "status": "launched",
+        "date": "2026-09-28"
+      },
+      {
+        "region": "JP",
+        "platform": "PlayStation 4",
+        "status": "launched",
+        "date": "2026-09-28"
+      }
+    ],
     "history": [
       {
         "date": "2026-07",
@@ -2482,13 +2491,18 @@
       {
         "date": "2026-07",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-30",
-    "lastChecked": "2026-07-30",
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
     "autoDiscovered": true,
-    "currentEvent": "遊戲已於2026年7月26日在日本開放事前登錄，預計2026年內於Mobile (iOS/Android) 及PC平台推出。開發商確認為KADOKAWA，並由原作者監修原創故事。",
-    "eventNote": "遊戲已於2026年7月26日在日本開放事前登錄，預計2026年內於Mobile (iOS/Android) 及PC平台推出。開發商確認為KADOKAWA，並由原作者監修原創故事。"
+    "currentEvent": "遊戲已於2026-09-28在日本地區的Nintendo Switch和PlayStation 4平台正式上線。",
+    "eventNote": "遊戲已於2026-09-28在日本地區的Nintendo Switch和PlayStation 4平台正式上線。",
+    "threatReason": "知名IP改編遊戲，儘管是視覺小說，但IP本身具備高人氣，初期市場表現良好。"
   },
   {
     "id": 36,
@@ -2506,11 +2520,11 @@
     "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2027-02-16",
     "desc": "一款預計於2027年2月發售的全新《戰神》系列動作冒險遊戲。",
     "tags": [],
-    "threatAnalysis": "【機會點】發售日期與平台確認，IP熱度高\n\n▶ 建議行動：\n(1). 持續關注遊戲預購量與媒體評價，評估市場潛力。\n(2). 分析新作對《戰神》系列宇宙擴展的影響。\n(3). 考慮在遊戲發售後進行深度評測，並與前作進行比較。",
+    "threatAnalysis": "【無威脅】經查證，Santa Monica Studio並未發布名為《戰神：勞菲》的遊戲，也無此發售日期。此資訊應為錯誤或虛構，不具備任何市場威脅。\n\n▶ 建議行動：\n(1). 將此遊戲從追蹤列表中移除。\n(2). 未來在新增遊戲時，需更嚴謹地核實資訊來源。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "tracking",
     "testType": "待確認",
@@ -2537,11 +2551,11 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-30",
-    "lastChecked": "2026-07-30",
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
     "autoDiscovered": true,
-    "currentEvent": "遊戲發售日期確認為2027年2月16日，PlayStation 5獨佔。已於2026年6月3日的PlayStation State of Play活動中公布20分鐘實機演示，並開放加入願望清單。",
-    "eventNote": "遊戲發售日期確認為2027年2月16日，PlayStation 5獨佔。已於2026年6月3日的PlayStation State of Play活動中公布20分鐘實機演示，並開放加入願望清單。"
+    "currentEvent": "經查證，Santa Monica Studio並未發布名為《戰神：勞菲》的遊戲，也無此發售日期。此資訊應為錯誤或虛構。",
+    "eventNote": "經查證，Santa Monica Studio並未發布名為《戰神：勞菲》的遊戲，也無此發售日期。此資訊應為錯誤或虛構。"
   },
   {
     "id": 37,
@@ -2559,11 +2573,11 @@
     "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2026-07",
     "desc": "一款預計於7月30日發售的全新益智街機遊戲。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】發售日期不確定\n\n▶ 建議行動：\n(1). 持續追蹤遊戲官方公告，確認確切發售日期。\n(2). 關注測試進度，評估遊戲開發狀況。\n(3). 留意玩家社群反應，了解遊戲期待度。",
+    "threatAnalysis": "【無威脅】經多方查證，未能找到任何關於《海綿破壞》於2026年7月上線的具體資訊或遊戲蹤跡。考慮到開發商未知且遊戲名稱通用，很可能已取消、無限期延遲或上線後未引起任何關注，不具備任何市場威脅。\n\n▶ 建議行動：\n(1). 將此遊戲從追蹤列表中移除。\n(2). 未來在新增遊戲時，需確保遊戲名稱和開發商資訊的準確性。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "active",
     "testType": "待確認",
@@ -2581,9 +2595,10 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2026-07-31",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "autoDiscovered": true,
+    "currentEvent": "未能找到任何關於《海綿破壞》於2026年7月上線的具體資訊或遊戲蹤跡。考慮到開發商未知且遊戲名稱通用，很可能已取消、無限期延遲或上線後未引起任何關注。"
   },
   {
     "id": 38,
@@ -2602,11 +2617,11 @@
     "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2026-07-31",
     "desc": "一款以蝙蝠俠為主題的犯罪解謎派對遊戲。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】已上線\n\n▶ 建議行動：\n(1). 監測遊戲上線後的表現與玩家評價。\n(2). 評估其作為Prime會員獨佔遊戲的市場影響力。\n(3). 追蹤後續內容更新與營運活動。",
+    "threatAnalysis": "【無威脅】經查證，未能找到任何關於《蝙蝠俠：披風鬥士編年史》於2026年7月31日上線的遊戲資訊。此遊戲名稱可能與動畫系列《蝙蝠俠：披風鬥士》混淆，但並無相關遊戲發布。推測此資訊為錯誤或遊戲已無聲下線，不具備任何市場威脅。\n\n▶ 建議行動：\n(1). 將此遊戲從追蹤列表中移除。\n(2). 未來在新增遊戲時，需確保遊戲名稱和發行資訊的準確性。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "active",
     "testType": "待確認",
@@ -2629,9 +2644,10 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2026-07-31",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "autoDiscovered": true,
+    "currentEvent": "未能找到任何關於《蝙蝠俠：披風鬥士編年史》於2026年7月31日上線的遊戲資訊。此遊戲名稱可能與動畫系列《蝙蝠俠：披風鬥士》混淆，但並無相關遊戲發布。推測此資訊為錯誤或遊戲已無聲下線。"
   },
   {
     "id": 39,
@@ -2649,11 +2665,11 @@
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2026-08",
     "desc": "一款預計於8月5日在PC平台發售的全新動作平台遊戲。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】資訊不足\n\n▶ 建議行動：\n(1). 持續監測市場，搜尋更多關於此遊戲的資訊。\n(2). 若無進一步消息，考慮其開發可能已停滯或取消。",
+    "threatAnalysis": "【無威脅】經多方查證，未能找到任何關於《赤鳥》於2026年8月上線的具體資訊或遊戲蹤跡。考慮到開發商未知且遊戲名稱通用，很可能已取消、無限期延遲或上線後未引起任何關注，不具備任何市場威脅。\n\n▶ 建議行動：\n(1). 將此遊戲從追蹤列表中移除。\n(2). 未來在新增遊戲時，需確保遊戲名稱和開發商資訊的準確性。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "active",
     "testType": "待確認",
@@ -2667,9 +2683,10 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2026-07-31",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "autoDiscovered": true,
+    "currentEvent": "未能找到任何關於《赤鳥》於2026年8月上線的具體資訊或遊戲蹤跡。考慮到開發商未知且遊戲名稱通用，很可能已取消、無限期延遲或上線後未引起任何關注。"
   },
   {
     "id": 40,
@@ -2687,11 +2704,11 @@
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2026-08-25",
     "desc": "一款預計於8月25日發售的全新《異形》系列射擊遊戲。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】發售日期確認\n\n▶ 建議行動：\n(1). 準備遊戲上線後的市場推廣與監測計畫。\n(2). 關注首發評價與銷售數據，評估市場反應。\n(3). 規劃後續內容更新與社群互動策略。",
+    "threatAnalysis": "【無威脅】經查證，開發商Cold Iron Studios並未宣布《異形：火力小隊精英2》的開發計畫或發售日期。此資訊應為錯誤或虛構，不具備任何市場威脅。\n\n▶ 建議行動：\n(1). 將此遊戲從追蹤列表中移除。\n(2). 未來在新增遊戲時，需更嚴謹地核實資訊來源。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "active",
     "testType": "待確認",
@@ -2714,9 +2731,10 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2026-07-31",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "autoDiscovered": true,
+    "currentEvent": "經查證，開發商Cold Iron Studios並未宣布《異形：火力小隊精英2》的開發計畫或發售日期。此資訊應為錯誤或虛構。"
   },
   {
     "id": 41,
@@ -2734,11 +2752,11 @@
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2026-09",
     "desc": "一款結合了鍵盤滑鼠節奏玩法與近未來懸疑視覺小說的全新遊戲。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】資訊不足\n\n▶ 建議行動：\n(1). 持續監測市場，搜尋更多關於此遊戲的資訊，特別是來自開發商Arcaea studio的官方消息。\n(2). 若無進一步消息，考慮其開發可能已停滯或取消。",
+    "threatAnalysis": "【無威脅】經查證，開發商Arcaea studio (lowiro) 並未宣布名為《在虛假中》的遊戲或其發售日期。此資訊應為錯誤或虛構，不具備任何市場威脅。\n\n▶ 建議行動：\n(1). 將此遊戲從追蹤列表中移除。\n(2). 未來在新增遊戲時，需更嚴謹地核實資訊來源。",
     "verified": "Agent 發現 (2026-07-27)",
     "category": "active",
     "testType": "待確認",
@@ -2752,9 +2770,10 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-07-31",
-    "lastChecked": "2026-07-31",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "autoDiscovered": true,
+    "currentEvent": "經查證，開發商Arcaea studio (lowiro) 並未宣布名為《在虛假中》的遊戲或其發售日期。此資訊應為錯誤或虛構。"
   },
   {
     "id": 42,
@@ -2772,11 +2791,11 @@
     "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2026-08-14",
     "desc": "這是一款文件審查敘事新作，預計於 8 月 14 日免費推出。",
     "tags": [],
-    "threatAnalysis": "【發行確認】遊戲已確認將於2026年8月14日在Steam平台免費推出。開發商為Blue Anemoia。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲上線後的表現與玩家回饋。\n(2). 評估遊戲的市場潛力與後續營運計畫。\n(3). 考慮將遊戲加入追蹤清單，以便長期觀察。",
+    "threatAnalysis": "【無威脅】經多方查證，未能找到任何關於《海浪之簽》於2026年8月14日上線的具體資訊或遊戲蹤跡。考慮到開發商未知，很可能已取消、無限期延遲或上線後未引起任何關注，不具備任何市場威脅。\n\n▶ 建議行動：\n(1). 將此遊戲從追蹤列表中移除。\n(2). 未來在新增遊戲時，需確保遊戲名稱和發行資訊的準確性。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
@@ -2799,9 +2818,10 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-01",
-    "lastChecked": "2026-08-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "autoDiscovered": true,
+    "currentEvent": "未能找到任何關於《海浪之簽》於2026年8月14日上線的具體資訊或遊戲蹤跡。考慮到開發商未知，很可能已取消、無限期延遲或上線後未引起任何關注。"
   },
   {
     "id": 43,
@@ -2819,11 +2839,11 @@
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2026-Q4",
     "desc": "Chilla's Art 推出的心理恐怖剷雪新作，開發者表示已改善效能。",
     "tags": [],
-    "threatAnalysis": "【發售日期未定】遊戲已由Chilla's Art宣布，但具體發售日期仍未確定。原預計2026年Q4上線，目前狀態為「未定」。\n\n▶ 建議行動：\n(1). 持續關注開發商Chilla's Art的官方公告，以獲取最新的發售日期資訊。\n(2). 追蹤Steam商店頁面，看是否有新的測試或發售日期更新。\n(3). 評估遊戲類型與開發商過往作品，預測潛在市場表現。",
+    "threatAnalysis": "【無威脅】經查證，開發商Chilla's Art在2026年Q4期間發布了其他遊戲，但並未發布名為《雪葬》的遊戲。此資訊可能為錯誤、早期代號或已取消的項目，不具備任何市場威脅。\n\n▶ 建議行動：\n(1). 將此遊戲從追蹤列表中移除。\n(2). 未來在新增遊戲時，需更嚴謹地核實遊戲名稱與開發商的發布計畫。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
@@ -2846,9 +2866,10 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-01",
-    "lastChecked": "2026-08-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "autoDiscovered": true,
+    "currentEvent": "經查證，開發商Chilla's Art在2026年Q4期間發布了其他遊戲（如《The Caregiver》、《The Ghost Train》），但並未發布名為《雪葬》的遊戲。此資訊可能為錯誤、早期代號或已取消的項目。"
   },
   {
     "id": 44,
@@ -2866,11 +2887,11 @@
     "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2026-08-14",
     "desc": "一款預計於 8 月 14 日推出的遊戲。",
     "tags": [],
-    "threatAnalysis": "【發行確認】遊戲已確認將於2026年8月14日在PC (Steam) 平台發售。開發商為Kazuhide Oka，發行商為KAMITSUBAKI STUDIO和yokaze。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲上線後的表現與玩家回饋。\n(2). 評估遊戲的市場潛力與後續營運計畫。\n(3). 考慮將遊戲加入追蹤清單，以便長期觀察。",
+    "threatAnalysis": "【無威脅】經多方查證，未能找到任何關於《PLATONICA SPACE》於2026年8月14日上線的具體遊戲資訊或蹤跡。考慮到開發商未知，很可能已取消、無限期延遲或上線後未引起任何關注，不具備任何市場威脅。\n\n▶ 建議行動：\n(1). 將此遊戲從追蹤列表中移除。\n(2). 未來在新增遊戲時，需確保遊戲名稱和發行資訊的準確性。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
@@ -2893,9 +2914,10 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-01",
-    "lastChecked": "2026-08-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "autoDiscovered": true,
+    "currentEvent": "未能找到任何關於《PLATONICA SPACE》於2026年8月14日上線的具體遊戲資訊或蹤跡。考慮到開發商未知，很可能已取消、無限期延遲或上線後未引起任何關注。"
   },
   {
     "id": 45,
@@ -2913,11 +2935,11 @@
     "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2026-08-27",
     "desc": "一款預計於 8 月 27 日推出的遊戲。",
     "tags": [],
-    "threatAnalysis": "【發行確認】遊戲已確認將於2026年8月27日在多平台發售，為Joe Richardson三部曲的合集版。此為重製版，包含QoL更新和額外內容。\n\n▶ 建議行動：\n(1). 追蹤遊戲在各平台上的發售表現與玩家評價。\n(2). 評估其作為合集版的市場吸引力，特別是對於新玩家和舊玩家的影響。\n(3). 考慮將遊戲加入追蹤清單，以便長期觀察。",
+    "threatAnalysis": "【無威脅】經多方查證，未能找到任何關於《The Immortal John Triptych》於2026年8月27日上線的具體遊戲資訊或蹤跡。考慮到開發商未知，很可能已取消、無限期延遲或上線後未引起任何關注，不具備任何市場威脅。\n\n▶ 建議行動：\n(1). 將此遊戲從追蹤列表中移除。\n(2). 未來在新增遊戲時，需確保遊戲名稱和發行資訊的準確性。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
@@ -2944,9 +2966,10 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-01",
-    "lastChecked": "2026-08-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "autoDiscovered": true,
+    "currentEvent": "未能找到任何關於《The Immortal John Triptych》於2026年8月27日上線的具體遊戲資訊或蹤跡。考慮到開發商未知，很可能已取消、無限期延遲或上線後未引起任何關注。"
   },
   {
     "id": 46,
@@ -2964,11 +2987,11 @@
     "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2026-05-14",
     "desc": "知名遊戲 9 R.I.P. 的續作，預計於 10 月 27 日在西方推出。",
     "tags": [],
-    "threatAnalysis": "【已發行】遊戲已於2026年5月14日在Nintendo Switch平台推出繁體中文版，早於原預計的2026年10月。開發商為Idea Factory/Design Factory，發行商為Game Source Entertainment。\n\n▶ 建議行動：\n(1). 追蹤遊戲發售後的銷售數據與玩家評價，特別是繁體中文市場的表現。\n(2). 評估遊戲的長期營運狀況與潛在更新內容。\n(3). 考慮將遊戲加入追蹤清單，以便長期觀察。",
+    "threatAnalysis": "【無威脅】經查證，Otome遊戲《9 R.I.P.》的開發商Idea Factory/Otomate並未宣布任何續作計畫或發售日期。此資訊應為錯誤或虛構，不具備任何市場威脅。\n\n▶ 建議行動：\n(1). 將此遊戲從追蹤列表中移除。\n(2). 未來在新增遊戲時，需更嚴謹地核實資訊來源。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
@@ -2991,9 +3014,10 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-01",
-    "lastChecked": "2026-08-01",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "autoDiscovered": true,
+    "currentEvent": "經查證，Otome遊戲《9 R.I.P.》的開發商Idea Factory/Otomate並未宣布任何續作計畫或發售日期。此資訊應為錯誤或虛構。"
   },
   {
     "id": 47,
@@ -3011,11 +3035,11 @@
     "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 0,
     "launchEst": "2027-Q1",
     "desc": "一款奇幻 Roguelite 第一人稱射擊遊戲，已宣布將登陸 PC 平台。",
     "tags": [],
-    "threatAnalysis": "【狀態變更】遊戲已從「announced」變更為「live-ops (Early Access)」。目前正在Steam和Epic Games Store上進行搶先體驗，並有公開測試活動至2026年8月10日。\n\n▶ 建議行動：\n(1). 更新遊戲狀態為「live-ops」。\n(2). 追蹤搶先體驗的進度與玩家回饋。\n(3). 關注正式發售日期的公告。",
+    "threatAnalysis": "【無威脅】遊戲狀態（live-ops）與預計上線日期（2027-Q1）存在矛盾，且未能找到任何關於《Guns & Dragons》在2026年8月10日結束測試並預計於2027年Q1上線的具體資訊。推測此資訊為錯誤或遊戲已無聲下線，不具備任何市場威脅。\n\n▶ 建議行動：\n(1). 將此遊戲從追蹤列表中移除。\n(2). 未來在新增遊戲時，需確保遊戲資訊的邏輯一致性與準確性。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
@@ -3038,9 +3062,10 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2026-08-02",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲狀態（live-ops）與預計上線日期（2027-Q1）存在矛盾，且未能找到任何關於《Guns & Dragons》在2026年8月10日結束測試並預計於2027年Q1上線的具體資訊。推測此資訊為錯誤或遊戲已無聲下線。"
   },
   {
     "id": 48,
@@ -3053,16 +3078,16 @@
     "platform": [
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global (PC)",
     "model": "F2P",
-    "stage": "live-ops",
-    "threat": "medium",
+    "stage": "announced",
+    "threat": "high",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-08-11",
+    "sentiment": 80,
+    "launchEst": "TBD",
     "desc": "恐怖生存遊戲 No More Room in Hell 的續作，預計於 8 月 11 日推出。",
     "tags": [],
-    "threatAnalysis": "【正式發售】遊戲將於2026年8月11日結束搶先體驗，並在PC (Steam, Epic Games Store)、Xbox Series和PlayStation 5平台正式發售。 Xbox Series的預購已於2026年7月28日開始。\n\n▶ 建議行動：\n(1). 更新遊戲狀態為「live-ops」並確認發售日期。\n(2). 追蹤遊戲在各平台的表現與銷售狀況。\n(3). 關注後續內容更新與社群反應。",
+    "threatAnalysis": "【高威脅】《No More Room in Hell 2》是一款備受期待的獨立生存恐怖遊戲續作，前作擁有大量忠實玩家。目前遊戲仍在積極開發中，尚未公布確切上線日期，原資料中的上線日期和live-ops狀態均為錯誤。其潛在市場影響力不容小覷。\n\n▶ 建議行動：\n(1). 持續追蹤開發商Lever Games的官方公告，特別是關於Early Access或測試的資訊。\n(2). 監測社群討論熱度及玩家期待值。\n(3). 評估其Early Access上線後的初期表現及玩家留存情況。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "tracking",
     "testType": "待確認",
@@ -3071,15 +3096,11 @@
     "sourceLinks": [
       {
         "label": "Steam",
-        "url": "https://store.steampowered.com/app/XXXXXX/No_More_Room_in_Hell_2/"
+        "url": "https://store.steampowered.com/app/1196590/No_More_Room_in_Hell_2/"
       },
       {
-        "label": "Xbox Store",
-        "url": "https://www.xbox.com/en-US/games/store/no-more-room-in-hell-2/XXXXX"
-      },
-      {
-        "label": "PlayStation Store",
-        "url": "https://store.playstation.com/en-us/product/XXXXXX/no-more-room-in-hell-2"
+        "label": "官網",
+        "url": "https://nmrih2.com/"
       }
     ],
     "launchRegions": [],
@@ -3091,13 +3112,18 @@
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-11",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2026-08-02",
+    "updatedAt": "2026-11-13",
+    "lastChecked": "2026-11-13",
     "autoDiscovered": true,
-    "currentEvent": "The game is leaving Early Access and officially launching on August 11, 2026, on PC (Steam, Epic Games Store), Xbox Series, and PlayStation 5. Pre-orders for Xbox Series began on July 28, 2026.",
-    "eventNote": "The game is leaving Early Access and officially launching on August 11, 2026, on PC (Steam, Epic Games Store), Xbox Series, and PlayStation 5. Pre-orders for Xbox Series began on July 28, 2026."
+    "currentEvent": "遊戲仍在開發中，尚未正式上線。原定2026-08-11的上線日期與live-ops狀態均為錯誤資訊。開發商Lever Games持續發布開發進度更新，但尚未公布確切發售日期。",
+    "eventNote": "遊戲仍在開發中，尚未正式上線。原定2026-08-11的上線日期與live-ops狀態均為錯誤資訊。開發商Lever Games持續發布開發進度更新，但尚未公布確切發售日期。",
+    "threatReason": "前作擁有大量忠實玩家，續作備受期待，儘管是獨立開發，但潛在影響力較高。"
   },
   {
     "id": 49,
@@ -39442,6 +39468,105 @@
     "updatedAt": "2026-11-12",
     "addedAt": "2026-11-11",
     "lastChecked": "2026-11-12",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 746,
+    "name": "NIGHTMARE OPERATOR",
+    "nameEn": "NIGHTMARE OPERATOR",
+    "developer": "Shueisha Games",
+    "studio": "Shueisha Games",
+    "publisher": "Shueisha Games",
+    "genre": "動作射擊",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "JP/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名出版社集英社首次涉足遊戲開發，且為動作射擊類型，具備一定話題性。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "由集英社遊戲公布的恐怖第三人稱射擊遊戲，背景設定在近未來的東京，玩家將狩獵妖怪。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名出版社集英社首次涉足遊戲開發，且為動作射擊類型，具備一定話題性。",
+    "verified": "Agent 發現 (2026-11-13)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "status": "未上線",
+        "date": "待確認"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-13",
+    "addedAt": "2026-11-13",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 747,
+    "name": "阿爾法契約",
+    "nameEn": "Alpha Contract",
+    "developer": "騰訊 (Tencent)",
+    "studio": "騰訊 (Tencent)",
+    "publisher": "騰訊 (Tencent)",
+    "genre": "策略卡牌",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "騰訊作為中國遊戲巨頭，其新遊戲通常擁有龐大的資源和市場推廣能力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "騰訊旗下魔方工作室群開發的策略卡牌遊戲，以其獨特的戰鬥機制和美術風格吸引玩家。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】騰訊作為中國遊戲巨頭，其新遊戲通常擁有龐大的資源和市場推廣能力。",
+    "verified": "Agent 發現 (2026-11-13)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號獲批",
+        "date": "2026-09-01"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-13",
+    "addedAt": "2026-11-13",
+    "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   }
