@@ -3136,28 +3136,39 @@
     "platform": [
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
     "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 55,
     "launchEst": "2027-Q2",
     "desc": "一款以 Jay and Silent Bob 為主題的休閒農場模擬經營遊戲，已宣布將登陸 PC 平台。",
     "tags": [],
-    "threatAnalysis": "【新消息】遊戲於2026年聖地牙哥動漫展公布，預計於2027年春末在PC (Steam) 推出。 目前正準備進入Beta測試階段，並已開放測試註冊。\n\n▶ 建議行動：\n(1). 更新遊戲狀態為「pre-reg」並確認新的預計發售日期。\n(2). 追蹤Beta測試的具體時間與進度。\n(3). 關注遊戲的開發進展與更多細節公布。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 建議行動：\n(1). 關注遊戲的Playtesting進度與玩家反饋。\n(2). 追蹤Steam頁面及相關社群媒體，了解最新開發動態。\n(3). 評估其IP在遊戲市場的吸引力。",
     "verified": "Agent 發現 (2026-07-29)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "playtesting phase",
     "sourceLinks": [
       {
         "label": "Steam",
-        "url": "https://store.steampowered.com/app/XXXXXX/Jay_and_Silent_Bobs_Joint_Venture/"
+        "url": "https://store.steampowered.com/app/2485030/Jay_and_Silent_Bobs_Joint_Venture/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "PC/Steam",
+        "status": "announced",
+        "date": "2027-Q2"
+      },
+      {
+        "region": "Consoles",
+        "status": "announced",
+        "date": "2027"
+      }
+    ],
     "history": [
       {
         "date": "2026-07",
@@ -3166,11 +3177,16 @@
       {
         "date": "2026-08",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-11",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2026-08-02",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-14",
+    "lastChecked": "2026-11-14",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲正進入測試階段，預計2027年春末在Steam/PC上線，主機版也預計於2027年推出。"
   },
   {
     "id": 50,
@@ -3183,28 +3199,34 @@
     "platform": [
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
     "stage": "live-ops",
-    "threat": "medium",
+    "threat": "low",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 40,
     "launchEst": "2026-07-30",
     "desc": "一款日本開發者為彌補遊戲延期而製作的「道歉遊戲」。",
     "tags": [],
-    "threatAnalysis": "【已發售】遊戲原定於2026年7月下旬發售，但因Steam內容審核問題而延遲。 不過，遊戲已於2026年7月30日在PC (Steam) 平台正式發售。\n\n▶ 建議行動：\n(1). 更新遊戲狀態為「live-ops」並確認實際發售日期。\n(2). 追蹤遊戲的銷售表現與玩家評價。\n(3). 關注是否有任何地區性限制或審核問題的後續發展。",
+    "threatAnalysis": "【威脅類型】小型/長尾，已無明顯威脅\n\n▶ 建議行動：\n(1). 監測Steam評價和玩家活躍度，判斷其長期營運狀況。\n(2). 關注是否有後續內容更新或促銷活動。\n(3). 考慮將其移出核心追蹤列表。",
     "verified": "Agent 發現 (2026-07-29)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
     "sourceLinks": [
       {
         "label": "Steam",
-        "url": "https://store.steampowered.com/app/XXXXXX/Spanking_Exorcist/"
+        "url": "https://store.steampowered.com/app/2471810/Spanking_Exorcist/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "PC (Steam)",
+        "status": "launched",
+        "date": "2026-07-30"
+      }
+    ],
     "history": [
       {
         "date": "2026-07",
@@ -3213,11 +3235,18 @@
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2026-08-02",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-14",
+    "lastChecked": "2026-11-14",
+    "autoDiscovered": true,
+    "threatReason": "遊戲已上線，屬於小眾題材的獨立遊戲，市場影響力有限。",
+    "currentEvent": "遊戲已於2026年7月30日在PC (Steam) 上線。",
+    "eventNote": "遊戲已於2026年7月30日在PC (Steam) 上線。"
   },
   {
     "id": 51,
@@ -3230,32 +3259,43 @@
     "platform": [
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
     "stage": "live-ops",
-    "threat": "medium",
+    "threat": "low",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-07-30",
+    "sentiment": 45,
+    "launchEst": "2026-07-29",
     "desc": "由智慧之眼工作室開發的國產節奏奇幻新作《莉莉幻想曲》已於Steam和Nintendo Switch雙平台發售。",
     "tags": [],
-    "threatAnalysis": "【已發售】遊戲已於2026年7月30日在PC (Steam) 和Nintendo Switch雙平台正式發售。 發售首週提供限時折扣至2026年8月6日。\n\n▶ 建議行動：\n(1). 確認遊戲已發售並更新發售日期。\n(2). 追蹤遊戲在雙平台的銷售表現與玩家評價。\n(3). 關注遊戲的後續更新與活動。",
+    "threatAnalysis": "【威脅類型】小型/長尾，已無明顯威脅\n\n▶ 建議行動：\n(1). 監測Steam和Switch平台的玩家評價及銷售數據。\n(2). 關注開發商是否有後續內容更新或跨平台推廣。\n(3). 評估其作為節奏遊戲的長期生命週期。",
     "verified": "Agent 發現 (2026-07-31)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2025-11-26 (playtest peak)",
     "sourceLinks": [
       {
         "label": "Steam",
-        "url": "https://store.steampowered.com/app/2527300/"
+        "url": "https://store.steampowered.com/app/2471810/Spanking_Exorcist/"
       },
       {
-        "label": "Nintendo eShop",
-        "url": "https://www.nintendo.com/games/detail/lily-fantasia-switch/"
+        "label": "官網",
+        "url": "https://www.wiseyestudio.com/lilyfantasia"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "PC (Steam)",
+        "status": "launched",
+        "date": "2026-07-29"
+      },
+      {
+        "region": "Nintendo Switch",
+        "status": "launched",
+        "date": "2026-07-30"
+      }
+    ],
     "history": [
       {
         "date": "2026-07",
@@ -3264,11 +3304,18 @@
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-02",
-    "lastChecked": "2026-08-02",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-14",
+    "lastChecked": "2026-11-14",
+    "autoDiscovered": true,
+    "threatReason": "遊戲已上線，作為獨立節奏遊戲，市場規模和威脅程度較小。",
+    "currentEvent": "遊戲已於2026年7月29日在PC (Steam) 和Nintendo Switch上線。",
+    "eventNote": "遊戲已於2026年7月29日在PC (Steam) 和Nintendo Switch上線。"
   },
   {
     "id": 52,
@@ -3281,21 +3328,21 @@
     "platform": [
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
+    "stage": "live-ops",
+    "threat": "low",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026-09-03",
     "desc": "終極競技派對平台遊戲續作《SpeedRunners 2: King of Speed》將於9月3日發售，支援最多8人線上或本地競速。",
     "tags": [],
-    "threatAnalysis": "【發行日期確認與平台擴展】遊戲已確認於2026年9月3日發行，並將同步登陸PC、PS5、Xbox Series X|S及Nintendo Switch，且首日即加入Xbox Game Pass。這顯示開發商對遊戲品質有信心，並積極擴展市場觸及率。\n\n▶ 建議行動：\n(1). 持續關注遊戲發行後的初期表現，特別是Xbox Game Pass的用戶反饋。\n(2). 評估遊戲在多平台上的穩定性與玩家體驗，作為未來合作或推廣的參考。\n(3). 留意是否有進一步的測試或內容更新計畫，以掌握遊戲的長期營運策略。",
+    "threatAnalysis": "【威脅類型】小型/長尾，已無明顯威脅\n\n▶ 建議行動：\n(1). 監測各平台玩家活躍度及社群討論熱度。\n(2). 關注遊戲是否有大型更新或電競活動。\n(3). 評估其作為派對遊戲的長期營運潛力。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "2025-09 (open playtest ended), Demo available (updated July 2026)",
+    "testDateEnd": "2025-09 (open playtest ended)",
     "sourceLinks": [
       {
         "label": "Steam",
@@ -3306,7 +3353,28 @@
         "url": "https://www.taptap.com/app/234676"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "PC (Steam)",
+        "status": "launched",
+        "date": "2026-09-03"
+      },
+      {
+        "region": "PlayStation 5",
+        "status": "launched",
+        "date": "2026-09-03"
+      },
+      {
+        "region": "Xbox Series X|S",
+        "status": "launched",
+        "date": "2026-09-03"
+      },
+      {
+        "region": "Nintendo Switch",
+        "status": "launched",
+        "date": "2026-09-03"
+      }
+    ],
     "history": [
       {
         "date": "2026-07",
@@ -3315,13 +3383,18 @@
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-03",
-    "lastChecked": "2026-08-03",
+    "updatedAt": "2026-11-14",
+    "lastChecked": "2026-11-14",
     "autoDiscovered": true,
-    "currentEvent": "Launch date confirmed for September 3, 2026, on PC (Steam), PlayStation 5, Xbox Series X|S, and Nintendo Switch. Will be available on Xbox Game Pass. Previously announced July 2026 release moved to early September for polish. A demo is currently available on Steam.",
-    "eventNote": "Launch date confirmed for September 3, 2026, on PC (Steam), PlayStation 5, Xbox Series X|S, and Nintendo Switch. Will be available on Xbox Game Pass. Previously announced July 2026 release moved to early September for polish. A demo is currently available on Steam."
+    "currentEvent": "遊戲已於2026年9月3日在PC (Steam), PlayStation 5, Xbox Series X|S, 和Nintendo Switch上線。",
+    "eventNote": "遊戲已於2026年9月3日在PC (Steam), PlayStation 5, Xbox Series X|S, 和Nintendo Switch上線。",
+    "threatReason": "遊戲已上線，作為獨立遊戲續作，市場威脅等級已降低。"
   },
   {
     "id": 53,
@@ -3339,11 +3412,11 @@
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026-Q4",
     "desc": "Saber Interactive 宣布推出由 UNIGINE 開發的沉浸式駕駛模擬遊戲《共乘「模擬器」》，玩家將經營叫車業務並應對各種乘客。",
     "tags": [],
-    "threatAnalysis": "【資訊不足，存在風險】目前無法找到關於「共乘『模擬器』」這款遊戲由UNIGINE開發並預計於2026年第四季度發行的任何公開資訊。UNIGINE主要為遊戲引擎開發商，而非直接發行終端遊戲，這使得此項目資訊的真實性存疑。\n\n▶ 建議行動：\n(1). 暫停追蹤此項目，直至有更明確的官方公告或可靠來源資訊。\n(2). 若此為內部專案或技術展示，則不應列入商業追蹤清單。\n(3). 重新確認遊戲名稱與開發商資訊，以排除可能的誤植。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 建議行動：\n(1). 嘗試尋找UNIGINE官方是否有更多關於此產品的資訊，可能為技術展示或特定應用。\n(2). 監測是否有任何遊戲開發或發行商的合作消息。\n(3). 評估其是否為面向大眾市場的遊戲產品。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "active",
     "testType": "待確認",
@@ -3357,8 +3430,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-03",
-    "lastChecked": "2026-08-03",
+    "updatedAt": "2026-11-14",
+    "lastChecked": "2026-11-14",
     "autoDiscovered": true
   },
   {
@@ -3377,11 +3450,11 @@
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "TBA",
     "desc": "蝸牛遊戲宣布推出由虛幻引擎5打造的開放世界沙盒修仙遊戲《九陰真經：不朽》，玩家將在廣闊世界中探索並追求永生。",
     "tags": [],
-    "threatAnalysis": "【狀態停滯，資訊稀缺】「九陰真經：不朽」的狀態仍為「announced」，發行日期為「TBA」，且缺乏近期更新資訊。這可能表示開發進度緩慢或項目優先級不高。\n\n▶ 建議行動：\n(1). 持續進行低頻率的監測，主要關注Snail Games的官方新聞或相關產業報導。\n(2). 考慮將此項目優先級調低，將資源集中於有更明確進度的遊戲。\n(3). 若長期無任何更新，需評估是否將其標記為「dead」或「shouldRemove」。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 建議行動：\n(1). 關注Snail Games的官方公告，特別是針對《九陰真經》系列的新作消息。\n(2). 監測是否有任何測試或預註冊活動的跡象。\n(3). 評估其是否為現有IP的延伸或重製，及其潛在市場規模。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "tracking",
     "testType": "待確認",
@@ -3395,8 +3468,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-03",
-    "lastChecked": "2026-08-03",
+    "updatedAt": "2026-11-14",
+    "lastChecked": "2026-11-14",
     "autoDiscovered": true,
     "currentEvent": "No recent concrete status changes found. The game '九陰真經：不朽' (Age of Wushu: Immortal) by Snail Games still appears to be in an announced state with a 'TBA' release date. Information is scarce and mostly from older announcements.",
     "eventNote": "No recent concrete status changes found. The game '九陰真經：不朽' (Age of Wushu: Immortal) by Snail Games still appears to be in an announced state with a 'TBA' release date. Information is scarce and mostly from older announcements."
@@ -3417,11 +3490,11 @@
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026-Q4",
     "desc": "Argonaut Games 宣布將推出1999年平台遊戲《Croc 2: Kingdom of the Gobbos》的重製版，預計於2026年第四季度發售。",
     "tags": [],
-    "threatAnalysis": "【重製版確認，平台廣泛】「Croc 2：哥布林王國 重製版」已正式宣布將於2026年第四季度發行，並將登陸多個主流平台。這顯示開發商對此經典IP的重製抱有期待，並希望觸及廣泛的玩家群體。\n\n▶ 建議行動：\n(1). 密切關注遊戲的具體發行日期公告，以及預售活動。\n(2). 評估重製版在畫面、操作及新增內容方面的市場反應，特別是針對懷舊玩家與新玩家的吸引力。\n(3). 考慮與開發商或發行商建立聯繫，探討潛在的合作機會。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 建議行動：\n(1). 關注是否有任何關於Croc系列重製版的官方消息或開發進度。\n(2). 監測是否有新的開發商或發行商接手此項目。\n(3). 評估懷舊IP在當前市場的潛在吸引力。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "tracking",
     "testType": "待確認",
@@ -3439,8 +3512,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-03",
-    "lastChecked": "2026-08-03",
+    "updatedAt": "2026-11-14",
+    "lastChecked": "2026-11-14",
     "autoDiscovered": true,
     "currentEvent": "Remaster officially announced for Q4 2026. It will launch on Nintendo Switch, PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, PC (Steam, GOG). Wishlisting is available. The remaster will include enhanced visuals, quality-of-life improvements, and a 'Croc2pedia' digital museum.",
     "eventNote": "Remaster officially announced for Q4 2026. It will launch on Nintendo Switch, PlayStation 5, PlayStation 4, Xbox Series X|S, Xbox One, PC (Steam, GOG). Wishlisting is available. The remaster will include enhanced visuals, quality-of-life improvements, and a 'Croc2pedia' digital museum."
@@ -3456,32 +3529,59 @@
     "platform": [
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "medium",
+    "stage": "live-ops",
+    "threat": "low",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026-08-20",
     "desc": "由Madbricks開發的2.5D類rogue清版動作遊戲《墨西哥忍者》將於8月20日發售，玩家將在新東京對抗腐敗的Narkuzas。",
     "tags": [],
-    "threatAnalysis": "【發行日期確認，即將上線】「墨西哥忍者」已確認將於2026年8月20日發行，並將登陸PC及多個主機平台。遊戲目前提供免費試玩版，且近期有更新，顯示開發團隊在發行前仍積極優化。\n\n▶ 建議行動：\n(1). 密切關注遊戲發行後的初期銷售數據與玩家評價，特別是其Roguelike與Beat 'em up玩法的市場接受度。\n(2). 評估試玩版更新對玩家社群的影響，以及是否能有效轉化為正式版購買。\n(3). 考慮在遊戲發行後進行推廣活動，利用其獨特的題材和玩法吸引目標客群。",
+    "threatAnalysis": "【威脅類型】小型/長尾，已無明顯威脅\n\n▶ 建議行動：\n(1). 監測Steam及其他主機平台的玩家評價和銷售表現。\n(2). 關注Nintendo Switch版本的具體發售日期。\n(3). 評估其作為獨立動作遊戲的長期營運狀況。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "2026-01 (final playtest ended), Demo available (updated recently)",
+    "testDateEnd": "2026-01 (final playtest ended)",
     "sourceLinks": [
       {
         "label": "Steam",
-        "url": "https://store.steampowered.com/app/3764970/Mexican_Ninja/"
-      },
-      {
-        "label": "Discord",
-        "url": "https://discord.gg/KDRfUWRfx7"
+        "url": "https://store.steampowered.com/app/2048840/Mexican_Ninja/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "PC (Steam)",
+        "status": "launched",
+        "date": "2026-08-20"
+      },
+      {
+        "region": "PlayStation 5",
+        "status": "launched",
+        "date": "2026-08-20"
+      },
+      {
+        "region": "Xbox Series",
+        "status": "launched",
+        "date": "2026-08-20"
+      },
+      {
+        "region": "PlayStation 4",
+        "status": "launched",
+        "date": "2026-08-20"
+      },
+      {
+        "region": "Xbox One",
+        "status": "launched",
+        "date": "2026-08-20"
+      },
+      {
+        "region": "Nintendo Switch",
+        "status": "announced",
+        "date": "2026"
+      }
+    ],
     "history": [
       {
         "date": "2026-07",
@@ -3490,13 +3590,18 @@
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-03",
-    "lastChecked": "2026-08-03",
+    "updatedAt": "2026-11-14",
+    "lastChecked": "2026-11-14",
     "autoDiscovered": true,
-    "currentEvent": "Launch date confirmed for August 20, 2026, on PC (Steam), PlayStation 5, Xbox Series X|S, PlayStation 4, and Xbox One. A free demo is currently available on Steam and was recently updated. A final playtest was conducted in January 2026.",
-    "eventNote": "Launch date confirmed for August 20, 2026, on PC (Steam), PlayStation 5, Xbox Series X|S, PlayStation 4, and Xbox One. A free demo is currently available on Steam and was recently updated. A final playtest was conducted in January 2026."
+    "currentEvent": "遊戲已於2026年8月20日在PC (Steam), PlayStation 5, Xbox Series, PlayStation 4, 和Xbox One上線。Nintendo Switch版本預計於2026年內推出。",
+    "eventNote": "遊戲已於2026年8月20日在PC (Steam), PlayStation 5, Xbox Series, PlayStation 4, 和Xbox One上線。Nintendo Switch版本預計於2026年內推出。",
+    "threatReason": "遊戲已上線，作為2.5D Roguelike清版動作遊戲，市場威脅等級已降低。"
   },
   {
     "id": 57,
@@ -3514,11 +3619,11 @@
     "stage": "pre-reg",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026-10-22",
     "desc": "由Arc System Works發行、Drecom和SuperNiche開發的養成型RTA模擬RPG《惡魔夜瘋狂》將於10月22日發售。",
     "tags": [],
-    "threatAnalysis": "【上市日期確認與預購開啟】遊戲《惡魔夜瘋狂》已確認將於2026年10月22日正式在PS5、Nintendo Switch和Steam平台上市，且Steam數位版已開放預購。這表示遊戲開發進度穩定，並進入了上市前的宣傳與銷售階段。\n\n▶ 建議行動：\n(1). 持續關注遊戲的上市宣傳活動，特別是針對Steam平台的預購表現。\n(2). 留意是否有任何試玩版或最終測試的資訊釋出。\n(3). 準備在遊戲上市後進行追蹤，評估其初期表現和玩家反饋。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 建議行動：\n(1). 關注Drecom和SuperNiche的官方發布渠道，尋找更多遊戲資訊。\n(2). 監測是否有任何測試或預註冊活動的更新。\n(3). 評估其在預註冊階段的市場熱度。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "active",
     "testType": "待確認",
@@ -3545,8 +3650,8 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-04",
-    "lastChecked": "2026-08-04",
+    "updatedAt": "2026-11-14",
+    "lastChecked": "2026-11-14",
     "autoDiscovered": true
   },
   {
@@ -3565,11 +3670,11 @@
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2026-10-22",
     "desc": "由GPTRACK50開發的全新動作RPG《愚者不滅》將於10月21日發售，玩家將扮演僵屍戴維在異世界地牢中成長。",
     "tags": [],
-    "threatAnalysis": "【發售日期確認】遊戲《愚者不滅》已確認將於2026年10月22日登陸PlayStation 5與PC（Steam）平台，並由SEGA負責全球銷售業務。主題曲已於8月4日搶先發行。目前遊戲狀態良好，發售日期明確，且有知名發行商協助推廣，預計能吸引一定玩家關注。\n\n▶ 建議行動：\n(1). 持續關注遊戲宣傳活動與預購情況。\n(2). 留意是否有新的試玩或測試活動公布。\n(3). 追蹤遊戲在Steam和PlayStation平台的頁面，獲取最新資訊。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 建議行動：\n(1). 關注GPTRACK50 Inc.的官方公告，尋找更多遊戲資訊。\n(2). 監測是否有任何測試或預註冊活動的跡象。\n(3). 評估其作為新IP的市場潛力。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "active",
     "testType": "待確認",
@@ -3596,8 +3701,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-05",
-    "lastChecked": "2026-08-05",
+    "updatedAt": "2026-11-14",
+    "lastChecked": "2026-11-14",
     "autoDiscovered": true
   },
   {
@@ -3616,11 +3721,11 @@
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2028-Q1",
     "desc": "Ron Gilbert的Terrible Toybox工作室宣布推出點擊式冒險遊戲《針葉林公園2》，預計於2028年初發售。",
     "tags": [],
-    "threatAnalysis": "【無新資訊】目前未搜尋到《針葉林公園2》的任何最新狀態更新，包括測試、發售日期變動或遊戲進度等。遊戲仍維持在「已公布」狀態，預計於2028年第一季度上線。\n\n▶ 建議行動：\n(1). 定期重新搜尋遊戲名稱及開發商，以捕捉潛在的更新。\n(2). 關注開發商Terrible Toybox的官方社群媒體或網站，看是否有相關消息釋出。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 建議行動：\n(1). 關注Terrible Toybox的官方公告，尋找更多遊戲資訊。\n(2). 監測是否有任何測試或預註冊活動的跡象。\n(3). 評估其作為續作的市場期待度。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "active",
     "testType": "待確認",
@@ -3634,8 +3739,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-05",
-    "lastChecked": "2026-08-05",
+    "updatedAt": "2026-11-14",
+    "lastChecked": "2026-11-14",
     "autoDiscovered": true
   },
   {
@@ -3649,32 +3754,34 @@
     "platform": [
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027-05",
+    "sentiment": 45,
+    "launchEst": "2027-09-29",
     "desc": "由ENDLESS SUMMER Studio開發的美少女科幻視覺小說《煉獄之藍》因資金問題重啟募資，預計於2027年5月完成。",
     "tags": [],
-    "threatAnalysis": "【開發受阻與重啟】《煉獄之藍》曾因募資平台拖欠千萬日圓款項而面臨困境，開發團隊已對此提起刑事告訴。目前遊戲已宣布重啟開發並再次展開募資。原訂2027年5月的上線日期已不再確定，預計將有顯著延遲。遊戲的開發進度受到嚴重影響，未來上線時間充滿不確定性。\n\n▶ 建議行動：\n(1). 密切關注新的募資進度與開發團隊的官方公告。\n(2). 重新評估遊戲的預期上線時間，並將其標記為「待定」。\n(3). 評估此事件對遊戲聲譽和未來發展的長期影響。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 建議行動：\n(1). 持續關注遊戲開發進度及新的宣傳活動。\n(2). 監測其在視覺小說市場的潛在競爭力。\n(3). 評估延期對市場期待的影響。",
     "verified": "Agent 發現 (2026-07-31)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2025-08-19 (teaser site/demo)",
     "sourceLinks": [
       {
-        "label": "巴哈姆特GNN新聞",
-        "url": "https://gnn.gamer.com.tw/detail.php?sn=266395"
-      },
-      {
-        "label": "udn遊戲角落",
-        "url": "https://game.udn.com/game/story/122089/8129207"
+        "label": "官網",
+        "url": "https://purgatoryblue.com/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "PC (Steam, DLSite)",
+        "status": "announced",
+        "date": "2027-09-29"
+      }
+    ],
     "history": [
       {
         "date": "2026-07",
@@ -3683,11 +3790,16 @@
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-05",
-    "lastChecked": "2026-08-05",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-14",
+    "lastChecked": "2026-11-14",
+    "autoDiscovered": true,
+    "currentEvent": "發售日期延後至2027年9月29日 (Q3 2027)，將在PC (Steam, DLSite) 平台推出。"
   },
   {
     "id": 61,
@@ -3700,16 +3812,16 @@
     "platform": [
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027-Q1",
+    "sentiment": 45,
+    "launchEst": "TBA",
     "desc": "一款文字推理解謎冒險遊戲，玩家將化身偵探，透過收集對話語段並質詢證人來揭開神祕舊案的真相。",
     "tags": [],
-    "threatAnalysis": "【試玩版釋出，發售時間微調】《磁帶偵探》於2026 ChinaJoy展會上提供了試玩版，顯示遊戲開發進度良好。製作人透露正式版預計於明年初至年中（2027年Q1-Q2）公開，這與原訂的2027年Q1上線時間大致吻合，但可能略有推遲至Q2。遊戲的試玩活動有助於提升玩家期待度。\n\n▶ 建議行動：\n(1). 持續關注遊戲的開發進度與官方發售日期公告。\n(2). 留意是否有進一步的測試活動或預購資訊。\n(3). 追蹤遊戲在Steam平台的頁面，獲取最新資訊。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 建議行動：\n(1). 持續關注發售日期公告。\n(2). 追蹤遊戲在Steam願望單的表現。\n(3). 評估其作為文字冒險解謎遊戲的市場潛力。",
     "verified": "Agent 發現 (2026-08-02)",
     "category": "active",
     "testType": "待確認",
@@ -3718,14 +3830,16 @@
     "sourceLinks": [
       {
         "label": "Steam",
-        "url": "https://store.steampowered.com/app/2642190/_/"
-      },
-      {
-        "label": "巴哈姆特GNN新聞",
-        "url": "https://gnn.gamer.com.tw/detail.php?sn=266406"
+        "url": "https://store.steampowered.com/app/2471810/Spanking_Exorcist/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "PC (Steam)",
+        "status": "announced",
+        "date": "TBA"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
@@ -3734,11 +3848,16 @@
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-05",
-    "lastChecked": "2026-08-05",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-14",
+    "lastChecked": "2026-11-14",
+    "autoDiscovered": true,
+    "currentEvent": "發售日期更改為待確認 (TBA)。"
   },
   {
     "id": 62,
@@ -39483,25 +39602,34 @@
       "PC",
       "Mobile"
     ],
-    "region": "JP/Global",
+    "region": "Global",
     "model": "F2P",
     "stage": "announced",
     "threat": "medium",
     "threatReason": "知名出版社集英社首次涉足遊戲開發，且為動作射擊類型，具備一定話題性。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027-Q1",
+    "sentiment": 50,
+    "launchEst": "TBA",
     "desc": "由集英社遊戲公布的恐怖第三人稱射擊遊戲，背景設定在近未來的東京，玩家將狩獵妖怪。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名出版社集英社首次涉足遊戲開發，且為動作射擊類型，具備一定話題性。",
+    "threatAnalysis": "【威脅類型】中等規模，仍待觀察\n\n▶ 建議行動：\n(1). 持續關注發售日期公告。\n(2). 追蹤Shueisha Games的相關宣傳活動。\n(3). 評估遊戲在Steam願望單的表現。",
     "verified": "Agent 發現 (2026-11-13)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2652150/NIGHTMARE_OPERATOR/"
+      },
+      {
+        "label": "官網",
+        "url": "https://shueisha-games.com/games/nightmare-operator/"
+      }
+    ],
     "launchRegions": [
       {
         "region": "JP",
@@ -39513,13 +39641,18 @@
       {
         "date": "2026-11",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-14",
     "addedAt": "2026-11-13",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-14",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "Shueisha Games announced as publisher; new teaser trailer released. Release date changed to TBA."
   },
   {
     "id": 747,
@@ -39538,13 +39671,13 @@
     "threat": "high",
     "threatReason": "騰訊作為中國遊戲巨頭，其新遊戲通常擁有龐大的資源和市場推廣能力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2027-Q1",
     "desc": "騰訊旗下魔方工作室群開發的策略卡牌遊戲，以其獨特的戰鬥機制和美術風格吸引玩家。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】騰訊作為中國遊戲巨頭，其新遊戲通常擁有龐大的資源和市場推廣能力。",
+    "threatAnalysis": "【威脅類型】具體威脅，二次元/大IP/大廠自研，規模明顯\n\n▶ 建議行動：\n(1). 持續關注騰訊的官方發布渠道，尋找更多遊戲資訊。\n(2). 監測是否有任何測試或預註冊活動的跡象。\n(3). 評估同類型騰訊產品的市場表現作為參考。",
     "verified": "Agent 發現 (2026-11-13)",
     "category": "active",
     "testType": "待確認",
@@ -39564,8 +39697,107 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-13",
+    "updatedAt": "2026-11-14",
     "addedAt": "2026-11-13",
+    "lastChecked": "2026-11-14",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 748,
+    "name": "餘燼重生之都",
+    "nameEn": "Project EOE",
+    "developer": "NCSoft",
+    "studio": "NCSoft",
+    "publisher": "NCSoft",
+    "genre": "MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "cbt",
+    "threat": "high",
+    "threatReason": "韓國大廠NCSoft的重點MMORPG新作，具備跨平台潛力，且已在台灣等地進行測試，市場關注度高。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q2",
+    "desc": "NCSoft開發的奇幻MMORPG，目前在台灣等地開放Alpha測試，預計將在PC和手機雙平台推出。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】韓國大廠NCSoft的重點MMORPG新作，具備跨平台潛力，且已在台灣等地進行測試，市場關注度高。",
+    "verified": "Agent 發現 (2026-11-14)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "TW/HK/MO",
+        "status": "封測中",
+        "date": "2026-11"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "cbt"
+      }
+    ],
+    "updatedAt": "2026-11-14",
+    "addedAt": "2026-11-14",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 749,
+    "name": "星際探險隊",
+    "nameEn": "Star Explorer Team",
+    "developer": "星光互娛",
+    "studio": "星光互娛",
+    "publisher": "星光互娛",
+    "genre": "二次元/抽卡",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "來自中國版號公示名單的新作，潛力有待觀察，但屬於重點關注的二次元抽卡品類。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "一款獲得中國版號的全新二次元抽卡手遊，具體玩法與內容待公布。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】來自中國版號公示名單的新作，潛力有待觀察，但屬於重點關注的二次元抽卡品類。",
+    "verified": "Agent 發現 (2026-11-14)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "待確認"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-14",
+    "addedAt": "2026-11-14",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"

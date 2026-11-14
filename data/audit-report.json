@@ -1,111 +1,75 @@
 {
-  "lastAudit": "2026-11-13T06:59:51.646876+00:00",
-  "totalProducts": 742,
-  "updatesApplied": 43,
-  "issuesFound": 14,
+  "lastAudit": "2026-11-14T06:48:38.596024+00:00",
+  "totalProducts": 744,
+  "updatesApplied": 76,
+  "issuesFound": 8,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "為美好的世界獻上祝福！為這摯愛的城鎮獻上繁榮！",
+      "name": "NIGHTMARE OPERATOR",
       "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
+      "issue": "狀態: announced→announced",
       "autoFixed": true
     },
     {
-      "name": "戰神：勞菲",
-      "status": "error",
-      "issue": "移除: 遊戲資訊為虛構，開發商並未發布此款遊戲。",
-      "autoFixed": false
-    },
-    {
-      "name": "海綿破壞",
-      "status": "error",
-      "issue": "移除: 遊戲資訊不明確，無法找到上線或開發進度，推測已取消或無聲下線。",
-      "autoFixed": false
-    },
-    {
-      "name": "蝙蝠俠：披風鬥士編年史",
-      "status": "error",
-      "issue": "移除: 遊戲資訊為錯誤或虛構，無法找到上線或開發進度。",
-      "autoFixed": false
-    },
-    {
-      "name": "赤鳥",
-      "status": "error",
-      "issue": "移除: 遊戲資訊不明確，無法找到上線或開發進度，推測已取消或無聲下線。",
-      "autoFixed": false
-    },
-    {
-      "name": "異形：火力小隊精英2",
-      "status": "error",
-      "issue": "移除: 遊戲資訊為虛構，開發商並未宣布此款遊戲。",
-      "autoFixed": false
-    },
-    {
-      "name": "在虛假中",
-      "status": "error",
-      "issue": "移除: 遊戲資訊為虛構，開發商並未宣布此款遊戲。",
-      "autoFixed": false
-    },
-    {
-      "name": "海浪之簽",
-      "status": "error",
-      "issue": "移除: 遊戲資訊不明確，無法找到上線或開發進度，推測已取消或無聲下線。",
-      "autoFixed": false
-    },
-    {
-      "name": "雪葬",
-      "status": "error",
-      "issue": "移除: 遊戲資訊不明確，開發商並未發布此款遊戲，推測為錯誤或已取消。",
-      "autoFixed": false
-    },
-    {
-      "name": "PLATONICA SPACE",
-      "status": "error",
-      "issue": "移除: 遊戲資訊不明確，無法找到上線或開發進度，推測已取消或無聲下線。",
-      "autoFixed": false
-    },
-    {
-      "name": "The Immortal John Triptych",
-      "status": "error",
-      "issue": "移除: 遊戲資訊不明確，無法找到上線或開發進度，推測已取消或無聲下線。",
-      "autoFixed": false
-    },
-    {
-      "name": "9 R.I.P. 續作",
-      "status": "error",
-      "issue": "移除: 遊戲資訊為虛構，開發商並未宣布此款遊戲。",
-      "autoFixed": false
-    },
-    {
-      "name": "Guns & Dragons",
-      "status": "error",
-      "issue": "移除: 遊戲資訊矛盾且無法查證，推測為錯誤或已取消。",
-      "autoFixed": false
-    },
-    {
-      "name": "No More Room in Hell 2",
+      "name": "Jay and Silent Bob’s Joint Venture",
       "status": "warning",
-      "issue": "狀態: live-ops→announced",
+      "issue": "狀態: pre-reg→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "Spanking Exorcist",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "莉莉幻想曲",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "SpeedRunners 2：速度之王",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "墨西哥忍者",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "煉獄之藍",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
+      "autoFixed": true
+    },
+    {
+      "name": "磁帶偵探",
+      "status": "warning",
+      "issue": "狀態: announced→announced",
       "autoFixed": true
     }
   ],
   "checked": [
-    "君色帕特拉 IF",
-    "為美好的世界獻上祝福！為這摯愛的城鎮獻上繁榮！",
-    "戰神：勞菲",
-    "海綿破壞",
-    "蝙蝠俠：披風鬥士編年史",
-    "赤鳥",
-    "異形：火力小隊精英2",
-    "在虛假中",
-    "海浪之簽",
-    "雪葬",
-    "PLATONICA SPACE",
-    "The Immortal John Triptych",
-    "9 R.I.P. 續作",
-    "Guns & Dragons",
-    "No More Room in Hell 2"
+    "NIGHTMARE OPERATOR",
+    "阿爾法契約",
+    "Jay and Silent Bob’s Joint Venture",
+    "Spanking Exorcist",
+    "莉莉幻想曲",
+    "SpeedRunners 2：速度之王",
+    "共乘「模擬器」",
+    "九陰真經：不朽",
+    "Croc 2：哥布林王國 重製版",
+    "墨西哥忍者",
+    "惡魔夜瘋狂",
+    "愚者不滅",
+    "針葉林公園2",
+    "煉獄之藍",
+    "磁帶偵探"
   ],
   "nextBatch": [
     "無限大",

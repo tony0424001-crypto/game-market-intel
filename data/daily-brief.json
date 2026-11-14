@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-11-13T07:05:36.623310+00:00",
-  "fetchCount": 184,
+  "lastUpdated": "2026-11-14T06:53:08.360956+00:00",
+  "fetchCount": 185,
   "items": [
+    {
+      "id": "brief-20261114-8930d641",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "餘燼重生之都（新發現・高威脅）",
+      "detail": "韓國大廠NCSoft的重點MMORPG新作，具備跨平台潛力，且已在台灣等地進行測試，市場關注度高。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-14T06:53:08.360956+00:00"
+    },
+    {
+      "id": "brief-20261114-f64297a3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA 6 PS5實體版開箱",
+      "detail": "《俠盜獵車手 6》PS5實體版搶先出貨",
+      "action": "準備預購或購買",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-14T06:48:20.272238+00:00"
+    },
+    {
+      "id": "brief-20261114-7e1a5dd4",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "德軍總部3確認製作",
+      "detail": "《德軍總部 3》由MachineGames開發中",
+      "action": "期待新作消息",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-14T06:48:20.272238+00:00"
+    },
     {
       "id": "brief-20261113-c0c0df1f",
       "priority": "urgent",
@@ -157,70 +190,37 @@
       "fetchedAt": "2026-11-09T06:58:40.121737+00:00"
     },
     {
-      "id": "brief-20261109-b8afaf06",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "RO仙境傳說25週年",
-      "detail": "GRAVITY預告《RO仙境傳說》25週年，11款新作籌備中。",
-      "action": "RO粉絲重大消息",
-      "platform": "mobile/console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-09T06:57:00.940754+00:00"
-    },
-    {
-      "id": "brief-20261109-9db7fa58",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "寶可夢卡牌父被捕",
-      "detail": "父為搶寶可夢卡牌，留6歲女夜排，遭美國警方逮捕。",
-      "action": "警惕兒童安全",
-      "platform": "N/A",
-      "source": "4Gamers",
-      "fetchedAt": "2026-11-09T06:57:00.940754+00:00"
-    },
-    {
-      "id": "brief-20261108-ad232e5b",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "綺夢王國（新發現・高威脅）",
-      "detail": "知名二次元遊戲大廠新作，有望吸引大量二次元用戶。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-08T06:28:46.945115+00:00"
-    },
-    {
-      "id": "brief-20261113-1a6ded60",
+      "id": "brief-20261114-734cc9af",
       "priority": "watch",
       "icon": "👁",
-      "title": "Pokemon GO合作CHARGESPOT",
-      "detail": "行動電源站化身補給站及道館，方便玩家。",
-      "action": "留意合作地點",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-13T06:59:24.921831+00:00"
-    },
-    {
-      "id": "brief-20261113-1a1674a5",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "騰訊測試AI陪玩軟體",
-      "detail": "騰訊測試AI遊戲陪伴軟體《鵝次元》，AI美少女陪聊。",
-      "action": "關注AI新應用",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-13T06:59:24.921831+00:00"
-    },
-    {
-      "id": "brief-20261113-6b8de8aa",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "瑪奇英雄傳新角亮相",
-      "detail": "《瑪奇英雄傳：反抗命運》登PS5/Steam，新角Noctia亮相。",
-      "action": "關注遊戲開發",
+      "title": "PS5銷量破億與GTA6",
+      "detail": "PS5主機銷售量破億，GTA6發售前整理",
+      "action": "關注主機市場動態",
       "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-11-13T06:59:24.921831+00:00"
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-14T06:48:20.272238+00:00"
+    },
+    {
+      "id": "brief-20261114-44016790",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "神鬼寓言實機影片",
+      "detail": "Xbox 25週年公開《神鬼寓言》新任務",
+      "action": "觀看最新實機展示",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-14T06:48:20.272238+00:00"
+    },
+    {
+      "id": "brief-20261114-dd3199f4",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "寶可夢神秘禮物活動",
+      "detail": "《寶可夢傳說 Z-A》等推出禮物活動",
+      "action": "參與活動領取獎勵",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-14T06:48:20.272238+00:00"
     }
   ]
 }
