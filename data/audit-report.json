@@ -1,75 +1,69 @@
 {
-  "lastAudit": "2026-11-14T06:48:38.596024+00:00",
-  "totalProducts": 744,
-  "updatesApplied": 76,
-  "issuesFound": 8,
+  "lastAudit": "2026-11-15T06:53:34.799158+00:00",
+  "totalProducts": 746,
+  "updatesApplied": 60,
+  "issuesFound": 7,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "NIGHTMARE OPERATOR",
+      "name": "漫威激戰：格鬥之魂",
+      "status": "error",
+      "issue": "移除: 遊戲資訊錯誤，未找到與此名稱、開發商及上市日期相符的遊戲。",
+      "autoFixed": false
+    },
+    {
+      "name": "書與鑰匙之季節",
       "status": "warning",
       "issue": "狀態: announced→announced",
       "autoFixed": true
     },
     {
-      "name": "Jay and Silent Bob’s Joint Venture",
+      "name": "Astrae Oratio",
       "status": "warning",
       "issue": "狀態: pre-reg→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "Spanking Exorcist",
+      "name": "黑夜輪迴",
       "status": "warning",
       "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "莉莉幻想曲",
+      "name": "Probably Stolen",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
+      "issue": "狀態: cbt→live-ops",
       "autoFixed": true
     },
     {
-      "name": "SpeedRunners 2：速度之王",
+      "name": "進擊的巨人3",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: pre-reg→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "墨西哥忍者",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "煉獄之藍",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "磁帶偵探",
+      "name": "Ladder Lad",
       "status": "warning",
       "issue": "狀態: announced→announced",
       "autoFixed": true
     }
   ],
   "checked": [
-    "NIGHTMARE OPERATOR",
-    "阿爾法契約",
-    "Jay and Silent Bob’s Joint Venture",
-    "Spanking Exorcist",
-    "莉莉幻想曲",
-    "SpeedRunners 2：速度之王",
-    "共乘「模擬器」",
-    "九陰真經：不朽",
-    "Croc 2：哥布林王國 重製版",
-    "墨西哥忍者",
-    "惡魔夜瘋狂",
-    "愚者不滅",
-    "針葉林公園2",
-    "煉獄之藍",
-    "磁帶偵探"
+    "餘燼重生之都",
+    "星際探險隊",
+    "猿公劍",
+    "艾維斯：雙生幻影",
+    "超級機器人大戰ZII：破界篇 重製版",
+    "漫威激戰：格鬥之魂",
+    "星沙島",
+    "書與鑰匙之季節",
+    "SANASANA",
+    "Astrae Oratio",
+    "抵抗者",
+    "黑夜輪迴",
+    "Probably Stolen",
+    "進擊的巨人3",
+    "Ladder Lad"
   ],
   "nextBatch": [
     "無限大",

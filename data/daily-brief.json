@@ -1,7 +1,106 @@
 {
-  "lastUpdated": "2026-11-14T06:53:08.360956+00:00",
-  "fetchCount": 185,
+  "lastUpdated": "2026-11-15T06:55:37.707604+00:00",
+  "fetchCount": 186,
   "items": [
+    {
+      "id": "brief-20261115-0872fa4d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "西遊奇妙冒險（新發現・高威脅）",
+      "detail": "經典國民級IP改編，在中國市場具備廣泛吸引力，且獲得版號。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-11-15T06:55:37.707604+00:00"
+    },
+    {
+      "id": "brief-20261115-cff433d5",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "我叫MT5（新發現・高威脅）",
+      "detail": "知名國產IP改編，擁有一定粉絲基礎，且獲得中國版號，具備較高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-11-15T06:55:37.707604+00:00"
+    },
+    {
+      "id": "brief-20261115-312e0474",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "SD鋼彈 G世代 永恆（新發現・高威脅）",
+      "detail": "經典機甲IP改編，擁有廣大粉絲基礎，且由大廠相關公司發行。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-15T06:55:37.707604+00:00"
+    },
+    {
+      "id": "brief-20261115-1938e1c9",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "咒術迴戰：幻影遊行（新發現・高威脅）",
+      "detail": "頂級動漫IP改編，且由大廠相關公司發行，預期將吸引大量粉絲。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-15T06:55:37.707604+00:00"
+    },
+    {
+      "id": "brief-20261115-6b2f51ea",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "學園偶像大師（新發現・高威脅）",
+      "detail": "知名大廠Cygames相關，且為日本國民級偶像IP新作，在二次元市場具備高影響力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-15T06:55:37.707604+00:00"
+    },
+    {
+      "id": "brief-20261115-98b5c843",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "《GTA6》PS5實體版搶先開箱",
+      "detail": "11/19推出，隨附遊戲下載代碼與雙面海報",
+      "action": "準備迎接GTA6上市",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-15T06:53:11.564969+00:00"
+    },
+    {
+      "id": "brief-20261115-ed1b3d3c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "TGA 2026入圍名單11/18揭曉",
+      "detail": "《GTA6》將角逐GOTY，傑夫・吉斯利主持直播",
+      "action": "關注年度遊戲獎項",
+      "platform": null,
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-15T06:53:11.564969+00:00"
+    },
+    {
+      "id": "brief-20261115-0642649e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Twitch連日送《GTA6》遊戲序號",
+      "detail": "11/19起至月底每日發送，有機會送出終極版",
+      "action": "鎖定Twitch領序號",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-15T06:53:11.564969+00:00"
+    },
+    {
+      "id": "brief-20261115-4834bad1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "寶可夢傳說Z-A、Pokopia神秘禮物",
+      "detail": "輸入密語可獲異色傳說寶可夢與家具套組",
+      "action": "參與寶可夢活動",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-15T06:53:11.564969+00:00"
+    },
     {
       "id": "brief-20261114-8930d641",
       "priority": "urgent",
@@ -122,105 +221,6 @@
       "platform": "console",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-11-11T06:51:17.501596+00:00"
-    },
-    {
-      "id": "brief-20261111-062b77e3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "PS5《公平遊戲＄》取消",
-      "detail": "SIE取消PS5/PC線上射擊遊戲《公平遊戲＄》開發，不裁員。",
-      "action": "留意SIE動向",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-11T06:51:17.501596+00:00"
-    },
-    {
-      "id": "brief-20261111-9a755a92",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《GTA 6》預購超預期",
-      "detail": "Take-Two執行長稱《GTA 6》預購量大幅超出預期，對上市有信心。",
-      "action": "準備迎接大作",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-11T06:51:17.501596+00:00"
-    },
-    {
-      "id": "brief-20261110-db12f8ab",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《俠盜獵車手6》音樂節",
-      "detail": "《GTA 6》11/19上市，11/21邁阿密辦音樂節。",
-      "action": "關注上市活動",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-10T07:35:04.044089+00:00"
-    },
-    {
-      "id": "brief-20261110-a7bdc157",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《流亡黯道2》新職業",
-      "detail": "《流亡黯道2》揭露新職業，12/12正式上市。",
-      "action": "關注遊戲內容",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-10T07:35:04.044089+00:00"
-    },
-    {
-      "id": "brief-20261110-84c42d7e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《流亡黯道》新資料片",
-      "detail": "《流亡黯道》新資料片「巫影密會」11/14上線。",
-      "action": "準備迎接更新",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-10T07:35:04.044089+00:00"
-    },
-    {
-      "id": "brief-20261109-a059ba52",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "勇者鬥惡龍 RPG：詛咒之樹與被選之島（新發現・高威脅）",
-      "detail": "知名日系RPG大廠Square Enix的經典IP新作，預期將吸引大量粉絲。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-09T06:58:40.121737+00:00"
-    },
-    {
-      "id": "brief-20261114-734cc9af",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "PS5銷量破億與GTA6",
-      "detail": "PS5主機銷售量破億，GTA6發售前整理",
-      "action": "關注主機市場動態",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-14T06:48:20.272238+00:00"
-    },
-    {
-      "id": "brief-20261114-44016790",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "神鬼寓言實機影片",
-      "detail": "Xbox 25週年公開《神鬼寓言》新任務",
-      "action": "觀看最新實機展示",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-14T06:48:20.272238+00:00"
-    },
-    {
-      "id": "brief-20261114-dd3199f4",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "寶可夢神秘禮物活動",
-      "detail": "《寶可夢傳說 Z-A》等推出禮物活動",
-      "action": "參與活動領取獎勵",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-14T06:48:20.272238+00:00"
     }
   ]
 }
