@@ -39892,35 +39892,52 @@
     ],
     "region": "JP",
     "model": "F2P",
-    "stage": "announced",
-    "threat": "high",
-    "threatReason": "知名大廠Cygames相關，且為日本國民級偶像IP新作，在二次元市場具備高影響力。",
+    "stage": "live-ops",
+    "threat": "critical",
+    "threatReason": "遊戲在日本市場表現極為出色，多次登上營收榜首，首月營收佔發行商Bandai Namco Entertainment當月手遊總營收逾40%，2024年收入達1.5億美元，被視為日本本土產品的領頭羊。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2027",
+    "sentiment": 95,
+    "launchEst": "2024-05-16",
     "desc": "知名偶像養成IP《偶像大師》系列新作，由Cygames母公司CyberAgent列為七大重點手遊之一。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名大廠Cygames相關，且為日本國民級偶像IP新作，在二次元市場具備高影響力。",
+    "threatAnalysis": "【critical】《學園偶像大師》已於2024年5月16日在日本iOS/Android平台成功上線，並取得現象級的市場表現，多次登頂營收榜，首月營收佔萬代南夢宮手遊總營收超過40%，2024年總收入達1.5億美元。PC版也預計於2025年3月18日登陸DMM Games。其市場地位與話題度極高，對同類產品構成重大威脅。值得注意的是，原始資料開發商為Cygames，但搜尋結果顯示主要開發與營運方為Bandai Namco Entertainment與CyberAgent子公司QualiArts。\n\n▶ 建議行動：\n(1). 持續密切追蹤其在日本市場的營收、玩家活躍度及社群話題，特別關注PC版上線後的表現。\n(2). 分析其成功營運策略，尤其是在IP結合、養成玩法設計及廣告投放方面的優勢，作為未來產品開發與營運的借鑒。\n(3). 評估其是否有拓展海外市場的潛力及計劃，提前佈局應對策略。",
     "verified": "Agent 發現 (2026-11-15)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
     "sourceLinks": [],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "JP",
+        "platform": "iOS/Android",
+        "date": "2024-05-16"
+      },
+      {
+        "region": "JP",
+        "platform": "PC (DMM Games)",
+        "date": "2025-03-18"
+      }
+    ],
     "history": [
       {
         "date": "2026-11",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-15",
+    "updatedAt": "2026-11-16",
     "addedAt": "2026-11-15",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-16",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2024年5月16日在日本地區iOS/Android平台正式上線，並預計於2025年3月18日推出DMM Games PC版。該遊戲在日本市場表現極為出色，多次登上營收榜首。",
+    "eventNote": "遊戲已於2024年5月16日在日本地區iOS/Android平台正式上線，並預計於2025年3月18日推出DMM Games PC版。該遊戲在日本市場表現極為出色，多次登上營收榜首。"
   },
   {
     "id": 751,
@@ -40243,6 +40260,509 @@
     ],
     "updatedAt": "2026-11-15",
     "addedAt": "2026-11-15",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 758,
+    "name": "魔界樹與受命運指引之島",
+    "nameEn": "Dragon Quest: The Demon Tree and the Island Guided by Fate",
+    "developer": "Square Enix",
+    "studio": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "經典日系國民級IP手遊化，全球發行，預計將大規模搶佔市場注意力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "《勇者鬥惡龍》系列全新手機RPG，預計2027年全球推出。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典日系國民級IP手遊化，全球發行，預計將大規模搶佔市場注意力。",
+    "verified": "Agent 發現 (2026-11-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "預計上線",
+        "date": "2027"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-16",
+    "addedAt": "2026-11-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 759,
+    "name": "火影忍者：開放世界",
+    "nameEn": "Naruto: Open World",
+    "developer": "騰訊 (MoreFun Studios)",
+    "studio": "騰訊 (MoreFun Studios)",
+    "publisher": "騰訊 (MoreFun Studios)",
+    "genre": "開放世界RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "critical",
+    "threatReason": "全球知名動漫IP改編，大廠開發，開放世界+抽卡模式，潛力巨大，預計會大規模搶佔市場注意力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "騰訊傳聞正在開發一款3D開放世界《火影忍者》手遊，可能包含抽卡系統並瞄準全球市場。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】全球知名動漫IP改編，大廠開發，開放世界+抽卡模式，潛力巨大，預計會大規模搶佔市場注意力。",
+    "verified": "Agent 發現 (2026-11-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-16",
+    "addedAt": "2026-11-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 760,
+    "name": "螢火突擊手游",
+    "nameEn": "Firefly Assault Mobile",
+    "developer": "NetEase",
+    "studio": "NetEase",
+    "publisher": "NetEase",
+    "genre": "射擊",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN/Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "大廠自研射擊手遊，生存掠奪玩法有較高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "網易自研的生存掠奪射擊手遊，玩家在末日世界中探索、搜集物資並與敵人戰鬥。",
+    "tags": [
+      "官方公告"
+    ],
+    "threatAnalysis": "【自動發現・官方公告】大廠自研射擊手遊，生存掠奪玩法有較高市場潛力。",
+    "verified": "Agent 發現 (2026-11-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-16",
+    "addedAt": "2026-11-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告"
+  },
+  {
+    "id": 761,
+    "name": "守望傳說：點點",
+    "nameEn": "Guardian Tales: Dig Dot",
+    "developer": "Netmarble",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "像素RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "知名IP的延伸作品，但具體玩法和市場表現待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-H1",
+    "desc": "網石預計於2027上半年推出的《守望傳說》系列新作，可能為像素風格RPG。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP的延伸作品，但具體玩法和市場表現待觀察。",
+    "verified": "Agent 發現 (2026-11-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-16",
+    "addedAt": "2026-11-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 762,
+    "name": "荒野靈獸",
+    "nameEn": "Wilderlings",
+    "developer": "Netmarble",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "大廠新作，但為全新IP，市場接受度需觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-H1",
+    "desc": "網石預計於2027上半年推出的一款全新動作RPG手遊。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】大廠新作，但為全新IP，市場接受度需觀察。",
+    "verified": "Agent 發現 (2026-11-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-16",
+    "addedAt": "2026-11-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 763,
+    "name": "靈獸大冒險",
+    "nameEn": "Spirit Beast Adventure",
+    "developer": "NetEase",
+    "studio": "NetEase",
+    "publisher": "NetEase",
+    "genre": "回合制RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "大廠新作，國風抓寵回合制有特定受眾，但輕度遊戲威脅性中等。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "網易推出的一款國風抓寵回合制輕度手遊。",
+    "tags": [
+      "官方公告"
+    ],
+    "threatAnalysis": "【自動發現・官方公告】大廠新作，國風抓寵回合制有特定受眾，但輕度遊戲威脅性中等。",
+    "verified": "Agent 發現 (2026-11-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-16",
+    "addedAt": "2026-11-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "官方公告"
+  },
+  {
+    "id": 764,
+    "name": "明日防線",
+    "nameEn": "Tomorrow's Frontline",
+    "developer": "4399",
+    "studio": "4399",
+    "publisher": "4399",
+    "genre": "射擊",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "射擊類手遊有一定市場，但4399的產品通常中等規模。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "4399獲得中國版號的一款射擊類手遊。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】射擊類手遊有一定市場，但4399的產品通常中等規模。",
+    "verified": "Agent 發現 (2026-11-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號獲批",
+        "date": "2026-10"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-16",
+    "addedAt": "2026-11-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 765,
+    "name": "C地鐵計畫",
+    "nameEn": "Project C Metro",
+    "developer": "Netmarble",
+    "studio": "Netmarble",
+    "publisher": "Netmarble",
+    "genre": "策略",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "大廠新作，但為全新IP且類型待確認，市場表現待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027",
+    "desc": "網石預計於2027年推出的一款策略手遊。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】大廠新作，但為全新IP且類型待確認，市場表現待觀察。",
+    "verified": "Agent 發現 (2026-11-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-16",
+    "addedAt": "2026-11-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 766,
+    "name": "閒田悠悠",
+    "nameEn": "Leisurely Fields",
+    "developer": "三七互娛",
+    "studio": "三七互娛",
+    "publisher": "三七互娛",
+    "genre": "模擬經營",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "模擬經營類遊戲通常威脅性較低，除非有現象級創新。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "三七互娛獲得中國版號的一款模擬經營類手遊。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】模擬經營類遊戲通常威脅性較低，除非有現象級創新。",
+    "verified": "Agent 發現 (2026-11-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號獲批",
+        "date": "2026-10"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-16",
+    "addedAt": "2026-11-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 767,
+    "name": "街區守護者",
+    "nameEn": "Block Guardian",
+    "developer": "咪咕",
+    "studio": "咪咕",
+    "publisher": "咪咕",
+    "genre": "策略",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "策略類遊戲競爭激烈，具體玩法和品質待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "咪咕獲得中國版號的一款策略類手遊。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】策略類遊戲競爭激烈，具體玩法和品質待觀察。",
+    "verified": "Agent 發現 (2026-11-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號獲批",
+        "date": "2026-10"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-16",
+    "addedAt": "2026-11-16",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 768,
+    "name": "一起來作戰",
+    "nameEn": "Let's Fight Together",
+    "developer": "中青寶",
+    "studio": "中青寶",
+    "publisher": "中青寶",
+    "genre": "動作",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "動作類遊戲競爭激烈，具體玩法和品質待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "中青寶獲得中國版號的一款動作類手遊。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】動作類遊戲競爭激烈，具體玩法和品質待觀察。",
+    "verified": "Agent 發現 (2026-11-16)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號獲批",
+        "date": "2026-10"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-16",
+    "addedAt": "2026-11-16",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "版號公示"

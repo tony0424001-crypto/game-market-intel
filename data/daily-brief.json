@@ -1,7 +1,73 @@
 {
-  "lastUpdated": "2026-11-15T06:55:37.707604+00:00",
-  "fetchCount": 186,
+  "lastUpdated": "2026-11-16T06:57:32.105900+00:00",
+  "fetchCount": 187,
   "items": [
+    {
+      "id": "brief-20261116-5f6e475a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "螢火突擊手游（新發現・高威脅）",
+      "detail": "大廠自研射擊手遊，生存掠奪玩法有較高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "官方公告",
+      "fetchedAt": "2026-11-16T06:57:32.105900+00:00"
+    },
+    {
+      "id": "brief-20261116-9ec91dad",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "火影忍者：開放世界（新發現・高威脅）",
+      "detail": "全球知名動漫IP改編，大廠開發，開放世界+抽卡模式，潛力巨大，預計會大規模搶佔市場注意力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-16T06:57:32.105900+00:00"
+    },
+    {
+      "id": "brief-20261116-60450c89",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "魔界樹與受命運指引之島（新發現・高威脅）",
+      "detail": "經典日系國民級IP手遊化，全球發行，預計將大規模搶佔市場注意力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-16T06:57:32.105900+00:00"
+    },
+    {
+      "id": "brief-20261116-353e9dde",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA6序號災情",
+      "detail": "實體版序號空白或已兌換",
+      "action": "購買前請留意",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-16T06:55:49.202977+00:00"
+    },
+    {
+      "id": "brief-20261116-24662acc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA6遊戲時長",
+      "detail": "主線50小時白金恐耗200小時",
+      "action": "準備長時間遊玩",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-16T06:55:49.202977+00:00"
+    },
+    {
+      "id": "brief-20261116-e8188348",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA6同理心機制",
+      "detail": "首度加入鼓勵同理心玩法",
+      "action": "關注遊戲設計",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-16T06:55:49.202977+00:00"
+    },
     {
       "id": "brief-20261115-0872fa4d",
       "priority": "urgent",
@@ -155,72 +221,6 @@
       "platform": "console",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-11-13T06:59:24.921831+00:00"
-    },
-    {
-      "id": "brief-20261113-997ddb36",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "寶可夢Z-A限免領取",
-      "detail": "《寶可夢傳說Z-A》異色哲爾尼亞斯與伊裴爾塔爾限免。",
-      "action": "立即領取寶可夢",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-11-13T06:59:24.921831+00:00"
-    },
-    {
-      "id": "brief-20261112-d5cf7ff3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "金搖桿獎揭曉",
-      "detail": "《惡靈古堡9：安魂曲》奪年度遊戲大獎",
-      "action": "了解得獎名單",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-12T07:28:15.760082+00:00"
-    },
-    {
-      "id": "brief-20261112-7a3eaf2e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "無冕之燼全球測試",
-      "detail": "NEXON新作PC MMORPG 12/4展開測試",
-      "action": "關注測試資訊",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-12T07:28:15.760082+00:00"
-    },
-    {
-      "id": "brief-20261111-31b60848",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "勇者爭霸（新發現・高威脅）",
-      "detail": "已在全球市場營運多年的成熟IP，此次獲得中國版號預計將吸引大量玩家。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-11T06:55:08.869248+00:00"
-    },
-    {
-      "id": "brief-20261111-7879070d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "王國 W：血盟之誓（新發現・高威脅）",
-      "detail": "經典MMORPG玩法，強調PK與公會互動，在港澳台市場有一定潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-11T06:55:08.869248+00:00"
-    },
-    {
-      "id": "brief-20261111-20c48c58",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "PS5銷量破億",
-      "detail": "PS5上市6年前夕，全球累計銷售突破1億台，創里程碑。",
-      "action": "關注主機市場",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-11T06:51:17.501596+00:00"
     }
   ]
 }
