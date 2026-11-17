@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-11-16T06:57:32.105900+00:00",
-  "fetchCount": 187,
+  "lastUpdated": "2026-11-17T08:16:49.708908+00:00",
+  "fetchCount": 188,
   "items": [
+    {
+      "id": "brief-20261117-f0a89416",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "美職籃瞬息（新發現・高威脅）",
+      "detail": "大型全球IP（NBA）改編，專注於移動平台，且在商業模式上有所創新（取消抽卡）。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-11-17T08:16:49.708908+00:00"
+    },
+    {
+      "id": "brief-20261117-b6314b4d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "實況足球在線（新發現・高威脅）",
+      "detail": "全球知名足球IP改編，由中國知名大廠網易運營，具備廣泛用戶基礎。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-11-17T08:16:49.708908+00:00"
+    },
+    {
+      "id": "brief-20261117-a9fa331e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "烈焰飛雪：徵戰（新發現・高威脅）",
+      "detail": "知名大廠中青寶開發的MMORPG，具備歷史IP背景和策略玩法。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-11-17T08:16:49.708908+00:00"
+    },
+    {
+      "id": "brief-20261117-ac341899",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA6預購營收",
+      "detail": "預購破14億美元，終極版佔87%",
+      "action": "了解遊戲市場潛力",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-17T08:12:09.115220+00:00"
+    },
+    {
+      "id": "brief-20261117-be588aa3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "NBA 2K27聯名GTA6",
+      "detail": "推出罪惡市賽季，跨界合作引熱議",
+      "action": "關注跨界聯名活動",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-17T08:12:09.115220+00:00"
+    },
+    {
+      "id": "brief-20261117-2666d91d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "劍俠情緣3國際版",
+      "detail": "年度資料片「蒼生鑄世」今日推出",
+      "action": "體驗全新資料片內容",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-17T08:12:09.115220+00:00"
+    },
+    {
+      "id": "brief-20261117-a63eddfe",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "FF14黃金遺產",
+      "detail": "推付費跳劇情與史上最長免費登入",
+      "action": "考慮回歸或加入遊戲",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-17T08:12:09.115220+00:00"
+    },
+    {
+      "id": "brief-20261117-832ecaf0",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "救世者之樹：新世界",
+      "detail": "攜超人力霸王聯動，11/26感恩公測",
+      "action": "關注公測與聯動活動",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-17T08:12:09.115220+00:00"
+    },
     {
       "id": "brief-20261116-5f6e475a",
       "priority": "urgent",
@@ -133,94 +221,6 @@
       "platform": "console",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-11-15T06:53:11.564969+00:00"
-    },
-    {
-      "id": "brief-20261115-ed1b3d3c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "TGA 2026入圍名單11/18揭曉",
-      "detail": "《GTA6》將角逐GOTY，傑夫・吉斯利主持直播",
-      "action": "關注年度遊戲獎項",
-      "platform": null,
-      "source": "4Gamers",
-      "fetchedAt": "2026-11-15T06:53:11.564969+00:00"
-    },
-    {
-      "id": "brief-20261115-0642649e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Twitch連日送《GTA6》遊戲序號",
-      "detail": "11/19起至月底每日發送，有機會送出終極版",
-      "action": "鎖定Twitch領序號",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-11-15T06:53:11.564969+00:00"
-    },
-    {
-      "id": "brief-20261115-4834bad1",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "寶可夢傳說Z-A、Pokopia神秘禮物",
-      "detail": "輸入密語可獲異色傳說寶可夢與家具套組",
-      "action": "參與寶可夢活動",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-15T06:53:11.564969+00:00"
-    },
-    {
-      "id": "brief-20261114-8930d641",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "餘燼重生之都（新發現・高威脅）",
-      "detail": "韓國大廠NCSoft的重點MMORPG新作，具備跨平台潛力，且已在台灣等地進行測試，市場關注度高。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-14T06:53:08.360956+00:00"
-    },
-    {
-      "id": "brief-20261114-f64297a3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA 6 PS5實體版開箱",
-      "detail": "《俠盜獵車手 6》PS5實體版搶先出貨",
-      "action": "準備預購或購買",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-14T06:48:20.272238+00:00"
-    },
-    {
-      "id": "brief-20261114-7e1a5dd4",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "德軍總部3確認製作",
-      "detail": "《德軍總部 3》由MachineGames開發中",
-      "action": "期待新作消息",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-14T06:48:20.272238+00:00"
-    },
-    {
-      "id": "brief-20261113-c0c0df1f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "阿爾法契約（新發現・高威脅）",
-      "detail": "騰訊作為中國遊戲巨頭，其新遊戲通常擁有龐大的資源和市場推廣能力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-13T07:05:36.623310+00:00"
-    },
-    {
-      "id": "brief-20261113-05572669",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "暗喻幻想Switch 2發售",
-      "detail": "獲獎RPG《暗喻幻想》Switch 2版發售，其他平台降價。",
-      "action": "考慮入手遊戲",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-13T06:59:24.921831+00:00"
     }
   ]
 }
