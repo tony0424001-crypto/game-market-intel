@@ -1,81 +1,45 @@
 {
-  "lastAudit": "2026-11-17T08:12:50.435000+00:00",
-  "totalProducts": 765,
-  "updatesApplied": 58,
-  "issuesFound": 9,
+  "lastAudit": "2026-11-18T07:46:27.865412+00:00",
+  "totalProducts": 770,
+  "updatesApplied": 36,
+  "issuesFound": 3,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "咒術迴戰：幻影遊行",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "SD鋼彈 G世代 永恆",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "烽煙破曉",
+      "name": "轉世之獸",
       "status": "warning",
       "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "幻寵：星隕要塞",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "我叫MT5",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "西遊奇妙冒險",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
-      "autoFixed": true
-    },
-    {
-      "name": "魔界樹與受命運指引之島",
-      "status": "warning",
-      "issue": "狀態: announced→cbt",
-      "autoFixed": true
-    },
-    {
-      "name": "螢火突擊手游",
+      "name": "Danchi Days",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "靈獸大冒險",
+      "name": "Moonlighter 2: The Endless Vault",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "咒術迴戰：幻影遊行",
-    "SD鋼彈 G世代 永恆",
-    "失落秩序",
-    "烽煙破曉",
-    "幻寵：星隕要塞",
-    "我叫MT5",
-    "西遊奇妙冒險",
-    "魔界樹與受命運指引之島",
-    "火影忍者：開放世界",
-    "螢火突擊手游",
-    "守望傳說：點點",
-    "荒野靈獸",
-    "靈獸大冒險",
-    "明日防線",
-    "C地鐵計畫"
+    "閒田悠悠",
+    "街區守護者",
+    "一起來作戰",
+    "烈焰飛雪：徵戰",
+    "實況足球在線",
+    "美職籃瞬息",
+    "微光璀璨",
+    "无限守卫",
+    "幻想水滸傳 STAR LEAP",
+    "幻獸帕魯 Online",
+    "可變形守護者 ESTIQUE",
+    "轉世之獸",
+    "Danchi Days",
+    "Beaten Path",
+    "Moonlighter 2: The Endless Vault"
   ],
   "nextBatch": [
     "無限大",

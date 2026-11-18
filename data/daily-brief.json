@@ -1,7 +1,84 @@
 {
-  "lastUpdated": "2026-11-17T08:16:49.708908+00:00",
-  "fetchCount": 188,
+  "lastUpdated": "2026-11-18T07:48:41.278966+00:00",
+  "fetchCount": 189,
   "items": [
+    {
+      "id": "brief-20261118-da8acddc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "刺客信條：黑旗記憶重置（新發現・高威脅）",
+      "detail": "頂級IP《刺客信條》改編手遊，由騰訊發行，具備高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-18T07:48:41.278966+00:00"
+    },
+    {
+      "id": "brief-20261118-0e55be7c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "弧光獵人（新發現・高威脅）",
+      "detail": "國際服已是現象級射擊爆款，由騰訊代理發行國服，且為3A品質，預計會大規模搶佔市場注意力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-18T07:48:41.278966+00:00"
+    },
+    {
+      "id": "brief-20261118-a7486250",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "暗黑地牢2（新發現・高威脅）",
+      "detail": "知名PC/主機硬核RPG IP移植手遊，具備較高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-18T07:48:41.278966+00:00"
+    },
+    {
+      "id": "brief-20261118-33919dec",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Sanrio Kawaii Me Live!（新發現・高威脅）",
+      "detail": "知名IP改編，由官方遊戲品牌開發，且為全球發行，預計會有大量粉絲關注。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-18T07:48:41.278966+00:00"
+    },
+    {
+      "id": "brief-20261118-87aff685",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "TGA 2026入圍揭曉",
+      "detail": "GTA 6獲8項提名，任天堂發行商之冠",
+      "action": "關注TGA結果",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-18T07:46:06.077448+00:00"
+    },
+    {
+      "id": "brief-20261118-f290d024",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "台灣Google Play榜單",
+      "detail": "明日方舟：終末地奪年度最佳遊戲",
+      "action": "了解獲獎遊戲",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-18T07:46:06.077448+00:00"
+    },
+    {
+      "id": "brief-20261118-3cb17ec7",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA 6稱霸PS Store",
+      "detail": "上市前稱霸全球PS Store暢銷榜",
+      "action": "準備迎接上市",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-18T07:46:06.077448+00:00"
+    },
     {
       "id": "brief-20261117-f0a89416",
       "priority": "urgent",
@@ -144,83 +221,6 @@
       "platform": "console",
       "source": "4Gamers",
       "fetchedAt": "2026-11-16T06:55:49.202977+00:00"
-    },
-    {
-      "id": "brief-20261116-e8188348",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA6同理心機制",
-      "detail": "首度加入鼓勵同理心玩法",
-      "action": "關注遊戲設計",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-11-16T06:55:49.202977+00:00"
-    },
-    {
-      "id": "brief-20261115-0872fa4d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "西遊奇妙冒險（新發現・高威脅）",
-      "detail": "經典國民級IP改編，在中國市場具備廣泛吸引力，且獲得版號。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-15T06:55:37.707604+00:00"
-    },
-    {
-      "id": "brief-20261115-cff433d5",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "我叫MT5（新發現・高威脅）",
-      "detail": "知名國產IP改編，擁有一定粉絲基礎，且獲得中國版號，具備較高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-15T06:55:37.707604+00:00"
-    },
-    {
-      "id": "brief-20261115-312e0474",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "SD鋼彈 G世代 永恆（新發現・高威脅）",
-      "detail": "經典機甲IP改編，擁有廣大粉絲基礎，且由大廠相關公司發行。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-15T06:55:37.707604+00:00"
-    },
-    {
-      "id": "brief-20261115-1938e1c9",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "咒術迴戰：幻影遊行（新發現・高威脅）",
-      "detail": "頂級動漫IP改編，且由大廠相關公司發行，預期將吸引大量粉絲。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-15T06:55:37.707604+00:00"
-    },
-    {
-      "id": "brief-20261115-6b2f51ea",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "學園偶像大師（新發現・高威脅）",
-      "detail": "知名大廠Cygames相關，且為日本國民級偶像IP新作，在二次元市場具備高影響力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-15T06:55:37.707604+00:00"
-    },
-    {
-      "id": "brief-20261115-98b5c843",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "《GTA6》PS5實體版搶先開箱",
-      "detail": "11/19推出，隨附遊戲下載代碼與雙面海報",
-      "action": "準備迎接GTA6上市",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-15T06:53:11.564969+00:00"
     }
   ]
 }
