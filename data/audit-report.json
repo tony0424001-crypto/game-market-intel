@@ -1,63 +1,57 @@
 {
-  "lastAudit": "2026-11-19T07:44:27.405311+00:00",
-  "totalProducts": 776,
-  "updatesApplied": 62,
-  "issuesFound": 6,
+  "lastAudit": "2026-11-20T07:35:16.323810+00:00",
+  "totalProducts": 784,
+  "updatesApplied": 51,
+  "issuesFound": 5,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "暗黑地牢2",
+      "name": "太閤立志傳 亂世立身錄",
+      "status": "warning",
+      "issue": "狀態: pre-reg→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "守護我的大火箭",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "弧光獵人",
+      "name": "Way of the Hunter 2",
       "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
+      "issue": "狀態: cbt→live-ops",
       "autoFixed": true
     },
     {
-      "name": "Isle of Reveries",
+      "name": "Serious Sam: Shatterverse",
       "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
+      "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "Crimson Moon",
+      "name": "Phantom: PHANTOM OF INFERNO NITRO ARCHIVE",
       "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "The Walking Dead: Streets of Survival",
-      "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "Hazard Pay",
-      "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
+      "issue": "狀態: announced→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "无限守卫",
-    "我推的孩子 益智之星",
-    "Sanrio Kawaii Me Live!",
-    "暗黑地牢2",
-    "生存33天",
-    "弧光獵人",
-    "刺客信條：黑旗記憶重置",
-    "Isle of Reveries",
-    "Crimson Moon",
-    "The Walking Dead: Streets of Survival",
-    "Hazard Pay",
-    "ENDLESS Legend II",
-    "Project RX",
-    "水滸歷險 Online：重生",
-    "Caladrius２/Dark Element"
+    "蓋特之門",
+    "太閤立志傳 亂世立身錄",
+    "POP 紀元：文明爆走中",
+    "勇者鬥惡龍RPG 魔界樹與受命運指引之島",
+    "晃晃人生",
+    "恐龍機甲爭霸戰",
+    "航海王：壯志雄心",
+    "修仙時代",
+    "遠征：墮入黑暗",
+    "守護我的大火箭",
+    "血色序曲",
+    "Way of the Hunter 2",
+    "Serious Sam: Shatterverse",
+    "Phantom: PHANTOM OF INFERNO NITRO ARCHIVE",
+    "Moomintroll: Winter’s Warmth"
   ],
   "nextBatch": [
     "無限大",

@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-11-19T07:51:16.496585+00:00",
-  "fetchCount": 190,
+  "lastUpdated": "2026-11-20T07:38:33.977792+00:00",
+  "fetchCount": 191,
   "items": [
+    {
+      "id": "brief-20261120-9cf3d380",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Evil Bane（新發現・高威脅）",
+      "detail": "網石大廠出品，動作RPG類型，採用Unreal Engine 5，具備高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-20T07:38:33.977792+00:00"
+    },
+    {
+      "id": "brief-20261120-af7823f0",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "暗區突圍（新發現・高威脅）",
+      "detail": "騰訊自研硬核射擊手遊，市場表現強勁，具備高威脅性。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-20T07:38:33.977792+00:00"
+    },
+    {
+      "id": "brief-20261120-8a4ba1e3",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "魔靈召喚12週年",
+      "detail": "豪華任務活動，送召喚書",
+      "action": "立即參與活動",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-20T07:34:56.673097+00:00"
+    },
+    {
+      "id": "brief-20261120-9c1e75c0",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "萌混成仙今日上市",
+      "detail": "Q版仙俠RPG今日正式上市",
+      "action": "立即下載體驗",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-20T07:34:56.673097+00:00"
+    },
+    {
+      "id": "brief-20261120-cb8d4b9f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "失落方舟備戰月",
+      "detail": "終幕戰前暖身活動全面開跑",
+      "action": "參與備戰活動",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-20T07:34:56.673097+00:00"
+    },
     {
       "id": "brief-20261119-bbd8c68c",
       "priority": "urgent",
@@ -157,70 +212,15 @@
       "fetchedAt": "2026-11-17T08:16:49.708908+00:00"
     },
     {
-      "id": "brief-20261117-a9fa331e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "烈焰飛雪：徵戰（新發現・高威脅）",
-      "detail": "知名大廠中青寶開發的MMORPG，具備歷史IP背景和策略玩法。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-17T08:16:49.708908+00:00"
-    },
-    {
-      "id": "brief-20261117-ac341899",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA6預購營收",
-      "detail": "預購破14億美元，終極版佔87%",
-      "action": "了解遊戲市場潛力",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-11-17T08:12:09.115220+00:00"
-    },
-    {
-      "id": "brief-20261117-be588aa3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "NBA 2K27聯名GTA6",
-      "detail": "推出罪惡市賽季，跨界合作引熱議",
-      "action": "關注跨界聯名活動",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-11-17T08:12:09.115220+00:00"
-    },
-    {
-      "id": "brief-20261117-2666d91d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "劍俠情緣3國際版",
-      "detail": "年度資料片「蒼生鑄世」今日推出",
-      "action": "體驗全新資料片內容",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-17T08:12:09.115220+00:00"
-    },
-    {
-      "id": "brief-20261117-a63eddfe",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "FF14黃金遺產",
-      "detail": "推付費跳劇情與史上最長免費登入",
-      "action": "考慮回歸或加入遊戲",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-11-17T08:12:09.115220+00:00"
-    },
-    {
-      "id": "brief-20261119-d683d07b",
+      "id": "brief-20261120-b6dbc4fc",
       "priority": "watch",
       "icon": "👁",
-      "title": "魔物獵人崛起Netflix",
-      "detail": "11/24雙平台推出，需Netflix會員",
-      "action": "準備訂閱遊玩",
+      "title": "三國謀定天下亞洲盃",
+      "detail": "亞洲盃開戰，火鳳燎原聯動回歸",
+      "action": "準備參戰領獎",
       "platform": "mobile",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-19T07:44:15.204507+00:00"
+      "fetchedAt": "2026-11-20T07:34:56.673097+00:00"
     }
   ]
 }

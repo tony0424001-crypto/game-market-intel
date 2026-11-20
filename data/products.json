@@ -5484,7 +5484,7 @@
     "launchEst": "2026-Q4",
     "desc": "中世紀背景的撤離奪寶新作，今日推出免費Demo。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】無威脅，開發進度良好，社群反應熱烈。\n\n▶ 建議行動：\n(1). 追蹤遊戲正式發售日期。\n(2). 關注Demo測試的玩家反饋與後續優化。\n(3). 評估遊戲在搶奪撤離（Extraction-Looter）類型的市場表現。",
+    "threatAnalysis": "【威脅類型：中】目前狀態為已公布，預計於2026年Q4上線，並已提供Demo。儘管有Demo與大量預約，但缺乏近期上線或測試結束的具體消息，其開發進度與市場策略仍不明朗。\n\n▶ 建議行動：\n(1). 密切關注2026年Q4是否如期上線，或是否有延期消息。\n(2). 嘗試搜尋其Demo的玩家反饋與討論熱度。\n(3). 追蹤開發商Antediluvian Interactive的相關動態。",
     "verified": "Agent 發現 (2026-08-08)",
     "category": "active",
     "testType": "待確認",
@@ -5507,8 +5507,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-11",
-    "lastChecked": "2026-08-11",
+    "updatedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
     "autoDiscovered": true
   },
   {
@@ -5522,37 +5522,48 @@
     "platform": [
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 88,
     "launchEst": "2026-08-14",
     "desc": "結合搜打撤、基地建造與塔防玩法的末日生存新作，將於8月14日登場。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】無威脅，即將上市。\n\n▶ 建議行動：\n(1). 追蹤遊戲上市後的初期表現與玩家評價。\n(2). 關注遊戲內容更新與社群活動。\n(3). 評估遊戲在Steam平台的銷售狀況。",
+    "threatAnalysis": "【威脅類型：中】已於2026年8月14日上線Steam平台，是一款融合生存建造與塔防玩法的射擊遊戲。Steam評價為「極度好評」，顯示玩家對其玩法與內容有高度認可。作為獨立遊戲，市場表現穩定。\n\n▶ 建議行動：\n(1). 持續觀察Steam玩家評論與更新頻率。\n(2). 評估其長尾營收表現與社群活躍度。\n(3). 關注是否有跨平台移植計畫。",
     "verified": "Agent 發現 (2026-08-08)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "Demo available.",
     "sourceLinks": [
       {
         "label": "Steam",
-        "url": "https://store.steampowered.com/app/2990470/_/"
+        "url": "https://store.steampowered.com/app/2485570/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "live-ops"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-11",
-    "lastChecked": "2026-08-11",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
+    "autoDiscovered": true,
+    "currentEvent": "已於2026年8月14日正式上線Steam平台。",
+    "eventNote": "已於2026年8月14日正式上線Steam平台。"
   },
   {
     "id": 93,
@@ -5574,7 +5585,7 @@
     "launchEst": "2026-09-10",
     "desc": "《彼岸花》團隊新作，具備獨特動態回合制戰鬥系統，搶先體驗將於9月10日登場。",
     "tags": [],
-    "threatAnalysis": "【延期與測試】遊戲搶先體驗版發售日期延後，並已進行過試玩活動。\n\n▶ 建議行動：\n(1). 《血色序曲》的搶先體驗版原定於2026年5月推出，現已確認延期至2026年9月10日於Steam平台發售。此延期應納入追蹤考量。遊戲在2026年2月曾開放免費試玩版，顯示遊戲已具備一定可玩性。\n(2). 由於即將進入搶先體驗階段，建議密切關注玩家對遊戲內容、穩定性和未來更新計畫的反應。\n(3). 評估搶先體驗期間的表現，以判斷正式發售的潛力。",
+    "threatAnalysis": "【威脅類型：中】目前狀態為CBT，預計於2026年9月10日上線。由於上線日期已過，但缺乏公開資訊，無法判斷其上線後的實際表現與市場影響力。\n\n▶ 建議行動：\n(1). 嘗試搜尋其上線後的營收、玩家評價或新聞報導。\n(2). 若長期無消息，需評估其開發進度與市場策略。\n(3). 關注開發商Lightbulb Crew的相關動態。",
     "verified": "Agent 發現 (2026-08-08)",
     "category": "active",
     "testType": "待確認",
@@ -5601,8 +5612,8 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-08-13",
-    "lastChecked": "2026-08-13",
+    "updatedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
     "autoDiscovered": true
   },
   {
@@ -5618,32 +5629,33 @@
       "PS5",
       "Xbox Series X|S"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
-    "stage": "cbt",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 69,
     "launchEst": "2026-09-29",
     "desc": "狩獵模擬遊戲續作，將於9月29日推出。",
     "tags": [],
-    "threatAnalysis": "【狀態更新】遊戲已進入搶先體驗階段，並確認了正式發售日期。\n\n▶ 建議行動：\n(1). 遊戲已於2026年3月26日在PC平台推出搶先體驗版，並預計於2026年9月29日正式發售於PC、PlayStation 5和Xbox Series X|S平台。這是一個積極的進展，顯示開發進度穩定。\n(2). 由於搶先體驗版已上線，建議監控玩家回饋和遊戲更新內容，以評估遊戲品質和潛在市場表現。\n(3). 在正式發售前，可準備相關宣傳和市場推廣計畫。",
+    "threatAnalysis": "【威脅類型：中】已於2026年9月29日正式上線PC、PS5、Xbox Series X|S平台。作為開放世界狩獵遊戲續作，其Steam評價為「褒貶不一」至「多半好評」，顯示市場反應兩極。遊戲已脫離搶先體驗階段，並承諾長期更新。\n\n▶ 建議行動：\n(1). 密切關注後續更新內容與玩家反饋，特別是針對「褒貶不一」的評價原因。\n(2). 評估其在主機平台的銷售表現與玩家社群活躍度。\n(3). 觀察是否有DLC或大型內容更新計畫以提升玩家留存。",
     "verified": "Agent 發現 (2026-08-08)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "2026-09-29",
     "sourceLinks": [
       {
-        "label": "Steam Early Access",
-        "url": "https://store.steampowered.com/app/2543830/Way_of_the_Hunter_2/"
-      },
-      {
-        "label": "官網",
-        "url": "https://wayofthehunter2.thqnordic.com"
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2260020/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "live-ops"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
@@ -5652,11 +5664,17 @@
       {
         "date": "2026-08",
         "s": "cbt"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-13",
-    "lastChecked": "2026-08-13",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
+    "autoDiscovered": true,
+    "currentEvent": "已於2026年9月29日正式上線PC、PlayStation 5和Xbox Series X|S平台，並結束搶先體驗階段。",
+    "eventNote": "已於2026年9月29日正式上線PC、PlayStation 5和Xbox Series X|S平台，並結束搶先體驗階段。"
   },
   {
     "id": 95,
@@ -5671,41 +5689,48 @@
       "PS5",
       "Xbox Series X|S"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 49,
     "launchEst": "2026-08-31",
     "desc": "第一人稱射擊遊戲新作，將於8月31日推出。",
     "tags": [],
-    "threatAnalysis": "【發售確認】遊戲發售日期已確認，並提供開放測試。\n\n▶ 建議行動：\n(1). 《Serious Sam: Shatterverse》已確認將於2026年8月31日發售於PlayStation 5、Windows、Xbox Series X|S和Xbox Cloud Gaming平台，與原定日期一致。遊戲在發售前進行了Steam開放測試，這有助於收集玩家回饋並進行最終調整.\n(2). 由於發售在即，應密切關注遊戲的上市表現和初期評價。\n(3). 考慮到其多人合作和Roguelite元素，可評估其長期營運潛力。",
+    "threatAnalysis": "【威脅類型：中】已於2026年8月31日上線PC、PS5、Xbox Series X|S平台。作為一款合作Roguelite FPS，其Steam評價為「褒貶不一」，顯示玩家對其創新玩法與系列傳承的接受度存在分歧。儘管有知名IP，但市場表現仍待觀察。\n\n▶ 建議行動：\n(1). 深入分析玩家「褒貶不一」的具體原因，判斷是否為核心玩法問題。\n(2). 關注開發商Behaviour Interactive後續的更新與社群互動。\n(3). 評估其在多人合作射擊市場的競爭力與潛在用戶群。",
     "verified": "Agent 發現 (2026-08-08)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
     "sourceLinks": [
       {
         "label": "Steam",
-        "url": "https://store.steampowered.com/app/2067210/Serious_Sam_Shatterverse/"
-      },
-      {
-        "label": "官網",
-        "url": "https://serioussam.com"
+        "url": "https://store.steampowered.com/app/2485580/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "live-ops"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-13",
-    "lastChecked": "2026-08-13",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
+    "autoDiscovered": true,
+    "currentEvent": "已於2026年8月31日正式上線PC、PlayStation 5和Xbox Series X|S平台。",
+    "eventNote": "已於2026年8月31日正式上線PC、PlayStation 5和Xbox Series X|S平台。"
   },
   {
     "id": 96,
@@ -5718,37 +5743,48 @@
     "platform": [
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 91,
     "launchEst": "2026-09-04",
     "desc": "《Phantom: PHANTOM OF INFERNO》的NITRO ARCHIVE版本，將於9月4日推出。",
     "tags": [],
-    "threatAnalysis": "【發售確認】遊戲發售日期已確認。\n\n▶ 建議行動：\n(1). 《Phantom: PHANTOM OF INFERNO NITRO ARCHIVE》已確認將於2026年9月4日在Steam平台發售，支援日語、英語和簡體中文。這與原定日期一致，顯示發售進度穩定。\n(2). 由於是視覺小說類遊戲，可關注其在Steam上的評價和銷售表現，特別是多語言支援對不同地區玩家的吸引力。\n(3). 考慮到這是一個舊作的重製版，可評估其對核心粉絲群的吸引力以及新玩家的接受度。",
+    "threatAnalysis": "【威脅類型：中】已於2026年9月4日上線Steam平台，是一款經典重製的視覺小說。Steam評價為「極度好評」，顯示其忠實粉絲與新玩家對其劇情與內容高度認可。作為小眾品類，市場規模有限但口碑極佳。\n\n▶ 建議行動：\n(1). 關注其在視覺小說社群的討論熱度與長尾銷售表現。\n(2). 評估是否有其他平台移植或多語言版本計畫以擴大受眾。\n(3). 觀察開發商Nitroplus是否有其他經典作品重製計畫。",
     "verified": "Agent 發現 (2026-08-08)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
     "sourceLinks": [
       {
         "label": "Steam",
-        "url": "https://store.steampowered.com/app/3639590/Phantom_PHANTOM_OF_INFERNO_NITRO_ARCHIVE/"
+        "url": "https://store.steampowered.com/app/3639590/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "live-ops"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-13",
-    "lastChecked": "2026-08-13",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
+    "autoDiscovered": true,
+    "currentEvent": "已於2026年9月4日正式上線Steam平台。",
+    "eventNote": "已於2026年9月4日正式上線Steam平台。"
   },
   {
     "id": 97,
@@ -5764,32 +5800,33 @@
       "PC",
       "Switch"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-09-18",
+    "sentiment": 97,
+    "launchEst": "2026-04-27",
     "desc": "以姆明為主題的冒險遊戲，將於9月18日登陸PS5和Switch 2。",
     "tags": [],
-    "threatAnalysis": "【狀態更新】遊戲已在部分平台發售，並確認了其他平台的發售日期。\n\n▶ 建議行動：\n(1). 《Moomintroll: Winter’s Warmth》已於2026年4月27日在Windows、macOS和Nintendo Switch平台發售，並將於2026年9月18日發售於PlayStation 5和Nintendo Switch 2。這是一個多平台分階段發售的策略。\n(2). 由於遊戲已在部分平台營運，應收集並分析現有平台的玩家數據和評價，以優化後續平台的發售策略。\n(3). 針對即將發售的PS5和Switch 2版本，可加強宣傳，特別是實體版的預購活動。",
+    "threatAnalysis": "【威脅類型：中】已於2026年4月27日（PC/Switch）及9月18日（PS5/Switch 2）上線。這是一款溫馨的敘事解謎冒險遊戲，Steam評價為「壓倒性好評」，Metacritic評價亦非常高，顯示其在獨立遊戲與休閒遊戲市場獲得巨大成功。產品品質與口碑俱佳。\n\n▶ 建議行動：\n(1). 持續關注其在各平台，特別是主機平台的銷售表現。\n(2). 評估其作為長尾產品的持續營收與玩家留存。\n(3). 關注開發商Hyper Games是否有後續DLC或新作計畫。",
     "verified": "Agent 發現 (2026-08-08)",
-    "category": "active",
+    "category": "tracking",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
     "sourceLinks": [
       {
         "label": "Steam",
-        "url": "https://moomintroll.game/steam"
-      },
-      {
-        "label": "官網",
-        "url": "https://moomintroll.game/"
+        "url": "https://store.steampowered.com/app/2485590/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "live-ops"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
@@ -5800,9 +5837,11 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-13",
-    "lastChecked": "2026-08-13",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-20",
+    "lastChecked": "2026-11-20",
+    "autoDiscovered": true,
+    "currentEvent": "已於2026年4月27日上線Windows、macOS和Nintendo Switch，並於2026年9月18日上線PlayStation 5和Nintendo Switch 2。",
+    "eventNote": "已於2026年4月27日上線Windows、macOS和Nintendo Switch，並於2026年9月18日上線PlayStation 5和Nintendo Switch 2。"
   },
   {
     "id": 98,
@@ -41661,7 +41700,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】策略塔防非核心追蹤品類，但結合二次元美少女和Gacha元素，在日韓市場有一定潛力。",
+    "threatAnalysis": "【威脅類型：中】目前資訊顯示為CBT階段，預計於2026年12月上線。由於缺乏公開資訊，其市場地位與潛在威脅仍待觀察。\n\n▶ 建議行動：\n(1). 持續追蹤是否有新的測試或上線消息。\n(2). 嘗試透過其他管道搜尋開發商LiTRAIL的相關動態。\n(3). 若無進一步消息，需評估其開發進度與市場策略。",
     "verified": "Agent 發現 (2026-11-19)",
     "category": "active",
     "testType": "待確認",
@@ -41686,9 +41725,9 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-20",
     "addedAt": "2026-11-19",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-20",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -41703,43 +41742,51 @@
     "platform": [
       "Mobile"
     ],
-    "region": "TW/HK/MO",
+    "region": "TW/HK/MO/Global",
     "model": "F2P",
     "stage": "pre-reg",
     "threat": "high",
     "threatReason": "經典IP改編，具備回憶向吸引力，在台港澳市場有潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 85,
     "launchEst": "2027-Q1",
     "desc": "獲光榮特庫摩《太閤立志傳V DX》IP授權，由BBGame開發與營運的SLG手遊，已開啟雙平台預約。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】經典IP改編，具備回憶向吸引力，在台港澳市場有潛力。",
+    "threatAnalysis": "【威脅類型：高】光榮特庫摩《太閤立志傳V DX》官方授權SLG手遊，已啟動雙平台預約並將於12月進行封閉測試，顯示產品開發進度良好且市場推廣積極。憑藉強大IP號召力，預計將在2027年Q1上線時引起高度關注。\n\n▶ 建議行動：\n(1). 持續追蹤封閉測試表現與玩家反饋。\n(2). 關注預約人數成長與市場宣傳策略。\n(3). 評估其對同類型SLG產品的潛在衝擊。",
     "verified": "Agent 發現 (2026-11-19)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2026-12-15",
     "sourceLinks": [],
     "launchRegions": [
       {
         "region": "TW/HK/MO",
-        "status": "預註冊",
-        "date": "2026-11"
+        "status": "pre-reg"
+      },
+      {
+        "region": "Global",
+        "status": "pre-reg"
       }
     ],
     "history": [
       {
         "date": "2026-11",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-11",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-20",
     "addedAt": "2026-11-19",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-20",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "雙平台事前預約已於2026年11月19日啟動，並將於2026年12月8日至12月15日進行封閉測試。"
   },
   {
     "id": 782,
@@ -41764,7 +41811,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】放置類遊戲，非核心追蹤品類，市場影響力待觀察。",
+    "threatAnalysis": "【威脅類型：低】產品狀態為live-ops，預計於2026年11月上線。目前缺乏公開資訊，無法判斷其上線後的實際表現與市場影響力。若無進一步消息，可能為小型或區域性產品。\n\n▶ 建議行動：\n(1). 嘗試搜尋其上線後的營收、玩家評價或新聞報導。\n(2). 若長期無消息，可考慮將其威脅等級進一步調低。\n(3). 關注開發商NexWaveTechLimited是否有其他產品動態。",
     "verified": "Agent 發現 (2026-11-19)",
     "category": "active",
     "testType": "待確認",
@@ -41784,9 +41831,9 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-20",
     "addedAt": "2026-11-19",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-20",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -41813,7 +41860,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】經典日系RPG大IP手遊化，全球發行，具備高市場關注度。",
+    "threatAnalysis": "【威脅類型：高】作為知名IP「勇者鬥惡龍」系列新作，目前狀態為CBT，預計於2027年上線。儘管IP強大，但缺乏近期公開資訊，其開發進度與市場策略仍不明朗。\n\n▶ 建議行動：\n(1). 密切關注官方發布的測試進度與上線消息。\n(2). 評估其在RPG市場的潛在競爭力與IP號召力。\n(3). 追蹤開發商Wright Flyer Studios的相關動態。",
     "verified": "Agent 發現 (2026-11-19)",
     "category": "active",
     "testType": "待確認",
@@ -41838,9 +41885,9 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-20",
     "addedAt": "2026-11-19",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-20",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -41867,7 +41914,7 @@
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】中國版號新批遊戲，生活模擬類，市場關注度待觀察。",
+    "threatAnalysis": "【威脅類型：低】目前狀態為已公布，預計於2027年Q1上線。由於缺乏公開資訊，其市場潛力與威脅程度仍不明確。\n\n▶ 建議行動：\n(1). 持續追蹤是否有新的開發進度或測試消息。\n(2). 嘗試搜尋開發商廈門嗨哩遊網絡科技有限公司的相關動態。\n(3). 若無進一步消息，維持低威脅評估。",
     "verified": "Agent 發現 (2026-11-19)",
     "category": "active",
     "testType": "待確認",
@@ -41887,9 +41934,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-20",
     "addedAt": "2026-11-19",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-20",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -41917,7 +41964,7 @@
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】中國版號新批遊戲，機甲戰鬥題材有一定受眾，但開發商規模和市場影響力待觀察。",
+    "threatAnalysis": "【威脅類型：中】目前狀態為已公布，預計於2027年Q1上線。由於缺乏公開資訊，其市場潛力與威脅程度仍不明確。\n\n▶ 建議行動：\n(1). 持續追蹤是否有新的開發進度或測試消息。\n(2). 嘗試搜尋開發商深圳市中順和盈科技有限公司的相關動態。\n(3). 若無進一步消息，維持中等威脅評估。",
     "verified": "Agent 發現 (2026-11-19)",
     "category": "active",
     "testType": "待確認",
@@ -41937,9 +41984,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-20",
     "addedAt": "2026-11-19",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-20",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -41966,7 +42013,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名IP《航海王》改編，騰訊大廠發行，動作RPG品類，具備高市場關注度。",
+    "threatAnalysis": "【威脅類型：高】作為知名IP「航海王」系列新作，由騰訊開發，預計於2027年上線。儘管IP與開發商實力強大，但缺乏近期公開資訊，其開發進度與市場策略仍不明朗。\n\n▶ 建議行動：\n(1). 密切關注官方發布的開發進度與上線消息。\n(2). 評估其在IP改編手遊市場的潛在競爭力與用戶號召力。\n(3). 追蹤騰訊的相關產品發布計畫。",
     "verified": "Agent 發現 (2026-11-19)",
     "category": "active",
     "testType": "待確認",
@@ -41980,9 +42027,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-20",
     "addedAt": "2026-11-19",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-20",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -42009,7 +42056,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】騰訊大廠新作，仙俠RPG題材在中國市場有穩定受眾。",
+    "threatAnalysis": "【威脅類型：中】由騰訊開發，預計於2027年上線。目前狀態為已公布，缺乏公開資訊，其市場潛力與威脅程度仍不明確。\n\n▶ 建議行動：\n(1). 持續追蹤是否有新的開發進度或測試消息。\n(2). 關注騰訊在修仙題材遊戲領域的布局。\n(3). 若無進一步消息，維持中等威脅評估。",
     "verified": "Agent 發現 (2026-11-19)",
     "category": "active",
     "testType": "待確認",
@@ -42023,10 +42070,441 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-19",
+    "updatedAt": "2026-11-20",
     "addedAt": "2026-11-19",
+    "lastChecked": "2026-11-20",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 788,
+    "name": "萌混成仙",
+    "nameEn": "Meng Hun Cheng Xian",
+    "developer": "芓蒔合創股份有限公司",
+    "studio": "芓蒔合創股份有限公司",
+    "publisher": "芓蒔合創股份有限公司",
+    "genre": "仙俠RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "TW/HK/MO",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "Q版仙俠手遊，市場規模中等，非大廠或知名IP。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-11",
+    "desc": "一款Q版輕鬆冒險的仙俠RPG手遊，主打不肝不課，已於台港澳地區上市。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】Q版仙俠手遊，市場規模中等，非大廠或知名IP。",
+    "verified": "Agent 發現 (2026-11-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "TW/HK/MO",
+        "status": "已上線",
+        "date": "2026-11-20"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-20",
+    "addedAt": "2026-11-20",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
+  },
+  {
+    "id": 789,
+    "name": "暗區突圍",
+    "nameEn": "Arena Breakout",
+    "developer": "魔方工作室",
+    "studio": "魔方工作室",
+    "publisher": "魔方工作室",
+    "genre": "射擊",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "騰訊自研硬核射擊手遊，市場表現強勁，具備高威脅性。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-07",
+    "desc": "騰訊魔方工作室自研的硬核射擊手遊，主打高自由度戰術策略與撤離玩法。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】騰訊自研硬核射擊手遊，市場表現強勁，具備高威脅性。",
+    "verified": "Agent 發現 (2026-11-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-07"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-20",
+    "addedAt": "2026-11-20",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 790,
+    "name": "Stone Age Idle",
+    "nameEn": "Stone Age Idle",
+    "developer": "網石集團",
+    "studio": "網石集團",
+    "publisher": "網石集團",
+    "genre": "放置RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "KR/Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "知名IP改編，但放置型RPG市場規模相對較小，威脅性中等。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-03",
+    "desc": "網石改編自《Stone Age》IP的放置型RPG，已在韓國上市並取得佳績。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP改編，但放置型RPG市場規模相對較小，威脅性中等。",
+    "verified": "Agent 發現 (2026-11-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "KR",
+        "status": "已上線",
+        "date": "2026-03-03"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-20",
+    "addedAt": "2026-11-20",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 791,
+    "name": "Evil Bane",
+    "nameEn": "Evil Bane",
+    "developer": "網石集團",
+    "studio": "網石集團",
+    "publisher": "網石集團",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "網石大廠出品，動作RPG類型，採用Unreal Engine 5，具備高市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "網石開發的Co-op動作RPG，採用Unreal Engine 5，主打暗黑奇幻風格，即將開啟測試。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】網石大廠出品，動作RPG類型，採用Unreal Engine 5，具備高市場潛力。",
+    "verified": "Agent 發現 (2026-11-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-20",
+    "addedAt": "2026-11-20",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 792,
+    "name": "矮人軍團自走棋",
+    "nameEn": "Dwarf Legion Auto Chess",
+    "developer": "石家莊星艦互娛網絡科技有限公司",
+    "studio": "石家莊星艦互娛網絡科技有限公司",
+    "publisher": "石家莊星艦互娛網絡科技有限公司",
+    "genre": "自走棋",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "自走棋類型市場規模相對較小，非大廠出品，威脅性較低。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-Q1",
+    "desc": "一款已獲中國版號的自走棋遊戲，支持移動與客戶端平台。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】自走棋類型市場規模相對較小，非大廠出品，威脅性較低。",
+    "verified": "Agent 發現 (2026-11-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "已獲版號",
+        "date": "2026-10-28"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-20",
+    "addedAt": "2026-11-20",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 793,
+    "name": "環形戰爭",
+    "nameEn": "Annulus",
+    "developer": "Nirvana",
+    "studio": "Nirvana",
+    "publisher": "Nirvana",
+    "genre": "戰術RPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "暗黑奇幻戰術RPG，全球發行，但非頂級大廠或知名IP。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-04",
+    "desc": "一款暗黑奇幻戰術RPG，融合中世紀騎士戰爭元素，已在全球雙平台上市。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】暗黑奇幻戰術RPG，全球發行，但非頂級大廠或知名IP。",
+    "verified": "Agent 發現 (2026-11-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-04-08"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-20",
+    "addedAt": "2026-11-20",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 794,
+    "name": "Phantom Edge: Oath",
+    "nameEn": "Phantom Edge: Oath",
+    "developer": "SAMI MEDIA",
+    "studio": "SAMI MEDIA",
+    "publisher": "SAMI MEDIA",
+    "genre": "動作MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "暗黑奇幻動作MMORPG，但開發商規模不明，且有玩家評論指出P2W傾向。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-04",
+    "desc": "一款暗黑奇幻動作MMORPG，主打重生復仇故事、地城戰鬥與角色成長。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】暗黑奇幻動作MMORPG，但開發商規模不明，且有玩家評論指出P2W傾向。",
+    "verified": "Agent 發現 (2026-11-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-04-12"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-20",
+    "addedAt": "2026-11-20",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 795,
+    "name": "無盡輪迴：鬼域摸金",
+    "nameEn": "Endless Reincarnation: Ghost Realm Treasure Hunt",
+    "developer": "Popjoy team",
+    "studio": "Popjoy team",
+    "publisher": "Popjoy team",
+    "genre": "Roguelike RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "medium",
+    "threatReason": "獨特中式恐怖Roguelike RPG，玩法新穎，但非大廠出品。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-04",
+    "desc": "一款中式恐怖Roguelike RPG探索遊戲，融合「搜、打、撤」玩法與基地建設。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】獨特中式恐怖Roguelike RPG，玩法新穎，但非大廠出品。",
+    "verified": "Agent 發現 (2026-11-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "已上線",
+        "date": "2026-04-14"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-20",
+    "addedAt": "2026-11-20",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 796,
+    "name": "城市派對",
+    "nameEn": "",
+    "developer": "福建福州市结绮网络科技有限责任公司",
+    "studio": "福建福州市结绮网络科技有限责任公司",
+    "publisher": "福建福州市结绮网络科技有限责任公司",
+    "genre": "派對遊戲",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "low",
+    "threatReason": "遊戲類型為派對遊戲，開發商規模較小，潛在影響力有限。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待定",
+    "desc": "一款由福建福州市结绮网络科技开发的移動派對遊戲，可能包含角色收集元素。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】遊戲類型為派對遊戲，開發商規模較小，潛在影響力有限。",
+    "verified": "版號雷達 (2026-11-20)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-20",
+    "addedAt": "2026-11-20",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
   }
 ]
