@@ -1,57 +1,63 @@
 {
-  "lastAudit": "2026-11-20T07:35:16.323810+00:00",
-  "totalProducts": 784,
-  "updatesApplied": 51,
-  "issuesFound": 5,
+  "lastAudit": "2026-11-21T07:29:59.034361+00:00",
+  "totalProducts": 793,
+  "updatesApplied": 66,
+  "issuesFound": 6,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "太閤立志傳 亂世立身錄",
+      "name": "萌混成仙",
       "status": "warning",
-      "issue": "狀態: pre-reg→pre-reg",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "守護我的大火箭",
+      "name": "暗區突圍",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "Evil Bane",
+      "status": "warning",
+      "issue": "狀態: announced→cbt",
+      "autoFixed": true
+    },
+    {
+      "name": "SPRAWL zero",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "Way of the Hunter 2",
+      "name": "漫威金鋼狼",
       "status": "warning",
-      "issue": "狀態: cbt→live-ops",
+      "issue": "狀態: pre-reg→live-ops",
       "autoFixed": true
     },
     {
-      "name": "Serious Sam: Shatterverse",
+      "name": "伊爾姆水晶",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "Phantom: PHANTOM OF INFERNO NITRO ARCHIVE",
-      "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: announced→announced",
       "autoFixed": true
     }
   ],
   "checked": [
-    "蓋特之門",
-    "太閤立志傳 亂世立身錄",
-    "POP 紀元：文明爆走中",
-    "勇者鬥惡龍RPG 魔界樹與受命運指引之島",
-    "晃晃人生",
-    "恐龍機甲爭霸戰",
-    "航海王：壯志雄心",
-    "修仙時代",
-    "遠征：墮入黑暗",
-    "守護我的大火箭",
-    "血色序曲",
-    "Way of the Hunter 2",
-    "Serious Sam: Shatterverse",
-    "Phantom: PHANTOM OF INFERNO NITRO ARCHIVE",
-    "Moomintroll: Winter’s Warmth"
+    "萌混成仙",
+    "暗區突圍",
+    "Stone Age Idle",
+    "Evil Bane",
+    "矮人軍團自走棋",
+    "環形戰爭",
+    "Phantom Edge: Oath",
+    "無盡輪迴：鬼域摸金",
+    "城市派對",
+    "百百",
+    "激戰 3",
+    "地平線：鋼鐵邊境",
+    "SPRAWL zero",
+    "漫威金鋼狼",
+    "伊爾姆水晶"
   ],
   "nextBatch": [
     "無限大",

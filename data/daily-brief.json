@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-11-20T07:38:33.977792+00:00",
-  "fetchCount": 191,
+  "lastUpdated": "2026-11-21T07:32:20.076272+00:00",
+  "fetchCount": 192,
   "items": [
+    {
+      "id": "brief-20261121-0a97b23d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "DNF 經典版（新發現・高威脅）",
+      "detail": "知名IP經典復刻，有望吸引大量老玩家回歸。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-21T07:32:20.076272+00:00"
+    },
+    {
+      "id": "brief-20261121-c3cdf004",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "地下城與勇士：Spirit（新發現・高威脅）",
+      "detail": "知名IP改編，3D動作RPG，Nexon大廠出品，全球發行潛力高。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-21T07:32:20.076272+00:00"
+    },
+    {
+      "id": "brief-20261121-2492ad24",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "少女前線：盧納西亞盟約（新發現・高威脅）",
+      "detail": "知名二次元IP新作，射擊玩法具備市場潛力，預期將吸引大量粉絲。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-21T07:32:20.076272+00:00"
+    },
+    {
+      "id": "brief-20261121-0e8c8679",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA6首日銷量破紀錄",
+      "detail": "狂賣3250萬套，創娛樂產品新高",
+      "action": "關注遊戲市場",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-21T07:29:36.870615+00:00"
+    },
+    {
+      "id": "brief-20261121-259f9382",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA6破紀錄與彩蛋",
+      "detail": "綜合評分99分，打破多項紀錄",
+      "action": "觀看電玩瘋報導",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-21T07:29:36.870615+00:00"
+    },
     {
       "id": "brief-20261120-9cf3d380",
       "priority": "urgent",
@@ -157,70 +212,15 @@
       "fetchedAt": "2026-11-18T07:48:41.278966+00:00"
     },
     {
-      "id": "brief-20261118-87aff685",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "TGA 2026入圍揭曉",
-      "detail": "GTA 6獲8項提名，任天堂發行商之冠",
-      "action": "關注TGA結果",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-18T07:46:06.077448+00:00"
-    },
-    {
-      "id": "brief-20261118-f290d024",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "台灣Google Play榜單",
-      "detail": "明日方舟：終末地奪年度最佳遊戲",
-      "action": "了解獲獎遊戲",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-18T07:46:06.077448+00:00"
-    },
-    {
-      "id": "brief-20261118-3cb17ec7",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA 6稱霸PS Store",
-      "detail": "上市前稱霸全球PS Store暢銷榜",
-      "action": "準備迎接上市",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-18T07:46:06.077448+00:00"
-    },
-    {
-      "id": "brief-20261117-f0a89416",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "美職籃瞬息（新發現・高威脅）",
-      "detail": "大型全球IP（NBA）改編，專注於移動平台，且在商業模式上有所創新（取消抽卡）。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-17T08:16:49.708908+00:00"
-    },
-    {
-      "id": "brief-20261117-b6314b4d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "實況足球在線（新發現・高威脅）",
-      "detail": "全球知名足球IP改編，由中國知名大廠網易運營，具備廣泛用戶基礎。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-17T08:16:49.708908+00:00"
-    },
-    {
-      "id": "brief-20261120-b6dbc4fc",
+      "id": "brief-20261121-ec26eb13",
       "priority": "watch",
       "icon": "👁",
-      "title": "三國謀定天下亞洲盃",
-      "detail": "亞洲盃開戰，火鳳燎原聯動回歸",
-      "action": "準備參戰領獎",
-      "platform": "mobile",
+      "title": "鳴潮 4.0版實機展示",
+      "detail": "新角色「安娜」、「露希爾」及機甲",
+      "action": "關注新版本內容",
+      "platform": "mobile/console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-20T07:34:56.673097+00:00"
+      "fetchedAt": "2026-11-21T07:29:36.870615+00:00"
     }
   ]
 }
