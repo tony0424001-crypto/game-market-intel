@@ -6160,16 +6160,16 @@
       "Xbox Series",
       "Switch 2"
     ],
-    "region": "待確認",
+    "region": "Global (PC)",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 85,
     "launchEst": "2026-10-14 (PC)",
     "desc": "一款休閒模擬遊戲，PC 版於 10 月 14 日上市，家機版則於 2027 年推出。",
     "tags": [],
-    "threatAnalysis": "【進度確認】《越過山丘》PC版發售日期已確認，主機版也已規劃。Steam Next Fest試玩版已結束，但開發者可能提供新的測試機會。\n\n▶ 建議行動：\n(1). 持續關注PC版上市表現及玩家回饋。\n(2). 留意主機版（PS5, Xbox Series X|S, Nintendo Switch 2）的具體發售日期公告。\n(3). 追蹤官方社群媒體，看是否有新的測試招募。",
+    "threatAnalysis": "【中等規模】《越過山丘》已於2026年10月14日在PC (Steam) 平台成功發售，並獲得玩家好評，被譽為「舒適的駕駛遊戲」和「和平的沙盒遊戲」。 遊戲在發售前願望單數量已突破120萬，顯示其市場潛力。 主機版預計於2027年推出。\n\n▶ 建議行動：\n(1). 持續追蹤PC版的銷售數據與玩家活躍度，評估其長期營收表現。\n(2). 關注主機版開發進度與發售策略，特別是Switch 2平台的表現。\n(3). 分析其獨特的「舒適越野」玩法是否能吸引更廣泛的休閒玩家群體。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
@@ -6177,11 +6177,24 @@
     "testDateEnd": "2026-06 (Steam Next Fest demo ended)",
     "sourceLinks": [
       {
-        "label": "Steam",
-        "url": "https://store.steampowered.com/app/2929250/over_the_hill/"
+        "label": "Steam商店頁面",
+        "url": "https://store.steampowered.com/app/2397980/over_the_hill/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "platform": "PC",
+        "region": "Global",
+        "status": "launched",
+        "date": "2026-10-14"
+      },
+      {
+        "platform": "PS5/Xbox Series/Switch 2",
+        "region": "Global",
+        "status": "announced",
+        "date": "2027"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
@@ -6190,11 +6203,16 @@
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-15",
-    "lastChecked": "2026-08-15",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-22",
+    "lastChecked": "2026-11-22",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲已於2026年10月14日在PC (Steam) 平台正式發售，並獲得良好評價。 主機版（PS5, Xbox Series X|S, Nintendo Switch 2）預計於2027年推出。"
   },
   {
     "id": 105,
@@ -6207,16 +6225,16 @@
     "platform": [
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global (PC)",
     "model": "F2P",
     "stage": "early-access",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2026-08-25 (PC Early Access)",
     "desc": "一款動作冒險遊戲，將於 8 月 25 日推出搶先體驗版。",
     "tags": [],
-    "threatAnalysis": "【進度確認】《1666：阿姆斯特丹》PC搶先體驗版即將上線，免費序章已可體驗。 雖然序章曾出現AI生成素材問題，但開發者已承諾修正。\n\n▶ 建議行動：\n(1). 密切關注搶先體驗版的內容更新與玩家評價。\n(2). 追蹤開發商對AI素材問題的後續處理。\n(3). 留意主機版（Xbox Series X, PS5）的開發進度與發售規劃。",
+    "threatAnalysis": "【中等規模】《1666：阿姆斯特丹》已於2026年8月25日在PC平台進入搶先體驗階段。 遊戲在Steam上獲得褒貶不一的評價，部分玩家反映優化問題。 開發團隊計畫於2026年12月推出首次重大內容更新，擴展遊戲內容。\n\n▶ 建議行動：\n(1). 密切關注其搶先體驗階段的更新內容與玩家反饋，特別是針對優化問題的改進。\n(2). 評估其內容更新頻率與品質，判斷其是否能持續吸引玩家。\n(3). 追蹤其完整版發售計畫與定價策略。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
@@ -6224,11 +6242,22 @@
     "testDateEnd": "2026-06-05 (Prologue demo released, still available)",
     "sourceLinks": [
       {
+        "label": "Steam商店頁面",
+        "url": "https://store.steampowered.com/app/4519690/1666_Amsterdam__Prologue/"
+      },
+      {
         "label": "Epic Games Store",
-        "url": "https://store.epicgames.com/zh-Hant/p/1666-amsterdam"
+        "url": "https://store.epicgames.com/p/1666-amsterdam-1666-amsterdam-prologue-ec3a88"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "platform": "PC",
+        "region": "Global",
+        "status": "early_access",
+        "date": "2026-08-25"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
@@ -6239,9 +6268,10 @@
         "s": "early-access"
       }
     ],
-    "updatedAt": "2026-08-15",
-    "lastChecked": "2026-08-15",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-22",
+    "lastChecked": "2026-11-22",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲已於2026年8月25日在PC平台進入搶先體驗（Early Access）階段。 免費序章已於2026年6月5日在Steam和Epic Games Store發布。 首次重大內容更新預計於2026年12月推出。"
   },
   {
     "id": 106,
@@ -6255,16 +6285,16 @@
       "PC",
       "PS5"
     ],
-    "region": "待確認",
+    "region": "Global (PS5, PC)",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 55,
     "launchEst": "2026-09-17 (PS5, PC)",
     "desc": "以機動警察為主題的 3D 動作遊戲，將於 9 月 17 日推出。",
     "tags": [],
-    "threatAnalysis": "【進度確認】《機動警察檔案》發售日期已明確，並將支援多語言。\n\n▶ 建議行動：\n(1). 關注遊戲上市後的市場反應與玩家評價。\n(2). 評估遊戲在不同地區的推廣策略。\n(3). 考慮是否需要針對繁體中文市場進行額外宣傳。",
+    "threatAnalysis": "【中等規模】《機動警察案件檔案》已於2026年9月17日在PS5與PC平台正式發售。 遊戲重現經典IP場景並提供雙視角體驗，但部分早期社群討論顯示評價褒貶不一。\n\n▶ 建議行動：\n(1). 追蹤遊戲發售後的實際銷售數據與玩家評價，特別是長期留存率。\n(2). 關注開發商Chime Corporation後續的更新計畫與DLC內容，以改善玩家體驗。\n(3). 評估其IP號召力是否能轉化為持續的市場熱度。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
@@ -6273,18 +6303,31 @@
     "sourceLinks": [
       {
         "label": "PlayStation Store",
-        "url": "https://store.playstation.com/"
+        "url": "https://store.playstation.com/ja-jp/product/JB1261-PPSA37629_00-PATLABOR00000001"
       },
       {
-        "label": "Steam",
-        "url": "https://store.steampowered.com/"
+        "label": "Steam商店頁面",
+        "url": "https://store.steampowered.com/app/3275400/"
       },
       {
         "label": "Epic Games Store",
-        "url": "https://store.epicgames.com/"
+        "url": "https://store.epicgames.com/p/patlabor-the-case-files-333cfe"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "platform": "PS5",
+        "region": "Global",
+        "status": "launched",
+        "date": "2026-09-17"
+      },
+      {
+        "platform": "PC",
+        "region": "Global",
+        "status": "launched",
+        "date": "2026-09-17"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
@@ -6293,11 +6336,16 @@
       {
         "date": "2026-08",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-15",
-    "lastChecked": "2026-08-15",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-22",
+    "lastChecked": "2026-11-22",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲已於2026年9月17日在PlayStation 5和PC (Steam, Epic Games Store) 平台正式發售。 PS5數位豪華版玩家於9月14日提前體驗。 遊戲支援多語言，包括繁體中文。"
   },
   {
     "id": 108,
@@ -6320,7 +6368,7 @@
     "launchEst": "N/A",
     "desc": "《歧路旅人》團隊表示尚未有新作消息，但已意識到玩家對《歧路旅人 III》的高度期待。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】資訊不足/開發進度不明\n\n▶ 描述：遊戲僅處於「已公布」狀態，開發商表示意識到玩家的高度期待，並承諾將「突破極限」，但目前沒有具體發布日期或開發進度細節。這可能意味著遊戲仍處於非常早期的開發階段，或開發團隊對發布時間持謹慎態度。\n\n▶ 建議行動：\n(1). 持續追蹤 Square Enix 官方新聞稿及開發者訪談，關注任何關於遊戲開發進度或潛在發布窗口的線索。\n(2). 留意遊戲展會（如 E3, TGS, Gamescom）上是否有任何新的預告片或資訊發布。\n(3). 評估市場對前作的反應及 Square Enix 其他 HD-2D 遊戲的發布策略，以預測可能的發布模式。",
+    "threatAnalysis": "【中等規模】作為Square Enix旗下知名JRPG系列《歧路旅人》的續作，儘管目前僅為公布狀態且缺乏具體消息，但其前作的成功與獨特美術風格使其具備一定市場期待。\n\n▶ 建議行動：\n(1). 持續關注Square Enix的官方發布會或遊戲展覽，以獲取更多資訊。\n(2). 追蹤其商標註冊或相關職位招聘動態，判斷遊戲進度。\n(3). 評估JRPG市場的整體趨勢與競爭情況。",
     "verified": "Agent 發現 (2026-08-12)",
     "category": "active",
     "testType": "待確認",
@@ -6334,8 +6382,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-17",
-    "lastChecked": "2026-08-17",
+    "updatedAt": "2026-11-22",
+    "lastChecked": "2026-11-22",
     "autoDiscovered": true
   },
   {
@@ -6351,23 +6399,48 @@
       "PS5",
       "Xbox Series"
     ],
-    "region": "待確認",
+    "region": "Global (PC, PS5, Xbox Series)",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2026-08-18",
+    "launchEst": "2026-08-18 (PC, PS5, Xbox Series)",
     "desc": "這是一款由 Frogwares 開發的生存恐怖新作，設定在 1920 年代的阿卡姆市，預計於 2026 年 8 月 18 日發售。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】無 (正面進展)\n\n▶ 描述：遊戲已確認將於 2026 年 8 月 18 日正式發布，豪華版玩家可於 8 月 17 日提前體驗。這是一個明確且正面的進展，顯示遊戲開發順利並即將上市。\n\n▶ 建議行動：\n(1). 密切關注遊戲上市後的初期表現、玩家評價及潛在的銷售數據。\n(2). 評估遊戲在各平台（PS5, PC, Xbox Series X/S）的表現，特別是 PC 平台的發布情況。\n(3). 準備上市後的內容更新或 DLC 追蹤，以評估其長期營運潛力。",
+    "threatAnalysis": "【中等規模】《沈沒之都 2》已於2026年8月18日在PC、PS5和Xbox Series平台正式發售。 遊戲從偵探冒險轉型為生存恐怖，並計畫於2027年推出Nintendo Switch 2版本。\n\n▶ 建議行動：\n(1). 追蹤遊戲發售後的實際銷售數據與玩家評價，特別是其新生存恐怖類型的市場接受度。\n(2). 關注Nintendo Switch 2版本的開發進度與發售策略。\n(3). 評估其在克蘇魯神話題材遊戲市場中的競爭地位。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2026-06-07 (Steam demo available)",
     "sourceLinks": [],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "platform": "PC",
+        "region": "Global",
+        "status": "launched",
+        "date": "2026-08-18"
+      },
+      {
+        "platform": "PS5",
+        "region": "Global",
+        "status": "launched",
+        "date": "2026-08-18"
+      },
+      {
+        "platform": "Xbox Series",
+        "region": "Global",
+        "status": "launched",
+        "date": "2026-08-18"
+      },
+      {
+        "platform": "Nintendo Switch 2",
+        "region": "Global",
+        "status": "announced",
+        "date": "2027"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
@@ -6378,9 +6451,10 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-17",
-    "lastChecked": "2026-08-17",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-22",
+    "lastChecked": "2026-11-22",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲已於2026年8月18日在PC、PS5和Xbox Series平台正式發售。 Nintendo Switch 2版本預計於2027年推出。"
   },
   {
     "id": 110,
@@ -6398,11 +6472,11 @@
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "",
     "desc": "這是一款由 Kniv Studio 開發，受柏青哥啟發的策略 Roguelike 新作，玩家將為了重獲自由而展開豪賭之路。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】資訊不足/發布日期未定\n\n▶ 描述：遊戲已公布，但發布日期仍為「待定」或「即將推出」。目前沒有關於測試階段的資訊，顯示遊戲可能仍在開發初期或中期，尚未進入公開測試階段。\n\n▶ 建議行動：\n(1). 持續追蹤 Kniv Studio 官方社群媒體及 Steam 商店頁面，留意任何發布日期或測試活動的更新。\n(2). 關注遊戲媒體對此類獨立 Roguelike 遊戲的報導，以獲取更多開發進度資訊。\n(3). 評估遊戲類型在市場上的潛力及同類遊戲的表現，以判斷其未來發展。",
+    "threatAnalysis": "【中等規模】目前僅為公布狀態，缺乏具體開發進度、測試或上線日期資訊。作為獨立開發商Kniv Studio的作品，其市場影響力仍待觀察。\n\n▶ 建議行動：\n(1). 持續關注Kniv Studio的官方社群媒體或獨立遊戲展會，以獲取最新消息。\n(2). 評估其美術風格與玩法是否具備獨特性，以吸引特定玩家群體。\n(3). 暫時維持中等威脅，若長期無消息則可能下調。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
@@ -6416,8 +6490,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-17",
-    "lastChecked": "2026-08-17",
+    "updatedAt": "2026-11-22",
+    "lastChecked": "2026-11-22",
     "autoDiscovered": true
   },
   {
@@ -6433,23 +6507,35 @@
       "PS5",
       "Xbox Series"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2028",
     "desc": "這是一款由 Elysium Game Studio 開發的賽博龐克動作角色扮演遊戲，設定在 2087 年的柏林，預計於 2028 年推出。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】無 (發布日期確認)\n\n▶ 描述：遊戲的發布日期已確認為 2028 年，並且將在 Gamescom 2026 上提供媒體試玩。這是一個明確的發布窗口，儘管比一些早期預期（2026年）晚，但提供了具體的規劃。\n\n▶ 建議行動：\n(1). 關注 Gamescom 2026 媒體試玩後的報導和評價，了解遊戲的實際品質和潛力。\n(2). 追蹤 Elysium Game Studio 的開發日誌或更新，以獲取更多關於遊戲內容和進度的資訊。\n(3). 評估 2028 年市場上同類型遊戲的競爭情況，為其上市做準備。",
+    "threatAnalysis": "【中等規模】《NEO BERLIN 2087》是一款賽博龐克題材的動作RPG，預計於2028年發售。 遊戲目前正在進行內部測試，並計畫未來開放更多玩家參與。 其故事驅動的玩法和獨特世界觀具備潛力。\n\n▶ 建議行動：\n(1). 持續關注開發團隊Elysium Game Studio的開發日誌與測試招募消息。\n(2). 評估賽博龐克題材遊戲的市場熱度與競爭態勢。\n(3). 追蹤其多語言支援計畫，判斷其全球市場策略。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "sourceLinks": [
+      {
+        "label": "Steam商店頁面",
+        "url": "https://store.steampowered.com/app/2485570/NEO_BERLIN_2087/"
+      }
+    ],
+    "launchRegions": [
+      {
+        "platform": "PC",
+        "region": "Global",
+        "status": "announced",
+        "date": "2028"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
@@ -6460,9 +6546,10 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-17",
-    "lastChecked": "2026-08-17",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-22",
+    "lastChecked": "2026-11-22",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲預計於2028年正式發售。 開發團隊正與QA公司合作進行測試，並計畫未來開放更多玩家參與。"
   },
   {
     "id": 112,
@@ -42633,25 +42720,30 @@
     "platform": [
       "Mobile"
     ],
-    "region": "TW/JP",
+    "region": "TW",
     "model": "F2P",
     "stage": "cbt",
     "threat": "medium",
     "threatReason": "經典IP改編，但貓咪主題可能受眾較小，且為策略模擬類。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "2027-Q1",
     "desc": "以貓咪為主題的《信長之野望》系列策略模擬手遊，目前在台灣進行封測。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】經典IP改編，但貓咪主題可能受眾較小，且為策略模擬類。",
+    "threatAnalysis": "【中等規模】光榮特庫摩IP授權新作手遊，已於台灣地區啟動CBT招募，顯示開發進度穩定。遊戲結合島嶼開拓、據點建設與策略合戰，具備一定潛力，但市場表現仍待觀察。\n\n▶ 建議行動：\n(1). 持續追蹤CBT反饋與後續測試計畫。\n(2). 關注遊戲社群討論熱度與玩家留存數據。\n(3). 評估其在台灣市場的初期表現與潛在競爭力。",
     "verified": "Agent 發現 (2026-11-21)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-11-20 (Taiwan CBT started)",
+    "sourceLinks": [
+      {
+        "label": "官方社群平台",
+        "url": "https://www.facebook.com/profile.php?id=61552328224578"
+      }
+    ],
     "launchRegions": [
       {
         "region": "TW",
@@ -42668,13 +42760,18 @@
       {
         "date": "2026-11",
         "s": "cbt"
+      },
+      {
+        "date": "2026-11",
+        "s": "cbt"
       }
     ],
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-22",
     "addedAt": "2026-11-21",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-22",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "台灣地區CBT（封閉測試）於2026年11月20日開始招募並進行。"
   },
   {
     "id": 798,
@@ -42699,7 +42796,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名二次元IP新作，射擊玩法具備市場潛力，預期將吸引大量粉絲。",
+    "threatAnalysis": "【具體威脅】作為知名IP《少女前線》的續作，儘管目前仍處於公布階段且缺乏最新消息，但憑藉其龐大的粉絲基礎和IP影響力，仍具備高度市場潛力。\n\n▶ 建議行動：\n(1). 持續關注官方社群媒體，留意任何測試或上線日期的公布。\n(2). 追蹤開發商Sunborn Network / Mica Team的其他專案進度。\n(3). 評估同類型二次元策略遊戲的市場動態，預判潛在競爭。",
     "verified": "Agent 發現 (2026-11-21)",
     "category": "active",
     "testType": "待確認",
@@ -42713,9 +42810,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-22",
     "addedAt": "2026-11-21",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-22",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -42737,13 +42834,13 @@
     "threat": "medium",
     "threatReason": "大廠莉莉絲新作，但生活模擬類別與其主流產品不同，仍待觀察。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "待確認",
     "desc": "莉莉絲遊戲開發的《動物森友會》風格生活模擬遊戲，強調社交與創造性。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】大廠莉莉絲新作，但生活模擬類別與其主流產品不同，仍待觀察。",
+    "threatAnalysis": "【中等規模】由知名開發商Lilith Games公布，但目前缺乏具體遊戲內容、測試或上線日期資訊。其威脅等級主要來自於開發商的實力與過往成功經驗。\n\n▶ 建議行動：\n(1). 密切關注Lilith Games的官方發布會或遊戲展覽，以獲取更多資訊。\n(2). 追蹤其商標註冊或相關職位招聘動態，判斷遊戲進度。\n(3). 評估Lilith Games近期發布的其他產品，了解其市場策略走向。",
     "verified": "Agent 發現 (2026-11-21)",
     "category": "active",
     "testType": "待確認",
@@ -42757,9 +42854,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-22",
     "addedAt": "2026-11-21",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-22",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -42780,13 +42877,13 @@
     "threat": "medium",
     "threatReason": "經典IP改編，但已在日本上線多年，全球發行影響力待觀察。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 50,
     "launchEst": "2027-01-21",
     "desc": "經典IP《機器人大戰》的移動版RPG，已在日本上線，預計2027年初全球發行。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】經典IP改編，但已在日本上線多年，全球發行影響力待觀察。",
+    "threatAnalysis": "【中等規模】目前公開資訊顯示狀態為「live-ops」但上線日期為2027年，存在資訊矛盾。搜尋結果未能找到關於此遊戲的具體公開消息或市場表現。\n\n▶ 建議行動：\n(1). 需進一步確認遊戲的實際開發進度與公開狀態。\n(2). 若為內部專案，則需等待官方正式公布更多資訊。\n(3). 暫時維持中等威脅，但若長期無公開消息，威脅等級可能下調。",
     "verified": "Agent 發現 (2026-11-21)",
     "category": "active",
     "testType": "待確認",
@@ -42806,9 +42903,9 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-22",
     "addedAt": "2026-11-21",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-22",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -42829,13 +42926,13 @@
     "threat": "medium",
     "threatReason": "大廠新作，但放置類遊戲競爭激烈，且IP來源不明。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2027-Q1",
     "desc": "Netmarble預計於2027年第一季推出的全明星放置RPG。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】大廠新作，但放置類遊戲競爭激烈，且IP來源不明。",
+    "threatAnalysis": "【中等規模】由Netmarble開發並已公布，預計於2027年第一季上線。目前缺乏具體測試或遊戲內容細節。\n\n▶ 建議行動：\n(1). 持續追蹤Netmarble的官方公告，特別是關於測試招募或遊戲特色介紹。\n(2). 關注其是否會利用知名IP，這將直接影響其市場威脅。\n(3). 評估放置類遊戲市場的競爭格局，判斷其潛在市場地位。",
     "verified": "Agent 發現 (2026-11-21)",
     "category": "active",
     "testType": "待確認",
@@ -42849,9 +42946,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-22",
     "addedAt": "2026-11-21",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-22",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -42872,13 +42969,13 @@
     "threat": "high",
     "threatReason": "知名IP改編，3D動作RPG，Nexon大廠出品，全球發行潛力高。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "待確認",
     "desc": "知名IP《地下城與勇士》的3D移動版動作RPG，計劃全球發行。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名IP改編，3D動作RPG，Nexon大廠出品，全球發行潛力高。",
+    "threatAnalysis": "【具體威脅】作為《地下城與勇士》這一超級IP的衍生作品，儘管目前仍處於公布階段且缺乏最新消息，但其IP號召力足以使其保持高威脅等級。\n\n▶ 建議行動：\n(1). 密切關注Nexon官方關於此作的任何開發進度或測試消息。\n(2). 評估其與同IP下其他作品（如《地下城與勇士：放置》）的市場區隔與潛在競爭。\n(3). 追蹤DNF IP在全球各地的市場表現，以預判其潛在影響力。",
     "verified": "Agent 發現 (2026-11-21)",
     "category": "active",
     "testType": "待確認",
@@ -42892,9 +42989,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-22",
     "addedAt": "2026-11-21",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-22",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
   },
@@ -42909,9 +43006,9 @@
     "platform": [
       "Mobile"
     ],
-    "region": "KR",
+    "region": "HK/MO/SG/MY/AU",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "medium",
     "threatReason": "知名IP衍生作，但放置類遊戲競爭激烈，且玩法與核心IP差異較大。",
     "prereg": null,
@@ -42921,31 +43018,42 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名IP衍生作，但放置類遊戲競爭激烈，且玩法與核心IP差異較大。",
+    "threatAnalysis": "【中等規模】《地下城與勇士：放置RPG》已於2026年8月27日至9月22日在港澳、新馬、澳洲地區成功完成公開測試。 測試結束後，遊戲資料已刪檔，預計將進入正式上線前的準備階段。 憑藉DNF的IP影響力，該作仍具備一定市場潛力。\n\n▶ 建議行動：\n(1). 密切關注NEXON Games關於正式上線日期與預註冊活動的公告。\n(2). 分析公開測試期間的玩家反饋與數據，評估遊戲的優化方向。\n(3). 評估其在目標地區的市場競爭力，特別是與其他放置類手遊的對比。",
     "verified": "Agent 發現 (2026-11-21)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-08-27~2026-09-22 (Public Playtest ended)",
+    "sourceLinks": [
+      {
+        "label": "Nexon官方網站",
+        "url": "https://aradidle.nexon.com/zh-Hant"
+      }
+    ],
     "launchRegions": [
       {
-        "region": "KR",
-        "status": "未上線",
-        "date": "2026-H2"
+        "platform": "Mobile",
+        "region": "HK/MO/SG/MY/AU",
+        "status": "public_playtest_ended",
+        "date": "2026-09-22"
       }
     ],
     "history": [
       {
         "date": "2026-11",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-22",
     "addedAt": "2026-11-21",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-22",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲於2026年8月27日至9月22日在香港、澳門、新加坡、馬來西亞與澳洲進行了公開測試。"
   },
   {
     "id": 804,
@@ -42965,13 +43073,13 @@
     "threat": "high",
     "threatReason": "知名IP經典復刻，有望吸引大量老玩家回歸。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "2027",
     "desc": "知名IP《地下城與勇士》的經典版本重啟，預計2027年推出。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名IP經典復刻，有望吸引大量老玩家回歸。",
+    "threatAnalysis": "【具體威脅】作為《地下城與勇士》經典版本的重製或回歸，此作擁有極高的IP忠誠度與市場期待。儘管目前仍處於公布階段，但其潛在影響力不容小覷。\n\n▶ 建議行動：\n(1). 密切關注Nexon官方關於此作的任何開發進度或測試消息。\n(2). 評估其與現有DNF版本及其他衍生作的市場定位與競爭關係。\n(3). 追蹤玩家社群對「經典版」的討論熱度與期待值。",
     "verified": "Agent 發現 (2026-11-21)",
     "category": "active",
     "testType": "待確認",
@@ -42985,8 +43093,57 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-21",
+    "updatedAt": "2026-11-22",
     "addedAt": "2026-11-21",
+    "lastChecked": "2026-11-22",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 805,
+    "name": "封神再臨",
+    "nameEn": "Investiture of the Gods Reborn",
+    "developer": "金山 (IP授權)",
+    "studio": "金山 (IP授權)",
+    "publisher": "金山 (IP授權)",
+    "genre": "MMORPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "經典IP改編，由知名廠商金山授權，MMORPG品類在中國市場有潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-Q4",
+    "desc": "一款基於經典《封神演義》IP深度拓展的MMORPG手遊，由金山正版授權，故事始於姜子牙封神之後的千年餘波。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】經典IP改編，由知名廠商金山授權，MMORPG品類在中國市場有潛力。",
+    "verified": "Agent 發現 (2026-11-22)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "未上線",
+        "date": "2026-Q4"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-22",
+    "addedAt": "2026-11-22",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"

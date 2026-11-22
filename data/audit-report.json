@@ -1,63 +1,51 @@
 {
-  "lastAudit": "2026-11-21T07:29:59.034361+00:00",
-  "totalProducts": 793,
-  "updatesApplied": 66,
-  "issuesFound": 6,
+  "lastAudit": "2026-11-22T07:12:22.906795+00:00",
+  "totalProducts": 801,
+  "updatesApplied": 55,
+  "issuesFound": 4,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "萌混成仙",
+      "name": "信喵之野望 天下布喵",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
+      "issue": "狀態: cbt→cbt",
       "autoFixed": true
     },
     {
-      "name": "暗區突圍",
+      "name": "地下城與勇士：放置",
       "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
+      "issue": "狀態: announced→pre-reg",
       "autoFixed": true
     },
     {
-      "name": "Evil Bane",
-      "status": "warning",
-      "issue": "狀態: announced→cbt",
-      "autoFixed": true
-    },
-    {
-      "name": "SPRAWL zero",
+      "name": "越過山丘",
       "status": "warning",
       "issue": "狀態: announced→live-ops",
       "autoFixed": true
     },
     {
-      "name": "漫威金鋼狼",
+      "name": "機動警察檔案",
       "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "伊爾姆水晶",
-      "status": "warning",
-      "issue": "狀態: announced→announced",
+      "issue": "狀態: announced→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "萌混成仙",
-    "暗區突圍",
-    "Stone Age Idle",
-    "Evil Bane",
-    "矮人軍團自走棋",
-    "環形戰爭",
-    "Phantom Edge: Oath",
-    "無盡輪迴：鬼域摸金",
-    "城市派對",
-    "百百",
-    "激戰 3",
-    "地平線：鋼鐵邊境",
-    "SPRAWL zero",
-    "漫威金鋼狼",
-    "伊爾姆水晶"
+    "信喵之野望 天下布喵",
+    "少女前線：盧納西亞盟約",
+    "Project Party",
+    "機器人大戰S",
+    "WB 全明星放置",
+    "地下城與勇士：Spirit",
+    "地下城與勇士：放置",
+    "DNF 經典版",
+    "越過山丘",
+    "1666：阿姆斯特丹",
+    "機動警察檔案",
+    "歧路旅人 III",
+    "沈沒之都 2",
+    "賭命兔女郎 High Roller Penny",
+    "NEO BERLIN 2087"
   ],
   "nextBatch": [
     "無限大",

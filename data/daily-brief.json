@@ -1,7 +1,29 @@
 {
-  "lastUpdated": "2026-11-21T07:32:20.076272+00:00",
-  "fetchCount": 192,
+  "lastUpdated": "2026-11-22T07:17:02.557437+00:00",
+  "fetchCount": 193,
   "items": [
+    {
+      "id": "brief-20261122-b54da2c1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "封神再臨（新發現・高威脅）",
+      "detail": "經典IP改編，由知名廠商金山授權，MMORPG品類在中國市場有潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-22T07:17:02.557437+00:00"
+    },
+    {
+      "id": "brief-20261122-6ada5690",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Neuralink玩GTA 6",
+      "detail": "腦內晶片實現意念操控遊戲",
+      "action": "關注科技發展",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-22T07:12:03.585324+00:00"
+    },
     {
       "id": "brief-20261121-0a97b23d",
       "priority": "urgent",
@@ -157,70 +179,48 @@
       "fetchedAt": "2026-11-19T07:44:15.204507+00:00"
     },
     {
-      "id": "brief-20261119-3e3937af",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "龍族拼圖緊急維護",
-      "detail": "加強安全防護，時間未定",
-      "action": "留意官方公告",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-19T07:44:15.204507+00:00"
-    },
-    {
-      "id": "brief-20261118-da8acddc",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "刺客信條：黑旗記憶重置（新發現・高威脅）",
-      "detail": "頂級IP《刺客信條》改編手遊，由騰訊發行，具備高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-18T07:48:41.278966+00:00"
-    },
-    {
-      "id": "brief-20261118-0e55be7c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "弧光獵人（新發現・高威脅）",
-      "detail": "國際服已是現象級射擊爆款，由騰訊代理發行國服，且為3A品質，預計會大規模搶佔市場注意力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-18T07:48:41.278966+00:00"
-    },
-    {
-      "id": "brief-20261118-a7486250",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "暗黑地牢2（新發現・高威脅）",
-      "detail": "知名PC/主機硬核RPG IP移植手遊，具備較高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-18T07:48:41.278966+00:00"
-    },
-    {
-      "id": "brief-20261118-33919dec",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Sanrio Kawaii Me Live!（新發現・高威脅）",
-      "detail": "知名IP改編，由官方遊戲品牌開發，且為全球發行，預計會有大量粉絲關注。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-18T07:48:41.278966+00:00"
-    },
-    {
-      "id": "brief-20261121-ec26eb13",
+      "id": "brief-20261122-8739c96f",
       "priority": "watch",
       "icon": "👁",
-      "title": "鳴潮 4.0版實機展示",
-      "detail": "新角色「安娜」、「露希爾」及機甲",
-      "action": "關注新版本內容",
+      "title": "GTA 6破紀錄彩蛋",
+      "detail": "綜合評分99分，觀看直播人數破紀錄",
+      "action": "了解遊戲趣聞",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-22T07:12:03.585324+00:00"
+    },
+    {
+      "id": "brief-20261122-97d09efe",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "鳴潮4.0版本新角",
+      "detail": "公開新角色安娜、露希爾及全新機甲",
+      "action": "觀看實機影片",
       "platform": "mobile/console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-21T07:29:36.870615+00:00"
+      "fetchedAt": "2026-11-22T07:12:03.585324+00:00"
+    },
+    {
+      "id": "brief-20261122-f447a444",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "金亨泰三上真司對談",
+      "detail": "G-STAR 2026暢談遊戲製作與AI",
+      "action": "了解產業趨勢",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-22T07:12:03.585324+00:00"
+    },
+    {
+      "id": "brief-20261122-8ae5f3d3",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "寶可夢新作《雨過天晴》",
+      "detail": "公開主要角色與二創規範",
+      "action": "關注新作資訊",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-22T07:12:03.585324+00:00"
     }
   ]
 }
