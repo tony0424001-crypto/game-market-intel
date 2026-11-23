@@ -1,51 +1,57 @@
 {
-  "lastAudit": "2026-11-22T07:12:22.906795+00:00",
-  "totalProducts": 801,
-  "updatesApplied": 55,
-  "issuesFound": 4,
+  "lastAudit": "2026-11-23T07:56:48.847460+00:00",
+  "totalProducts": 802,
+  "updatesApplied": 49,
+  "issuesFound": 5,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "信喵之野望 天下布喵",
+      "name": "Songs of Glimmerwick",
       "status": "warning",
-      "issue": "狀態: cbt→cbt",
+      "issue": "狀態: pre-reg→live-ops",
       "autoFixed": true
     },
     {
-      "name": "地下城與勇士：放置",
+      "name": "Mafia: The Omertà Collection",
       "status": "warning",
-      "issue": "狀態: announced→pre-reg",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     },
     {
-      "name": "越過山丘",
+      "name": "MONOWAVE",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: pre-reg→live-ops",
       "autoFixed": true
     },
     {
-      "name": "機動警察檔案",
+      "name": "Aniimo",
       "status": "warning",
-      "issue": "狀態: announced→live-ops",
+      "issue": "狀態: pre-reg→live-ops",
       "autoFixed": true
+    },
+    {
+      "name": "莫諾微步",
+      "status": "error",
+      "issue": "移除: Duplicate entry, see MONOWAVE",
+      "autoFixed": false
     }
   ],
   "checked": [
-    "信喵之野望 天下布喵",
-    "少女前線：盧納西亞盟約",
-    "Project Party",
-    "機器人大戰S",
-    "WB 全明星放置",
-    "地下城與勇士：Spirit",
-    "地下城與勇士：放置",
-    "DNF 經典版",
-    "越過山丘",
-    "1666：阿姆斯特丹",
-    "機動警察檔案",
-    "歧路旅人 III",
-    "沈沒之都 2",
-    "賭命兔女郎 High Roller Penny",
-    "NEO BERLIN 2087"
+    "封神再臨",
+    "High On Life VR",
+    "Songs of Glimmerwick",
+    "Mafia: The Omertà Collection",
+    "NAUTUS",
+    "Darksiders 4",
+    "MONOWAVE",
+    "Aniimo",
+    "木木屋",
+    "噤下來",
+    "莫諾微步",
+    "骰途酒館",
+    "沙金工業",
+    "地獄鑄造",
+    "TCG 卡牌店模擬器"
   ],
   "nextBatch": [
     "無限大",

@@ -6564,23 +6564,47 @@
       "PC",
       "Quest"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 75,
     "launchEst": "2027",
     "desc": "這是一款由 Flat2VR Studios 和 Squanch Games 開發的喜劇第一人稱射擊遊戲《High On Life》的 VR 版本，預計於 2027 年推出。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】無 (發布日期確認)\n\n▶ 描述：遊戲已確認將於 2027 年發布，並將登陸 Meta Quest、PlayStation VR2 和 SteamVR 等多個 VR 平台。這是一個明確的發布窗口，顯示 VR 版本的開發進度良好。\n\n▶ 建議行動：\n(1). 關注 Flat2VR Studios 和 Squanch Games 關於 VR 版本開發進度的更新，特別是針對 VR 體驗的優化細節。\n(2). 評估 VR 遊戲市場的發展趨勢及競爭情況，判斷其在 2027 年的市場潛力。\n(3). 留意是否有任何針對 VR 版本的預購或測試活動。",
+    "threatAnalysis": "【威脅類型】中等規模\n\n▶ 建議行動：\n(1) 持續追蹤開發商Flat2VR Studios與Squanch Games的官方公告，以獲取更具體的上線日期。\n(2) 關注VR遊戲市場的整體發展趨勢，評估此類IP在VR領域的潛在影響力。\n(3) 留意遊戲在SteamVR、PSVR2和Meta Quest商店的願望清單表現與玩家討論。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2607900/High_On_Life_VR/"
+      }
+    ],
+    "launchRegions": [
+      {
+        "platform": "PC VR",
+        "region": "Global",
+        "status": "announced",
+        "date": "2027"
+      },
+      {
+        "platform": "PSVR2",
+        "region": "Global",
+        "status": "announced",
+        "date": "2027"
+      },
+      {
+        "platform": "Meta Quest",
+        "region": "Global",
+        "status": "announced",
+        "date": "2027"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
@@ -6591,9 +6615,10 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-17",
-    "lastChecked": "2026-08-17",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲於2026年8月的VR Games Showcase中正式宣布，預計於2027年推出，將登陸PC VR、PSVR2和Meta Quest平台。"
   },
   {
     "id": 113,
@@ -6607,28 +6632,35 @@
       "PC",
       "Consoles"
     ],
-    "region": "待確認",
+    "region": "Global (PC), TBD (Consoles)",
     "model": "F2P",
-    "stage": "pre-reg",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-09-30",
+    "sentiment": 85,
+    "launchEst": "2026-09-30 (PC)",
     "desc": "這是一款生活角色扮演遊戲，預計於 9 月 30 日在 PC 平台發售，之後也會推出主機版本。",
     "tags": [],
-    "threatAnalysis": "【發布日期確認與測試階段活躍】遊戲已確認於2026年9月30日在PC (Steam) 上線，並提供公開試玩版供玩家體驗及收集回饋。主機版將於PC版之後推出。這顯示遊戲開發進度良好，且積極與玩家互動以優化遊戲。\n\n▶ 建議行動：\n(1). 持續關注PC版上線表現及玩家評價。\n(2). 追蹤主機版發布日期的進一步消息。\n(3). 評估試玩版回饋對最終產品的影響。",
+    "threatAnalysis": "【威脅類型】中等規模\n\n▶ 建議行動：\n(1) 密切關注遊戲在Steam上的營收表現與玩家留存數據。\n(2) 追蹤主機版上線的具體時間與市場反應。\n(3) 分析遊戲的長尾效應，評估其在「魔法學校」類別遊戲中的競爭力。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
+    "testDateEnd": "2026-04-09 (Demo available)",
     "sourceLinks": [
       {
         "label": "Steam",
-        "url": "https://store.steampowered.com/app/1706510/Songs_of_Glimmerwick/"
+        "url": "https://store.steampowered.com/app/1150020/Songs_of_Glimmerwick/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "platform": "PC",
+        "region": "Global",
+        "status": "live-ops",
+        "date": "2026-09-30"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
@@ -6637,11 +6669,16 @@
       {
         "date": "2026-08",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-18",
-    "lastChecked": "2026-08-18",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲已於2026年9月30日在PC (Steam) 平台正式上線，並獲得極度好評的玩家評價。主機版將於稍後推出。"
   },
   {
     "id": 114,
@@ -6656,16 +6693,16 @@
       "Xbox Series",
       "PC"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
     "stage": "live-ops",
-    "threat": "medium",
+    "threat": "high",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 90,
     "launchEst": "2026-08-14",
     "desc": "這是一款包含四款《Mafia》系列遊戲的合集，預計於 2026 年 8 月 14 日在 PS5、Xbox Series 和 PC 平台推出。",
     "tags": [],
-    "threatAnalysis": "【已上線】遊戲已於2026年8月14日正式發布，涵蓋PS5、Xbox Series X|S和PC (Steam) 平台。此合集包含四款《Mafia》系列遊戲，其中《Mafia: Definitive Edition》獲得了次世代主機的性能升級。\n\n▶ 建議行動：\n(1). 監控遊戲上線後的銷售表現和玩家回饋。\n(2). 分析市場對此類舊作合集加強版的接受度。\n(3). 評估未來是否需要追蹤單獨的《Mafia》系列遊戲更新。",
+    "threatAnalysis": "【威脅類型】高威脅\n\n▶ 建議行動：\n(1) 監測遊戲在各平台（尤其主機）的銷售數據與玩家活躍度。\n(2) 關注《Mafia: The Old Country》的內容更新與玩家評價，評估其對整體合集的貢獻。\n(3) 分析其對同類型開放世界犯罪題材遊戲的競爭影響。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
@@ -6673,15 +6710,30 @@
     "testDateEnd": "待確認",
     "sourceLinks": [
       {
-        "label": "PlayStation Store",
-        "url": "https://store.playstation.com/en-us/product/UP1003-PPSA19024_00-MAFIAOMERTACOL00"
-      },
-      {
-        "label": "2K Games",
-        "url": "https://mafiagame.com/news/mafia-the-omerta-collection-arrives-august-14/"
+        "label": "官網",
+        "url": "https://mafiagame.com/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "platform": "PS5",
+        "region": "Global",
+        "status": "live-ops",
+        "date": "2026-08-14"
+      },
+      {
+        "platform": "Xbox Series X/S",
+        "region": "Global",
+        "status": "live-ops",
+        "date": "2026-08-14"
+      },
+      {
+        "platform": "PC",
+        "region": "Global",
+        "status": "live-ops",
+        "date": "2026-08-14"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
@@ -6690,11 +6742,17 @@
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-18",
-    "lastChecked": "2026-08-18",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
+    "autoDiscovered": true,
+    "threatReason": "作為知名IP的合集，包含新作及次世代優化，市場影響力顯著。",
+    "currentEvent": "遊戲已於2026年8月14日在PS5、Xbox Series X/S和PC平台正式上線，包含《Mafia: The Old Country Definitive Edition》及對《Mafia: Definitive Edition》的次世代主機優化更新。"
   },
   {
     "id": 115,
@@ -6716,7 +6774,7 @@
     "launchEst": "2027",
     "desc": "這是一款由 Magic Design Studios 開發的合作島嶼冒險遊戲，預計於 2027 年在 PC 平台推出搶先體驗版。",
     "tags": [],
-    "threatAnalysis": "【狀態未變更】目前沒有關於NAUTUS的具體狀態更新，發布日期仍維持在2027年，且沒有測試階段或延遲的相關消息。\n\n▶ 建議行動：\n(1). 持續關注開發商Magic Design Studios的官方公告。\n(2). 定期重新搜尋遊戲名稱以捕捉任何新資訊。\n(3). 在缺乏新資訊的情況下，暫時維持現有追蹤狀態。",
+    "threatAnalysis": "【威脅類型】中等規模\n\n▶ 建議行動：\n(1) 持續追蹤開發商Magic Design Studios的官方公告，尋找遊戲的最新進展與上線資訊。\n(2) 留意遊戲展會或行業新聞，看是否有新的預告片或實機演示釋出。\n(3) 評估其美術風格與玩法是否具備市場潛力。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
@@ -6730,8 +6788,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-18",
-    "lastChecked": "2026-08-18",
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
     "autoDiscovered": true
   },
   {
@@ -6747,32 +6805,52 @@
       "PS5",
       "Xbox Series"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
     "sentiment": 70,
-    "launchEst": "2027-Q2 to 2028-Q1",
+    "launchEst": "2027-04-01 to 2028-03-31",
     "desc": "這是一款由 Gunfire Games 開發的動作冒險遊戲，預計於 2027 年 4 月至 2028 年 3 月之間推出。",
     "tags": [],
-    "threatAnalysis": "【狀態未變更】Darksiders 4目前沒有任何新的狀態更新，發布窗口仍為2027年第二季度至2028年第一季度，且沒有測試階段或延遲的相關消息。\n\n▶ 建議行動：\n(1). 持續關注開發商Gunfire Games的官方公告。\n(2). 定期重新搜尋遊戲名稱以捕捉任何新資訊。\n(3). 在缺乏新資訊的情況下，暫時維持現有追蹤狀態。",
+    "threatAnalysis": "【威脅類型】中等規模\n\n▶ 建議行動：\n(1) 密切關注Embracer Group及Gunfire Games的官方聲明，以獲取更精確的發售日期和遊戲詳情。\n(2) 追蹤遊戲預告片、實機演示和媒體評測，評估其在動作遊戲市場的競爭力。\n(3) 分析Darksiders系列粉絲的期待與市場反應，判斷其潛在的銷售表現。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
     "sourceLinks": [],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "platform": "PC",
+        "region": "Global",
+        "status": "announced",
+        "date": "2027-04-01 to 2028-03-31"
+      },
+      {
+        "platform": "PS5",
+        "region": "Global",
+        "status": "announced",
+        "date": "2027-04-01 to 2028-03-31"
+      },
+      {
+        "platform": "Xbox Series X/S",
+        "region": "Global",
+        "status": "announced",
+        "date": "2027-04-01 to 2028-03-31"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-18",
-    "lastChecked": "2026-08-18",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
+    "autoDiscovered": true,
+    "currentEvent": "Embracer Group於2026年8月發布的財報中確認遊戲預計在2027財年/2028財年（2027年4月至2028年3月）期間上線，將登陸PC、PS5和Xbox Series X/S平台。"
   },
   {
     "id": 117,
@@ -6788,16 +6866,16 @@
       "PS5",
       "Xbox Series"
     ],
-    "region": "待確認",
+    "region": "Global (PC/Switch), TBD (Xbox/PS5)",
     "model": "F2P",
-    "stage": "pre-reg",
+    "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-09-16",
+    "sentiment": 80,
+    "launchEst": "2026-09-16 (PC/Switch), 2026年內 (Xbox/PS5)",
     "desc": "這是一款由 Studio BBB Inc. 開發的益智平台冒險遊戲，預計於 2026 年 9 月 16 日在 Switch 和 PC 平台發售。",
     "tags": [],
-    "threatAnalysis": "【發布日期確認與測試階段活躍】遊戲已確認於2026年9月16日在PC (Steam) 和Nintendo Switch上線，並提供免費的Chapter 1試玩版。PS5和Xbox Series X|S版本預計於2026年稍晚推出。遊戲也將在gamescom 2026展出。這顯示遊戲開發進度良好，且積極進行推廣和測試。\n\n▶ 建議行動：\n(1). 關注PC和Switch版上線後的市場反應與玩家評價。\n(2). 追蹤PS5和Xbox Series X|S版本的具體發布日期。\n(3). 評估gamescom展出對遊戲熱度的影響。",
+    "threatAnalysis": "【威脅類型】中等規模\n\n▶ 建議行動：\n(1) 監測遊戲在Steam和Switch平台的銷售與玩家評價，特別是其長尾效應。\n(2) 追蹤PS5和Xbox Series X|S版本的具體上線日期和市場表現。\n(3) 評估其獨特的「情感驅動」玩法機制是否能吸引更廣泛的玩家群體。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
@@ -6806,14 +6884,35 @@
     "sourceLinks": [
       {
         "label": "Steam",
-        "url": "https://store.steampowered.com/app/2680440/MONOWAVE/"
-      },
-      {
-        "label": "Games Press",
-        "url": "https://www.gamespress.com/Heartfelt-puzzle-adventure-platformer-MONOWAVE-coming-to-Steam-and-Nintend"
+        "url": "https://store.steampowered.com/app/2056090/MONOWAVE/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "platform": "PC",
+        "region": "Global",
+        "status": "live-ops",
+        "date": "2026-09-16"
+      },
+      {
+        "platform": "Switch",
+        "region": "Global",
+        "status": "live-ops",
+        "date": "2026-09-16"
+      },
+      {
+        "platform": "PS5",
+        "region": "Global",
+        "status": "announced",
+        "date": "2026年內"
+      },
+      {
+        "platform": "Xbox Series X/S",
+        "region": "Global",
+        "status": "announced",
+        "date": "2026年內"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
@@ -6822,11 +6921,16 @@
       {
         "date": "2026-08",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-18",
-    "lastChecked": "2026-08-18",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
+    "autoDiscovered": true,
+    "currentEvent": "遊戲已於2026年9月16日在PC (Steam) 和Nintendo Switch平台正式上線，並獲得極度好評的玩家評價。PS5和Xbox Series X|S版本預計在2026年稍後推出。"
   },
   {
     "id": 118,
@@ -6842,32 +6946,59 @@
       "Xbox Series",
       "Mobile"
     ],
-    "region": "待確認",
+    "region": "Global",
     "model": "F2P",
-    "stage": "pre-reg",
-    "threat": "medium",
+    "stage": "live-ops",
+    "threat": "high",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-09-16",
+    "sentiment": 88,
+    "launchEst": "2026-09-16 (PC/Consoles), 2026-09-23 (Mobile)",
     "desc": "這是一款由 Pawprint Studio 開發的免費遊玩怪物收集開放世界角色扮演遊戲，預計於 2026 年 9 月 16 日在多平台發售。",
     "tags": [],
-    "threatAnalysis": "【發行日期確認與測試結束】遊戲已完成全球封閉測試，並確認於2026年9月16日正式上線，目前已開放多平台預購。這表示開發進度穩定，且市場預熱活動已展開。\n\n▶ 建議行動：\n(1). 持續關注遊戲上線後的初期表現與玩家回饋。\n(2). 評估預購活動的成效與不同平台的預購數據。\n(3). 準備上線後的推廣策略，特別是針對其「寶可夢代餐」的市場定位。",
+    "threatAnalysis": "【威脅類型】高威脅\n\n▶ 建議行動：\n(1) 密切監測遊戲在各平台（特別是手遊）的營收、下載量與玩家活躍度數據。\n(2) 分析其內容更新頻率與玩家社群反饋，評估其長期營運能力。\n(3) 關注其在生物收集RPG品類的競爭地位，以及對潛在用戶的吸引力。",
     "verified": "Agent 發現 (2026-08-14)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "2026-07-25",
+    "testDateEnd": "2026-07-25 (Global Closed Beta ended)",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.cn/app/234796"
-      },
-      {
         "label": "官網",
-        "url": "https://www.aniimo.com/"
+        "url": "https://aniimo.com/"
       }
     ],
-    "launchRegions": [],
+    "launchRegions": [
+      {
+        "platform": "PC",
+        "region": "Global",
+        "status": "live-ops",
+        "date": "2026-09-16"
+      },
+      {
+        "platform": "PS5",
+        "region": "Global",
+        "status": "live-ops",
+        "date": "2026-09-16"
+      },
+      {
+        "platform": "Xbox Series X/S",
+        "region": "Global",
+        "status": "live-ops",
+        "date": "2026-09-16"
+      },
+      {
+        "platform": "iOS",
+        "region": "Global",
+        "status": "live-ops",
+        "date": "2026-09-23"
+      },
+      {
+        "platform": "Android",
+        "region": "Global",
+        "status": "live-ops",
+        "date": "2026-09-23"
+      }
+    ],
     "history": [
       {
         "date": "2026-08",
@@ -6876,11 +7007,17 @@
       {
         "date": "2026-08",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-19",
-    "lastChecked": "2026-08-19",
-    "autoDiscovered": true
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
+    "autoDiscovered": true,
+    "threatReason": "免費遊玩、多平台同步上線的生物收集RPG，具備廣泛的市場潛力與高話題度。",
+    "currentEvent": "遊戲已於2026年9月16日在PC、PS5、Xbox Series X|S平台全球上線，並於2026年9月23日在iOS和Android平台全球上線。遊戲為免費遊玩，並於2026年10月29日推出第一季第二部分更新。"
   },
   {
     "id": 119,
@@ -6902,7 +7039,7 @@
     "launchEst": "TBD",
     "desc": "這是一款由 Studio Fizbin 開發，Daedalic Entertainment 發行的冒險解謎遊戲。",
     "tags": [],
-    "threatAnalysis": "【狀態未變】遊戲狀態仍為宣布，發售日期未定，也無測試消息。市場關注度可能較低，需持續觀察是否有新的開發進度或測試計畫。\n\n▶ 建議行動：\n(1). 持續監測開發商Studio Fizbin的官方消息管道。\n(2). 定期檢查TapTap等遊戲平台是否有新的預約或測試資訊。\n(3). 考慮其休閒益智遊戲的定位，評估其潛在的市場機會。",
+    "threatAnalysis": "【威脅類型】中等規模\n\n▶ 建議行動：\n(1) 持續追蹤開發商Studio Fizbin的官方公告，尋找遊戲的最新進展與上線資訊。\n(2) 留意遊戲展會或行業新聞，看是否有新的預告片或實機演示釋出。\n(3) 評估其美術風格與玩法是否具備市場潛力。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "active",
     "testType": "待確認",
@@ -6921,8 +7058,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-19",
-    "lastChecked": "2026-08-19",
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
     "autoDiscovered": true
   },
   {
@@ -6945,7 +7082,7 @@
     "launchEst": "2026年內",
     "desc": "LINE Games 宣布其自研新作《噤下來》在 Steam 玩家測試中全球參與人數突破 15 萬。",
     "tags": [],
-    "threatAnalysis": "【測試進度良好與發行目標】遊戲目前正在進行Steam 玩家測試，參與人數眾多，顯示市場對其有高度興趣。開發商目標在2026年內正式發售，進度明確。\n\n▶ 建議行動：\n(1). 持續關注玩家測試的回饋與遊戲優化進度。\n(2). 密切追蹤正式發售日期的確認。\n(3). 評估其合作恐怖遊戲的市場潛力與競爭環境。",
+    "threatAnalysis": "【威脅類型】中等規模\n\n▶ 建議行動：\n(1) 持續關注LINE Games的官方社群媒體與合作夥伴平台，確認是否有延期或靜默上線的跡象。\n(2) 留意韓國遊戲媒體與論壇，尋找任何關於遊戲測試或上線的討論。\n(3) 評估若遊戲如期上線，其市場表現與話題度是否符合預期。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "active",
     "testType": "待確認",
@@ -6968,8 +7105,8 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-08-19",
-    "lastChecked": "2026-08-19",
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
     "autoDiscovered": true
   },
   {
@@ -6992,7 +7129,7 @@
     "launchEst": "2026-09-17 (PC/Switch), 2026年內 (Xbox/PS5)",
     "desc": "這是一款 2D 解謎動作遊戲，將於 9 月 17 日上線。",
     "tags": [],
-    "threatAnalysis": "【發行日期明確與多平台策略】遊戲已確認PC (Steam) 和 Nintendo Switch 版的具體發售日期，並提供免費體驗版，有助於市場預熱。多平台發行策略有助於擴大玩家基礎。\n\n▶ 建議行動：\n(1). 關注PC/Switch 版上線後的初期銷售與玩家評價。\n(2). 評估Xbox/PS5 版的開發進度與後續宣傳計畫。\n(3). 分析體驗版數據，了解玩家對遊戲核心玩法的接受度。",
+    "threatAnalysis": "【威脅類型】中等規模\n\n▶ 建議行動：\n(1) 此為MONOWAVE的重複條目，請參考MONOWAVE的分析報告。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "active",
     "testType": "待確認",
@@ -7015,8 +7152,8 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-19",
-    "lastChecked": "2026-08-19",
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
     "autoDiscovered": true
   },
   {
@@ -7039,7 +7176,7 @@
     "launchEst": "2026-09-08",
     "desc": "這是一款在中世紀酒館擲骰冒險的構築 Roguelike 新作，將於 9 月 8 日發售。",
     "tags": [],
-    "threatAnalysis": "【發行日期明確與試玩版】遊戲已確認Steam 平台的具體發售日期，並提供試玩版，有助於吸引玩家並收集反饋。Roguelike 構築遊戲的市場潛力值得關注。\n\n▶ 建議行動：\n(1). 關注遊戲上線後的初期銷售與玩家評價。\n(2). 分析試玩版數據，了解玩家對核心玩法的接受度與反饋。\n(3). 評估其在Roguelike 遊戲市場中的競爭力與獨特性。",
+    "threatAnalysis": "【威脅類型】中等規模\n\n▶ 建議行動：\n(1) 嘗試搜尋遊戲的實際發售資訊，確認是否已靜默上線或延期。\n(2) 關注Dicey Tavern Studio的官方社群媒體，尋找任何更新。\n(3) 評估其在獨立遊戲市場的潛在表現。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "active",
     "testType": "待確認",
@@ -7062,8 +7199,8 @@
         "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-19",
-    "lastChecked": "2026-08-19",
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
     "autoDiscovered": true
   },
   {
@@ -7086,7 +7223,7 @@
     "launchEst": "2026-08-13",
     "desc": "這是一款建設模擬新作，已展開搶先體驗，讓玩家探索開放世界中的遠古謎團。",
     "tags": [],
-    "threatAnalysis": "【機會】遊戲已於2026年8月13日推出PC搶先體驗版，並獲得壓倒性好評。開發商Lantto Games與發行商Hooded Horse的合作表現良好。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲更新與正式版發布日期。\n(2). 關注玩家社群回饋，評估遊戲長期營運潛力。\n(3). 考慮PC Game Pass的影響，分析其對玩家獲取與營收的潛在效益。",
+    "threatAnalysis": "【威脅類型】中等規模\n\n▶ 建議行動：\n(1) 監測遊戲在Steam或其他平台上的玩家評價、活躍人數與營收數據。\n(2) 關注開發商Sandrock Games的更新頻率與內容，評估其長期營運策略。\n(3) 留意玩家社群對遊戲內容更新和活動的討論熱度。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "tracking",
     "testType": "待確認",
@@ -7113,8 +7250,8 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-20",
-    "lastChecked": "2026-08-20",
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
     "autoDiscovered": true,
     "currentEvent": "遊戲《沙金工業》（Sandustry）已於2026年8月13日在PC平台（Steam、GOG、Microsoft Store）推出搶先體驗版，並支援PC Game Pass。 遊戲由Lantto Games開發，Hooded Horse發行，並獲得「壓倒性好評」。",
     "eventNote": "遊戲《沙金工業》（Sandustry）已於2026年8月13日在PC平台（Steam、GOG、Microsoft Store）推出搶先體驗版，並支援PC Game Pass。 遊戲由Lantto Games開發，Hooded Horse發行，並獲得「壓倒性好評」。"
@@ -7139,7 +7276,7 @@
     "launchEst": "2026",
     "desc": "這是一款搜打撤逆彈幕遊戲，首個公開 Demo 已上線，讓玩家體驗滿載而歸或一無所有的冒險。",
     "tags": [],
-    "threatAnalysis": "【機會】遊戲已推出公開Demo，並在社群中引起討論，顯示其玩法具有吸引力。 發售日期從具體月份變為年份，可能意味著開發團隊正在調整，但Demo的推出是積極信號。\n\n▶ 建議行動：\n(1). 密切關注Demo反饋與後續開發進度。\n(2). 追蹤正式發售日期的進一步確認。\n(3). 評估遊戲在搜打撤與逆彈幕類型中的競爭力。",
+    "threatAnalysis": "【威脅類型】中等規模\n\n▶ 建議行動：\n(1) 嘗試搜尋遊戲的實際發售資訊，確認是否已靜默上線或延期。\n(2) 關注開發商Gaby Rla的官方社群媒體，尋找任何更新。\n(3) 評估其在獨立遊戲市場的潛在表現。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "tracking",
     "testType": "待確認",
@@ -7162,8 +7299,8 @@
         "s": "cbt"
       }
     ],
-    "updatedAt": "2026-08-20",
-    "lastChecked": "2026-08-20",
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
     "autoDiscovered": true,
     "currentEvent": "遊戲《地獄鑄造》（Hellforged）於2026年8月13日推出首個公開Demo，此前曾進行封閉測試。 遊戲由Moonpyre開發，Grindstone發行，Steam頁面顯示計畫發行日期為2026年。",
     "eventNote": "遊戲《地獄鑄造》（Hellforged）於2026年8月13日推出首個公開Demo，此前曾進行封閉測試。 遊戲由Moonpyre開發，Grindstone發行，Steam頁面顯示計畫發行日期為2026年。"
@@ -7193,7 +7330,7 @@
     "launchEst": "2026-09-15",
     "desc": "這是一款模擬經營遊戲，玩家將經營自己的 TCG 卡牌店，將於 9 月 15 日發售。",
     "tags": [],
-    "threatAnalysis": "【機會】遊戲即將於2026年9月15日推出正式版，並新增玩家期待的對戰系統，有望吸引更多玩家。 搶先體驗階段已累積良好口碑。\n\n▶ 建議行動：\n(1). 密切關注正式版上線後的玩家反應與營收表現。\n(2). 評估新增對戰系統對遊戲長期留存的影響。\n(3). 考慮其在多平台發行的潛力。",
+    "threatAnalysis": "【威脅類型】中等規模\n\n▶ 建議行動：\n(1) 監測遊戲在Steam或其他平台上的玩家評價、活躍人數與營收數據，特別是與上線初期的對比。\n(2) 關注開發商OPNeon Games的更新頻率與內容，評估其長期營運策略。\n(3) 留意玩家社群對遊戲內容更新和活動的討論熱度，判斷是否有衰退跡象。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "tracking",
     "testType": "待確認",
@@ -7220,8 +7357,8 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-20",
-    "lastChecked": "2026-08-20",
+    "updatedAt": "2026-11-23",
+    "lastChecked": "2026-11-23",
     "autoDiscovered": true,
     "currentEvent": "遊戲《TCG 卡牌店模擬器》（TCG Card Shop Simulator）將於2026年9月15日推出1.0正式版，並結束搶先體驗階段。 正式版將新增可遊玩的TCG對戰系統「Tetramon Duel Master」。 遊戲將登陸PC、PS5、Xbox Series X|S、Switch 2、Xbox One和Switch平台。",
     "eventNote": "遊戲《TCG 卡牌店模擬器》（TCG Card Shop Simulator）將於2026年9月15日推出1.0正式版，並結束搶先體驗階段。 正式版將新增可遊玩的TCG對戰系統「Tetramon Duel Master」。 遊戲將登陸PC、PS5、Xbox Series X|S、Switch 2、Xbox One和Switch平台。"
@@ -43122,7 +43259,7 @@
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】經典IP改編，由知名廠商金山授權，MMORPG品類在中國市場有潛力。",
+    "threatAnalysis": "【威脅類型】高威脅\n\n▶ 建議行動：\n(1) 持續關注遊戲官方社群媒體與合作夥伴平台，確認是否有延期或靜默上線的跡象。\n(2) 留意中國遊戲媒體與論壇，尋找任何關於遊戲測試或上線的討論。\n(3) 評估若遊戲如期上線，其市場表現與話題度是否符合預期。",
     "verified": "Agent 發現 (2026-11-22)",
     "category": "active",
     "testType": "待確認",
@@ -43142,10 +43279,345 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-22",
+    "updatedAt": "2026-11-23",
     "addedAt": "2026-11-22",
+    "lastChecked": "2026-11-23",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
+  },
+  {
+    "id": 806,
+    "name": "スライムの世界ぷにっと冒険記",
+    "nameEn": "Slime World Puny Adventure Chronicle",
+    "developer": "TEAM42",
+    "studio": "TEAM42",
+    "publisher": "TEAM42",
+    "genre": "MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "pre-reg",
+    "threat": "medium",
+    "threatReason": "全球發行的MMORPG，但開發商規模較小，市場影響力待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2027-02",
+    "desc": "一款養成史萊姆並同行冒險的MMORPG，預計於2027年2月全球同步推出，目前PC/Mac試玩版已可透過Steam遊玩，手機版事前登錄已開放。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】全球發行的MMORPG，但開發商規模較小，市場影響力待觀察。",
+    "verified": "Agent 發現 (2026-11-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "預註冊",
+        "date": "2027-02"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "pre-reg"
+      }
+    ],
+    "updatedAt": "2026-11-23",
+    "addedAt": "2026-11-23",
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "新聞報導"
+  },
+  {
+    "id": 807,
+    "name": "狂飙勇者",
+    "nameEn": "Rampage Brave",
+    "developer": "中青宝",
+    "studio": "中青宝",
+    "publisher": "中青宝",
+    "genre": "動作RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "中國大廠中青宝開發的動作RPG，具備一定市場潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "中青宝開發的動作RPG手遊，已於2026年8月獲得中國版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】中國大廠中青宝開發的動作RPG，具備一定市場潛力。",
+    "verified": "Agent 發現 (2026-11-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號公示",
+        "date": "2026-08"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-23",
+    "addedAt": "2026-11-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 808,
+    "name": "重返地心之下",
+    "nameEn": "Return to the Center of the Earth",
+    "developer": "上海灵刃",
+    "studio": "上海灵刃",
+    "publisher": "上海灵刃",
+    "genre": "冒險RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "中國開發商的冒險RPG，市場表現有待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "上海灵刃開發的冒險RPG手遊，已於2026年8月獲得中國版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】中國開發商的冒險RPG，市場表現有待觀察。",
+    "verified": "Agent 發現 (2026-11-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號公示",
+        "date": "2026-08"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-23",
+    "addedAt": "2026-11-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 809,
+    "name": "我的末日基地",
+    "nameEn": "My Doomsday Base",
+    "developer": "冰川网络",
+    "studio": "冰川网络",
+    "publisher": "冰川网络",
+    "genre": "策略生存",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "medium",
+    "threatReason": "中國開發商的策略生存遊戲，市場表現有待觀察。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "冰川网络開發的策略生存手遊，已於2026年8月獲得中國版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】中國開發商的策略生存遊戲，市場表現有待觀察。",
+    "verified": "Agent 發現 (2026-11-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號公示",
+        "date": "2026-08"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-23",
+    "addedAt": "2026-11-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 810,
+    "name": "循環勇士",
+    "nameEn": "Loop Hero",
+    "developer": "南京西木優洛網絡",
+    "studio": "南京西木優洛網絡",
+    "publisher": "南京西木優洛網絡",
+    "genre": "Roguelike RPG",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "CN",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "知名PC遊戲IP改編手遊，具備較高市場關注度。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "知名PC遊戲《Loop Hero》的中國手遊版，已於2026年8月獲得中國版號。",
+    "tags": [
+      "版號公示"
+    ],
+    "threatAnalysis": "【自動發現・版號公示】知名PC遊戲IP改編手遊，具備較高市場關注度。",
+    "verified": "Agent 發現 (2026-11-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [
+      {
+        "region": "CN",
+        "status": "版號公示",
+        "date": "2026-08"
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-23",
+    "addedAt": "2026-11-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "版號公示"
+  },
+  {
+    "id": 811,
+    "name": "Embers of the Uncrowned",
+    "nameEn": "Embers of the Uncrowned",
+    "developer": "NEXON",
+    "studio": "NEXON",
+    "publisher": "NEXON",
+    "genre": "動作MMORPG",
+    "platform": [
+      "PC",
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "Nexon大廠出品的暗黑奇幻MMORPG，具備多平台潛力。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "Nexon開發的暗黑奇幻動作MMORPG，具有移動遊戲的特徵，並在Steam上進行過測試。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】Nexon大廠出品的暗黑奇幻MMORPG，具備多平台潛力。",
+    "verified": "Agent 發現 (2026-11-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-23",
+    "addedAt": "2026-11-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
+  },
+  {
+    "id": 812,
+    "name": "Prism 2033",
+    "nameEn": "Prism 2033",
+    "developer": "CyberNest",
+    "studio": "CyberNest",
+    "publisher": "CyberNest",
+    "genre": "開放世界MMORPG",
+    "platform": [
+      "PC",
+      "Mobile",
+      "Console"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "announced",
+    "threat": "high",
+    "threatReason": "Unreal Engine 5開發的開放世界MMORPG，多平台發布，潛力高。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "待確認",
+    "desc": "一款使用Unreal Engine 5開發的未來平行宇宙開放世界MMORPG，預計將在PC、手機和主機平台發布。",
+    "tags": [
+      "模型知識推論"
+    ],
+    "threatAnalysis": "【自動發現・模型知識推論】Unreal Engine 5開發的開放世界MMORPG，多平台發布，潛力高。",
+    "verified": "Agent 發現 (2026-11-23)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "announced"
+      }
+    ],
+    "updatedAt": "2026-11-23",
+    "addedAt": "2026-11-23",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "模型知識推論"
   }
 ]

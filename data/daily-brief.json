@@ -1,7 +1,51 @@
 {
-  "lastUpdated": "2026-11-22T07:17:02.557437+00:00",
-  "fetchCount": 193,
+  "lastUpdated": "2026-11-23T08:05:12.498579+00:00",
+  "fetchCount": 194,
   "items": [
+    {
+      "id": "brief-20261123-42606571",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Prism 2033（新發現・高威脅）",
+      "detail": "Unreal Engine 5開發的開放世界MMORPG，多平台發布，潛力高。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-11-23T08:05:12.498579+00:00"
+    },
+    {
+      "id": "brief-20261123-b3d2979a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Embers of the Uncrowned（新發現・高威脅）",
+      "detail": "Nexon大廠出品的暗黑奇幻MMORPG，具備多平台潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "模型知識推論",
+      "fetchedAt": "2026-11-23T08:05:12.498579+00:00"
+    },
+    {
+      "id": "brief-20261123-948ed23a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "循環勇士（新發現・高威脅）",
+      "detail": "知名PC遊戲IP改編手遊，具備較高市場關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "版號公示",
+      "fetchedAt": "2026-11-23T08:05:12.498579+00:00"
+    },
+    {
+      "id": "brief-20261123-b42fdfbc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA6銷量破紀錄",
+      "detail": "首日零售額達37.9億美元，刷新娛樂產業紀錄。",
+      "action": "關注遊戲市場動態",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-23T07:56:30.863156+00:00"
+    },
     {
       "id": "brief-20261122-b54da2c1",
       "priority": "urgent",
@@ -157,70 +201,26 @@
       "fetchedAt": "2026-11-19T07:51:16.496585+00:00"
     },
     {
-      "id": "brief-20261119-4c0b6b01",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "太閤立志傳 亂世立身錄（新發現・高威脅）",
-      "detail": "經典IP改編，具備回憶向吸引力，在台港澳市場有潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-19T07:51:16.496585+00:00"
-    },
-    {
-      "id": "brief-20261119-04af98ef",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA6今日上市",
-      "detail": "萬眾矚目大作全球同步推出",
-      "action": "立即體驗",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-19T07:44:15.204507+00:00"
-    },
-    {
-      "id": "brief-20261122-8739c96f",
+      "id": "brief-20261123-db53ddc8",
       "priority": "watch",
       "icon": "👁",
-      "title": "GTA 6破紀錄彩蛋",
-      "detail": "綜合評分99分，觀看直播人數破紀錄",
-      "action": "了解遊戲趣聞",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-22T07:12:03.585324+00:00"
-    },
-    {
-      "id": "brief-20261122-97d09efe",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "鳴潮4.0版本新角",
-      "detail": "公開新角色安娜、露希爾及全新機甲",
-      "action": "觀看實機影片",
-      "platform": "mobile/console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-22T07:12:03.585324+00:00"
-    },
-    {
-      "id": "brief-20261122-f447a444",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "金亨泰三上真司對談",
-      "detail": "G-STAR 2026暢談遊戲製作與AI",
-      "action": "了解產業趨勢",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-22T07:12:03.585324+00:00"
-    },
-    {
-      "id": "brief-20261122-8ae5f3d3",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "寶可夢新作《雨過天晴》",
-      "detail": "公開主要角色與二創規範",
-      "action": "關注新作資訊",
+      "title": "妮姬主線第二季",
+      "detail": "2027年開啟主線第二季，冬季有A.C.P.U.活動。",
+      "action": "準備迎接新劇情",
       "platform": "mobile",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-22T07:12:03.585324+00:00"
+      "fetchedAt": "2026-11-23T07:56:30.863156+00:00"
+    },
+    {
+      "id": "brief-20261123-e4a45458",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "鳴潮4.0版展示",
+      "detail": "公開4.0版本實機影片，新角色安娜、露希爾登場。",
+      "action": "期待新版本內容",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-23T07:56:30.863156+00:00"
     }
   ]
 }
