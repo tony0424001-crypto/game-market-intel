@@ -1,57 +1,33 @@
 {
-  "lastAudit": "2026-11-23T07:56:48.847460+00:00",
-  "totalProducts": 802,
-  "updatesApplied": 49,
-  "issuesFound": 5,
+  "lastAudit": "2026-11-24T10:10:49.109077+00:00",
+  "totalProducts": 809,
+  "updatesApplied": 6,
+  "issuesFound": 1,
   "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
   "findings": [
     {
-      "name": "Songs of Glimmerwick",
+      "name": "スライムの世界ぷにっと冒険記",
       "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
+      "issue": "狀態: pre-reg→pre-reg",
       "autoFixed": true
-    },
-    {
-      "name": "Mafia: The Omertà Collection",
-      "status": "warning",
-      "issue": "狀態: live-ops→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "MONOWAVE",
-      "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "Aniimo",
-      "status": "warning",
-      "issue": "狀態: pre-reg→live-ops",
-      "autoFixed": true
-    },
-    {
-      "name": "莫諾微步",
-      "status": "error",
-      "issue": "移除: Duplicate entry, see MONOWAVE",
-      "autoFixed": false
     }
   ],
   "checked": [
-    "封神再臨",
-    "High On Life VR",
-    "Songs of Glimmerwick",
-    "Mafia: The Omertà Collection",
-    "NAUTUS",
-    "Darksiders 4",
-    "MONOWAVE",
-    "Aniimo",
-    "木木屋",
-    "噤下來",
-    "莫諾微步",
-    "骰途酒館",
-    "沙金工業",
-    "地獄鑄造",
-    "TCG 卡牌店模擬器"
+    "スライムの世界ぷにっと冒険記",
+    "狂飙勇者",
+    "重返地心之下",
+    "我的末日基地",
+    "循環勇士",
+    "Embers of the Uncrowned",
+    "Prism 2033",
+    "王國之心 IV",
+    "火柴人出擊",
+    "帶來者",
+    "無限大",
+    "異環",
+    "明日方舟：終末地",
+    "失控進化",
+    "王者榮耀：世界"
   ],
   "nextBatch": [
     "無限大",

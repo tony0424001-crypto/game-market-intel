@@ -1,7 +1,40 @@
 {
-  "lastUpdated": "2026-11-23T08:05:12.498579+00:00",
-  "fetchCount": 194,
+  "lastUpdated": "2026-11-24T10:12:18.686286+00:00",
+  "fetchCount": 195,
   "items": [
+    {
+      "id": "brief-20261124-2b7d8477",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "生死格鬥6：最終回合（新發現・高威脅）",
+      "detail": "知名IP手遊化，儘管是重發行，但IP號召力強大，且未在追蹤清單中。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-24T10:12:18.686286+00:00"
+    },
+    {
+      "id": "brief-20261124-af4f3f6e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA6創紀錄",
+      "detail": "PS5版破3900萬玩家，創PlayStation首發紀錄。",
+      "action": "關注遊戲熱度",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-24T10:10:05.996743+00:00"
+    },
+    {
+      "id": "brief-20261124-885915df",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "SEGA黑五特賣",
+      "detail": "Steam部分PC遊戲限期特價至11月底。",
+      "action": "把握優惠購買",
+      "platform": "PC",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-24T10:10:05.996743+00:00"
+    },
     {
       "id": "brief-20261123-42606571",
       "priority": "urgent",
@@ -157,70 +190,37 @@
       "fetchedAt": "2026-11-20T07:34:56.673097+00:00"
     },
     {
-      "id": "brief-20261120-9c1e75c0",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "萌混成仙今日上市",
-      "detail": "Q版仙俠RPG今日正式上市",
-      "action": "立即下載體驗",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-20T07:34:56.673097+00:00"
-    },
-    {
-      "id": "brief-20261120-cb8d4b9f",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "失落方舟備戰月",
-      "detail": "終幕戰前暖身活動全面開跑",
-      "action": "參與備戰活動",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-20T07:34:56.673097+00:00"
-    },
-    {
-      "id": "brief-20261119-bbd8c68c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "航海王：壯志雄心（新發現・高威脅）",
-      "detail": "知名IP《航海王》改編，騰訊大廠發行，動作RPG品類，具備高市場關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-19T07:51:16.496585+00:00"
-    },
-    {
-      "id": "brief-20261119-ae553d3c",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "勇者鬥惡龍RPG 魔界樹與受命運指引之島（新發現・高威脅）",
-      "detail": "經典日系RPG大IP手遊化，全球發行，具備高市場關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-19T07:51:16.496585+00:00"
-    },
-    {
-      "id": "brief-20261123-db53ddc8",
+      "id": "brief-20261124-c53b4813",
       "priority": "watch",
       "icon": "👁",
-      "title": "妮姬主線第二季",
-      "detail": "2027年開啟主線第二季，冬季有A.C.P.U.活動。",
-      "action": "準備迎接新劇情",
-      "platform": "mobile",
+      "title": "仁王3新DLC發布",
+      "detail": "第二彈「天草大亂」12/17推出，同步公開預告。",
+      "action": "關注DLC發售",
+      "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-23T07:56:30.863156+00:00"
+      "fetchedAt": "2026-11-24T10:10:05.996743+00:00"
     },
     {
-      "id": "brief-20261123-e4a45458",
+      "id": "brief-20261124-41cab8eb",
       "priority": "watch",
       "icon": "👁",
-      "title": "鳴潮4.0版展示",
-      "detail": "公開4.0版本實機影片，新角色安娜、露希爾登場。",
-      "action": "期待新版本內容",
+      "title": "奧丁Q明年上市",
+      "detail": "MMORPG新作《奧丁Q》2027/1/26上市，12/29預約。",
+      "action": "關注事前預約",
       "platform": "mobile",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-23T07:56:30.863156+00:00"
+      "fetchedAt": "2026-11-24T10:10:05.996743+00:00"
+    },
+    {
+      "id": "brief-20261124-d7eb6d06",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "生死格鬥30週年",
+      "detail": "釋出紀念影片，新作「霞」好身材首度現身。",
+      "action": "關注新作資訊",
+      "platform": "console",
+      "source": "4Gamers",
+      "fetchedAt": "2026-11-24T10:10:05.996743+00:00"
     }
   ]
 }

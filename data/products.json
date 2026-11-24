@@ -43303,37 +43303,56 @@
     "threat": "medium",
     "threatReason": "全球發行的MMORPG，但開發商規模較小，市場影響力待觀察。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "2027-02",
     "desc": "一款養成史萊姆並同行冒險的MMORPG，預計於2027年2月全球同步推出，目前PC/Mac試玩版已可透過Steam遊玩，手機版事前登錄已開放。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】全球發行的MMORPG，但開發商規模較小，市場影響力待觀察。",
+    "threatAnalysis": "【中等規模】這是一款以可愛史萊姆為主題的休閒MMORPG，目前處於預註冊階段，並已於2026年8月26日在Steam上線了PC體驗版，並在2026年11月19日開啟了移動版預註冊。遊戲預計於2027年2月在全球範圍內正式上線PC、iOS和Android平台。 雖然有G-STAR 2026的展出和持續的宣傳，但目前市場反應和話題度仍屬中等，Steam試玩版評價褒貶不一。\n\n▶ 建議行動：\n(1). 持續關注預註冊人數及社群討論熱度，評估其潛在用戶規模。\n(2). 追蹤2027年2月正式上線後的初期營收表現和玩家留存數據。\n(3). 監測媒體評價和玩家回饋，特別是針對遊戲內容和營運活動的反應。",
     "verified": "Agent 發現 (2026-11-23)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
-    "testDateEnd": "待確認",
-    "sourceLinks": [],
+    "testDateEnd": "2026-08-26 (Steam Demo release)",
+    "sourceLinks": [
+      {
+        "label": "Steam",
+        "url": "https://store.steampowered.com/app/2550050/_/"
+      },
+      {
+        "label": "官網",
+        "url": "https://worldofslime.team42.co.kr/ja/"
+      }
+    ],
     "launchRegions": [
       {
         "region": "Global",
-        "status": "預註冊",
-        "date": "2027-02"
+        "status": "planned",
+        "date": "2027-02",
+        "platforms": [
+          "PC",
+          "iOS",
+          "Android"
+        ]
       }
     ],
     "history": [
       {
         "date": "2026-11",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-11",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-24",
     "addedAt": "2026-11-23",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-24",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "PC (Steam) demo released on 2026-08-26. Mobile pre-registration started on 2026-11-19. The game was exhibited at G-STAR 2026 in November 2026."
   },
   {
     "id": 807,
@@ -43619,5 +43638,48 @@
     "lastChecked": "2000-01-01",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
+  },
+  {
+    "id": 813,
+    "name": "生死格鬥6：最終回合",
+    "nameEn": "DEAD OR ALIVE 6 Last Round",
+    "developer": "Koei Tecmo",
+    "studio": "Koei Tecmo",
+    "publisher": "Koei Tecmo",
+    "genre": "格鬥",
+    "platform": [
+      "Mobile"
+    ],
+    "region": "Global",
+    "model": "F2P",
+    "stage": "live-ops",
+    "threat": "high",
+    "threatReason": "知名IP手遊化，儘管是重發行，但IP號召力強大，且未在追蹤清單中。",
+    "prereg": null,
+    "sentiment": 70,
+    "launchEst": "2026-07",
+    "desc": "經典格鬥IP《生死格鬥》在手機平台推出的《DEAD OR ALIVE 6 Last Round Core Fighters》重新發行版本，包含經典角色與新內容。",
+    "tags": [
+      "新聞報導"
+    ],
+    "threatAnalysis": "【自動發現・新聞報導】知名IP手遊化，儘管是重發行，但IP號召力強大，且未在追蹤清單中。",
+    "verified": "Agent 發現 (2026-11-24)",
+    "category": "active",
+    "testType": "待確認",
+    "testDateStart": "待確認",
+    "testDateEnd": "待確認",
+    "sourceLinks": [],
+    "launchRegions": [],
+    "history": [
+      {
+        "date": "2026-11",
+        "s": "live-ops"
+      }
+    ],
+    "updatedAt": "2026-11-24",
+    "addedAt": "2026-11-24",
+    "lastChecked": "2000-01-01",
+    "autoDiscovered": true,
+    "sourceType": "新聞報導"
   }
 ]
