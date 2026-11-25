@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-11-24T10:12:18.686286+00:00",
-  "fetchCount": 195,
+  "lastUpdated": "2026-11-25T08:55:41.970668+00:00",
+  "fetchCount": 196,
   "items": [
+    {
+      "id": "brief-20261125-ceaaa7af",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "藍色星原旅謠公測",
+      "detail": "全平台公測11/26登場，預下載已開啟。",
+      "action": "立即預下載遊戲",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-25T08:55:41.970668+00:00"
+    },
+    {
+      "id": "brief-20261125-86fad7e9",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "GTA6釋出首波更新",
+      "detail": "11/23釋出更新，修正多項遊戲問題。",
+      "action": "立即更新遊戲",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-25T08:55:41.970668+00:00"
+    },
+    {
+      "id": "brief-20261125-18a3e2fb",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "異域龍潮終止服務",
+      "detail": "Capcom遊戲明年9月底終止服務，將下架。",
+      "action": "留意服務終止",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-25T08:55:41.970668+00:00"
+    },
+    {
+      "id": "brief-20261125-791cb257",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "暗黑4新賽季登場",
+      "detail": "第16賽季12/2推出，征戰計畫大型更新。",
+      "action": "準備迎接更新",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-25T08:55:41.970668+00:00"
+    },
+    {
+      "id": "brief-20261125-536dd543",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "CDPR財報與巫師4",
+      "detail": "巫師3、邊緣行者2帶動人數，巫師4重申2028上市。",
+      "action": "關注CDPR動向",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-25T08:55:41.970668+00:00"
+    },
     {
       "id": "brief-20261124-2b7d8477",
       "priority": "urgent",
@@ -157,70 +212,15 @@
       "fetchedAt": "2026-11-21T07:29:36.870615+00:00"
     },
     {
-      "id": "brief-20261120-9cf3d380",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Evil Bane（新發現・高威脅）",
-      "detail": "網石大廠出品，動作RPG類型，採用Unreal Engine 5，具備高市場潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-20T07:38:33.977792+00:00"
-    },
-    {
-      "id": "brief-20261120-af7823f0",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "暗區突圍（新發現・高威脅）",
-      "detail": "騰訊自研硬核射擊手遊，市場表現強勁，具備高威脅性。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-20T07:38:33.977792+00:00"
-    },
-    {
-      "id": "brief-20261120-8a4ba1e3",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "魔靈召喚12週年",
-      "detail": "豪華任務活動，送召喚書",
-      "action": "立即參與活動",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-20T07:34:56.673097+00:00"
-    },
-    {
-      "id": "brief-20261124-c53b4813",
+      "id": "brief-20261125-bfe8c8f3",
       "priority": "watch",
       "icon": "👁",
-      "title": "仁王3新DLC發布",
-      "detail": "第二彈「天草大亂」12/17推出，同步公開預告。",
-      "action": "關注DLC發售",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-24T10:10:05.996743+00:00"
-    },
-    {
-      "id": "brief-20261124-41cab8eb",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "奧丁Q明年上市",
-      "detail": "MMORPG新作《奧丁Q》2027/1/26上市，12/29預約。",
-      "action": "關注事前預約",
+      "title": "天堂2 M新職業登場",
+      "detail": "今日改版，全新近戰坦克「破壞者」上線。",
+      "action": "體驗新職業",
       "platform": "mobile",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-24T10:10:05.996743+00:00"
-    },
-    {
-      "id": "brief-20261124-d7eb6d06",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "生死格鬥30週年",
-      "detail": "釋出紀念影片，新作「霞」好身材首度現身。",
-      "action": "關注新作資訊",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-11-24T10:10:05.996743+00:00"
+      "fetchedAt": "2026-11-25T08:55:41.970668+00:00"
     }
   ]
 }

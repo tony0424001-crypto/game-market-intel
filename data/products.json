@@ -11,13 +11,13 @@
       "Mobile",
       "Console"
     ],
-    "region": "CN/Global",
+    "region": "Global",
     "model": "F2P",
     "stage": "pre-reg",
     "threat": "critical",
     "prereg": 52000000,
-    "sentiment": 91,
-    "launchEst": "2026-07",
+    "sentiment": 85,
+    "launchEst": "2027-01-15",
     "desc": "現代都市開放世界 RPG，所有角色免費取得，挑戰傳統抽卡模式。7 月全平台公測定檔。",
     "tags": [
       "都市",
@@ -25,7 +25,7 @@
       "二次元",
       "免費角色"
     ],
-    "threatAnalysis": "【資訊不足】目前缺乏《無限大》於2026年7月上線後的具體營運消息與測試結束資訊。由於原定上線日期已過，推測遊戲已進入營運階段，但市場聲量與後續更新動態不明。 \n\n▶ 建議行動：\n(1). 持續監測遊戲官方社群媒體與遊戲新聞網站，確認其正式上線公告與營運狀況。\n(2). 嘗試搜尋玩家評論與討論，評估遊戲初期表現與潛在問題。\n(3). 若長時間無任何更新或消息，需評估其市場表現與追蹤價值。",
+    "threatAnalysis": "【關鍵威脅】《無限大》作為網易重點開發的都市開放世界RPG，已確認於2027年1月15日全球上線，並在Gamescom 2026上獲得高度關注，事前預約人數已突破1700萬。其跨平台發布策略（PC、PS5、手機）和網易的資源投入，使其具備成為現象級大作的潛力，威脅等級維持關鍵。\n\n▶ 建議行動：\n(1). 密切關注其全球上線後的營收、玩家活躍度及社群討論熱度。\n(2). 分析其內容更新頻率和活動設計，評估其長期營運策略。\n(3). 準備應對其可能對開放世界RPG和手遊市場造成的巨大衝擊。",
     "verified": "網易 520 發布會、蘋果仁、VNG 情報站",
     "history": [
       {
@@ -35,35 +35,24 @@
       {
         "date": "2026-03",
         "s": "pre-reg"
+      },
+      {
+        "date": "2026-11",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-08-21",
+    "updatedAt": "2026-11-25",
     "category": "active",
     "launchRegions": [
       {
-        "region": "CN",
-        "status": "預註冊",
-        "date": "2026-07（預計）"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "預註冊",
-        "date": "2026-07（預計）"
-      },
-      {
-        "region": "JP",
-        "status": "預註冊",
-        "date": "待定"
-      },
-      {
-        "region": "KR",
-        "status": "預註冊",
-        "date": "待定"
-      },
-      {
         "region": "Global",
-        "status": "預註冊",
-        "date": "2026-07（預計）"
+        "status": "expected",
+        "date": "2027-01-15",
+        "platforms": [
+          "PC",
+          "PS5",
+          "Mobile"
+        ]
       }
     ],
     "developer": "網易 伏羲工作室",
@@ -75,16 +64,16 @@
     "testDateEnd": "不刪檔公測 2026-07（定檔）~持續",
     "sourceLinks": [
       {
-        "label": "官網",
-        "url": "https://ananta.163.com/"
+        "label": "官方網站",
+        "url": "https://www.ananta-game.com/"
       },
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.cn/app/233075"
+        "label": "巴哈姆特 GNN 新聞",
+        "url": "https://gnn.gamer.com.tw/detail.php?sn=237463"
       }
     ],
-    "lastChecked": "2026-08-21",
-    "currentEvent": "遊戲應已於2026年7月上線並持續營運，但目前缺乏具體營運消息與測試結束資訊。"
+    "lastChecked": "2026-11-25",
+    "currentEvent": "網易旗下Naked Rain工作室開發的都市題材開放世界RPG《無限大》已於Gamescom 2026公布，確定將於2027年1月15日全球同步上線，並已開放事前預約。"
   },
   {
     "id": 2,
@@ -98,12 +87,12 @@
       "Mobile",
       "PS5"
     ],
-    "region": "CN/TW/Global",
+    "region": "CN/Global",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "high",
     "prereg": 18000000,
-    "sentiment": 82,
+    "sentiment": 75,
     "launchEst": "2026-04-23 (中國大陸), 2026-04-29 (全球)",
     "desc": "幻塔團隊新作，超自然都市開放世界 RPG。4/23 全平台公測，結合都市生活與超自然冒險。",
     "tags": [
@@ -112,7 +101,7 @@
       "二次元",
       "幻塔團隊"
     ],
-    "threatAnalysis": "【穩定營運】《異環》已於2026年4月23日（中國大陸）及4月29日（全球）正式上線，並持續進行版本更新，目前已推出1.3版本。遊戲營運狀況良好，有持續的內容更新與活動。\n\n▶ 建議行動：\n(1). 持續追蹤其版本更新內容與活動，評估對玩家留存與營收的影響。\n(2). 關注新角色與新玩法的推出，分析其市場反應。\n(3). 監測玩家社群討論，了解遊戲體驗與潛在問題。",
+    "threatAnalysis": "【高威脅】《異環》已於2026年4月全球上線，並支援多平台遊玩。作為完美世界幻塔工作室的超自然都市開放世界RPG，其上線後持續進行版本更新，顯示其積極的營運策略。儘管8月份的1.3版本曾引發爭議，但整體市場表現仍具備高威脅性。\n\n▶ 建議行動：\n(1). 密切監測其營收數據和玩家留存率，特別是爭議事件後的影響。\n(2). 分析其版本更新內容和活動，評估其對玩家的吸引力。\n(3). 關注其社群輿情，及時了解玩家對遊戲的滿意度和潛在問題。",
     "verified": "蘋果仁、巴哈姆特、Yahoo 遊戲 - 三個以上來源",
     "history": [
       {
@@ -130,30 +119,40 @@
       {
         "date": "2026-08",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-21",
+    "updatedAt": "2026-11-25",
     "category": "active",
     "launchRegions": [
       {
         "region": "CN",
-        "status": "已上線",
-        "date": "2026-04-23"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2026-04-29"
-      },
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2026-04-23"
+        "status": "launched",
+        "date": "2026-04-23",
+        "platforms": [
+          "iOS",
+          "Android",
+          "PC",
+          "PS5",
+          "Google Play Games on PC",
+          "Mac"
+        ]
       },
       {
         "region": "Global",
-        "status": "已上線",
-        "date": "2026-04-23"
+        "status": "launched",
+        "date": "2026-04-29",
+        "platforms": [
+          "iOS",
+          "Android",
+          "PC",
+          "PS5",
+          "Google Play Games on PC",
+          "Mac"
+        ]
       }
     ],
     "developer": "完美世界 幻塔工作室",
@@ -162,15 +161,19 @@
     "publisher_global": "Level Infinite",
     "testType": "不刪檔公測",
     "testDateStart": "2026-04-23",
-    "testDateEnd": "2026-04-23 (中國大陸公測開始), 2026-04-29 (全球公測開始)",
+    "testDateEnd": "不刪檔公測 2026-04-23~持續",
     "sourceLinks": [
       {
-        "label": "官網",
-        "url": "https://www.ntegame.net/"
+        "label": "巴哈姆特 GNN 新聞",
+        "url": "https://gnn.gamer.com.tw/detail.php?sn=230006"
+      },
+      {
+        "label": "PlayStation.Blog",
+        "url": "https://blog.zh-hant.playstation.com/2026/04/20/20260420-neverness/"
       }
     ],
-    "lastChecked": "2026-08-21",
-    "currentEvent": "遊戲已於2026年4月23日（中國大陸）及4月29日（全球）正式上線，並於2026年8月19日推出1.3版本「霧中朔望星回」，新增角色與夏日活動。"
+    "lastChecked": "2026-11-25",
+    "currentEvent": "遊戲已於2026年4月23日（中國大陸）和2026年4月29日（全球）正式上線。2026年8月上線1.3版本，並引發部分爭議。2026年11月6日更新了版本更新時程表。"
   },
   {
     "id": 3,
@@ -184,12 +187,12 @@
       "Mobile",
       "PS5"
     ],
-    "region": "CN/Global",
+    "region": "Global",
     "model": "F2P",
     "stage": "live-ops",
-    "threat": "high",
+    "threat": "critical",
     "prereg": 35000000,
-    "sentiment": 85,
+    "sentiment": 90,
     "launchEst": "2026-01-22",
     "desc": "明日方舟 IP 衍生 3D 即時策略 RPG，結合小隊戰鬥與自動化基地建設。1/22 全球公測，預約 3500 萬。",
     "tags": [
@@ -198,7 +201,7 @@
       "IP衍生",
       "明日方舟"
     ],
-    "threatAnalysis": "【穩定營運，持續更新】《明日方舟：終末地》已於2026年1月22日全球上線，營運狀況良好，並持續推出新版本與活動。遊戲在市場上表現強勁，尤其在日本市場營收亮眼。\n\n▶ 建議行動：\n(1). 持續關注其版本更新、新角色推出及營收表現，特別是不同地區的市場反應。\n(2). 分析其雲遊戲版本的推廣效果與用戶接受度。\n(3). 監測玩家對遊戲內容（如抽卡系統優化）的討論與反饋。",
+    "threatAnalysis": "【關鍵威脅】《明日方舟：終末地》已於2026年1月22日全球上線，並在短短數月內取得了顯著的商業成功，初期兩週全球營收達1.2億人民幣，六個月內移動端營收超過1.25億美元。遊戲持續獲得內容更新，並榮獲多項行業大獎提名和肯定，顯示其強勁的市場表現和高人氣，威脅等級從高調升至關鍵。\n\n▶ 建議行動：\n(1). 密切監測其全球各區域的營收和玩家活躍度，特別是日本市場的表現。\n(2). 分析其內容更新、活動和角色發布策略，學習其成功經驗。\n(3). 關注其社群討論和口碑，評估其長期發展潛力。",
     "verified": "維基百科、巴哈姆特、QooApp、GNN",
     "history": [
       {
@@ -212,35 +215,25 @@
       {
         "date": "2026-01",
         "s": "launched"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-21",
+    "updatedAt": "2026-11-25",
     "category": "active",
     "launchRegions": [
       {
-        "region": "CN",
-        "status": "已上線",
-        "date": "2026-01-22"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "已上線",
-        "date": "2026-01-22"
-      },
-      {
-        "region": "JP",
-        "status": "已上線",
-        "date": "2026-01-22"
-      },
-      {
-        "region": "KR",
-        "status": "已上線",
-        "date": "2026-01-22"
-      },
-      {
         "region": "Global",
-        "status": "已上線",
-        "date": "2026-01-22"
+        "status": "launched",
+        "date": "2026-01-22",
+        "platforms": [
+          "PS5",
+          "PC",
+          "iOS",
+          "Android"
+        ]
       }
     ],
     "developer": "鷹角網絡",
@@ -252,16 +245,21 @@
     "testDateEnd": "不刪檔公測 2026-01-22~持續營運中",
     "sourceLinks": [
       {
-        "label": "TapTap",
-        "url": "https://www.taptap.cn/app/234790"
+        "label": "Steam Store Page",
+        "url": "https://store.steampowered.com/app/2689880/DEAD_OR_ALIVE_6_Last_Round/"
       },
       {
-        "label": "官網",
-        "url": "https://endfield.hypergryph.com/"
+        "label": "Mobalytics News",
+        "url": "https://mobalytics.gg/blog/arknights-endfield-release-date-pre-registration/"
+      },
+      {
+        "label": "PocketGamer.biz",
+        "url": "https://www.pocketgamer.biz/news/80004/arknights-endfield-surpasses-125m-in-six-months-on-mobile/"
       }
     ],
-    "lastChecked": "2026-08-21",
-    "currentEvent": "遊戲已於2026年1月22日全球同步上線（PC、PS5、Android、iOS平台），目前正持續營運並推出新版本「相伴慶典&「向淵行」核心章節」，新增幹員「梨諾」。"
+    "lastChecked": "2026-11-25",
+    "currentEvent": "遊戲已於2026年1月22日全球上線。2026年11月25日推出「Meeting You in the World o'Shrooms」更新。獲得2026年Google Play Awards「年度最佳遊戲」、2026年App Store Awards「年度最佳iPad遊戲」提名，並獲2026年遊戲大獎「最佳手機遊戲」提名。",
+    "threatReason": "遊戲已全球上線並取得優異營收，獲得多項行業獎項提名和肯定，市場表現強勁，威脅等級從高調升至關鍵。"
   },
   {
     "id": 4,
@@ -279,7 +277,7 @@
     "stage": "live-ops",
     "threat": "critical",
     "prereg": 32000000,
-    "sentiment": 80,
+    "sentiment": 70,
     "launchEst": "2026-07-09 (PC, iOS, Android, 鴻蒙)",
     "desc": "Rust 正版授權生存對抗大作，4x4km 海陸空無接縫開放世界。預約破 3200 萬，7 月全平台上線（PC/iOS/Android/鴻蒙/平板）。",
     "tags": [
@@ -290,7 +288,7 @@
       "Rust授權",
       "多端互通"
     ],
-    "threatAnalysis": "【已正式上線】《失控進化》已於2026年7月9日全平台推出，並進入營運階段。遊戲作為《Rust》正版授權的生存對抗遊戲，市場反應與玩家體驗值得持續關注。\n\n▶ 建議行動：\n(1). 監測遊戲的營運數據與玩家活躍度，評估其在生存賽道的表現。\n(2). 關注遊戲內容更新與活動，分析其對玩家社群的影響。\n(3). 收集玩家對遊戲硬核玩法、外掛問題及時間成本的評價，作為未來產品優化的參考。",
+    "threatAnalysis": "【關鍵威脅】《失控進化》已於2026年7月9日全平台公測上線，作為騰訊（Rust授權）開發的遊戲，其背後有大廠資源和知名IP授權，具備成為關鍵級大作的潛力。儘管目前缺乏最新的市場表現數據，但其初始威脅等級仍維持關鍵。\n\n▶ 建議行動：\n(1). 密切監測其上線後的營收、玩家活躍度及社群討論熱度。\n(2). 分析其內容更新和營運活動，評估其對玩家的吸引力。\n(3). 關注其在PC、iOS、Android和鴻蒙等多平台的表現差異。",
     "verified": "快科技（4/29報導）、VNG 情報站",
     "history": [
       {
@@ -314,7 +312,7 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-21",
+    "updatedAt": "2026-11-25",
     "category": "active",
     "launchRegions": [
       {
@@ -346,7 +344,7 @@
         "url": "https://www.taptap.cn/app/234790"
       }
     ],
-    "lastChecked": "2026-08-21",
+    "lastChecked": "2026-11-25",
     "currentEvent": "遊戲已於2026年7月9日全平台（PC、iOS、Android、鴻蒙）正式上線，目前正持續營運。"
   },
   {
@@ -361,13 +359,13 @@
       "Mobile",
       "Console"
     ],
-    "region": "CN/Global",
+    "region": "CN/Global (alpha)",
     "model": "F2P",
     "stage": "live-ops",
     "threat": "critical",
     "prereg": 68000000,
-    "sentiment": 89,
-    "launchEst": "2026-04-17 (Mobile), 2026-04-10 (PC)",
+    "sentiment": 95,
+    "launchEst": "2026-04-10 (PC), 2026-04-17 (Mobile)",
     "desc": "王者榮耀 IP 開放世界 RPG，PC 端首輪大規模限號測試中（4/10 起）。UE5 打造。",
     "tags": [
       "開放世界",
@@ -375,7 +373,7 @@
       "UE5",
       "手機核心"
     ],
-    "threatAnalysis": "【穩定營運】《王者榮耀：世界》已於2026年4月在PC與手機平台推出，並持續營運。作為《王者榮耀》IP的衍生作品，其市場表現與玩家接受度值得持續關注。\n\n▶ 建議行動：\n(1). 監測遊戲在不同平台（PC與手機）的用戶活躍度與營收表現。\n(2). 關注遊戲內容更新、新英雄與活動的推出，評估其對IP粉絲的吸引力。\n(3). 分析玩家對遊戲開放世界玩法與《王者榮耀》IP結合的評價。",
+    "threatAnalysis": "【關鍵威脅】《王者榮耀：世界》已於2026年4月在中國大陸上線，並成功進行了全球封閉Alpha測試，顯示其全球化野心。作為騰訊TiMi Studio開發的《王者榮耀》IP衍生大作，其背靠全球最賺錢手遊IP，具備極高的市場潛力。儘管全球上線日期尚未確定，但其威脅等級維持關鍵。\n\n▶ 建議行動：\n(1). 密切監測其在中國大陸的營收、玩家活躍度及內容更新，作為全球市場的參考。\n(2). 關注全球測試進度、玩家反饋和本地化策略。\n(3). 準備應對其全球上線後可能對開放世界RPG和手遊市場造成的巨大衝擊。",
     "verified": "VNG 情報站、GameLook",
     "history": [
       {
@@ -389,25 +387,31 @@
       {
         "date": "2026-06",
         "s": "live-ops"
+      },
+      {
+        "date": "2026-11",
+        "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-21",
+    "updatedAt": "2026-11-25",
     "category": "active",
     "launchRegions": [
       {
         "region": "CN",
-        "status": "封測中（PC 限號）",
-        "date": "2026-04-10"
-      },
-      {
-        "region": "TW/HK/MO",
-        "status": "未上線",
-        "date": "待定"
+        "status": "launched",
+        "date": "2026-04-10 (PC), 2026-04-17 (Mobile)",
+        "platforms": [
+          "PC",
+          "Mobile"
+        ]
       },
       {
         "region": "Global",
-        "status": "未上線",
-        "date": "待定"
+        "status": "alpha completed",
+        "date": "226-05-21~2026-05-27",
+        "platforms": [
+          "PC"
+        ]
       }
     ],
     "developer": "騰訊 TiMi Studio",
@@ -419,12 +423,16 @@
     "testDateEnd": "刪檔不計費（PC限號） 2026-04-10~持續",
     "sourceLinks": [
       {
-        "label": "官網",
-        "url": "https://world.qq.com/"
+        "label": "LDShop News",
+        "url": "https://ldshop.me/honor-of-kings-world-release-date-everything-you-need-to-know-about-april-2026-launch/"
+      },
+      {
+        "label": "Reddit r/QueensofGacha",
+        "url": "https://www.reddit.com/r/QueensofGacha/comments/1bl180o/honor_of_kings_world_is_releasing_on_april_10_in/"
       }
     ],
-    "lastChecked": "2026-08-21",
-    "currentEvent": "遊戲已於2026年4月10日（PC）及4月17日（手機）在中國推出，目前正持續營運。"
+    "lastChecked": "2026-11-25",
+    "currentEvent": "遊戲已於2026年4月10日（PC）和2026年4月17日（Mobile）在中國大陸上線。2026年5月21日至27日在北美、歐洲和東南亞進行了首次全球封閉Alpha測試。"
   },
   {
     "id": 6,
@@ -7382,11 +7390,11 @@
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 60,
     "launchEst": "2027-Q4",
     "desc": "備受期待的動作角色扮演遊戲《王國之心 IV》預計於 2027 年底推出，並將登陸多個平台。",
     "tags": [],
-    "threatAnalysis": "【機會】發售日期已明確至2027年末，且開發團隊給出不延期承諾，為玩家帶來信心。 新預告片展示了《可可夜總會》世界與可操作角色米奇，提升了期待度。\n\n▶ 建議行動：\n(1). 持續追蹤後續宣傳活動與新世界、角色資訊。\n(2). 評估其在多平台發售的市場潛力。\n(3). 關注玩家對遊戲新機制的反應。",
+    "threatAnalysis": "【中等威脅】《王國之心 IV》作為Square Enix的知名IP續作，儘管預計上線時間為2027年Q4，目前仍處於公布狀態，缺乏新的具體開發進度或測試消息。其IP影響力使其具備中等威脅，但距離上線尚遠，市場熱度有待觀察。\n\n▶ 建議行動：\n(1). 持續追蹤Square Enix官方發布的任何新預告片、開發日誌或遊戲細節。\n(2). 關注大型遊戲展會（如E3, TGS, State of Play）是否有其最新消息。\n(3). 評估其公布新消息時的市場反應和玩家期待。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "tracking",
     "testType": "待確認",
@@ -7417,8 +7425,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-20",
-    "lastChecked": "2026-08-20",
+    "updatedAt": "2026-11-25",
+    "lastChecked": "2026-11-25",
     "autoDiscovered": true,
     "currentEvent": "遊戲《王國之心 IV》（Kingdom Hearts IV）於D23 2026活動中確認將於2027年末發售，並公開了以皮克斯電影《可可夜總會》為靈感的新世界。 開發團隊承諾遊戲不會延期。 遊戲將登陸PC、PlayStation 5、Xbox Series X|S和Nintendo Switch 2平台，並確認米奇老鼠為可操作角色。",
     "eventNote": "遊戲《王國之心 IV》（Kingdom Hearts IV）於D23 2026活動中確認將於2027年末發售，並公開了以皮克斯電影《可可夜總會》為靈感的新世界。 開發團隊承諾遊戲不會延期。 遊戲將登陸PC、PlayStation 5、Xbox Series X|S和Nintendo Switch 2平台，並確認米奇老鼠為可操作角色。"
@@ -7439,11 +7447,11 @@
     "stage": "live-ops",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 40,
     "launchEst": "2025-08-18 (搶先體驗版)",
     "desc": "這是一款基於物理的格鬥遊戲，玩家將扮演火柴人進行戰鬥，將於 9 月 23 日發售。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】資訊錯誤\n\n▶ 建議行動：\n(1). 修正遊戲名稱為《打工火柴人》（Stick it to the Stickman）。\n(2). 更新遊戲狀態為「live-ops」並記錄實際搶先體驗上線日期2025年8月18日。\n(3). 追蹤遊戲正式版發布計畫與後續更新。",
+    "threatAnalysis": "【中等威脅】根據提供的資料，該遊戲已於2025年8月18日上線搶先體驗版，目前應處於長期營運狀態。然而，外部搜尋未能明確確認由Free Lives開發的同名遊戲，且缺乏具體的市場表現數據。因此，威脅等級維持中等。\n\n▶ 建議行動：\n(1). 嘗試進一步確認該遊戲的實際開發商和具體版本資訊。\n(2). 若能確認，則需追蹤其營收、玩家活躍度及社群討論。\n(3). 若資訊持續不明確，應考慮其追蹤的必要性。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "tracking",
     "testType": "待確認",
@@ -7466,8 +7474,8 @@
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-08-20",
-    "lastChecked": "2026-08-20",
+    "updatedAt": "2026-11-25",
+    "lastChecked": "2026-11-25",
     "autoDiscovered": true,
     "currentEvent": "遊戲《打工火柴人》（Stick it to the Stickman）已於2025年8月18日在PC平台（Steam）推出搶先體驗版。 遊戲由Free Lives開發，Devolver Digital發行。 原提供資訊中的「火柴人出擊」名稱與上線日期2026-09應為其他火柴人遊戲，例如《火柴人征戰異世界》已於2025年5月1日上線。",
     "eventNote": "遊戲《打工火柴人》（Stick it to the Stickman）已於2025年8月18日在PC平台（Steam）推出搶先體驗版。 遊戲由Free Lives開發，Devolver Digital發行。 原提供資訊中的「火柴人出擊」名稱與上線日期2026-09應為其他火柴人遊戲，例如《火柴人征戰異世界》已於2025年5月1日上線。"
@@ -7491,11 +7499,11 @@
     "stage": "announced",
     "threat": "medium",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "TBD",
     "desc": "這是一款敘事驅動的奇幻動作角色扮演遊戲，已宣布將登陸多個平台，並將在 Gamescom 2026 提供試玩。",
     "tags": [],
-    "threatAnalysis": "【威脅類型】資訊不足\n\n▶ 建議行動：\n(1). 持續監控開發商YHKT ENTERTAINMENT的官方公告與社群媒體。\n(2). 嘗試使用其他關鍵字或遊戲英文名稱進行搜尋（如果有的話）。\n(3). 若長時間無任何更新，需評估是否轉為「dead」狀態。",
+    "threatAnalysis": "【中等威脅】目前仍處於公布狀態，缺乏新的開發進度或市場消息，威脅等級維持中等。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與官方公告。\n(2). 關注是否有測試活動或上線日期的確認。\n(3). 評估市場同類產品的表現，以預判其潛在影響。",
     "verified": "Agent 發現 (2026-08-16)",
     "category": "tracking",
     "testType": "待確認",
@@ -7509,8 +7517,8 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-08-20",
-    "lastChecked": "2026-08-20",
+    "updatedAt": "2026-11-25",
+    "lastChecked": "2026-11-25",
     "autoDiscovered": true,
     "currentEvent": "無最新資訊。",
     "eventNote": "無最新資訊。"
@@ -43371,13 +43379,13 @@
     "threat": "medium",
     "threatReason": "中國大廠中青宝開發的動作RPG，具備一定市場潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "待確認",
     "desc": "中青宝開發的動作RPG手遊，已於2026年8月獲得中國版號。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】中國大廠中青宝開發的動作RPG，具備一定市場潛力。",
+    "threatAnalysis": "【中等威脅】目前仍處於公布狀態，缺乏新的開發進度或市場消息，威脅等級維持中等。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與官方公告。\n(2). 關注是否有測試活動或上線日期的確認。\n(3). 評估市場同類產品的表現，以預判其潛在影響。",
     "verified": "Agent 發現 (2026-11-23)",
     "category": "active",
     "testType": "待確認",
@@ -43397,9 +43405,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-25",
     "addedAt": "2026-11-23",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-25",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -43420,13 +43428,13 @@
     "threat": "medium",
     "threatReason": "中國開發商的冒險RPG，市場表現有待觀察。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "待確認",
     "desc": "上海灵刃開發的冒險RPG手遊，已於2026年8月獲得中國版號。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】中國開發商的冒險RPG，市場表現有待觀察。",
+    "threatAnalysis": "【中等威脅】目前仍處於公布狀態，缺乏新的開發進度或市場消息，威脅等級維持中等。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與官方公告。\n(2). 關注是否有測試活動或上線日期的確認。\n(3). 評估市場同類產品的表現，以預判其潛在影響。",
     "verified": "Agent 發現 (2026-11-23)",
     "category": "active",
     "testType": "待確認",
@@ -43446,9 +43454,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-25",
     "addedAt": "2026-11-23",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-25",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -43469,13 +43477,13 @@
     "threat": "medium",
     "threatReason": "中國開發商的策略生存遊戲，市場表現有待觀察。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "待確認",
     "desc": "冰川网络開發的策略生存手遊，已於2026年8月獲得中國版號。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】中國開發商的策略生存遊戲，市場表現有待觀察。",
+    "threatAnalysis": "【中等威脅】目前仍處於公布狀態，缺乏新的開發進度或市場消息，威脅等級維持中等。\n\n▶ 建議行動：\n(1). 持續追蹤遊戲開發進度與官方公告。\n(2). 關注是否有測試活動或上線日期的確認。\n(3). 評估市場同類產品的表現，以預判其潛在影響。",
     "verified": "Agent 發現 (2026-11-23)",
     "category": "active",
     "testType": "待確認",
@@ -43495,9 +43503,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-25",
     "addedAt": "2026-11-23",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-25",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -43515,16 +43523,16 @@
     "region": "CN",
     "model": "F2P",
     "stage": "announced",
-    "threat": "high",
-    "threatReason": "知名PC遊戲IP改編手遊，具備較高市場關注度。",
+    "threat": "medium",
+    "threatReason": "缺乏新消息和開發商的明確資訊，市場關注度不高，威脅等級從高調降至中等。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 30,
     "launchEst": "待確認",
     "desc": "知名PC遊戲《Loop Hero》的中國手遊版，已於2026年8月獲得中國版號。",
     "tags": [
       "版號公示"
     ],
-    "threatAnalysis": "【自動發現・版號公示】知名PC遊戲IP改編手遊，具備較高市場關注度。",
+    "threatAnalysis": "【中等威脅】該遊戲目前仍處於公布狀態，且缺乏具體開發進度或市場消息。由於開發商資訊不明確，且長期無更新，市場關注度較低，因此威脅等級從高調降至中等。\n\n▶ 建議行動：\n(1). 持續觀察是否有新的官方公告或測試活動。\n(2). 嘗試確認該遊戲是否為知名作品《Loop Hero》的中文版或獨立新作。\n(3). 若長期無消息，可考慮將其移出追蹤列表。",
     "verified": "Agent 發現 (2026-11-23)",
     "category": "active",
     "testType": "待確認",
@@ -43544,9 +43552,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-25",
     "addedAt": "2026-11-23",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-25",
     "autoDiscovered": true,
     "sourceType": "版號公示"
   },
@@ -43568,13 +43576,13 @@
     "threat": "high",
     "threatReason": "Nexon大廠出品的暗黑奇幻MMORPG，具備多平台潛力。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 40,
     "launchEst": "待確認",
     "desc": "Nexon開發的暗黑奇幻動作MMORPG，具有移動遊戲的特徵，並在Steam上進行過測試。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】Nexon大廠出品的暗黑奇幻MMORPG，具備多平台潛力。",
+    "threatAnalysis": "【高威脅】作為NEXON開發的遊戲，儘管目前仍處於公布狀態且缺乏具體上線或測試消息，但其大廠背景仍使其具備潛在的高威脅性。市場對此類大廠作品通常抱有較高期待。\n\n▶ 建議行動：\n(1). 密切關注NEXON官方發布的任何開發進度、預告片或測試招募資訊。\n(2). 追蹤遊戲媒體和社群討論，了解玩家對其的期待和關注度。\n(3). 準備應對其未來可能帶來的市場衝擊。",
     "verified": "Agent 發現 (2026-11-23)",
     "category": "active",
     "testType": "待確認",
@@ -43588,9 +43596,9 @@
         "s": "announced"
       }
     ],
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-25",
     "addedAt": "2026-11-23",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-25",
     "autoDiscovered": true,
     "sourceType": "模型知識推論"
   },
@@ -43609,35 +43617,60 @@
     ],
     "region": "Global",
     "model": "F2P",
-    "stage": "announced",
+    "stage": "pre-reg",
     "threat": "high",
     "threatReason": "Unreal Engine 5開發的開放世界MMORPG，多平台發布，潛力高。",
     "prereg": null,
-    "sentiment": 70,
+    "sentiment": 65,
     "launchEst": "待確認",
     "desc": "一款使用Unreal Engine 5開發的未來平行宇宙開放世界MMORPG，預計將在PC、手機和主機平台發布。",
     "tags": [
       "模型知識推論"
     ],
-    "threatAnalysis": "【自動發現・模型知識推論】Unreal Engine 5開發的開放世界MMORPG，多平台發布，潛力高。",
+    "threatAnalysis": "【高威脅】《Prism 2033》已於2026年3月正式公布，並開放PC (Steam, Epic Games Store)、iOS和Android平台的預註冊，顯示其開發進度良好且具備跨平台野心。作為一款使用Unreal Engine 5開發的未來平行宇宙MMORPG，其宏大的世界觀和動態NPC系統預示著較高的市場潛力，威脅等級維持高。\n\n▶ 建議行動：\n(1). 密切關注預註冊人數及後續測試活動的進展。\n(2). 分析其宣傳策略和玩家社群反饋，評估市場期待值。\n(3). 準備應對其正式上線後可能對MMORPG市場造成的影響。",
     "verified": "Agent 發現 (2026-11-23)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "sourceLinks": [
+      {
+        "label": "IGN News",
+        "url": "https://www.ign.com/articles/a-first-look-at-the-universe-of-futuristic-mmorpg-prism-2033"
+      },
+      {
+        "label": "Reddit r/Prism2033",
+        "url": "https://www.reddit.com/r/Prism2033/comments/1bd6x77/preregistration_for_the_paralleluniverse_mmorpg/"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "pre-registration",
+        "date": "TBD",
+        "platforms": [
+          "PC",
+          "iOS",
+          "Android"
+        ]
+      }
+    ],
     "history": [
       {
         "date": "2026-11",
         "s": "announced"
+      },
+      {
+        "date": "2026-11",
+        "s": "pre-reg"
       }
     ],
-    "updatedAt": "2026-11-23",
+    "updatedAt": "2026-11-25",
     "addedAt": "2026-11-23",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-25",
     "autoDiscovered": true,
-    "sourceType": "模型知識推論"
+    "sourceType": "模型知識推論",
+    "currentEvent": "遊戲於2026年3月21日正式公布，並已開放預註冊。"
   },
   {
     "id": 813,
@@ -43656,30 +43689,55 @@
     "threat": "high",
     "threatReason": "知名IP手遊化，儘管是重發行，但IP號召力強大，且未在追蹤清單中。",
     "prereg": null,
-    "sentiment": 70,
-    "launchEst": "2026-07",
+    "sentiment": 80,
+    "launchEst": "2026-06-25",
     "desc": "經典格鬥IP《生死格鬥》在手機平台推出的《DEAD OR ALIVE 6 Last Round Core Fighters》重新發行版本，包含經典角色與新內容。",
     "tags": [
       "新聞報導"
     ],
-    "threatAnalysis": "【自動發現・新聞報導】知名IP手遊化，儘管是重發行，但IP號召力強大，且未在追蹤清單中。",
+    "threatAnalysis": "【高威脅】《生死格鬥6：最終回合》已於2026年6月25日正式上線，並在2026年11月24日發布了30週年紀念更新，顯示其積極的營運狀態和IP影響力。作為知名格鬥遊戲系列的新作，其市場地位和玩家基礎穩固，威脅等級維持高。\n\n▶ 建議行動：\n(1). 監測遊戲的營收表現和玩家活躍度，特別是新內容更新後的數據。\n(2). 分析其DLC策略和社群反饋，了解玩家對遊戲內容和營運的滿意度。\n(3). 關注其電競賽事或社群活動，評估其長期生命力。",
     "verified": "Agent 發現 (2026-11-24)",
     "category": "active",
     "testType": "待確認",
     "testDateStart": "待確認",
     "testDateEnd": "待確認",
-    "sourceLinks": [],
-    "launchRegions": [],
+    "sourceLinks": [
+      {
+        "label": "Team NINJA Studio Official Site",
+        "url": "https://www.teamninja-studio.com/doa6/lr/us/dlc.html"
+      },
+      {
+        "label": "Steam Store Page",
+        "url": "https://store.steampowered.com/app/2689880/DEAD_OR_ALIVE_6_Last_Round/"
+      }
+    ],
+    "launchRegions": [
+      {
+        "region": "Global",
+        "status": "launched",
+        "date": "2026-06-25",
+        "platforms": [
+          "PS5",
+          "Xbox Series X|S",
+          "PC"
+        ]
+      }
+    ],
     "history": [
+      {
+        "date": "2026-11",
+        "s": "live-ops"
+      },
       {
         "date": "2026-11",
         "s": "live-ops"
       }
     ],
-    "updatedAt": "2026-11-24",
+    "updatedAt": "2026-11-25",
     "addedAt": "2026-11-24",
-    "lastChecked": "2000-01-01",
+    "lastChecked": "2026-11-25",
     "autoDiscovered": true,
-    "sourceType": "新聞報導"
+    "sourceType": "新聞報導",
+    "currentEvent": "遊戲已於2026年6月25日正式上線，並於2026年11月24日發布了30週年免費更新，包含新服裝、配件、舞台和音樂。"
   }
 ]

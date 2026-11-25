@@ -1,25 +1,55 @@
 {
-  "lastAudit": "2026-11-24T10:10:49.109077+00:00",
-  "totalProducts": 809,
-  "updatesApplied": 6,
-  "issuesFound": 1,
-  "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
+  "lastAudit": "2026-11-25T08:56:00.725832+00:00",
+  "totalProducts": 810,
+  "updatesApplied": 60,
+  "issuesFound": 6,
+  "nextAudit": "下次執行時將檢查：鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城, 二重螺旋, 命運扳機, 追逐卡蕾多, 望月, 數碼寶貝 UP",
   "findings": [
     {
-      "name": "スライムの世界ぷにっと冒険記",
+      "name": "Prism 2033",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "生死格鬥6：最終回合",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "無限大",
       "status": "warning",
       "issue": "狀態: pre-reg→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "異環",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "明日方舟：終末地",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "王者榮耀：世界",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
       "autoFixed": true
     }
   ],
   "checked": [
-    "スライムの世界ぷにっと冒険記",
     "狂飙勇者",
     "重返地心之下",
     "我的末日基地",
     "循環勇士",
     "Embers of the Uncrowned",
     "Prism 2033",
+    "生死格鬥6：最終回合",
     "王國之心 IV",
     "火柴人出擊",
     "帶來者",
@@ -30,11 +60,6 @@
     "王者榮耀：世界"
   ],
   "nextBatch": [
-    "無限大",
-    "異環",
-    "明日方舟：終末地",
-    "失控進化",
-    "王者榮耀：世界",
     "鳴潮",
     "遺忘之海",
     "卡厄思夢境",
@@ -44,6 +69,11 @@
     "原神",
     "絕區零",
     "崩壞：星穹鐵道",
-    "白銀之城"
+    "白銀之城",
+    "二重螺旋",
+    "命運扳機",
+    "追逐卡蕾多",
+    "望月",
+    "數碼寶貝 UP"
   ]
 }
