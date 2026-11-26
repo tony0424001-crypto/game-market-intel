@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-11-25T08:55:41.970668+00:00",
-  "fetchCount": 196,
+  "lastUpdated": "2026-11-26T08:49:42.365512+00:00",
+  "fetchCount": 197,
   "items": [
+    {
+      "id": "brief-20261126-822fc83d",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "FunPlus 捉寵開放世界（新發現・高威脅）",
+      "detail": "知名出海大廠FunPlus的新作，結合寶可夢式捉寵和開放世界玩法，具備全球市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-26T08:49:42.365512+00:00"
+    },
+    {
+      "id": "brief-20261126-fae4d7fa",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "天樞（新發現・高威脅）",
+      "detail": "暢遊在二次元領域的開放世界新作，日式幻想風格和動作RPG玩法，具備一定市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-26T08:49:42.365512+00:00"
+    },
+    {
+      "id": "brief-20261126-4ffd4106",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "星布谷地（新發現・高威脅）",
+      "detail": "米哈遊新作，雖然類型為模擬經營，但作為大廠新IP，且有AI互動等新穎玩法，預期會吸引大量玩家。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-26T08:49:42.365512+00:00"
+    },
+    {
+      "id": "brief-20261126-080cf002",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "LOL電競經理停運",
+      "detail": "英雄聯盟電競經理2027/1/26停運",
+      "action": "留意停運資訊",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-26T08:40:57.208815+00:00"
+    },
+    {
+      "id": "brief-20261126-2269e3fe",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "數碼寶貝卡牌手遊",
+      "detail": "手機版《Digimon Alysion》全球上線",
+      "action": "下載體驗遊戲",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-26T08:40:57.208815+00:00"
+    },
+    {
+      "id": "brief-20261126-4cef21dc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "三角洲行動聯動",
+      "detail": "聯動潛龍諜影，裸蛇傳說造型登場",
+      "action": "參與聯動活動",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-26T08:40:57.208815+00:00"
+    },
+    {
+      "id": "brief-20261126-e4504b2a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "救世者之樹聯動",
+      "detail": "超人力霸王系列聯動上線，家園建造",
+      "action": "參與聯動活動",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-26T08:40:57.208815+00:00"
+    },
+    {
+      "id": "brief-20261126-bca224bd",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Crash Fever聯動",
+      "detail": "聯名涼宮春日的憂鬱活動今日開跑",
+      "action": "參與聯名活動",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-26T08:40:57.208815+00:00"
+    },
     {
       "id": "brief-20261125-ceaaa7af",
       "priority": "urgent",
@@ -133,94 +221,6 @@
       "platform": "console",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-11-23T07:56:30.863156+00:00"
-    },
-    {
-      "id": "brief-20261122-b54da2c1",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "封神再臨（新發現・高威脅）",
-      "detail": "經典IP改編，由知名廠商金山授權，MMORPG品類在中國市場有潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-22T07:17:02.557437+00:00"
-    },
-    {
-      "id": "brief-20261122-6ada5690",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Neuralink玩GTA 6",
-      "detail": "腦內晶片實現意念操控遊戲",
-      "action": "關注科技發展",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-11-22T07:12:03.585324+00:00"
-    },
-    {
-      "id": "brief-20261121-0a97b23d",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "DNF 經典版（新發現・高威脅）",
-      "detail": "知名IP經典復刻，有望吸引大量老玩家回歸。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-21T07:32:20.076272+00:00"
-    },
-    {
-      "id": "brief-20261121-c3cdf004",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "地下城與勇士：Spirit（新發現・高威脅）",
-      "detail": "知名IP改編，3D動作RPG，Nexon大廠出品，全球發行潛力高。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-21T07:32:20.076272+00:00"
-    },
-    {
-      "id": "brief-20261121-2492ad24",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "少女前線：盧納西亞盟約（新發現・高威脅）",
-      "detail": "知名二次元IP新作，射擊玩法具備市場潛力，預期將吸引大量粉絲。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-21T07:32:20.076272+00:00"
-    },
-    {
-      "id": "brief-20261121-0e8c8679",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA6首日銷量破紀錄",
-      "detail": "狂賣3250萬套，創娛樂產品新高",
-      "action": "關注遊戲市場",
-      "platform": "console",
-      "source": "4Gamers",
-      "fetchedAt": "2026-11-21T07:29:36.870615+00:00"
-    },
-    {
-      "id": "brief-20261121-259f9382",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA6破紀錄與彩蛋",
-      "detail": "綜合評分99分，打破多項紀錄",
-      "action": "觀看電玩瘋報導",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-21T07:29:36.870615+00:00"
-    },
-    {
-      "id": "brief-20261125-bfe8c8f3",
-      "priority": "watch",
-      "icon": "👁",
-      "title": "天堂2 M新職業登場",
-      "detail": "今日改版，全新近戰坦克「破壞者」上線。",
-      "action": "體驗新職業",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-25T08:55:41.970668+00:00"
     }
   ]
 }
