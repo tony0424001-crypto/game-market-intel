@@ -1,26 +1,69 @@
 {
-  "lastAudit": "2026-11-26T08:41:19.803005+00:00",
-  "totalProducts": 810,
-  "updatesApplied": 5,
-  "issuesFound": 0,
-  "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城, 二重螺旋",
-  "findings": [],
+  "lastAudit": "2026-11-27T08:52:21.708209+00:00",
+  "totalProducts": 818,
+  "updatesApplied": 55,
+  "issuesFound": 7,
+  "nextAudit": "下次執行時將檢查：無限大, 異環, 明日方舟：終末地, 失控進化, 王者榮耀：世界, 鳴潮, 遺忘之海, 卡厄思夢境, 藍色星原：旅謠, 破界：界限終零, 締造者：放逐之境, 原神, 絕區零, 崩壞：星穹鐵道, 白銀之城",
+  "findings": [
+    {
+      "name": "星布谷地",
+      "status": "warning",
+      "issue": "狀態: pre-reg→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "三國志王戰",
+      "status": "warning",
+      "issue": "狀態: announced→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "萊莎的鍊金工房 AI 聊天 RPG",
+      "status": "warning",
+      "issue": "狀態: pre-reg→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "石器時代：放置冒險",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "七大罪：起源",
+      "status": "warning",
+      "issue": "狀態: live-ops→live-ops",
+      "autoFixed": true
+    },
+    {
+      "name": "夢幻之星：星躍",
+      "status": "warning",
+      "issue": "狀態: pre-reg→pre-reg",
+      "autoFixed": true
+    },
+    {
+      "name": "Ananta",
+      "status": "warning",
+      "issue": "狀態: announced→pre-reg",
+      "autoFixed": true
+    }
+  ],
   "checked": [
-    "鳴潮",
+    "星布谷地",
+    "天樞",
+    "FunPlus 捉寵開放世界",
+    "星溯：劫燼永迴",
+    "地下城之覺醒",
+    "獨步天元",
+    "凡人鏡",
+    "三國志王戰",
     "萊莎的鍊金工房 AI 聊天 RPG",
     "石器時代：放置冒險",
     "七大罪：起源",
     "香格里拉·開拓異境：七大巨像",
     "夢幻之星：星躍",
     "Ananta",
-    "黑幫海市蜃樓",
-    "洛克王國：世界",
-    "DNF 養成",
-    "瑪奇M",
-    "異獸衝突",
-    "夢戰：劍之海",
-    "賽爾號：巔峰之戰",
-    "物華彌新"
+    "黑幫海市蜃樓"
   ],
   "nextBatch": [
     "無限大",
@@ -28,6 +71,7 @@
     "明日方舟：終末地",
     "失控進化",
     "王者榮耀：世界",
+    "鳴潮",
     "遺忘之海",
     "卡厄思夢境",
     "藍色星原：旅謠",
@@ -36,7 +80,6 @@
     "原神",
     "絕區零",
     "崩壞：星穹鐵道",
-    "白銀之城",
-    "二重螺旋"
+    "白銀之城"
   ]
 }

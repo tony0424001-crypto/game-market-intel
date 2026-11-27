@@ -1,7 +1,95 @@
 {
-  "lastUpdated": "2026-11-26T08:49:42.365512+00:00",
-  "fetchCount": 197,
+  "lastUpdated": "2026-11-27T08:58:01.917323+00:00",
+  "fetchCount": 198,
   "items": [
+    {
+      "id": "brief-20261127-4043d3bc",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "疊紙UE5在研項目（新發現・高威脅）",
+      "detail": "疊紙大廠新作，採用UE5引擎，預計為高畫質敘事導向作品，符合女性向/二次元品類，具備高市場關注度。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-27T08:58:01.917323+00:00"
+    },
+    {
+      "id": "brief-20261127-4be1ac8a",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "靈妖劫（新發現・高威脅）",
+      "detail": "中國神話IP妖靈收集策略手遊，符合二次元/抽卡品類，在中國市場具備高潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-27T08:58:01.917323+00:00"
+    },
+    {
+      "id": "brief-20261127-5f5a907f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "破碎之地（新發現・高威脅）",
+      "detail": "網易大廠新作，末日廢土射擊題材在中國市場有廣泛受眾，具備高市場潛力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-27T08:58:01.917323+00:00"
+    },
+    {
+      "id": "brief-20261127-ddd2094c",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "無限暖暖二週年",
+      "detail": "全新3.0版本上線，首款星冕套裝登場。",
+      "action": "更新體驗新版",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-27T08:52:00.018372+00:00"
+    },
+    {
+      "id": "brief-20261127-bdb57c86",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "逆水寒二週年版",
+      "detail": "周興哲化身NPC現身，人人領三千福利。",
+      "action": "登入領取福利",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-27T08:52:00.018372+00:00"
+    },
+    {
+      "id": "brief-20261127-647a3fa6",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "學園文豪野犬停運",
+      "detail": "遊戲將於2027年1月25日終止服務。",
+      "action": "把握時間遊玩",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-27T08:52:00.018372+00:00"
+    },
+    {
+      "id": "brief-20261127-532245e8",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "鎖鏈戰記長期維護",
+      "detail": "遊戲因安全問題長期維護，無法遊玩。",
+      "action": "關注維護進度",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-27T08:52:00.018372+00:00"
+    },
+    {
+      "id": "brief-20261127-42aec6b1",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "三國志戰棋版上市",
+      "detail": "12/1全球多地同步上市，揭露營運規劃。",
+      "action": "準備遊戲上市",
+      "platform": "mobile",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-27T08:52:00.018372+00:00"
+    },
     {
       "id": "brief-20261126-822fc83d",
       "priority": "urgent",
@@ -133,94 +221,6 @@
       "platform": "console",
       "source": "巴哈姆特GNN",
       "fetchedAt": "2026-11-25T08:55:41.970668+00:00"
-    },
-    {
-      "id": "brief-20261125-536dd543",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "CDPR財報與巫師4",
-      "detail": "巫師3、邊緣行者2帶動人數，巫師4重申2028上市。",
-      "action": "關注CDPR動向",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-25T08:55:41.970668+00:00"
-    },
-    {
-      "id": "brief-20261124-2b7d8477",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "生死格鬥6：最終回合（新發現・高威脅）",
-      "detail": "知名IP手遊化，儘管是重發行，但IP號召力強大，且未在追蹤清單中。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "新聞報導",
-      "fetchedAt": "2026-11-24T10:12:18.686286+00:00"
-    },
-    {
-      "id": "brief-20261124-af4f3f6e",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA6創紀錄",
-      "detail": "PS5版破3900萬玩家，創PlayStation首發紀錄。",
-      "action": "關注遊戲熱度",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-24T10:10:05.996743+00:00"
-    },
-    {
-      "id": "brief-20261124-885915df",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "SEGA黑五特賣",
-      "detail": "Steam部分PC遊戲限期特價至11月底。",
-      "action": "把握優惠購買",
-      "platform": "PC",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-24T10:10:05.996743+00:00"
-    },
-    {
-      "id": "brief-20261123-42606571",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Prism 2033（新發現・高威脅）",
-      "detail": "Unreal Engine 5開發的開放世界MMORPG，多平台發布，潛力高。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-11-23T08:05:12.498579+00:00"
-    },
-    {
-      "id": "brief-20261123-b3d2979a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Embers of the Uncrowned（新發現・高威脅）",
-      "detail": "Nexon大廠出品的暗黑奇幻MMORPG，具備多平台潛力。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "模型知識推論",
-      "fetchedAt": "2026-11-23T08:05:12.498579+00:00"
-    },
-    {
-      "id": "brief-20261123-948ed23a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "循環勇士（新發現・高威脅）",
-      "detail": "知名PC遊戲IP改編手遊，具備較高市場關注度。",
-      "action": "加入追蹤並評估上線時程",
-      "platform": "mobile",
-      "source": "版號公示",
-      "fetchedAt": "2026-11-23T08:05:12.498579+00:00"
-    },
-    {
-      "id": "brief-20261123-b42fdfbc",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA6銷量破紀錄",
-      "detail": "首日零售額達37.9億美元，刷新娛樂產業紀錄。",
-      "action": "關注遊戲市場動態",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-23T07:56:30.863156+00:00"
     }
   ]
 }
