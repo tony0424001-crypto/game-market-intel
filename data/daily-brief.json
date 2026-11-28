@@ -1,7 +1,62 @@
 {
-  "lastUpdated": "2026-11-27T08:58:01.917323+00:00",
-  "fetchCount": 198,
+  "lastUpdated": "2026-11-28T08:19:28.931544+00:00",
+  "fetchCount": 199,
   "items": [
+    {
+      "id": "brief-20261128-b1f841aa",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "七日世界（新發現・高威脅）",
+      "detail": "網易大廠開發的開放世界生存沙盒遊戲，具備大廠資源和市場潛力，預期會大規模搶佔市場注意力。",
+      "action": "加入追蹤並評估上線時程",
+      "platform": "mobile",
+      "source": "新聞報導",
+      "fetchedAt": "2026-11-28T08:19:28.931544+00:00"
+    },
+    {
+      "id": "brief-20261128-067c167e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "Team Cherry新作亮相",
+      "detail": "《空洞騎士》團隊揭露冒險新作《植物學家與譯者》首部宣傳片。",
+      "action": "關注新作動態",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-28T08:12:04.019297+00:00"
+    },
+    {
+      "id": "brief-20261128-6100ce6e",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "絲之歌大型更新",
+      "detail": "《空洞騎士：絲之歌》首個大型更新「悲傷之海」12/11 免費上線。",
+      "action": "準備體驗新內容",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-28T08:12:04.019297+00:00"
+    },
+    {
+      "id": "brief-20261128-9ad0a40f",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "異度神劍3登Switch2",
+      "detail": "《異度神劍 3》Switch 2 版展示 4K/60fps 畫面與新英雄。",
+      "action": "期待次世代體驗",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-28T08:12:04.019297+00:00"
+    },
+    {
+      "id": "brief-20261128-90dc4193",
+      "priority": "urgent",
+      "icon": "🚨",
+      "title": "魔物獵人荒野試玩",
+      "detail": "《魔物獵人 荒野》Switch 2 體驗版上線，可繼承存檔。",
+      "action": "立即下載試玩",
+      "platform": "console",
+      "source": "巴哈姆特GNN",
+      "fetchedAt": "2026-11-28T08:12:04.019297+00:00"
+    },
     {
       "id": "brief-20261127-4043d3bc",
       "priority": "urgent",
@@ -157,70 +212,15 @@
       "fetchedAt": "2026-11-26T08:40:57.208815+00:00"
     },
     {
-      "id": "brief-20261126-e4504b2a",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "救世者之樹聯動",
-      "detail": "超人力霸王系列聯動上線，家園建造",
-      "action": "參與聯動活動",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-26T08:40:57.208815+00:00"
-    },
-    {
-      "id": "brief-20261126-bca224bd",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "Crash Fever聯動",
-      "detail": "聯名涼宮春日的憂鬱活動今日開跑",
-      "action": "參與聯名活動",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-26T08:40:57.208815+00:00"
-    },
-    {
-      "id": "brief-20261125-ceaaa7af",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "藍色星原旅謠公測",
-      "detail": "全平台公測11/26登場，預下載已開啟。",
-      "action": "立即預下載遊戲",
-      "platform": "mobile",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-25T08:55:41.970668+00:00"
-    },
-    {
-      "id": "brief-20261125-86fad7e9",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "GTA6釋出首波更新",
-      "detail": "11/23釋出更新，修正多項遊戲問題。",
-      "action": "立即更新遊戲",
+      "id": "brief-20261128-9ea63c7b",
+      "priority": "watch",
+      "icon": "👁",
+      "title": "GTA 6熱賣破紀錄",
+      "detail": "《俠盜獵車手 6》創下熱賣紀錄，帶動 PS5 主機銷量。",
+      "action": "關注市場動態",
       "platform": "console",
       "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-25T08:55:41.970668+00:00"
-    },
-    {
-      "id": "brief-20261125-18a3e2fb",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "異域龍潮終止服務",
-      "detail": "Capcom遊戲明年9月底終止服務，將下架。",
-      "action": "留意服務終止",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-25T08:55:41.970668+00:00"
-    },
-    {
-      "id": "brief-20261125-791cb257",
-      "priority": "urgent",
-      "icon": "🚨",
-      "title": "暗黑4新賽季登場",
-      "detail": "第16賽季12/2推出，征戰計畫大型更新。",
-      "action": "準備迎接更新",
-      "platform": "console",
-      "source": "巴哈姆特GNN",
-      "fetchedAt": "2026-11-25T08:55:41.970668+00:00"
+      "fetchedAt": "2026-11-28T08:12:04.019297+00:00"
     }
   ]
 }
